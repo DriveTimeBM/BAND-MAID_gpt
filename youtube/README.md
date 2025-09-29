@@ -15,6 +15,8 @@ The file is tab-delimited (.tsv) to avoid issues with commas in titles or URLs.
 
 ## 📝 Notes ##
 
-Snapshot Date: Views accurate as of 2025-09-28.
+- Snapshot Date: Views accurate as of 2025-09-28.
 
-Cross-Linking: Song titles should match the songs.tsv dataset exactly for consistency.
+- Song Association: When multiple songs appear in one video (e.g., medleys), list the primary one or separate with commas.
+
+- Cross-Linking: Song titles should match the songs.tsv dataset exactly for consistency.
