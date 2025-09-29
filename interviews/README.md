@@ -43,9 +43,10 @@ Interview introduction text...
 Member Name (role): Response text...  
 
 - Next question?  
-Another Member: Response...```
+Another Member: Response...
+```
 
-📝 Notes
+## 📝 Notes
 
 - Current Status: Only English versions are included (35 interviews as of snapshot). Japanese originals will be added later with _JP suffix.
 
