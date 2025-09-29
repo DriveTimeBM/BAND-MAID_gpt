@@ -11,7 +11,7 @@ The file is tab-delimited (.tsv) to avoid issues with commas in titles or URLs.
 | **Song**     | Associated song (matches `songs.tsv` Name column where applicable). Leave blank for non-song content. | `Thrill`                                      |
 | **Views**    | Total view count at the time of snapshot.                                                             | `14245079`                                    |
 | **Type**     | Category of video: `Official Music Video`, `Audio`, `Short` , etc.                                    | `Official Music Video`                        |
-| **Duration** | Runtime in `m:ss` format.                                                                             | `4:12`                                       |
+| **Duration** | Runtime in `mm:ss` format.                                                                            | `04:12`                                       |
 
 ## 📝 Notes ##
 
