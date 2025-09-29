@@ -39,7 +39,7 @@ Favorite Artists: Paz Lenchantin, The Smashing Pumpkins, Jelly Fish
 
 **Akane**
 Also called: Ah-chan, Achi, 廣瀬 茜[Hirose, Akane]
-Role: Drums, Percussions
+Role: Drums, Percussion
 Main Gear: TAMA Star Bubinga, Zildjian Cymbals, Wincent Signature Sticks <https://www.kikutani.co.jp/items/w-6rlp/>
 Endorsement / Approved Artist: TAMA, Zildjian, EVANS Drumheads, Wincent Drumsticks
 Favorite things: Anime, Eating
@@ -77,31 +77,34 @@ Miku’s last name, Kobato (小鳩) is composed of two kanjis: one meaning small
 2013-08-22 Saiki joined the band
 2013-12-17 Kanami and Akane's side project "Mochito Cheese" started
 **2014**
-2014-01-08 1st album "MAID IN JAPAN"
+2014-01-08 1st album "MAID IN JAPAN" released
 2014-02-08 1st solo show in Tokyo
-2014-08-13 1st single "Love, Passion, Matador"
+2014-08-13 1st single "Ai to Jonetsu no Matador" released
 2014-11-20 1st MV ("Thrill" from the 1st single) was uploaded on Youtube
 **2015**
 2015-04-06 Thrill MV went viral on Facebook and YouTube after a facebook page (Jrock Radio) re-posted it.
-2015-11-18 2nd album "New Beginning"
+2015-11-18 2nd album "New Beginning" released
 **2016**
 2016-03-26 1st overseas show at Sakuracon, Seattle
-2016-05-18 3rd album "Brand New MAID". The first release from a major label, Nippon Crown
+2016-05-18 3rd album "Brand New MAID" released. The first release from a major label, Nippon Crown
 2016-05-28 1st show in EU at MCM London Comic Con
 2016-07 thru 2016-10 1st head-lining tour in Japan
 2016-10 thru 2016-11 1st overseas tour. (EU, Mexico, Hongkong)
 **2017**
-2017-01-11 4th album "Just Bring It"
+2017-01-11 4th album "Just Bring It" released
 2017-05 thru 2017-07 1st solo tour in Japan
 2017-07 Saiki received vocal cord surgery
 2017-10 thru 2017-11 2nd overseas tour (Taiwan, Hong Kong, UK, France, Germany), Spain show was cancelled
 **2018**
-2018-02-2014 5th album "WORLD DOMINATION"
+2018-02-2014 5th album "WORLD DOMINATION" released
+2018-04-01 BAND-MAID adopts a BAND-MAIKO persona for the first time with release of "secret MAIKO lips" OMV
 2018-06 thru 2018-11 3rd overseas tour (Mexico, USA, Finland, Netherlands, UK, France, Germany)
 2018-07-03 Official fan club (OMEISYUSAMA-NO-KAI) was launched
 **2019**
+2019-04-01 BAND-MAID reprises the BAND-MAIKO alter ego with the release of the "Gion-cho" OMV and the "BAND-MAIKO" EP
 2019-06, 2019-09 thru 2019-10 4th overseas tour. (UK, France, Germany, Taiwan, USA)
-2019-12-11 6th album "CONQUEROR"
+2019-12-11 Collaborated with American producer Tony Visconti on "The Dragon Cries"
+2019-12-11 6th album "CONQUEROR" released
 **2020**
 2020-02-14 Tour Final at Line Cube Shibuya
 All planned shows and tours were cancelled due to covid in 2020 after 2020-02-14
@@ -113,21 +116,21 @@ All planned shows and tours were cancelled due to covid in 2020 after 2020-02-14
 2021-09-10 Cameo in Netflix original movie "KATE". "Choose me" and "Blooming" were featured in the movie.
 **2022**
 2022-01-13 "Choose me" is used in S01E03 of the HBO Max series Peacemaker
-2022-09-21 2nd EP "Unleash"
+2022-09-21 2nd EP "Unleash" released
 2022-10 3rd US tour
 **2023**
 2023-01-09 Tour Final at Tokyo Garden Theater
-2023-05 thru 2023-08 4th NA tour (USA, Mexico)
-2023-08-02 10th anniversary best album vol.1 and vol.2
-2023-08-04 Lollapalooza at Chicago
+2023-05 thru 2023-08 4th North American tour (USA, Mexico)
+2023-08-02 "BAND-MAID - 10th Anniversary Best Vol.1" and "BAND-MAID - 10th Anniversary Best Vol.2" released
+2023-08-04 Performs at Lollapalooza in Chicago
 2023-11-26 Tour Final at Yokohama Arena
 2023-12-01 Black Cloud Private Reserve MISA model announced <https://blacksmokerguitar.com/models/beta-misa.html>
 2023-12-01 Wincent Akane Signature sticks announced <https://www.kikutani.co.jp/items/w-6rlp/>
 **2024**
 2024-04-16 "Bestie", a collaboration with Mike Einziger of US band Incubus, is released
 2024-08-06 "SHOW THEM", a collaboration with Mexican band The Warning, is released
-2024-09-25 8th album "Epic Narratives"
+2024-09-25 8th album "Epic Narratives" released
 2024-11-20 PRS Kanami Limited Edition announced <https://prsguitars.com/electrics/model/kanami_limited_edition_2025>
 **2025**
-2025-10-22 3rd EP "SCOOOOOP"
+2025-10-22 3rd EP "SCOOOOOP" released
 2025-12-07 Tour Final at Tokyo Garden Theater
