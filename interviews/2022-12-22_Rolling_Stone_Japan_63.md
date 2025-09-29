@@ -4,7 +4,7 @@
 **Publication:** Rolling Stone Japan  
 **Interviewer:** Hiroo Nishizawa  **Translator:** t-shinji  
 **Translation URL:** [https://www.reddit.com/r/BandMaid/comments/11uixw4/translation_interview_with_bandmaid_on_rolling/](https://www.reddit.com/r/BandMaid/comments/11uixw4/translation_interview_with_bandmaid_on_rolling/)  
-**Original URL:** [#https://rollingstonejapan.com/articles/detail/38825/1/1/1#](#https://rollingstonejapan.com/articles/detail/38825/1/1/1#)  
+**Original URL:** [https://rollingstonejapan.com/articles/detail/38825/1/1/1](https://rollingstonejapan.com/articles/detail/38825/1/1/1)  
 
 ---
 

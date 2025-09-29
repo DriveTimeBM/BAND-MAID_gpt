@@ -4,7 +4,7 @@
 **Publication:** Rolling Stone Japan  
 **Interviewer:** Shinichiro Wada, Tomokazu Nishibiro  **Translator:** t-shinji  
 **Translation URL:** [https://www.reddit.com/r/BandMaid/comments/16e7rb3/translation_a_joint_review_of_bandmaids_10th/](https://www.reddit.com/r/BandMaid/comments/16e7rb3/translation_a_joint_review_of_bandmaids_10th/)  
-**Original URL:** [#https://rollingstonejapan.com/articles/detail/39820/1/1/1#](#https://rollingstonejapan.com/articles/detail/39820/1/1/1#)  
+**Original URL:** [https://rollingstonejapan.com/articles/detail/39820/1/1/1](https://rollingstonejapan.com/articles/detail/39820/1/1/1)  
 
 ---
 
