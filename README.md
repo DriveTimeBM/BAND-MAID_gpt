@@ -1,7 +1,7 @@
 ﻿# 🎸 BAND-MAID GPT Project
 
 This repository powers a custom GPT designed to be a BAND-MAID translation and fan culture assistant.
-Its primary goal is to provide accurate translations of BAND-MAID content (tweets, blogs, interviews, fan comments) while preserving band-specific terminology and cultural nuance. The BAND-MAID GPT only uses the glossary and the interviews. The GPT makes a good translator for BAND-MAID content out-of-the-box with no configuration. In addition to the BAND-MAID glossary the GPT has absorbed 18 English-translated BAND-MAID articles. All articles ire in the *interviews* folder. I have also provided it with a very brief history of BAND-MAID in the *glossary/BAND-MAID Overview.md* file. GPTs have a 20 file max.
+Its primary goal is to provide accurate translations of BAND-MAID content (tweets, blogs, interviews, fan comments) while preserving band-specific terminology and cultural nuance. The BAND-MAID GPT only uses the glossary and the interviews. The GPT makes a good translator for BAND-MAID content out-of-the-box with no configuration. In addition to the BAND-MAID glossary the GPT has absorbed 18 English-translated BAND-MAID articles. All articles ire in the *interviews* folder. I have also provided it with a very brief history of BAND-MAID in the *glossary/BAND-MAID Overview.md* file. (GPTs have a 20 file max) So, the GPT has a *pretty good* overall awareness of BAND-MAID and their history, but it's just prone to getting the details of almost anything wrong.
 
 I built the other data feeds *songs, releases, okyuji, youtube,* and *prime* in an attempt to make a very metric-aware GPT, but that was un unmitigated disaster. The GPT simply will make stuff up that's not in the data and is a complete waste of time for a user trying to get meaningful and accurate information out of it. The positive is that in the process I developed daily information feeds to this repository. So, anyone who wants to use this data in a programmatically convenient way to deal with is welcome to use it. All data is in TSV (TAB de-limited) format and there are README.md files in each folder to describe them.  The TSV files are updated every day (if information changes) at approximately 10:30 AM UTC. *songs* and *youtube* will change daily with updated counts. The others change less often.
 
@@ -31,8 +31,8 @@ I built the other data feeds *songs, releases, okyuji, youtube,* and *prime* in 
 
 ## 📂 Repository Structure
 
-| Folder     | Description                                                        |
-|------------|--------------------------------------------------------------------|
+| Folder        | Description                                                      |
+|---------------|------------------------------------------------------------------|
 | `glossary/`   | BAND-MAID-specific vocabulary and translation rules              |
 | `interviews/` | Translated and original interviews in Markdown                   |
 | `okyuji/`     | Show-by-show setlists in TSV                                     |
@@ -44,3 +44,7 @@ I built the other data feeds *songs, releases, okyuji, youtube,* and *prime* in 
 | `README.md`   | This file                                                        |
 
 - Each folder includes its own README.md explaining the dataset schema.
+
+### Technical Note
+
+There is nothing that actually ties the GPT to this repository. The GPT got the files from me uploading them directly. The repository exists to have public visibility into everything that the GPT is trained on. I have kept the stuff the the GPT does not use because there was no reason not to. The data may be useful to someone.
