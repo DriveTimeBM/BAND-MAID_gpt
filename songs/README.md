@@ -3,6 +3,9 @@
 This dataset (songs.tsv) lists all known BAND-MAID songs, including release details, performance history, and metadata.
 The file is tab-delimited (.tsv) to avoid issues with commas in song/album titles.
 
+🔗 **Direct link to the data**  
+[https://drivetimebm.github.io/BAND-MAID_gpt/songs/songs.tsv](https://drivetimebm.github.io/BAND-MAID_gpt/songs/songs.tsv)
+
 | Column                 | Description                                                                | Example                |
 | ---------------------- | -------------------------------------------------------------------------- | ---------------------- |
 | **Name**               | Official song title (always use this exact spelling in translations).      | `Choose me`            |
@@ -25,9 +28,6 @@ The file is tab-delimited (.tsv) to avoid issues with commas in song/album title
 | **Fist Live Date**     | Date of first live performance.                                            | `2017-07-19`           |
 | **First Live Perf**    | Venue of first live performance.                                           | `Shibuya Milkyway, Tokyo, Japan` |
 | **YT Aggregate Views** | Total aggregate views on YouTube for all videos of the song.               | `222710`               |
-
-🔗 **Direct link to the data**  
-[https://drivetimebm.github.io/BAND-MAID_gpt/songs/songs.tsv](https://drivetimebm.github.io/BAND-MAID_gpt/songs/songs.tsv)
 
 ## 📝 Notes ##
 

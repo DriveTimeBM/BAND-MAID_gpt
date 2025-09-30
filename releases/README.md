@@ -3,6 +3,9 @@
 This dataset (releases.tsv) lists BAND-MAID’s official releases, including albums, singles, live albums, and video/Blu-ray/DVD content.
 The file is tab-delimited (.tsv) to avoid issues with commas in release names.
 
+🔗 **Direct link to the data**  
+[https://drivetimebm.github.io/BAND-MAID_gpt/releases/releases.tsv](https://drivetimebm.github.io/BAND-MAID_gpt/releases/releases.tsv)
+
 | Column          | Description                                                              | Example                                                 |
 | --------------- | -------------------------------------------------------------------------| ------------------------------------------------------- |
 | **Name**        | Full title of the release, usually including format.                     | `Just Bring It vinyl`                                   |

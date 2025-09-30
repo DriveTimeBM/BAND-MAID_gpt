@@ -3,6 +3,10 @@
 This dataset (setlists.tsv) catalogs BAND-MAID live performances with complete setlists.
 The file is tab-delimited (.tsv) to avoid issues with commas in venue or song names.
 
+🔗 **Direct link to the data**  
+[https://drivetimebm.github.io/BAND-MAID_gpt/okyuji/setlists.tsv](https://drivetimebm.github.io/BAND-MAID_gpt/okyuji/setlists.tsv)
+
+
 | Column       | Description                                       | Example                                                                                   |
 | ------------ | --------------------------------------------------| ----------------------------------------------------------------------------------------- |
 | **Date**     | Concert date in `YYYY-MM-DD` format.              | `2024-11-26`                                                                              |

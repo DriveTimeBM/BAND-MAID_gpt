@@ -1,5 +1,8 @@
 # 📖 BAND-MAID Glossary Dataset – Column Definitions #
 
+🔗 **Direct link to the data**  
+[https://drivetimebm.github.io/BAND-MAID_gpt/glossary/glossary.tsv](https://drivetimebm.github.io/BAND-MAID_gpt/glossary/glossary.tsv)
+
 This dataset (glossary.tsv) defines BAND-MAID–specific terms, nicknames, fan language, and other expressions that frequently appear in interviews, lyrics, tweets, and fan comments.
 The file is tab-delimited (.tsv) to avoid issues with commas in notes or translations.
 

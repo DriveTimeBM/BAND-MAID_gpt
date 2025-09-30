@@ -4,6 +4,9 @@ This dataset (prime.tsv) catalogs the content available in BAND-MAID PRIME, the 
 It includes live recordings, rehearsal footage, self-cover videos, and member talk sessions.
 The file is tab-delimited (.tsv) to handle titles containing commas.
 
+🔗 **Direct link to the data**  
+[https://drivetimebm.github.io/BAND-MAID_gpt/prime/prime.tsv](https://drivetimebm.github.io/BAND-MAID_gpt/prime/prime.tsv)
+
 | Column       | Description                                                                                          | Example                            |
 | ------------ | ---------------------------------------------------------------------------------------------------- | ---------------------------------- |
 | **Title**    | Official content title as listed on PRIME. May include live show name, song name, or category label. | `Thrill (Self-Cover – Kanami)`     |

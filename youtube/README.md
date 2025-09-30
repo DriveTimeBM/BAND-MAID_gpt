@@ -3,6 +3,9 @@
 This dataset (youtube.tsv) catalogs official BAND-MAID YouTube videos including MVs, live videos, audio uploads, and shorts.
 The file is tab-delimited (.tsv) to avoid issues with commas in titles or URLs.
 
+🔗 **Direct link to the data**  
+[https://drivetimebm.github.io/BAND-MAID_gpt/youtube/youtube.tsv](https://drivetimebm.github.io/BAND-MAID_gpt/youtube/youtube.tsv)
+
 | Column       | Description                                                                                           | Example                                       |
 | ------------ | ------------------------------------------------------------------------------------------------------| --------------------------------------------- |
 | **Title**    | Full YouTube video title as published.                                                                | `BAND-MAID / Thrill (Official Music Video)`   |

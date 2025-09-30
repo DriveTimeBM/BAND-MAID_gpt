@@ -9,6 +9,9 @@ Videos are only viewable by subscribers, but this index preserves the metadata f
 
 ## 📂 File: `fanclub.tsv`
 
+🔗 **Direct link to the data**  
+[https://drivetimebm.github.io/BAND-MAID_gpt/fanclub/fanclub.tsv](https://drivetimebm.github.io/BAND-MAID_gpt/fanclub/fanclub.tsv)
+
 ### FanClub Columns
 
 | Column       | Description                                                                                                         |
@@ -51,6 +54,9 @@ This TSV can be used for:
 ## 📂 File: `gallery.tsv`
 
 Catalog of video content available to Fan Club members.
+
+🔗 **Direct link to the data**  
+[https://drivetimebm.github.io/BAND-MAID_gpt/fanclub/gallery.tsv](https://drivetimebm.github.io/BAND-MAID_gpt/fanclub/gallery.tsv)
 
 ---
 
