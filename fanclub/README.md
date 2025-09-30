@@ -1,4 +1,4 @@
-# BAND-MAID Fan Club (OMEISYUSAMA-NO-KAI) Video Archive
+# BAND-MAID Fan Club (OMEISYUSAMA-NO-KAI) Video and Photo Gallery Archive
 
 This dataset (`fanclub.tsv`) catalogs exclusive videos released on BAND-MAID’s official fan club **OMEISYUSAMA-NO-KAI**.  
 Videos are only viewable by subscribers, but this index preserves the metadata for reference and research.
@@ -9,7 +9,7 @@ Videos are only viewable by subscribers, but this index preserves the metadata f
 
 ## 📂 File: `fanclub.tsv`
 
-### Columns
+### FanClub Columns
 
 | Column       | Description                                                                                                         |
 |--------------|---------------------------------------------------------------------------------------------------------------------|
@@ -20,7 +20,7 @@ Videos are only viewable by subscribers, but this index preserves the metadata f
 
 ---
 
-## 🎬 Categories
+### 🎬 FanClub Categories
 
 The **Category** field is derived heuristically from video titles. Current known categories include:
 
@@ -31,14 +31,14 @@ The **Category** field is derived heuristically from video titles. Current known
 
 ---
 
-## 🔒 Access Notes
+### 🔒 FanClub Access Notes
 
 - All URLs point to **bandmaid.tokyo** and require a valid **OMEISYUSAMA-NO-KAI membership** to play.  
 - Titles and categories are included here so GPT can reference the content, but **videos cannot be embedded or redistributed**.  
 
 ---
 
-## 🛠️ Usage
+### 🛠️ FanClub Usage
 
 This TSV can be used for:
 
@@ -48,7 +48,41 @@ This TSV can be used for:
 
 ---
 
-## 📅 Updates
+## 📂 File: `gallery.tsv`
+
+Catalog of video content available to Fan Club members.
+
+---
+
+### Gallery Columns
+
+| Column   | Description |
+|----------|-------------|
+| **Title** | Name of the gallery (e.g., tour stop, festival appearance). |
+| **URL** | Direct link to the gallery page (requires membership). |
+| **Date** | Date the gallery was published. |
+
+### Gallery Notes
+
+- Galleries typically feature photos from tours, festivals, and special events.  
+- Titles often correspond directly to specific shows or appearances.  
+
+---
+
+### 🔒 Gallery Access Notes
+
+- All URLs point to **bandmaid.tokyo** and require an **OMEISYUSAMA-NO-KAI subscription**.  
+- This archive provides metadata only — **video and gallery media cannot be accessed without login**.  
+
+---
+
+### 🛠️ Gallery Usage
+
+- Enables GPT to answer queries about **what exclusive Fan Club content exists**.  
+- Differentiates Fan Club content from **BAND-MAID PRIME**, which is tracked separately in the `prime/` folder.  
+- Useful for **cross-referencing tour dates, releases, and behind-the-scenes material**.
+
+### 📅 Updates
 
 The dataset is updated by scraping the fan club site. Each file includes a **snapshot date** in the header row.  
 Future updates should overwrite or version this file to maintain continuity.
