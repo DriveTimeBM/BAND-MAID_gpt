@@ -19,8 +19,8 @@ The file is tab-delimited (.tsv) to avoid issues with commas in venue or song na
 
 Snapshot Date: 2025-09-28 (data accurate as of this date).
 
-URL allows cross-checking on setlist.fm for verification.
+URL allows lookup on setlist.fm 
 
-Spelling of song titles should match the official English titles from the songs.tsv dataset.
+Spelling of song titles may not exactly match the English titles from the songs.tsv dataset.
 
-Tour may be blank for one-off performances or festivals.
+Tour may be blank for one-off performances, festivals, etc.
