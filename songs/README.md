@@ -26,6 +26,9 @@ The file is tab-delimited (.tsv) to avoid issues with commas in song/album title
 | **First Live Perf**    | Venue of first live performance.                                           | `Shibuya Milkyway, Tokyo, Japan` |
 | **YT Aggregate Views** | Total aggregate views on YouTube for all videos of the song.               | `222710`               |
 
+🔗 **Direct link to the data**  
+[https://drivetimebm.github.io/BAND-MAID_gpt/](https://drivetimebm.github.io/BAND-MAID_gpt/songs.tsv)
+
 ## 📝 Notes ##
 
 Translation Rule: Always use the official title listed in the Name column. Do not translate or alter capitalization or punctuation.
