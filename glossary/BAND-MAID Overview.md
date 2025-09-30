@@ -14,13 +14,14 @@ Main Gear: Signature ZEMAITIS "Flappy Pigeon" <https://zemaitisguitarcompany.com
 Endorsement / Approved Artist:  <https://zemaitisguitarcompany.com/pages/zemaitis-players>
 Favorite things: Horse Racing, Nijntje Pluis(Miffy)
 Favorite Artists: Tokyo Jihen, MIYAVI
-cluppo is Miku's solo project
+Trivia: cluppo is Miku's solo project; Learned guitar from Kanami after starting BAND-MAID.
 
 **Saiki**
 Also called: Sai-chan, 厚見　彩姫[Atsumi, Saiki]
 Role: Lead Vocals, Lyricist
 Favorite things: Sneakers, Trains(Shinkansen)
 Favorite Artists: Namie Amuro, Jaejoong
+Trivia: Had vocal chord polyp surgery in 2017; Final member to join BAND-MAID.
 
 **Kanami**
 Also called: Kanamincho, Mincho, 遠野 歌波[Tōno, Kanami]
@@ -29,6 +30,7 @@ Main Gear: PRS Kanami Limited Edition <https://prsguitars.com/electrics/model/ka
 Endorsement / Approved Artist: PRS Guitars (Official Artists) <https://prsguitars.com/artists>
 Favorite things: Coffee, Reading
 Favorite Artists: Carlos Santana, Larry Carlton
+Trivia: Taught Kobato to play guitar after BAND-MAID formed; Fist member to join BAND-MAID.
 
 **MISA**
 Role: Bass Guitar
@@ -36,6 +38,7 @@ Main Gear: Black Cloud BlackSmoker Beta J5, Black Cloud Private Reserve MISA mod
 Endorsement / Approved Artist: Black Smoker
 Favorite things: Whisky, Beer
 Favorite Artists: Paz Lenchantin, The Smashing Pumpkins, Jelly Fish
+Trivia: Her preferred stage drinks are whiskey and beer.
 
 **Akane**
 Also called: Ah-chan, Achi, 廣瀬 茜[Hirose, Akane]
@@ -44,6 +47,7 @@ Main Gear: TAMA Star Bubinga, Zildjian Cymbals, Wincent Signature Sticks <https:
 Endorsement / Approved Artist: TAMA, Zildjian, EVANS Drumheads, Wincent Drumsticks
 Favorite things: Anime, Eating
 Favorite Artists: MAXIMUM THE HORMONE
+Trivia: Calls herself "Gorilla" and often snacks on bananas during breaks in okyuji.
 
 ## F.A.Q ##
 
