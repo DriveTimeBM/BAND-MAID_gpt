@@ -27,7 +27,7 @@ The file is tab-delimited (.tsv) to avoid issues with commas in song/album title
 | **YT Aggregate Views** | Total aggregate views on YouTube for all videos of the song.               | `222710`               |
 
 🔗 **Direct link to the data**  
-[https://drivetimebm.github.io/BAND-MAID_gpt/](https://drivetimebm.github.io/BAND-MAID_gpt/songs.tsv)
+[https://drivetimebm.github.io/BAND-MAID_gpt/songs/songs.tsv](https://drivetimebm.github.io/BAND-MAID_gpt/songs/songs.tsv)
 
 ## 📝 Notes ##
 
