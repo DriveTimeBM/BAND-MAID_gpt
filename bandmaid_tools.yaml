@@ -1,0 +1,145 @@
+openapi: 3.1.0
+info:
+  title: BAND-MAID Data Tools
+  description: |
+    A collection of read-only endpoints that provide structured JSON data about BAND-MAID events, videos, releases, and fan club content.
+  version: 1.0.0
+servers:
+  - url: https://drivetimebm.github.io
+    description: GitHub Pages server hosting the BAND-MAID public data
+
+paths:
+  /BAND-MAID_gpt/calendar/calendar.json:
+    get:
+      operationId: getBandMaidEvents
+      summary: Get upcoming BAND-MAID events
+      description: Fetches a structured list of upcoming BAND-MAID events including concerts and member birthdays.
+      responses:
+        '200':
+          description: Successfully retrieved calendar event data
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+
+  /BAND-MAID_gpt/youtube/youtube.json:
+    get:
+      operationId: getBandMaidYouTubeVideos
+      summary: Get all BAND-MAID YouTube videos
+      description: Fetches a structured list of all BAND-MAID YouTube videos including total view counts.
+      responses:
+        '200':
+          description: Successfully retrieved YouTube video list
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+
+  /BAND-MAID_gpt/youtube/Top10.json:
+    get:
+      operationId: getBandMaidYouTubeTop10
+      summary: Get BAND-MAID Daily YouTube Top videos
+      description: Fetches a structured list of the 10 BAND-MAID YouTube videos for yesterday including views yesterday and total view counts.
+      responses:
+        '200':
+          description: Successfully retrieved daily top YouTube videos
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+
+  /BAND-MAID_gpt/fanclub/fanclub.json:
+    get:
+      operationId: getFanClubVideos
+      summary: Get BAND-MAID fan club videos
+      description: Fetches a structured list of videos, with URLs, available to fan club (OMEISYUSAMA-NO-KAI) members.
+      responses:
+        '200':
+          description: Successfully retrieved fan club videos
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+
+  /BAND-MAID_gpt/fanclub/gallery.json:
+    get:
+      operationId: getFanClubPhotos
+      summary: Get BAND-MAID fan club photos
+      description: Fetches a structured list of photo galleries, with URLs, available to fan club (OMEISYUSAMA-NO-KAI) members.
+      responses:
+        '200':
+          description: Successfully retrieved fan club photo galleries
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+
+  /BAND-MAID_gpt/okyuji/setlists.json:
+    get:
+      operationId: getSetlists
+      summary: Get BAND-MAID setlists
+      description: Fetches a structured list of all BAND-MAID setlists, most recent first.
+      responses:
+        '200':
+          description: Successfully retrieved setlist data
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+
+  /BAND-MAID_gpt/prime/prime.json:
+    get:
+      operationId: getPrimeVideos
+      summary: Get BAND-MAID prime videos
+      description: Fetches a structured list of videos, with URLs, available to BAND-MAID PRIME members.
+      responses:
+        '200':
+          description: Successfully retrieved PRIME videos
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+
+  /BAND-MAID_gpt/releases/releases.json:
+    get:
+      operationId: getBandMaidReleases
+      summary: Get BAND-MAID releases
+      description: Fetches a structured list of all BAND-MAID album and video releases ordered by release date.
+      responses:
+        '200':
+          description: Successfully retrieved release list
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+
+  /BAND-MAID_gpt/songs/songs.json:
+    get:
+      operationId: getBandMaidSongs
+      summary: Get BAND-MAID songs by Spotify streams
+      description: Fetches a structured list of all BAND-MAID songs ordered by most streams on Spotify.
+      responses:
+        '200':
+          description: Successfully retrieved song list
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
