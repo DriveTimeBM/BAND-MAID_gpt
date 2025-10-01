@@ -1,1 +1,79 @@
-﻿[{"Summary":"NAMBA HATCH","Start_Local":"\/Date(1759392000000)\/","Description":"OPEN 17:00","Location":"Namba Hatch, 1-chōme-3-1 Minatomachi, Naniwa Ward, Osaka, 556-0017, Japan","Start_Japan":"\/Date(1759438800000)\/"},{"Summary":"Misa Birthday","Start_Japan":"\/Date(1760500800000)\/","Start_Local":"\/Date(1760454000000)\/"},{"Summary":"LIVE AZUMA 2025","Start_Local":"\/Date(1760769000000)\/","Description":"Azuma stage","Location":"Fukushima Azuma Baseball Stadium, Japan, 〒960-2158 Fukushima, Sabara, Kamikotoba−１ あづま総合運動公園テニスコート","Start_Japan":"\/Date(1760815800000)\/"},{"Summary":"Miku Birthday","Start_Japan":"\/Date(1761019200000)\/","Start_Local":"\/Date(1760972400000)\/"},{"Start_Local":"\/Date(1761058800000)\/","Summary":"Release of SCOOOOOP EP","Start_Japan":"\/Date(1761105600000)\/"},{"Summary":"HYDE Tour final - guest act","Start_Local":"\/Date(1761377400000)\/","Location":"Makuhari Messe International Exhibition Hall 9-11, Japan, 〒261-8550 Chiba, Mihama Ward, Nakase, 2-chōme−２−１","Start_Japan":"\/Date(1761424200000)\/"},{"Summary":"HYDE Tour final - guest act","Start_Local":"\/Date(1761463800000)\/","Location":"Makuhari Messe International Exhibition Hall 9-11, Japan, 〒261-8550 Chiba, Mihama Ward, Nakase, 2-chōme−２−１","Start_Japan":"\/Date(1761510600000)\/"},{"Summary":"3 Album Vinyl Release","Description":"Unseen World\\, Unleash\\, Epic Narratives","Start_Local":"\/Date(1761922800000)\/","Start_Japan":"\/Date(1761969600000)\/"},{"Summary":"CLUB CITTA","Start_Local":"\/Date(1761982200000)\/","Description":"OPEN 16:30","Location":"Club Citta, 5-7 Ogawachō, Kawasaki Ward, Kawasaki, Kanagawa 210-0023, Japan","Start_Japan":"\/Date(1762029000000)\/"},{"Summary":"TOKYO GARDEN THEATER","Start_Local":"\/Date(1765094400000)\/","Description":"Tour Final - OPEN 16:00","Location":"Tokyo Garden Theater, 2-chōme-1-6 Ariake, Koto City, Tokyo 135-0063, Japan","Start_Japan":"\/Date(1765144800000)\/"},{"Summary":"Akane Birthday","Start_Japan":"\/Date(1765688400000)\/","Start_Local":"\/Date(1765638000000)\/"}]
+﻿[
+    {
+        "Summary":  "NAMBA HATCH",
+        "Start_Local":  "2025-10-02T04:00:00",
+        "Description":  "OPEN 17:00",
+        "Location":  "Namba Hatch, 1-chōme-3-1 Minatomachi, Naniwa Ward, Osaka, 556-0017, Japan",
+        "Start_Japan":  "2025-10-02T17:00:00"
+    },
+    {
+        "Summary":  "Misa Birthday",
+        "Start_Local":  "2025-10-14T11:00:00",
+        "Description":  null,
+        "Location":  null,
+        "Start_Japan":  "2025-10-15T00:00:00"
+    },
+    {
+        "Summary":  "LIVE AZUMA 2025",
+        "Start_Local":  "2025-10-18T02:30:00",
+        "Description":  "Azuma stage",
+        "Location":  "Fukushima Azuma Baseball Stadium, Japan, 〒960-2158 Fukushima, Sabara, Kamikotoba−１ あづま総合運動公園テニスコート",
+        "Start_Japan":  "2025-10-18T15:30:00"
+    },
+    {
+        "Summary":  "Miku Birthday",
+        "Start_Local":  "2025-10-20T11:00:00",
+        "Description":  null,
+        "Location":  null,
+        "Start_Japan":  "2025-10-21T00:00:00"
+    },
+    {
+        "Summary":  "Release of SCOOOOOP EP",
+        "Start_Local":  "2025-10-21T11:00:00",
+        "Description":  null,
+        "Location":  null,
+        "Start_Japan":  "2025-10-22T00:00:00"
+    },
+    {
+        "Summary":  "HYDE Tour final - guest act",
+        "Start_Local":  "2025-10-25T03:30:00",
+        "Description":  null,
+        "Location":  "Makuhari Messe International Exhibition Hall 9-11, Japan, 〒261-8550 Chiba, Mihama Ward, Nakase, 2-chōme−２−１",
+        "Start_Japan":  "2025-10-25T16:30:00"
+    },
+    {
+        "Summary":  "HYDE Tour final - guest act",
+        "Start_Local":  "2025-10-26T03:30:00",
+        "Description":  null,
+        "Location":  "Makuhari Messe International Exhibition Hall 9-11, Japan, 〒261-8550 Chiba, Mihama Ward, Nakase, 2-chōme−２−１",
+        "Start_Japan":  "2025-10-26T16:30:00"
+    },
+    {
+        "Summary":  "3 Album Vinyl Release",
+        "Start_Local":  "2025-10-31T11:00:00",
+        "Description":  "Unseen World\\, Unleash\\, Epic Narratives",
+        "Location":  null,
+        "Start_Japan":  "2025-11-01T00:00:00"
+    },
+    {
+        "Summary":  "CLUB CITTA",
+        "Start_Local":  "2025-11-01T03:30:00",
+        "Description":  "OPEN 16:30",
+        "Location":  "Club Citta, 5-7 Ogawachō, Kawasaki Ward, Kawasaki, Kanagawa 210-0023, Japan",
+        "Start_Japan":  "2025-11-01T16:30:00"
+    },
+    {
+        "Summary":  "TOKYO GARDEN THEATER",
+        "Start_Local":  "2025-12-07T03:00:00",
+        "Description":  "Tour Final - OPEN 16:00",
+        "Location":  "Tokyo Garden Theater, 2-chōme-1-6 Ariake, Koto City, Tokyo 135-0063, Japan",
+        "Start_Japan":  "2025-12-07T17:00:00"
+    },
+    {
+        "Summary":  "Akane Birthday",
+        "Start_Local":  "2025-12-13T10:00:00",
+        "Description":  null,
+        "Location":  null,
+        "Start_Japan":  "2025-12-14T00:00:00"
+    }
+]
