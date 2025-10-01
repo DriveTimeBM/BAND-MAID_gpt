@@ -8,7 +8,7 @@ I don’t collect, store, or sell your data—period. This GPT reads publicly ho
 
 ## Who “I” am
 
-This policy covers the custom GPT published by **Al (DriveTimeBM)** and any content it fetches from GitHub repositories I control.
+This policy covers the custom GPT published by **DriveTimeBM** and any content it fetches from GitHub repositories I control.
 
 ## What this GPT does
 
