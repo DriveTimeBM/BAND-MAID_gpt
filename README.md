@@ -1,4 +1,4 @@
-﻿# 🎸🥁🎤 BAND-MAID GPT Project 🎸🥁🎤
+﻿# 🎸🥁🎤 Unofficial BAND-MAID GPT Project 🎸🥁🎤
 
 This repository powers a custom GPT designed to be a BAND-MAID translation and fan culture assistant.
 Its primary goal is to provide accurate translations of BAND-MAID content (tweets, blogs, interviews, fan comments) while preserving band-specific terminology and cultural nuance as good as possible with machine translations. The BAND-MAID GPT only uses the glossary and the interviews along with the JSON files for some info that is fresh daily. The GPT makes a good translator for BAND-MAID content out-of-the-box with no configuration. In addition to the BAND-MAID glossary the GPT has absorbed 18 English-translated BAND-MAID articles. All articles are in the *interviews* folder. I have also provided it with a very brief history of BAND-MAID in the *glossary/BAND-MAID Overview.md* file. (GPTs have a 20 file max) So, the GPT has a *pretty good* overall awareness of BAND-MAID and their history, but it's just prone to getting the details of almost anything wrong.
@@ -11,7 +11,7 @@ This GPT is very much geared toward English speakers, but a Japanese (or other l
 
 ## 🔗 The GPT is here
 
-[https://chatgpt.com/g/g-68db200d63cc819190a84f2ff7cbf58f-band-maid-gpt](https://chatgpt.com/g/g-68db200d63cc819190a84f2ff7cbf58f-band-maid-gpt)
+[https://chatgpt.com/g/g-68db200d63cc819190a84f2ff7cbf58f-unofficial-band-maid-gpt](https://chatgpt.com/g/g-68db200d63cc819190a84f2ff7cbf58f-unofficial-band-maid-gpt)
 
 💬 **Queries to Try**
 
@@ -44,15 +44,15 @@ This GPT is very much geared toward English speakers, but a Japanese (or other l
 
 - Always uses Romaji for BAND-MAID-specific terms (Okyuji, Sai-chan, Kanamincho).
 
-- Preserves official song/album titles without re-translation.
+- Preserves official song/album titles without re-translation. (I have favored the Romaji titles over the Japanese titles)
 
 - Explains puns, maid café expressions, and inside jokes.
 
 - Interview formatting
 
-- Questions begin with -
+-- Questions begin with -
 
-- Responses use Name (role): Answer format.
+-- Responses use Name (role): Answer format.
 
 - Metadata includes Date, Publication, Interviewer, Translator, URLs.
 
