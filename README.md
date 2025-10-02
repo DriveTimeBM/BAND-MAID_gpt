@@ -1,7 +1,7 @@
 ﻿# 🎸🥁🎤 BAND-MAID GPT Project 🎸🥁🎤
 
 This repository powers a custom GPT designed to be a BAND-MAID translation and fan culture assistant.
-Its primary goal is to provide accurate translations of BAND-MAID content (tweets, blogs, interviews, fan comments) while preserving band-specific terminology and cultural nuance. The BAND-MAID GPT only uses the glossary and the interviews. The GPT makes a good translator for BAND-MAID content out-of-the-box with no configuration. In addition to the BAND-MAID glossary the GPT has absorbed 18 English-translated BAND-MAID articles. All articles are in the *interviews* folder. I have also provided it with a very brief history of BAND-MAID in the *glossary/BAND-MAID Overview.md* file. (GPTs have a 20 file max) So, the GPT has a *pretty good* overall awareness of BAND-MAID and their history, but it's just prone to getting the details of almost anything wrong.
+Its primary goal is to provide accurate translations of BAND-MAID content (tweets, blogs, interviews, fan comments) while preserving band-specific terminology and cultural nuance as good as possible with machine translations. The BAND-MAID GPT only uses the glossary and the interviews along with the JSON files for some info that is fresh daily. The GPT makes a good translator for BAND-MAID content out-of-the-box with no configuration. In addition to the BAND-MAID glossary the GPT has absorbed 18 English-translated BAND-MAID articles. All articles are in the *interviews* folder. I have also provided it with a very brief history of BAND-MAID in the *glossary/BAND-MAID Overview.md* file. (GPTs have a 20 file max) So, the GPT has a *pretty good* overall awareness of BAND-MAID and their history, but it's just prone to getting the details of almost anything wrong.
 It can read certain metrics on the fly from this repository. Trying to load metrics into its core knowledge base was a complete disaster, although that's how ChatGPT suggested I do it.
 If you force it to read metrics via **Actions** it will respect the data and not invent its owm. The tsv files are from my original training strategy and no longer needed for this project. Since I created the feeds, there's no reason to remove them.
 They are generally more comprehensive than the JSON files due to GPT limits, but are still updated by me just like the JSON. Maybe someone could use them. It's
@@ -13,7 +13,7 @@ essentially a super simple API someone could read from (The GPT does exactly tha
 
 💬 **Queries to Try**
 
-- “Translate this magazine interview:"
+- “Translate this magazine interview: (*paste text*)"
 - "Get upcoming BAND-MAID events."
 - "What do you know about Kanami?"
 - "Why does Kobato say 'po'?"
@@ -22,6 +22,9 @@ essentially a super simple API someone could read from (The GPT does exactly tha
 - "Which PRIME videos feature MISA?"
 - "What were the top videos on YouTube yesterday?"
 - "How do Choose me, Sense, and Ready to Rock compare in Spotify streams per day since their release?"
+
+### It will tell you how it's configured if you ask in the correct way
+
 - "Which BAND-MAID articles have you uploaded?"
 - "What is in your glossary?"
 - "What actions are you configured for that you need to access an external API?"
