@@ -76,8 +76,6 @@ essentially a super simple API someone could read from (The GPT does exactly tha
 
 There is nothing that actually ties the GPT to this repository other than the JSON files that it can read directly when asked about certain topics.
 The GPT got the "training data" files from me uploading them directly. The repository mostly exists to have public visibility into everything that the GPT is trained on. I have kept the stuff the the GPT does not use because there was no reason not to. The data may be useful to someone. All of the API actions taken by the GPT
-are defined in the bandmaid_tools.yaml file. 
+are defined in the bandmaid_tools.yaml file.
 
 If you wanted to clone this GPT you could do it in minutes by feeding a GPT the BAND-MAID Overview.md and glossary.md files from the glossary folder, all of the md files from the interviews folder, and pasting the yaml file contents into the "Actions" for the GPT. That's all there is to it. I may add actions to the yaml in the future if I think of things.
-
-
