@@ -28,6 +28,13 @@
         "Start_Japan":  "2025-10-22T00:00:00"
     },
     {
+        "Summary":  "NAMBA HATCH",
+        "Start_Local":  "2025-10-24T04:00:00",
+        "Description":  "OPEN 17:00",
+        "Location":  "Namba Hatch, 1-chōme-3-1 Minatomachi, Naniwa Ward, Osaka, 556-0017, Japan",
+        "Start_Japan":  "2025-10-24T17:00:00"
+    },
+    {
         "Summary":  "HYDE Tour final - guest act",
         "Start_Local":  "2025-10-25T03:30:00",
         "Description":  null,
