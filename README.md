@@ -11,17 +11,17 @@ essentially a super simple API someone could read from (The GPT does exactly tha
 
 [https://chatgpt.com/g/g-68db200d63cc819190a84f2ff7cbf58f-band-maid-gpt](https://chatgpt.com/g/g-68db200d63cc819190a84f2ff7cbf58f-band-maid-gpt)
 
-## 💬 Queries to Try
+💬 **Queries to Try**
 
-“Translate this magazine interview:"
-"Get upcoming BAND-MAID events."
-"What do you know about Kanami?"
-"Why does Kobato say 'po'?"
-"Give me an overview of BAND-MAID."
-"What were the top videos on YouTube yesterday?"
-"Which BAND-MAID articles have you uploaded?"
-"What is in your glossary?"
-"What actions are you configured for that you need to access an external API?"
+- “Translate this magazine interview:"
+- "Get upcoming BAND-MAID events."
+- "What do you know about Kanami?"
+- "Why does Kobato say 'po'?"
+- "Give me an overview of BAND-MAID."
+- "What were the top videos on YouTube yesterday?"
+- "Which BAND-MAID articles have you uploaded?"
+- "What is in your glossary?"
+- "What actions are you configured for that you need to access an external API?"
 
 🎓 **View the training articles here:**  
 
