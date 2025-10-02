@@ -50,9 +50,9 @@ This GPT is very much geared toward English speakers, but a Japanese (or other l
 
 - Interview formatting
 
--- Questions begin with -
+  - Questions begin with -
 
--- Responses use Name (role): Answer format.
+  - Responses use Name (role): Answer format.
 
 - Metadata includes Date, Publication, Interviewer, Translator, URLs.
 
