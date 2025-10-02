@@ -1,4 +1,4 @@
-﻿# 🎸 BAND-MAID GPT Project
+﻿# 🎸🥁🎤 BAND-MAID GPT Project 🎸🥁🎤
 
 This repository powers a custom GPT designed to be a BAND-MAID translation and fan culture assistant.
 Its primary goal is to provide accurate translations of BAND-MAID content (tweets, blogs, interviews, fan comments) while preserving band-specific terminology and cultural nuance. The BAND-MAID GPT only uses the glossary and the interviews. The GPT makes a good translator for BAND-MAID content out-of-the-box with no configuration. In addition to the BAND-MAID glossary the GPT has absorbed 18 English-translated BAND-MAID articles. All articles are in the *interviews* folder. I have also provided it with a very brief history of BAND-MAID in the *glossary/BAND-MAID Overview.md* file. (GPTs have a 20 file max) So, the GPT has a *pretty good* overall awareness of BAND-MAID and their history, but it's just prone to getting the details of almost anything wrong.
@@ -7,10 +7,11 @@ If you force it to read metrics via **Actions** it will respect the data and not
 They are generally more comprehensive than the JSON files due to GPT limits, but are still updated by me just like the JSON. Maybe someone could use them. It's
 essentially a super simple API someone could read from (The GPT does exactly that). The data is updated daily.
 
-🔗 **The GPT is here
+## 🔗 The GPT is here
+
 [https://chatgpt.com/g/g-68db200d63cc819190a84f2ff7cbf58f-band-maid-gpt](https://chatgpt.com/g/g-68db200d63cc819190a84f2ff7cbf58f-band-maid-gpt)
 
-## Queries to Try
+## 💬 Queries to Try
 
 “Translate this magazine interview:"
 "Get upcoming BAND-MAID events."
@@ -68,7 +69,7 @@ essentially a super simple API someone could read from (The GPT does exactly tha
 
 - Each folder includes its own README.md explaining the dataset schema.
 
-### Technical Note
+### 👨‍💻 Technical Note
 
 There is nothing that actually ties the GPT to this repository other than the JSON files that it can read directly when asked about certain topics.
 The GPT got the "training data" files from me uploading them directly. The repository mostly exists to have public visibility into everything that the GPT is trained on. I have kept the stuff the the GPT does not use because there was no reason not to. The data may be useful to someone.
