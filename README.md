@@ -3,9 +3,11 @@
 This repository powers a custom GPT designed to be a BAND-MAID translation and fan culture assistant.
 Its primary goal is to provide accurate translations of BAND-MAID content (tweets, blogs, interviews, fan comments) while preserving band-specific terminology and cultural nuance as good as possible with machine translations. The BAND-MAID GPT only uses the glossary and the interviews along with the JSON files for some info that is fresh daily. The GPT makes a good translator for BAND-MAID content out-of-the-box with no configuration. In addition to the BAND-MAID glossary the GPT has absorbed 18 English-translated BAND-MAID articles. All articles are in the *interviews* folder. I have also provided it with a very brief history of BAND-MAID in the *glossary/BAND-MAID Overview.md* file. (GPTs have a 20 file max) So, the GPT has a *pretty good* overall awareness of BAND-MAID and their history, but it's just prone to getting the details of almost anything wrong.
 It can read certain metrics on the fly from this repository. Trying to load metrics into its core knowledge base was a complete disaster, although that's how ChatGPT suggested I do it.
-If you force it to read metrics via **Actions** it will respect the data and not invent its owm. The tsv files are from my original training strategy and no longer needed for this project. Since I created the feeds, there's no reason to remove them.
+If you force it to read metrics via **Actions** it will be more likely respect the data and not invent its owm. I say more likely because AI systems often just make things up and it doesn't seem there is a way to stop them from doing so. The tsv files are from my original training strategy and no longer needed for this project. Since I created the feeds, there's no reason to remove them.
 They are generally more comprehensive than the JSON files due to GPT limits, but are still updated by me just like the JSON. Maybe someone could use them. It's
 essentially a super simple API someone could read from (The GPT does exactly that). The data is updated daily.
+
+This GPT is very much geared toward English speakers, but a Japanese (or other language version) could be created pretty easily using this as a baseline. The glossary would probably need to cover the same terms, but obviously have different translations. The interviews should be uploaded in Japanese (or other language). The external data could be used exactly as is (the yaml file defines this behavior), but I have favored the English (or Romaji) names of songs over songs with Japanese names so some work might be required there.
 
 ## 🔗 The GPT is here
 
@@ -20,6 +22,7 @@ essentially a super simple API someone could read from (The GPT does exactly tha
 - "Give me an overview of BAND-MAID."
 - "What BTS fan club videos are available?"
 - "Which PRIME videos feature MISA?"
+- "Which songs have been played at the all of the recent okyuji?" (It will likely be lazy and get this wrong.)
 - "What were the top videos on YouTube yesterday?"
 - "How do Choose me, Sense, and Ready to Rock compare in Spotify streams per day since their release?"
 
