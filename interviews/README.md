@@ -48,11 +48,10 @@ Another Member: Response...
 
 ## 📝 Notes
 
-- Current Status: Only English versions are included (35 interviews as of snapshot). Japanese originals will be added later with _JP suffix.
+- Current Status: Only English versions (18 of them) are included. 
 
 - Consistency: All interviews use Q&A format, where interviewer questions begin with - and band member responses use Name (role):.
 
 - Cross-Referencing: Interviews can be linked to songs, releases, or setlists using consistent song names from songs.tsv.
 
-- Expansion: Adding Japanese originals will allow GPT to re-translate interviews using the BAND-MAID glossary, ensuring glossary terms (e.g., Okyuji, OMEISYUSAMA) are consistently applied.
-
+- Expansion: Adding Japanese originals will allow GPT to re-translate interviews using the BAND-MAID glossary, ensuring glossary terms (e.g., Okyuji, OMEISYUSAMA) are consistently applied. NOTE: The number of uploads allowed is 20. Creating a Japanese instance probably makes more sense.
