@@ -1,7 +1,9 @@
 # 📖 BAND-MAID Setlists Dataset – Column Definitions #
 
 This dataset (setlists.tsv) catalogs BAND-MAID live performances with complete setlists.
-The file is tab-delimited (.tsv) to avoid issues with commas in venue or song names.
+The file is tab-delimited (.tsv) to avoid issues with commas in venue or song names. The JSON
+contains just the 5 most recent okyuji and is used by the GPT due to data limits. The TSV has
+all known songs from all known sets.
 
 🔗 **Direct link to the data**  
 [https://drivetimebm.github.io/BAND-MAID_gpt/okyuji/setlists.tsv](https://drivetimebm.github.io/BAND-MAID_gpt/okyuji/setlists.tsv)
@@ -23,7 +25,7 @@ The file is tab-delimited (.tsv) to avoid issues with commas in venue or song na
 
 Snapshot Date: 2025-09-28 (data accurate as of this date).
 
-URL allows lookup on setlist.fm 
+URL allows lookup on setlist.fm
 
 Spelling of song titles may not exactly match the English titles from the songs.tsv dataset.
 

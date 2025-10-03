@@ -1,7 +1,9 @@
 # 📖 BAND-MAID Songs Dataset – Column Definitions #
 
 This dataset (songs.tsv) lists all known BAND-MAID songs, including release details, performance history, and metadata.
-The file is tab-delimited (.tsv) to avoid issues with commas in song/album titles.
+The file is tab-delimited (.tsv) to avoid issues with commas in song/album titles. The GPT uses the JSON version which is
+the same as the TSV with less columns due to GPT limitations. I leave the TSV in case anyone wants to use it. 
+(Importing it into a spreadsheet or database gives you an instant and comprehensive song catalog)
 
 🔗 **Direct link to the data**  
 [https://drivetimebm.github.io/BAND-MAID_gpt/songs/songs.tsv](https://drivetimebm.github.io/BAND-MAID_gpt/songs/songs.tsv)
