@@ -1,7 +1,7 @@
 # 📖 BAND-MAID Interviews Dataset
 
 This folder contains interview transcripts with BAND-MAID members, formatted in Markdown (.md) for use in the BAND-MAID GPT project.
-Interviews capture context, band commentary, and background insights on songs, albums, tours, and band activities.
+Interviews capture context, band commentary, and background insights on songs, albums, tours, and band activities. Here is an [index of all interviews](https://github.com/DriveTimeBM/BAND-MAID_gpt/blob/main/interviews/index.md) used.
 
 ## 📂 File Naming Convention
 
@@ -20,7 +20,7 @@ Examples:
 
 - 2023-07-31_Burrn_Japan_40.md → English translation of Burrn! Japan interview on July 31, 2023.
 
-- 2023-07-31_Burrn_Japan_40_JP.md → Original Japanese text of the same interview.
+- 2023-07-31_Burrn_Japan_40_JP.md → Original Japanese text of the same interview. (no Japanese versions are used at this time)
 
 ## 📊 File Structure
 
@@ -48,10 +48,10 @@ Another Member: Response...
 
 ## 📝 Notes
 
-- Current Status: Only English versions (18 of them) are included. 
+- Current Status: Only English versions (18 of them) are included.
 
 - Consistency: All interviews use Q&A format, where interviewer questions begin with - and band member responses use Name (role):.
 
 - Cross-Referencing: Interviews can be linked to songs, releases, or setlists using consistent song names from songs.tsv.
 
-- Expansion: Adding Japanese originals will allow GPT to re-translate interviews using the BAND-MAID glossary, ensuring glossary terms (e.g., Okyuji, OMEISYUSAMA) are consistently applied. NOTE: The number of uploads allowed is 20. Creating a Japanese instance probably makes more sense.
+- Expansion: Adding Japanese originals will allow GPT to re-translate interviews using the BAND-MAID glossary, ensuring glossary terms (e.g., Okyuji, OMEISYUSAMA) are consistently applied. NOTE: The number of uploads allowed is 20. Creating a Japanese instance of the GPT probably makes more sense.
