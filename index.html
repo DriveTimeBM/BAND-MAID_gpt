@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>BAND-MAID GPT Data Browser</title>
+  <style>
+    body {
+      font-family: "Segoe UI", Roboto, sans-serif;
+      background-color: #111;
+      color: #eee;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #222;
+      padding: 1rem;
+      text-align: center;
+      font-size: 1.4rem;
+      font-weight: bold;
+      border-bottom: 2px solid #333;
+    }
+    #content {
+      display: flex;
+      height: calc(100vh - 60px);
+    }
+    #fileList {
+      width: 30%;
+      overflow-y: auto;
+      border-right: 2px solid #333;
+      padding: 1rem;
+    }
+    #viewer {
+      flex: 1;
+      padding: 1rem;
+      overflow-y: auto;
+      white-space: pre-wrap;
+      background-color: #181818;
+      font-family: monospace;
+    }
+    a {
+      color: #66ccff;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .folder, .file {
+      margin-left: 1rem;
+    }
+    .folder > span {
+      cursor: pointer;
+      font-weight: bold;
+    }
+    .json-key {
+      color: #9cdcfe;
+    }
+    .json-string {
+      color: #ce9178;
+    }
+    .json-number {
+      color: #b5cea8;
+    }
+    .json-boolean {
+      color: #569cd6;
+    }
+    .json-null {
+      color: #808080;
+    }
+  </style>
+</head>
+<body>
+  <header>📁 BAND-MAID GPT Data Browser</header>
+  <div id="content">
+    <div id="fileList">Loading...</div>
+    <pre id="viewer">Select a JSON file to view its contents.</pre>
+  </div>
+
+  <script>
+    const repoOwner = "DriveTimeBM";
+    const repoName = "BAND-MAID_gpt";
+    const branch = "main";
+
+    const apiBase = `https://api.github.com/repos/${repoOwner}/${repoName}/contents`;
+
+    const fileList = document.getElementById("fileList");
+    const viewer = document.getElementById("viewer");
+
+    async function loadFolder(path = "") {
+      fileList.innerHTML = "Loading...";
+      const res = await fetch(`${apiBase}/${path}?ref=${branch}`);
+      if (!res.ok) {
+        fileList.innerHTML = "❌ Failed to load directory.";
+        return;
+      }
+      const items = await res.json();
+      fileList.innerHTML = "";
+      for (const item of items) {
+        if (item.type === "dir") {
+          const div = document.createElement("div");
+          div.className = "folder";
+          div.innerHTML = `<span>📂 ${item.name}</span>`;
+          div.querySelector("span").addEventListener("click", () => loadFolder(item.path));
+          fileList.appendChild(div);
+        } else if (item.name.toLowerCase().endsWith(".json")) {
+          const div = document.createElement("div");
+          div.className = "file";
+          const link = document.createElement("a");
+          link.href = "#";
+          link.textContent = `📄 ${item.name}`;
+          link.addEventListener("click", (e) => {
+            e.preventDefault();
+            loadJsonFile(item.download_url);
+          });
+          div.appendChild(link);
+          fileList.appendChild(div);
+        }
+      }
+      if (path !== "") {
+        const back = document.createElement("div");
+        back.innerHTML = `<a href="#">⬅️ Back</a>`;
+        back.addEventListener("click", (e) => {
+          e.preventDefault();
+          const parent = path.split("/").slice(0, -1).join("/");
+          loadFolder(parent);
+        });
+        fileList.prepend(back);
+      }
+    }
+
+    async function loadJsonFile(url) {
+      viewer.textContent = "Loading JSON...";
+      try {
+        const res = await fetch(url);
+        const data = await res.json();
+        viewer.innerHTML = syntaxHighlight(JSON.stringify(data, null, 2));
+      } catch (e) {
+        viewer.textContent = "❌ Failed to load or parse JSON.";
+      }
+    }
+
+    function syntaxHighlight(json) {
+      json = json
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;");
+      return json.replace(
+        /("(\\u[a-zA-Z0-9]{4}|\\[^u]|[^\\"])*"(\s*:)?|\b(true|false|null)\b|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?)/g,
+        function (match) {
+          let cls = "json-number";
+          if (/^"/.test(match)) {
+            cls = /:$/.test(match) ? "json-key" : "json-string";
+          } else if (/true|false/.test(match)) {
+            cls = "json-boolean";
+          } else if (/null/.test(match)) {
+            cls = "json-null";
+          }
+          return `<span class="${cls}">${match}</span>`;
+        }
+      );
+    }
+
+    loadFolder();
+  </script>
+</body>
+</html>
