@@ -86,7 +86,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  112,
-        "SpotifyStreams":  3687859,
+        "SpotifyStreams":  3693348,
         "MediaTieIn":  "Ending theme for anime series Yu-Gi-Oh! VRAINS (ep 71-95)"
     },
     {
@@ -126,7 +126,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  32,
-        "SpotifyStreams":  3125174,
+        "SpotifyStreams":  3132081,
         "MediaTieIn":  "Used in TV show World Pro-Wrestling (TV Asahi)"
     },
     {
@@ -210,6 +210,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "the non-fiction days",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2016-04-07T00:00:00",
+        "Album":  "Brand New MAID",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  166,
+        "SpotifyStreams":  2147018,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Ready to Rock",
         "AlternativeName":  "",
         "ReleaseDate":  "2025-04-04T00:00:00",
@@ -218,16 +228,6 @@
         "PlayedLiveCount":  17,
         "SpotifyStreams":  2146540,
         "MediaTieIn":  "Opening theme for anime series Rock Is a Lady\u0027s Modesty"
-    },
-    {
-        "Name":  "the non-fiction days",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2016-04-07T00:00:00",
-        "Album":  "Brand New MAID",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  166,
-        "SpotifyStreams":  2142115,
-        "MediaTieIn":  null
     },
     {
         "Name":  "Shambles",
@@ -296,7 +296,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  113,
-        "SpotifyStreams":  1809818,
+        "SpotifyStreams":  1812879,
         "MediaTieIn":  null
     },
     {
@@ -306,7 +306,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  61,
-        "SpotifyStreams":  1800264,
+        "SpotifyStreams":  1805337,
         "MediaTieIn":  null
     },
     {
@@ -336,7 +336,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  85,
-        "SpotifyStreams":  1720221,
+        "SpotifyStreams":  1723548,
         "MediaTieIn":  null
     },
     {
@@ -466,7 +466,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  27,
-        "SpotifyStreams":  1387117,
+        "SpotifyStreams":  1390317,
         "MediaTieIn":  "Theme song for movie 狂い華 (Kuruibana)"
     },
     {
@@ -536,7 +536,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  36,
-        "SpotifyStreams":  1202910,
+        "SpotifyStreams":  1204662,
         "MediaTieIn":  null
     },
     {
@@ -706,7 +706,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  38,
-        "SpotifyStreams":  933645,
+        "SpotifyStreams":  934744,
         "MediaTieIn":  null
     },
     {
@@ -756,7 +756,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  833784,
+        "SpotifyStreams":  835122,
         "MediaTieIn":  null
     },
     {
@@ -786,7 +786,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  17,
-        "SpotifyStreams":  815984,
+        "SpotifyStreams":  816757,
         "MediaTieIn":  null
     },
     {
@@ -960,6 +960,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "What is justice?",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2025-07-18T00:00:00",
+        "Album":  "SCOOOOOP",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  8,
+        "SpotifyStreams":  689523,
+        "MediaTieIn":  "Ending theme for anime series Tougen Anki"
+    },
+    {
         "Name":  "decided by myself",
         "AlternativeName":  "",
         "ReleaseDate":  "2017-01-11T00:00:00",
@@ -1030,16 +1040,6 @@
         "MediaTieIn":  null
     },
     {
-        "Name":  "What is justice?",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2025-07-18T00:00:00",
-        "Album":  "SCOOOOOP",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  8,
-        "SpotifyStreams":  639895,
-        "MediaTieIn":  "Ending theme for anime series Tougen Anki"
-    },
-    {
         "Name":  "Don\u0027t apply the brake",
         "AlternativeName":  "",
         "ReleaseDate":  "2015-11-18T00:00:00",
@@ -1056,7 +1056,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  17,
-        "SpotifyStreams":  611081,
+        "SpotifyStreams":  613908,
         "MediaTieIn":  null
     },
     {
@@ -1076,7 +1076,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  1,
-        "SpotifyStreams":  602721,
+        "SpotifyStreams":  603585,
         "MediaTieIn":  null
     },
     {
@@ -1096,7 +1096,7 @@
         "Album":  "YOLO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  50,
-        "SpotifyStreams":  568470,
+        "SpotifyStreams":  569050,
         "MediaTieIn":  null
     },
     {
@@ -1106,7 +1106,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  3,
-        "SpotifyStreams":  566229,
+        "SpotifyStreams":  567116,
         "MediaTieIn":  null
     },
     {
@@ -1146,7 +1146,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
-        "SpotifyStreams":  442302,
+        "SpotifyStreams":  443647,
         "MediaTieIn":  null
     },
     {
@@ -1256,7 +1256,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  18,
-        "SpotifyStreams":  138312,
+        "SpotifyStreams":  139490,
         "MediaTieIn":  null
     },
     {
