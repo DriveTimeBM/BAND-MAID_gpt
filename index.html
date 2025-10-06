@@ -15,6 +15,38 @@
     }
     header {
       background-color: #222;
+      padding: 0.6rem 1rem;
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      border-bottom: 2px solid #333;
+    }
+
+    header img.logo {
+      height: 40px;            /* adjust as needed */
+      width: auto;
+      border-radius: 6px;      /* optional soft corners */
+    }
+
+    header a.title-link {
+      color: #66ccff;
+      text-decoration: none;
+      font-size: 1.4rem;
+      font-weight: bold;
+    }
+
+    header a.title-link:hover {
+      text-decoration: underline;
+    }
+
+    header .subtitle {
+      margin-left: 0.5rem;
+      font-size: 1.1rem;
+      color: #aaa;
+    }
+
+    header {
+      background-color: #222;
       padding: 1rem;
       text-align: center;
       font-size: 1.4rem;
@@ -71,12 +103,16 @@
   </style>
 </head>
 <body>
-    <header>
-        📁 <a href="https://chatgpt.com/g/g-68db200d63cc819190a84f2ff7cbf58f-unofficial-band-maid-gpt" target="_blank" style="color:#66ccff; text-decoration:none;">
-          BAND-MAID GPT
-        </a> Data Browser
-      </header>
-  <div id="content">
+  <header>
+    <img src="logo.png" alt="BAND-MAID Logo" class="logo" />
+    <a href="https://chatgpt.com/g/g-68db200d63cc819190a84f2ff7cbf58f-unofficial-band-maid-gpt" 
+       target="_blank" 
+       class="title-link">
+      BAND-MAID GPT
+    </a>
+    <span class="subtitle">Data Browser</span>
+  </header>
+    <div id="content">
     <div id="fileList">Loading...</div>
     <pre id="viewer">Select a JSON file to view its contents.</pre>
   </div>
