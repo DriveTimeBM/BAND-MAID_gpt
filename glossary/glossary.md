@@ -21,8 +21,8 @@
 | もちとちーず | Mochito Cheese     | Mochi to Chīzu     | Former side project band for Kanami and Akane                                                                  |
 | ワンマン     | solo show          | Wanman             | Solo live shows are referred to as a "one-man"                                                                 |
 | 世界征服     | World Domination   | Sekai Seifuku      | World Domination, BAND-MAID’s recurring slogan                                                                 |
-| 先生         | sensei             | sensei             | Japanese honorific; Alsway use the Romaji.                                                                     |
-| 先輩         | senpai             | senpai             | Japanese honorific; Alsway use the Romaji.                                                                     |
+| 先生         | sensei             | sensei             | Japanese honorific; Always use the Romaji.                                                                     |
+| 先輩         | senpai             | senpai             | Japanese honorific; Always use the Romaji.                                                                     |
 | 冥途乃日     | Day of Maid        | Meido no Hi        | Day of Maid is a special day each year for BAND-MAID; It is Japanese wordplay on the date May 10.              |
 | 厚見         | Atsumi             | Atsumi             | Family name of lead vocalist Saiki                                                                             |
 | 叶笑         | Kanoemi            | Kanoemi            | The BAND-MAIKO persona adopted by Kanami                                                                       |
