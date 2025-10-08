@@ -6,7 +6,7 @@
         "Album":  "Daydreaming / Choose me",
         "KobatoLead":  "no",
         "PlayedLiveCount":  224,
-        "SpotifyStreams":  14323879,
+        "SpotifyStreams":  14372993,
         "MediaTieIn":  "Used in Netflix movie Kate. Used in S01E03 of TV show Peacemaker."
     },
     {
@@ -230,6 +230,16 @@
         "MediaTieIn":  "Opening theme for anime series Rock Is a Lady\u0027s Modesty"
     },
     {
+        "Name":  "Show Them",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2024-08-07T00:00:00",
+        "Album":  "Epic Narratives",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  10,
+        "SpotifyStreams":  2117848,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Shambles",
         "AlternativeName":  "",
         "ReleaseDate":  "2023-08-04T00:00:00",
@@ -238,16 +248,6 @@
         "PlayedLiveCount":  48,
         "SpotifyStreams":  2114587,
         "MediaTieIn":  "Ending theme for season 2 of anime series Kangan Ashura"
-    },
-    {
-        "Name":  "Show Them",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2024-08-07T00:00:00",
-        "Album":  "Epic Narratives",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  10,
-        "SpotifyStreams":  2071651,
-        "MediaTieIn":  null
     },
     {
         "Name":  "secret MAIKO lips",
@@ -276,7 +276,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  13,
-        "SpotifyStreams":  1913590,
+        "SpotifyStreams":  1915772,
         "MediaTieIn":  null
     },
     {
@@ -340,6 +340,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Don\u0027t let me down",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2015-11-18T00:00:00",
+        "Album":  "New Beginning",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  122,
+        "SpotifyStreams":  1709525,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "FATE",
         "AlternativeName":  "",
         "ReleaseDate":  "2018-02-14T00:00:00",
@@ -347,16 +357,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  3,
         "SpotifyStreams":  1707751,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Don\u0027t let me down",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2015-11-18T00:00:00",
-        "Album":  "New Beginning",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  122,
-        "SpotifyStreams":  1706313,
         "MediaTieIn":  null
     },
     {
@@ -406,7 +406,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  111,
-        "SpotifyStreams":  1523444,
+        "SpotifyStreams":  1527035,
         "MediaTieIn":  null
     },
     {
@@ -476,7 +476,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  40,
-        "SpotifyStreams":  1370620,
+        "SpotifyStreams":  1377489,
         "MediaTieIn":  null
     },
     {
@@ -570,6 +570,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Hibana",
+        "AlternativeName":  "火花",
+        "ReleaseDate":  "2021-10-27T00:00:00",
+        "Album":  "Sense",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  10,
+        "SpotifyStreams":  1141533,
+        "MediaTieIn":  "Battle theme for e-sports All-Japan University e-Sports Competition"
+    },
+    {
         "Name":  "Carry on living",
         "AlternativeName":  "",
         "ReleaseDate":  "2018-02-14T00:00:00",
@@ -578,16 +588,6 @@
         "PlayedLiveCount":  69,
         "SpotifyStreams":  1140018,
         "MediaTieIn":  "Ending theme for anime series Quiz Tokiko-san"
-    },
-    {
-        "Name":  "Hibana",
-        "AlternativeName":  "火花",
-        "ReleaseDate":  "2021-10-27T00:00:00",
-        "Album":  "Sense",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  10,
-        "SpotifyStreams":  1138441,
-        "MediaTieIn":  "Battle theme for e-sports All-Japan University e-Sports Competition"
     },
     {
         "Name":  "Sukurimingu [Screaming]",
@@ -656,7 +656,7 @@
         "Album":  "Bubble",
         "KobatoLead":  "no",
         "PlayedLiveCount":  7,
-        "SpotifyStreams":  1036627,
+        "SpotifyStreams":  1037631,
         "MediaTieIn":  null
     },
     {
@@ -686,7 +686,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  9,
-        "SpotifyStreams":  985009,
+        "SpotifyStreams":  986931,
         "MediaTieIn":  null
     },
     {
@@ -716,7 +716,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  13,
-        "SpotifyStreams":  899419,
+        "SpotifyStreams":  900606,
         "MediaTieIn":  null
     },
     {
@@ -726,7 +726,7 @@
         "Album":  "Different",
         "KobatoLead":  "no",
         "PlayedLiveCount":  17,
-        "SpotifyStreams":  851770,
+        "SpotifyStreams":  855717,
         "MediaTieIn":  null
     },
     {
@@ -766,7 +766,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  40,
-        "SpotifyStreams":  822183,
+        "SpotifyStreams":  822965,
         "MediaTieIn":  null
     },
     {
@@ -946,7 +946,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  48,
-        "SpotifyStreams":  698299,
+        "SpotifyStreams":  699326,
         "MediaTieIn":  null
     },
     {
@@ -1036,7 +1036,7 @@
         "Album":  "Love, Passion, Matador (愛と情熱のマタドール)",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  40,
-        "SpotifyStreams":  645646,
+        "SpotifyStreams":  646100,
         "MediaTieIn":  null
     },
     {
@@ -1116,7 +1116,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  547255,
+        "SpotifyStreams":  548080,
         "MediaTieIn":  null
     },
     {
@@ -1216,7 +1216,7 @@
         "Album":  "YOLO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
-        "SpotifyStreams":  177175,
+        "SpotifyStreams":  177400,
         "MediaTieIn":  null
     },
     {
@@ -1246,7 +1246,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  9,
-        "SpotifyStreams":  155365,
+        "SpotifyStreams":  157932,
         "MediaTieIn":  null
     },
     {
