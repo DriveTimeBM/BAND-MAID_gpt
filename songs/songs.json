@@ -36,7 +36,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  132,
-        "SpotifyStreams":  7126729,
+        "SpotifyStreams":  7138062,
         "MediaTieIn":  null
     },
     {
@@ -96,7 +96,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  162,
-        "SpotifyStreams":  3654277,
+        "SpotifyStreams":  3662037,
         "MediaTieIn":  null
     },
     {
@@ -136,7 +136,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  53,
-        "SpotifyStreams":  3064878,
+        "SpotifyStreams":  3069407,
         "MediaTieIn":  null
     },
     {
@@ -176,7 +176,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  45,
-        "SpotifyStreams":  2410470,
+        "SpotifyStreams":  2414901,
         "MediaTieIn":  null
     },
     {
@@ -196,7 +196,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  142,
-        "SpotifyStreams":  2235145,
+        "SpotifyStreams":  2238946,
         "MediaTieIn":  null
     },
     {
@@ -256,7 +256,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  2,
-        "SpotifyStreams":  2048234,
+        "SpotifyStreams":  2052327,
         "MediaTieIn":  null
     },
     {
@@ -420,6 +420,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Corallium",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2021-10-27T00:00:00",
+        "Album":  "Unleash",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  18,
+        "SpotifyStreams":  1470133,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "FREEZER",
         "AlternativeName":  "",
         "ReleaseDate":  "2015-11-18T00:00:00",
@@ -430,23 +440,13 @@
         "MediaTieIn":  null
     },
     {
-        "Name":  "Corallium",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2021-10-27T00:00:00",
-        "Album":  "Unleash",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  18,
-        "SpotifyStreams":  1466993,
-        "MediaTieIn":  null
-    },
-    {
         "Name":  "Gion-Cho",
         "AlternativeName":  "祇園町",
         "ReleaseDate":  "2019-04-01T00:00:00",
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  2,
-        "SpotifyStreams":  1410814,
+        "SpotifyStreams":  1413749,
         "MediaTieIn":  null
     },
     {
@@ -570,6 +570,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Carry on living",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2018-02-14T00:00:00",
+        "Album":  "WORLD DOMINATION",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  69,
+        "SpotifyStreams":  1141865,
+        "MediaTieIn":  "Ending theme for anime series Quiz Tokiko-san"
+    },
+    {
         "Name":  "Hibana",
         "AlternativeName":  "火花",
         "ReleaseDate":  "2021-10-27T00:00:00",
@@ -578,16 +588,6 @@
         "PlayedLiveCount":  10,
         "SpotifyStreams":  1141533,
         "MediaTieIn":  "Battle theme for e-sports All-Japan University e-Sports Competition"
-    },
-    {
-        "Name":  "Carry on living",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2018-02-14T00:00:00",
-        "Album":  "WORLD DOMINATION",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  69,
-        "SpotifyStreams":  1140018,
-        "MediaTieIn":  "Ending theme for anime series Quiz Tokiko-san"
     },
     {
         "Name":  "Sukurimingu [Screaming]",
@@ -616,7 +616,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  27,
-        "SpotifyStreams":  1107286,
+        "SpotifyStreams":  1109224,
         "MediaTieIn":  null
     },
     {
@@ -736,7 +736,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  120,
-        "SpotifyStreams":  850540,
+        "SpotifyStreams":  851812,
         "MediaTieIn":  null
     },
     {
@@ -796,7 +796,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  4,
-        "SpotifyStreams":  812008,
+        "SpotifyStreams":  814994,
         "MediaTieIn":  null
     },
     {
@@ -880,6 +880,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "azure",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2019-12-11T00:00:00",
+        "Album":  "CONQUEROR",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  9,
+        "SpotifyStreams":  744491,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Catharsis",
         "AlternativeName":  "カタルシス",
         "ReleaseDate":  "2019-12-11T00:00:00",
@@ -887,16 +897,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  18,
         "SpotifyStreams":  744463,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "azure",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2019-12-11T00:00:00",
-        "Album":  "CONQUEROR",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  9,
-        "SpotifyStreams":  743369,
         "MediaTieIn":  null
     },
     {
@@ -910,13 +910,13 @@
         "MediaTieIn":  null
     },
     {
-        "Name":  "Dilemma",
+        "Name":  "Shake That!!",
         "AlternativeName":  "",
-        "ReleaseDate":  "2019-12-11T00:00:00",
-        "Album":  "CONQUEROR",
+        "ReleaseDate":  "2015-11-18T00:00:00",
+        "Album":  "New Beginning",
         "KobatoLead":  "no",
-        "PlayedLiveCount":  13,
-        "SpotifyStreams":  713999,
+        "PlayedLiveCount":  58,
+        "SpotifyStreams":  714224,
         "MediaTieIn":  null
     },
     {
@@ -926,17 +926,17 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  9,
-        "SpotifyStreams":  713389,
+        "SpotifyStreams":  714000,
         "MediaTieIn":  null
     },
     {
-        "Name":  "Shake That!!",
+        "Name":  "Dilemma",
         "AlternativeName":  "",
-        "ReleaseDate":  "2015-11-18T00:00:00",
-        "Album":  "New Beginning",
+        "ReleaseDate":  "2019-12-11T00:00:00",
+        "Album":  "CONQUEROR",
         "KobatoLead":  "no",
-        "PlayedLiveCount":  58,
-        "SpotifyStreams":  712827,
+        "PlayedLiveCount":  13,
+        "SpotifyStreams":  713999,
         "MediaTieIn":  null
     },
     {
@@ -1066,7 +1066,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  49,
-        "SpotifyStreams":  610031,
+        "SpotifyStreams":  610751,
         "MediaTieIn":  null
     },
     {
@@ -1156,7 +1156,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  26,
-        "SpotifyStreams":  403658,
+        "SpotifyStreams":  407404,
         "MediaTieIn":  null
     },
     {
@@ -1186,7 +1186,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  6,
-        "SpotifyStreams":  262207,
+        "SpotifyStreams":  264933,
         "MediaTieIn":  null
     },
     {
@@ -1260,6 +1260,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Lock and Load",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2025-10-22T00:00:00",
+        "Album":  "SCOOOOOP",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  null,
+        "SpotifyStreams":  0,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Present Perfect",
         "AlternativeName":  "",
         "ReleaseDate":  "2025-10-22T00:00:00",
@@ -1281,16 +1291,6 @@
     },
     {
         "Name":  "SION",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2025-10-22T00:00:00",
-        "Album":  "SCOOOOOP",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  null,
-        "SpotifyStreams":  0,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Lock and Load",
         "AlternativeName":  "",
         "ReleaseDate":  "2025-10-22T00:00:00",
         "Album":  "SCOOOOOP",
