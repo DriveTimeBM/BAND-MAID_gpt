@@ -27,4 +27,9 @@
         "Project":  "Creations",
         "Description":  "Various BAND-MAID themed creations. Images, logos, GIFs, etc.",
         "Link":  "https://drivetimebm.github.io/BAND-MAID_creations/index.html"
+    },
+    {
+        "Project":  "Unofficial BAND-MAID DB",
+        "Description":  "Spreadsheet of BAND-MAID songs, releases, lyrics, and facts. Maintained by nair0n",
+        "Link":  "https://docs.google.com/spreadsheets/d/1JeAORfbAsvBKvapINhmEiTqBLTfu5jeNilsoztBkEfA/htmlview#"
     }

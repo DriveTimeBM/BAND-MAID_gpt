@@ -162,7 +162,7 @@ paths:
   /BAND-MAID_gpt/other_projects.json:
     get:
       operationId: getOtherBandMaidProjects
-      summary: Get list of other public BAND-MAID projects on github
+      summary: Get list of other public fan-made BAND-MAID projects on github
       description: Fetches a structured list of other available BAND-MAID projects on github. 
       responses:
         '200':
