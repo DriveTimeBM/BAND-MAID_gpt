@@ -1,0 +1,847 @@
+﻿[
+    {
+        "File":  "YouTube Views Per Day.pdf",
+        "Description":  "Videos listed by views/day over their lifetime",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Views%20Per%20Day.pdf"
+    },
+    {
+        "File":  "YouTube Videos by Type.pdf",
+        "Description":  "Breakdown of YT videos by type (OMV,OLV,Audio, etc.)",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Videos%20by%20Type.pdf"
+    },
+    {
+        "File":  "YouTube Videos by Type Summary.pdf",
+        "Description":  "Summary of YT videos by type (OMV,OLV,Audio, etc.)",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Videos%20by%20Type%20Summary.pdf"
+    },
+    {
+        "File":  "YouTube Videos by Song.pdf",
+        "Description":  "List of all YouTube videos for each song",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Videos%20by%20Song.pdf"
+    },
+    {
+        "File":  "YouTube Video Ids Query.txt",
+        "Description":  "All BAND-MAID YT video ids as a text file",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Video%20Ids%20Query.txt"
+    },
+    {
+        "File":  "YouTube Top Like Pct.pdf",
+        "Description":  "YT videos ranked by like percentage",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Top%20Like%20Pct.pdf"
+    },
+    {
+        "File":  "YouTube Top Like Pct by Type.pdf",
+        "Description":  "YT videos ranked by like percentage and grouped by type",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Top%20Like%20Pct%20by%20Type.pdf"
+    },
+    {
+        "File":  "YouTube Top Audio Likes Pct.pdf",
+        "Description":  "YT audio only videos ranked by like percentage",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Top%20Audio%20Likes%20Pct.pdf"
+    },
+    {
+        "File":  "YouTube Teaser Videos.pdf",
+        "Description":  "All YT tesder videos ranked by views",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Teaser%20Videos.pdf"
+    },
+    {
+        "File":  "YouTube Shorts Videos.pdf",
+        "Description":  "All YT shorts ranked by views",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Shorts%20Videos.pdf"
+    },
+    {
+        "File":  "YouTube Shorts Videos by Date.pdf",
+        "Description":  "All YT shorts by publish date",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Shorts%20Videos%20by%20Date.pdf"
+    },
+    {
+        "File":  "YouTube Shorts by Song.pdf",
+        "Description":  "List of all YouTube Shorts by song",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Shorts%20by%20Song.pdf"
+    },
+    {
+        "File":  "YouTube Shorts by Member.pdf",
+        "Description":  "All YT shorts grouped by member, ranked by views",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Shorts%20by%20Member.pdf"
+    },
+    {
+        "File":  "YouTube Million Groups.pdf",
+        "Description":  "YT videos over 1M views grouped by views range 1M, 2M ,etc.",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Million%20Groups.pdf"
+    },
+    {
+        "File":  "YouTube Milestones.pdf",
+        "Description":  "All YT milestones for today. (Surpassing the next 100K mark)",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Milestones.pdf"
+    },
+    {
+        "File":  "YouTube Birthdays.pdf",
+        "Description":  "All YT videos release ordered by closeness to their anniversaries",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Birthdays.pdf"
+    },
+    {
+        "File":  "YouTube Audio Pre and Post R2R.pdf",
+        "Description":  "Audio views pre and post the release of Ready to Rock which boosted views",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Audio%20Pre%20and%20Post%20R2R.pdf"
+    },
+    {
+        "File":  "YouTube Audio Aggregate Views.pdf",
+        "Description":  "Total audio-only streams for each song ranked by total views",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Audio%20Aggregate%20Views.pdf"
+    },
+    {
+        "File":  "YouTube Audio Aggregate Views by Delta.pdf",
+        "Description":  "Total audio-only streams for each song ranked by the day\u0027s change",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Audio%20Aggregate%20Views%20by%20Delta.pdf"
+    },
+    {
+        "File":  "YouTube Audio Aggregate Views by Album.pdf",
+        "Description":  "Total audio-only streams for each song ranked grouped by album",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Audio%20Aggregate%20Views%20by%20Album.pdf"
+    },
+    {
+        "File":  "YouTube Audio Aggregate Views Album Summary.pdf",
+        "Description":  "Summary of each album\u0027s audio-only streams",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Audio%20Aggregate%20Views%20Album%20Summary.pdf"
+    },
+    {
+        "File":  "YouTube Audio Aggregate Likes.pdf",
+        "Description":  "Aggregates likes for audio-only tracks across all videos",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Audio%20Aggregate%20Likes.pdf"
+    },
+    {
+        "File":  "YouTube Audio Aggregate Daily Views by Album.pdf",
+        "Description":  "Daily change of audio streams by album",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Audio%20Aggregate%20Daily%20Views%20by%20Album.pdf"
+    },
+    {
+        "File":  "YouTube Anime Aggregate Views.pdf",
+        "Description":  "Agrregate total views of just the anime songs",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Anime%20Aggregate%20Views.pdf"
+    },
+    {
+        "File":  "YouTube Aggregate Views.pdf",
+        "Description":  "Agrregate total views for every song",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Aggregate%20Views.pdf"
+    },
+    {
+        "File":  "YouTube Aggregate Views by Delta.pdf",
+        "Description":  "Agrregate total views for every song sorted by daily change",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Aggregate%20Views%20by%20Delta.pdf"
+    },
+    {
+        "File":  "YouTube Aggregate Views by Album.pdf",
+        "Description":  "Agrregate total views by album",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Aggregate%20Views%20by%20Album.pdf"
+    },
+    {
+        "File":  "YouTube Aggregate Likes.pdf",
+        "Description":  "Agrregate total likes of each song",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Aggregate%20Likes.pdf"
+    },
+    {
+        "File":  "XHuBR4nAjrE.pdf",
+        "Description":  "Day by day views for the Zen audio track",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/XHuBR4nAjrE.pdf"
+    },
+    {
+        "File":  "Wikipedia Top Years JA.pdf",
+        "Description":  "Yearly Wikipedia lookups for Japanese Wikipedia",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Wikipedia%20Top%20Years%20JA.pdf"
+    },
+    {
+        "File":  "Wikipedia Top Years EN.pdf",
+        "Description":  "Yearly Wikipedia lookups for English Wikipedia",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Wikipedia%20Top%20Years%20EN.pdf"
+    },
+    {
+        "File":  "Wikipedia Top Months.pdf",
+        "Description":  "Monthly Wikipedia lookups for all Wikipedia ranked by top months",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Wikipedia%20Top%20Months.pdf"
+    },
+    {
+        "File":  "Wikipedia Top Months ZH.pdf",
+        "Description":  "Monthly Wikipedia lookups for Chinese Wikipedia ranked by top months",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Wikipedia%20Top%20Months%20ZH.pdf"
+    },
+    {
+        "File":  "Wikipedia Top Months JA.pdf",
+        "Description":  "Monthly Wikipedia lookups for Japanese Wikipedia ranked by top months",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Wikipedia%20Top%20Months%20JA.pdf"
+    },
+    {
+        "File":  "Wikipedia Top Months EN.pdf",
+        "Description":  "Monthly Wikipedia lookups for English Wikipedia ranked by top months",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Wikipedia%20Top%20Months%20EN.pdf"
+    },
+    {
+        "File":  "Wikipedia Pages.pdf",
+        "Description":  "All BAND-MAID Wikipedia pages (all languages)",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Wikipedia%20Pages.pdf"
+    },
+    {
+        "File":  "Wikipedia Monthly BAND-MAID Pageviews.pdf",
+        "Description":  "Total lookups by month across all languages",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Wikipedia%20Monthly%20BAND-MAID%20Pageviews.pdf"
+    },
+    {
+        "File":  "Wikipedia by Day.pdf",
+        "Description":  "Day by day accounting of BAND-MAID looksups for Japanese, English, and Chinese Wikipedia",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Wikipedia%20by%20Day.pdf"
+    },
+    {
+        "File":  "White Room Videos.pdf",
+        "Description":  "All BAND-MAID songs with \"white room videos\"",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/White%20Room%20Videos.pdf"
+    },
+    {
+        "File":  "vu2D3lzH7Y0.pdf",
+        "Description":  "Day by day views for the What is justice? audio track",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/vu2D3lzH7Y0.pdf"
+    },
+    {
+        "File":  "Unique Arrangements.pdf",
+        "Description":  "List of  alternative song arrangement listed by arrangement type",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Unique%20Arrangements.pdf"
+    },
+    {
+        "File":  "Translations.pdf",
+        "Description":  "Translations of various articles, videos, etc.\tArticle translation on reddit",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Translations.pdf"
+    },
+    {
+        "File":  "Translations Index.pdf",
+        "Description":  "List of translations with links grouped by media type and sorted by",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Translations%20Index.pdf"
+    },
+    {
+        "File":  "Total Streams by Song.pdf",
+        "Description":  "Total steams of all content by song across YouTube, Spotify, and",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Total%20Streams%20by%20Song.pdf"
+    },
+    {
+        "File":  "Top Wikipedia Days ZH.pdf",
+        "Description":  "Top BAND-MAID Days for the Chinese Wikipedia",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Top%20Wikipedia%20Days%20ZH.pdf"
+    },
+    {
+        "File":  "Top Wikipedia Days JA.pdf",
+        "Description":  "Top BAND-MAID Days for the Japanese Wikipedia",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Top%20Wikipedia%20Days%20JA.pdf"
+    },
+    {
+        "File":  "Top Wikipedia Days EN.pdf",
+        "Description":  "Top BAND-MAID Days for the English Wikipedia",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Top%20Wikipedia%20Days%20EN.pdf"
+    },
+    {
+        "File":  "Top Reactions By Reactor sorted by views.pdf",
+        "Description":  "Grouped by reaction channel and sorted by views",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Top%20Reactions%20By%20Reactor%20sorted%20by%20views.pdf"
+    },
+    {
+        "File":  "Top Reaction Videos by Song.pdf",
+        "Description":  "Most viewed reaction videos for each song",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Top%20Reaction%20Videos%20by%20Song.pdf"
+    },
+    {
+        "File":  "Top Google Trends.pdf",
+        "Description":  "(needs updated)",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Top%20Google%20Trends.pdf"
+    },
+    {
+        "File":  "Thrill Comments by Day.pdf",
+        "Description":  "Number of new comment on the Thrill OMV by day",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Thrill%20Comments%20by%20Day.pdf"
+    },
+    {
+        "File":  "Spotify vs YouTube Daily Audio Streams.pdf",
+        "Description":  "Sorted by relative perfomance of YouTube (audioonly) daily streams  vs. Spotify daily streams. YT # is previous day. Spotify # is avg of",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Spotify%20vs%20YouTube%20Daily%20Audio%20Streams.pdf"
+    },
+    {
+        "File":  "Spotify vs YouTube Audio Streams.pdf",
+        "Description":  "Sorted by YouTube (audio only) total streams vs. Spotify Total Streams",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Spotify%20vs%20YouTube%20Audio%20Streams.pdf"
+    },
+    {
+        "File":  "Spotify Song Streams.pdf",
+        "Description":  "Number of song streams on Spotify. Each song updated once per week.",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Spotify%20Song%20Streams.pdf"
+    },
+    {
+        "File":  "Spotify Song Streams per Day.pdf",
+        "Description":  "Sorted by avegage streams per day for the previous week.",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Spotify%20Song%20Streams%20per%20Day.pdf"
+    },
+    {
+        "File":  "Spotify Song Streams by Album.pdf",
+        "Description":  "Number of song streams on Spotify Organized by album. Each song updated once per week.",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Spotify%20Song%20Streams%20by%20Album.pdf"
+    },
+    {
+        "File":  "Spotify Song Popularity.pdf",
+        "Description":  "Songs ranked by Spotify Popularity",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Spotify%20Song%20Popularity.pdf"
+    },
+    {
+        "File":  "Spotify Next Million Projection.pdf",
+        "Description":  "(needs work) Projection for next million mark based on previous week\u0027s streams",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Spotify%20Next%20Million%20Projection.pdf"
+    },
+    {
+        "File":  "Spotify Milestones.pdf",
+        "Description":  "List of all Spotify songs that cross 100K milestones for that day *NEW*",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Spotify%20Milestones.pdf"
+    },
+    {
+        "File":  "Spotify Album Popularity.pdf",
+        "Description":  "Albums ranked by Spotify Popularity",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Spotify%20Album%20Popularity.pdf"
+    },
+    {
+        "File":  "Sorter Results By Album.pdf",
+        "Description":  "Aggregated sorter results by album, updated upon submissions",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Sorter%20Results%20By%20Album.pdf"
+    },
+    {
+        "File":  "Sorter Range.pdf",
+        "Description":  "The range of each song. [Worst] - [Best]",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Sorter%20Range.pdf"
+    },
+    {
+        "File":  "Sorter Participants.pdf",
+        "Description":  "Check to see if your submission is included in the results",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Sorter%20Participants.pdf"
+    },
+    {
+        "File":  "Sorter Non-Album Aggregate Results.pdf",
+        "Description":  "Aggregated sorter results for songs not (yet) on an album",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Sorter%20Non-Album%20Aggregate%20Results.pdf"
+    },
+    {
+        "File":  "Sorter No Solo Aggregate Results.pdf",
+        "Description":  "Aggregated sorter results for songs with no guitar solo (list of songs with no solo is subjective)",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Sorter%20No%20Solo%20Aggregate%20Results.pdf"
+    },
+    {
+        "File":  "Sorter Miku Aggregate Results.pdf",
+        "Description":  "Aggregated sorter results for songs with Kobato Miku as the sole lead singer",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Sorter%20Miku%20Aggregate%20Results.pdf"
+    },
+    {
+        "File":  "Sorter Instrumental Aggregate Results.pdf",
+        "Description":  "Aggregated sorter results for instrumentals, updated upon submissions",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Sorter%20Instrumental%20Aggregate%20Results.pdf"
+    },
+    {
+        "File":  "Sorter Crosstab.pdf",
+        "Description":  "Crosstab look at sorter data. Songs as rows. Sorter participants as colums.",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Sorter%20Crosstab.pdf"
+    },
+    {
+        "File":  "Sorter Anime Aggregate Results.pdf",
+        "Description":  "Aggregated sorter results for anime songs, updated upon submissions",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Sorter%20Anime%20Aggregate%20Results.pdf"
+    },
+    {
+        "File":  "Sorter Aggregate Results.pdf",
+        "Description":  "Aggregated sorter results, updated upon submissions",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Sorter%20Aggregate%20Results.pdf"
+    },
+    {
+        "File":  "Songs with Solos.pdf",
+        "Description":  "List of songs with solos. Subjective and somewhat arbitrary. When in doubt, I call it a solo.",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Songs%20with%20Solos.pdf"
+    },
+    {
+        "File":  "Songs with No Solos.pdf",
+        "Description":  "List of songs without solos. Subjective and somewhat arbitrary. When in doubt, I call it a solo.",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Songs%20with%20No%20Solos.pdf"
+    },
+    {
+        "File":  "Songs With MVs.pdf",
+        "Description":  "List of songs with OMVs, OLVS, and both",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Songs%20With%20MVs.pdf"
+    },
+    {
+        "File":  "Songs With Media Tie-Ins.pdf",
+        "Description":  "Songs used in anime, movies, TV, games, etc.",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Songs%20With%20Media%20Tie-Ins.pdf"
+    },
+    {
+        "File":  "Songs with Bass Solos.pdf",
+        "Description":  "List of songs with bass solos. Subjective and somewhat arbitrary. When in doubt, I call it a solo.",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Songs%20with%20Bass%20Solos.pdf"
+    },
+    {
+        "File":  "Songs Played by Year.pdf",
+        "Description":  "Song live play counts grouped by year",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Songs%20Played%20by%20Year.pdf"
+    },
+    {
+        "File":  "Songs Played by Year Summary.pdf",
+        "Description":  "Number of different songs played by year",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Songs%20Played%20by%20Year%20Summary.pdf"
+    },
+    {
+        "File":  "Songs Encyclopedia.pdf",
+        "Description":  "Lots of info about every Band-Maid song",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Songs%20Encyclopedia.pdf"
+    },
+    {
+        "File":  "Songs Debuts by Venue.pdf",
+        "Description":  "Song debuts grouped by venue",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Songs%20Debuts%20by%20Venue.pdf"
+    },
+    {
+        "File":  "Songs Debuted Live.pdf",
+        "Description":  "List of known songs that were played live prior to release",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Songs%20Debuted%20Live.pdf"
+    },
+    {
+        "File":  "Songs by Release Date.pdf",
+        "Description":  "Cronological list of songs",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Songs%20by%20Release%20Date.pdf"
+    },
+    {
+        "File":  "Songs by Most Recent Live Debut.pdf",
+        "Description":  "All live debuts from most recent back",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Songs%20by%20Most%20Recent%20Live%20Debut.pdf"
+    },
+    {
+        "File":  "Songs by Alt Arrangements.pdf",
+        "Description":  "Arrangement combos",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Songs%20by%20Alt%20Arrangements.pdf"
+    },
+    {
+        "File":  "Song Reaction Top Reactor Summary.pdf",
+        "Description":  "Top reaactions per song grouped by reactor",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Song%20Reaction%20Top%20Reactor%20Summary.pdf"
+    },
+    {
+        "File":  "Song Reaction Summary.pdf",
+        "Description":  "Summary ordered by most reacted to songs",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Song%20Reaction%20Summary.pdf"
+    },
+    {
+        "File":  "Song Reaction Leaderboard.pdf",
+        "Description":  "Number of songs for each reaction channel where their reaction has the most views of all reactions to that song.",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Song%20Reaction%20Leaderboard.pdf"
+    },
+    {
+        "File":  "Song Notes and Quotes Report.pdf",
+        "Description":  "Collection of band quotes organized by song",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Song%20Notes%20and%20Quotes%20Report.pdf"
+    },
+    {
+        "File":  "Song Durations.pdf",
+        "Description":  "Songs sorted by duration (from Spotify data)",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Song%20Durations.pdf"
+    },
+    {
+        "File":  "Song Counts by Country.pdf",
+        "Description":  "Live song counts grouped by country",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Song%20Counts%20by%20Country.pdf"
+    },
+    {
+        "File":  "Social Media.pdf",
+        "Description":  "Follower counts on various social media platforms. Updated on Mondays only",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Social%20Media.pdf"
+    },
+    {
+        "File":  "Shazam Top Tracks.pdf",
+        "Description":  "Top tracks as reported by Shazam",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Shazam%20Top%20Tracks.pdf"
+    },
+    {
+        "File":  "rZ1mpH8iXQc.pdf",
+        "Description":  "Daily YT stats for the Alive-or-Dead audio track",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/rZ1mpH8iXQc.pdf"
+    },
+    {
+        "File":  "Release Notes and Quotes Report.pdf",
+        "Description":  "Collection of band quotes organized by release",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Release%20Notes%20and%20Quotes%20Report.pdf"
+    },
+    {
+        "File":  "Related Artists - Spotify.pdf",
+        "Description":  "Spotify stats for some peer bands.",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Related%20Artists%20-%20Spotify.pdf"
+    },
+    {
+        "File":  "Ready to Rock - 3 versions.pdf",
+        "Description":  "A look at the 4 versions in one report. MV, Anime MV, and Audio",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Ready%20to%20Rock%20-%203%20versions.pdf"
+    },
+    {
+        "File":  "ReactionVideoIds.txt",
+        "Description":  "Text file containing all BAND-MAID video ids",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/ReactionVideoIds.txt"
+    },
+    {
+        "File":  "Reaction Views by Channel.pdf",
+        "Description":  "Total reaction views for each YT channel",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Reaction%20Views%20by%20Channel.pdf"
+    },
+    {
+        "File":  "Reaction Videos By Year.pdf",
+        "Description":  "Number of new reaction videos by year",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Reaction%20Videos%20By%20Year.pdf"
+    },
+    {
+        "File":  "Reaction Videos by Song.pdf",
+        "Description":  "Videos grouped by song and sorted by views",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Reaction%20Videos%20by%20Song.pdf"
+    },
+    {
+        "File":  "Reaction Videos by Channel.pdf",
+        "Description":  "Total reaction videos for each YT channel",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Reaction%20Videos%20by%20Channel.pdf"
+    },
+    {
+        "File":  "Reaction Video Statistics.pdf",
+        "Description":  "Total reaction channels, total reaction videos, and total reaction views.",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Reaction%20Video%20Statistics.pdf"
+    },
+    {
+        "File":  "Reaction Playlists.pdf",
+        "Description":  "List of Haro Matsu\u0027s playlists on YouTube",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Reaction%20Playlists.pdf"
+    },
+    {
+        "File":  "Reaction Avg Views by Channel.pdf",
+        "Description":  "Average reaction views for each YT channel",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Reaction%20Avg%20Views%20by%20Channel.pdf"
+    },
+    {
+        "File":  "Prime Self-Covers.pdf",
+        "Description":  "All Prime self-covers grouped by song and sorted by member",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Prime%20Self-Covers.pdf"
+    },
+    {
+        "File":  "Prime Self-Covers by Song.pdf",
+        "Description":  "All Prime self-covers grouped by member and sorted by song",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Prime%20Self-Covers%20by%20Song.pdf"
+    },
+    {
+        "File":  "Pirated YouTube Videos.pdf",
+        "Description":  "Playlist of \"pirated\" videos on YouTube maintained by @Alex_8964. The report reflects the contents of that list. I have not verified it.",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Pirated%20YouTube%20Videos.pdf"
+    },
+    {
+        "File":  "OKYUJI by Venue.pdf",
+        "Description":  "All OKYUJI grouped by venue",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/OKYUJI%20by%20Venue.pdf"
+    },
+    {
+        "File":  "Next Million.txt",
+        "Description":  "Cosest song to next million updated 6 times per day",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Next%20Million.txt"
+    },
+    {
+        "File":  "Next Million Projection.pdf",
+        "Description":  "Projection of the next video to reach a million milestone, updated every hour on the half hour. Useful for estimating time when it gets within a couple of days",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Next%20Million%20Projection.pdf"
+    },
+    {
+        "File":  "New YouTube Comments.pdf",
+        "Description":  "YouTube Videos with new comments",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/New%20YouTube%20Comments.pdf"
+    },
+    {
+        "File":  "New Reactors by Year Summary.pdf",
+        "Description":  "Number of new reactors by year",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/New%20Reactors%20by%20Year%20Summary.pdf"
+    },
+    {
+        "File":  "New Reactors by Month.pdf",
+        "Description":  "New reactors in chronological order",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/New%20Reactors%20by%20Month.pdf"
+    },
+    {
+        "File":  "New Reactors by Month Summary.pdf",
+        "Description":  "Number of new reactors by month",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/New%20Reactors%20by%20Month%20Summary.pdf"
+    },
+    {
+        "File":  "Music Credits by Song.pdf",
+        "Description":  "Music writing credits for each studio song",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Music%20Credits%20by%20Song.pdf"
+    },
+    {
+        "File":  "Most Viewed Reactions.pdf",
+        "Description":  "Most watched BAND-MAID Reaction videos of all-time",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Most%20Viewed%20Reactions.pdf"
+    },
+    {
+        "File":  "Most Popular Video By Reactor.pdf",
+        "Description":  "The most popular video for each reactor",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Most%20Popular%20Video%20By%20Reactor.pdf"
+    },
+    {
+        "File":  "Most Liked Videos.pdf",
+        "Description":  "All BAND-MAID videos listed by comment count",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Most%20Liked%20Videos.pdf"
+    },
+    {
+        "File":  "Most Liked Reactions.pdf",
+        "Description":  "Reaction videos with the most likes",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Most%20Liked%20Reactions.pdf"
+    },
+    {
+        "File":  "Most Commented Videos.pdf",
+        "Description":  "All BAND-MAID videos listed by comment count",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Most%20Commented%20Videos.pdf"
+    },
+    {
+        "File":  "Most Commented Reactions.pdf",
+        "Description":  "BAND-MAID reaction video with the most comments",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Most%20Commented%20Reactions.pdf"
+    },
+    {
+        "File":  "Lyricist Credits by Song.pdf",
+        "Description":  "Lyric writing credits for each studio song",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Lyricist%20Credits%20by%20Song.pdf"
+    },
+    {
+        "File":  "Live Videos.pdf",
+        "Description":  "Master list of live BAND-MAID videos",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Live%20Videos.pdf"
+    },
+    {
+        "File":  "Live History of all Songs.pdf",
+        "Description":  "Each song with a chronological list of all live performances",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Live%20History%20of%20all%20Songs.pdf"
+    },
+    {
+        "File":  "Live Debuts by Venue.pdf",
+        "Description":  "All live debuts by venue\u0027s frequency of live debuts",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Live%20Debuts%20by%20Venue.pdf"
+    },
+    {
+        "File":  "LastFM Rank.pdf",
+        "Description":  "LastFM song rank",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/LastFM%20Rank.pdf"
+    },
+    {
+        "File":  "JegJ6cSsUgg.pdf",
+        "Description":  "Daily YT stats for the Ready to Rock Special Anime OMV",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/JegJ6cSsUgg.pdf"
+    },
+    {
+        "File":  "Interview Videos.pdf",
+        "Description":  "All interview videos by views",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Interview%20Videos.pdf"
+    },
+    {
+        "File":  "Interview Videos Chronological.pdf",
+        "Description":  "All interview videos by date",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Interview%20Videos%20Chronological.pdf"
+    },
+    {
+        "File":  "First Time Reactions.pdf",
+        "Description":  "First time reactions to BAND-MAID listed chronologically",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/First%20Time%20Reactions.pdf"
+    },
+    {
+        "File":  "First Time Reactions (Recent First).pdf",
+        "Description":  "First time reactions to BAND-MAID (newest first)",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/First%20Time%20Reactions%20(Recent%20First).pdf"
+    },
+    {
+        "File":  "eapNDHKbu0M.pdf",
+        "Description":  "Daily YT stats for the Ready to Rock OMV",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/eapNDHKbu0M.pdf"
+    },
+    {
+        "File":  "Deezer Top Tracks.pdf",
+        "Description":  "Results of Deezer Top Tracks query",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Deezer%20Top%20Tracks.pdf"
+    },
+    {
+        "File":  "Deezer Internal Rank.pdf",
+        "Description":  "Deezer song popularity rank",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Deezer%20Internal%20Rank.pdf"
+    },
+    {
+        "File":  "Cover Videos.pdf",
+        "Description":  "All cover videos by date",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Cover%20Videos.pdf"
+    },
+    {
+        "File":  "Cover Videos by Views.pdf",
+        "Description":  "All cover videos by views",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Cover%20Videos%20by%20Views.pdf"
+    },
+    {
+        "File":  "Compilation Videos.pdf",
+        "Description":  "All compilation videos by views",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Compilation%20Videos.pdf"
+    },
+    {
+        "File":  "Comment_VRAINS.pdf",
+        "Description":  "Comments from BAND-MAID videos referencing the VRAINS anime",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Comment_VRAINS.pdf"
+    },
+    {
+        "File":  "Comment_ShaunTrack.pdf",
+        "Description":  "Comments from BAND-MAID videos referencing the Spanish reactor ShaunTrack",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Comment_ShaunTrack.pdf"
+    },
+    {
+        "File":  "Comment_Peacemaker.pdf",
+        "Description":  "Comments from BAND-MAID videos referencing the HBO Max series Peacemaker",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Comment_Peacemaker.pdf"
+    },
+    {
+        "File":  "Comment_Modesty.pdf",
+        "Description":  "Comments from BAND-MAID videos referencing the anime Rock is a Lady\u0027s Modesty",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Comment_Modesty.pdf"
+    },
+    {
+        "File":  "Comment_Kate.pdf",
+        "Description":  "Comments from BAND-MAID videos referencing the Netflix movie Kate",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Comment_Kate.pdf"
+    },
+    {
+        "File":  "cluppo YouTube.pdf",
+        "Description":  "Summary of all Cluppo YT videos",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/cluppo%20YouTube.pdf"
+    },
+    {
+        "File":  "Chronological Reactions.pdf",
+        "Description":  "All reaction videos from the very first to the most recent",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Chronological%20Reactions.pdf"
+    },
+    {
+        "File":  "Calendar.pdf",
+        "Description":  "Upcoming shows and events",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Calendar.pdf"
+    },
+    {
+        "File":  "BilliBilli Videos.pdf",
+        "Description":  "Official MV releases on BilliBilli",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/BilliBilli%20Videos.pdf"
+    },
+    {
+        "File":  "BilliBilli Videos Delta.pdf",
+        "Description":  "Current day change in followers, views, likes, etc.",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/BilliBilli%20Videos%20Delta.pdf"
+    },
+    {
+        "File":  "BilliBilli Videos by Song.pdf",
+        "Description":  "BilliBilli videos grouped and totaled by song",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/BilliBilli%20Videos%20by%20Song.pdf"
+    },
+    {
+        "File":  "bandmaid_song_sorter.html",
+        "Description":  "BAND-MAID song sorter/ranker",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/bandmaid_song_sorter.html"
+    },
+    {
+        "File":  "BandMaid Streaming Metrics.pdf",
+        "Description":  "Daily summary of metrics from YouTube, Spotify, and lastFM",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/BandMaid%20Streaming%20Metrics.pdf"
+    },
+    {
+        "File":  "Band-Maid Prime.pdf",
+        "Description":  "BAND-MAID Prime videos with links organized by category",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Band-Maid%20Prime.pdf"
+    },
+    {
+        "File":  "Band-Maid News.pdf",
+        "Description":  "Organized list with links of all BAND-MAID news releases from the official website",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Band-Maid%20News.pdf"
+    },
+    {
+        "File":  "Band-Maid Gallery.pdf",
+        "Description":  "Easily searchable and sorted list of all fan club (OMEISYUSAMA) photo galleries",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Band-Maid%20Gallery.pdf"
+    },
+    {
+        "File":  "Band-Maid FanClub.pdf",
+        "Description":  "Easily searchable and sorted list of all fan club (OMEISYUSAMA) videos",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Band-Maid%20FanClub.pdf"
+    },
+    {
+        "File":  "Arrangement Credits by Song.pdf",
+        "Description":  "Arragement credits for each studio song",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Arrangement%20Credits%20by%20Song.pdf"
+    },
+    {
+        "File":  "Alternative Live Arrangements.pdf",
+        "Description":  "List of  alternative song arrangement listed by song",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Alternative%20Live%20Arrangements.pdf"
+    },
+    {
+        "File":  "All YouTube Live Content by Views.pdf",
+        "Description":  "All YT content sorted by views",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/All%20YouTube%20Live%20Content%20by%20Views.pdf"
+    },
+    {
+        "File":  "All YouTube Content Grouped by Title.pdf",
+        "Description":  "All YT content grouped by title (aggregates views of duplicates)",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/All%20YouTube%20Content%20Grouped%20by%20Title.pdf"
+    },
+    {
+        "File":  "All YouTube Content by Views.pdf",
+        "Description":  "All YT content sorted by views",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/All%20YouTube%20Content%20by%20Views.pdf"
+    },
+    {
+        "File":  "All YouTube Content by Release Date.pdf",
+        "Description":  "All YouTube Content by Release Date",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/All%20YouTube%20Content%20by%20Release%20Date.pdf"
+    },
+    {
+        "File":  "All YouTube Content by New Views.pdf",
+        "Description":  "All YT content sorted by yesterday\u0027s views",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/All%20YouTube%20Content%20by%20New%20Views.pdf"
+    },
+    {
+        "File":  "All YouTube Content by New Likes.pdf",
+        "Description":  "All YouTube Videos sorted by number of likes",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/All%20YouTube%20Content%20by%20New%20Likes.pdf"
+    },
+    {
+        "File":  "All YouTube Content by Name.pdf",
+        "Description":  "All YouTube videos sorted by name (video title)",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/All%20YouTube%20Content%20by%20Name.pdf"
+    },
+    {
+        "File":  "All YouTube Content by Duration.pdf",
+        "Description":  "All YouTube videos sorted by video duration",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/All%20YouTube%20Content%20by%20Duration.pdf"
+    },
+    {
+        "File":  "All Setlists.pdf",
+        "Description":  "All Band-Maid setlists",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/All%20Setlists.pdf"
+    },
+    {
+        "File":  "All Reactions By Reactor sorted by views.pdf",
+        "Description":  "All reaction videos grouped by top reactors ordered by most views",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/All%20Reactions%20By%20Reactor%20sorted%20by%20views.pdf"
+    },
+    {
+        "File":  "All Reactions By Reactor Chronological.pdf",
+        "Description":  "All reaction videos grouped by top reactors in chronological sequence",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/All%20Reactions%20By%20Reactor%20Chronological.pdf"
+    },
+    {
+        "File":  "Albums On Report.pdf",
+        "Description":  "A list of all releases and streams that each song in on",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Albums%20On%20Report.pdf"
+    },
+    {
+        "File":  "5uOdE0j4h1E.pdf",
+        "Description":  "Daily YT stats for the Ready to Rock audio track",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/5uOdE0j4h1E.pdf"
+    },
+    {
+        "File":  "3kMIh0_Wkpk.pdf",
+        "Description":  "Daily YT stats for the What is justice? OMV",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/3kMIh0_Wkpk.pdf"
+    }
+]
