@@ -143,3 +143,18 @@ paths:
                 type: array
                 items:
                   type: object
+
+  /BAND-MAID_gpt/metrics_reports.json:
+    get:
+      operationId: getBandMaidReports
+      summary: Get list of detailed BAND-MAID metrics reports available to view
+      description: Fetches a structured list of all available detailed metrics reports. 
+      responses:
+        '200':
+          description: Successfully retrieved song list
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
