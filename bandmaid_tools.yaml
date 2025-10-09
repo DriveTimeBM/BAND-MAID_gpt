@@ -151,7 +151,22 @@ paths:
       description: Fetches a structured list of all available detailed metrics reports. 
       responses:
         '200':
-          description: Successfully retrieved song list
+          description: Successfully retrieved report list
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+
+  /BAND-MAID_gpt/other_projects.json:
+    get:
+      operationId: getOtherBandMaidProjects
+      summary: Get list of other public BAND-MAID projects on github
+      description: Fetches a structured list of other available BAND-MAID projects on github. 
+      responses:
+        '200':
+          description: Successfully retrieved project list
           content:
             application/json:
               schema:
