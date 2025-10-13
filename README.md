@@ -85,3 +85,14 @@ The GPT got the "training data" files from me uploading them directly. The repos
 are defined in the bandmaid_tools.yaml file.
 
 If you wanted to clone this GPT you could do it in minutes by feeding a GPT the BAND-MAID Overview.md and glossary.md files from the glossary folder, all of the md files from the interviews folder, and pasting the yaml file contents into the "Actions" for the GPT. That's all there is to it. I may add actions to the yaml in the future if I think of things.
+
+## All BAND-MAID Projects
+
+- [BAND-MAID X/Twitter Archive](https://github.com/DriveTimeBM/BAND-MAID_tweets)
+- [BAND-MAID Song Sorter (Ranker)](https://github.com/DriveTimeBM/BAND-MAID_song_sorter)
+- [BAND-MAID GIF Catalog](https://github.com/DriveTimeBM/BAND-MAID_gifs)
+- [BAND-MAID Reports](https://github.com/DriveTimeBM/BAND-MAID_reports)
+- [BAND-MAID Instagram Archive](https://github.com/DriveTimeBM/BAND-MAID_instagram)
+- [BAND-MAID Instagram Archive](https://github.com/DriveTimeBM/BAND-MAID_gpt)
+- [BAND-MAID Instagram Archive](https://github.com/DriveTimeBM/BAND-MAID_prime)
+- [BAND-MAID Instagram Archive](https://github.com/DriveTimeBM/BAND-MAID_creations)
