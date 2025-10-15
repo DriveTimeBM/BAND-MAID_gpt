@@ -1,12 +1,5 @@
 ﻿[
     {
-        "Summary":  "Misa Birthday",
-        "Start_Local":  "2025-10-14T11:00:00",
-        "Description":  null,
-        "Location":  null,
-        "Start_Japan":  "2025-10-15T00:00:00"
-    },
-    {
         "Summary":  "LIVE AZUMA 2025",
         "Start_Local":  "2025-10-18T02:30:00",
         "Description":  "Azuma stage",
@@ -82,5 +75,12 @@
         "Description":  "Doors open 9:00 / Show starts 11:00",
         "Location":  "ポートメッセなごや イベント館, 2-chōme-2 Kinjōfutō, Minato Ward, Nagoya, Aichi 455-0848, Japan",
         "Start_Japan":  "2025-12-21T11:00:00"
+    },
+    {
+        "Summary":  "COUNTDOWN JAPAN 25/26",
+        "Start_Local":  "2025-12-29T01:00:00",
+        "Description":  null,
+        "Location":  "Makuhari Messe International Exhibition Hall 8, Hall 8, 2-chōme-1 Nakase, Mihama Ward, Chiba, 261-0023, Japan",
+        "Start_Japan":  "2025-12-29T15:00:00"
     }
 ]
