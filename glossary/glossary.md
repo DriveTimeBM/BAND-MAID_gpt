@@ -41,6 +41,6 @@
 | 鳩           | pigeon             | hato               | Miku has adopted a pigeon persona; Always use pigeon rather than dove                                          |
 | 鳩子         | Hatoko             | Hatoko             | The BAND-MAIKO persona adopted by Kobato Miku                                                                  |
 | allies       | OMEISYUSAMA        | OMEISYUSAMA        | BAND-MAID will sometimes use this in English messages; Translate to OMEISYUSAMA                                |
-| トラオ          | Torao              | Torao             | Kobato Miku’s cat. Often mentioned in her Maid’s Room vlogs and fan messages. Do not translate as “the cat.” Use name “Torao.” |
-| 猫ちゃん (when clearly referring to トラオ) | Torao     | Torao | Maintain the name for clarity when context indicates it’s her cat. |
+| トラ男          | Torao              | Torao             | Kobato Miku’s cat. Often mentioned in her Maid’s Room vlogs and fan messages. Do not translate as “the cat.” Use name “Torao.” |
+| 猫ちゃん (when clearly referring to トラ男) | Torao     | Torao | Maintain the name for clarity when context indicates it’s her cat. |
 | 猫 (generic)    | cat        | neko             | Use only when not referring to Torao.                                             |
