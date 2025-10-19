@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         BAND-MAID YouTube Search
 // @namespace    https://www.youtube.com/@BANDMAID
-// @version      1.0
+// @version      1.1
 // @description  Add a song search bar to BAND-MAID YouTube channel
 // @author       DriveTimeBM
 // @match        https://www.youtube.com/@BANDMAID*
 // @connect      drivetimebm.github.io
+// @run-at       document-end
 // ==/UserScript==
 
 (function() {
@@ -42,58 +43,78 @@
 
       const wrapper = document.createElement('div');
       wrapper.id = 'bandmaid-youtube-search';
-      wrapper.style.padding = '16px 0';
-      wrapper.style.margin = '0 auto';
-      wrapper.style.maxWidth = '900px';
+      wrapper.style.cssText = `
+        position: fixed;
+        top: 65px;
+        left: 0;
+        right: 0;
+        width: 100%;
+        padding: 12px 16px;
+        background: #fff;
+        border-bottom: 1px solid #e0e0e0;
+        z-index: 99999;
+        box-sizing: border-box;
+      `;
+
+      const container = document.createElement('div');
+      container.style.cssText = `
+        max-width: 1280px;
+        margin: 0 auto;
+      `;
 
       const input = document.createElement('input');
       input.type = 'text';
       input.placeholder = '🎵 Search BAND-MAID songs...';
-      input.style.width = '100%';
-      input.style.padding = '12px 14px';
-      input.style.border = '1px solid #ccc';
-      input.style.borderRadius = '24px';
-      input.style.fontSize = '16px';
-      input.style.boxSizing = 'border-box';
-      input.style.backgroundColor = '#fff';
-      input.style.color = '#030303';
-      input.style.fontFamily = 'Roboto, Arial, sans-serif';
+      input.style.cssText = `
+        width: 100%;
+        padding: 10px 16px;
+        border: 1px solid #ccc;
+        border-radius: 24px;
+        font-size: 14px;
+        box-sizing: border-box;
+        background-color: #f9f9f9;
+        color: #030303;
+        font-family: Roboto, Arial, sans-serif;
+      `;
 
       input.addEventListener('focus', () => {
+        input.style.backgroundColor = '#fff';
+        input.style.boxShadow = '0 0 0 2px rgba(0, 0, 0, 0.1)';
         input.style.outline = 'none';
-        input.style.boxShadow = '0 0 0 3px rgba(0, 0, 0, 0.1)';
       });
 
       input.addEventListener('blur', () => {
+        input.style.backgroundColor = '#f9f9f9';
         input.style.boxShadow = 'none';
       });
 
       const resultsBox = document.createElement('div');
-      resultsBox.style.marginTop = '12px';
-      resultsBox.style.fontSize = '14px';
-      resultsBox.style.lineHeight = '1.6';
-      resultsBox.style.maxHeight = '300px';
-      resultsBox.style.overflowY = 'auto';
+      resultsBox.style.cssText = `
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        background: #fff;
+        border: 1px solid #e0e0e0;
+        border-top: none;
+        border-radius: 0 0 8px 8px;
+        max-height: 400px;
+        overflow-y: auto;
+        box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        z-index: 100000;
+        margin-top: -1px;
+      `;
 
-      wrapper.appendChild(input);
-      wrapper.appendChild(resultsBox);
+      const inputWrapper = document.createElement('div');
+      inputWrapper.style.position = 'relative';
+      inputWrapper.appendChild(input);
+      inputWrapper.appendChild(resultsBox);
 
-      // Find insertion point - try to place below main channel content
-      let insertionPoint = document.querySelector('ytd-channel-tagline-renderer');
-      
-      if (!insertionPoint) {
-        insertionPoint = document.querySelector('yt-formatted-string[role="heading"]');
-      }
+      container.appendChild(inputWrapper);
+      wrapper.appendChild(container);
+      document.body.insertBefore(wrapper, document.body.firstChild);
 
-      if (!insertionPoint) {
-        insertionPoint = document.body.firstChild;
-      }
-
-      if (insertionPoint && insertionPoint.parentNode) {
-        insertionPoint.parentNode.insertBefore(wrapper, insertionPoint.nextSibling);
-      } else {
-        document.body.insertBefore(wrapper, document.body.firstChild);
-      }
+      console.log('Search box injected successfully');
 
       // Search behavior
       input.addEventListener('input', async e => {
@@ -108,7 +129,7 @@
         );
 
         if (!matches.length) {
-          resultsBox.innerHTML = `<div style="color:#606060; padding: 8px;">No matches found.</div>`;
+          resultsBox.innerHTML = `<div style="color:#606060; padding: 12px 16px;">No matches found.</div>`;
           return;
         }
 
@@ -121,9 +142,10 @@
             
             return `
               <div style="
-                padding: 10px 12px;
+                padding: 12px 16px;
                 border-bottom: 1px solid #e0e0e0;
-                transition: background-color 0.2s;
+                cursor: pointer;
+                transition: background-color 0.15s;
               " onmouseover="this.style.backgroundColor='#f5f5f5'" onmouseout="this.style.backgroundColor='transparent'">
                 <a href="${url}" target="_blank" style="
                   text-decoration: none;
@@ -141,19 +163,17 @@
       });
     }
 
-    // Wait for page to load and then inject search box
-    window.addEventListener('load', async () => {
-      // Give the page a moment to fully render
-      await new Promise(resolve => setTimeout(resolve, 1000));
-      createSearchBox();
+    // Multiple attempts to inject the search box
+    createSearchBox();
+    setTimeout(createSearchBox, 500);
+    setTimeout(createSearchBox, 1500);
+
+    // Also watch for dynamic page changes
+    const observer = new MutationObserver(() => {
+      if (!document.querySelector('#bandmaid-youtube-search')) {
+        createSearchBox();
+      }
     });
 
-    // Also try to inject if DOM is already ready
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', () => {
-        setTimeout(createSearchBox, 500);
-      });
-    } else {
-      setTimeout(createSearchBox, 500);
-    }
+    observer.observe(document.body, { childList: true, subtree: true });
 })();
