@@ -1,65 +1,40 @@
 // ==UserScript==
-// @name         BAND-MAID YouTube Search
+// @name         BAND-MAID YouTube Search (Embedded Data)
 // @namespace    https://www.youtube.com/@BANDMAID
-// @version      1.2
-// @description  Add a song search bar to BAND-MAID YouTube channel
+// @version      1.3
+// @description  Add a song search bar to BAND-MAID YouTube channel (offline)
 // @author       DriveTimeBM
 // @match        https://www.youtube.com/@BANDMAID*
-// @grant        GM_getValue
-// @grant        GM_setValue
-// @connect      drivetimebm.github.io
 // @run-at       document-end
 // ==/UserScript==
 
 (function() {
     'use strict';
 
-    const YOUTUBE_JSON_URL = 'https://drivetimebm.github.io/BAND-MAID_gpt/youtube/youtube.json';
-    const CACHE_KEY = 'bandmaid_youtube_cache';
-    const CACHE_EXPIRY_KEY = 'bandmaid_youtube_cache_expiry';
-    const CACHE_DURATION = 24 * 60 * 60 * 1000; // 24 hours in milliseconds
-
-    /**
-     * Loads the youtube.json file from cache or fetches fresh data
-     */
-    async function loadYouTubeData() {
-      // Try to load from cache
-      const cachedData = GM_getValue(CACHE_KEY);
-      const cacheExpiry = GM_getValue(CACHE_EXPIRY_KEY);
-
-      if (cachedData && cacheExpiry && Date.now() < cacheExpiry) {
-        console.info('Using cached YouTube JSON');
-        return JSON.parse(cachedData);
-      }
-
-      // Cache is empty or expired, fetch fresh data
-      try {
-        console.info('Fetching fresh YouTube JSON from GitHub...');
-        const res = await fetch(YOUTUBE_JSON_URL);
-        if (!res.ok) throw new Error(`HTTP ${res.status}`);
-        const data = await res.json();
-
-        // Cache the data
-        GM_setValue(CACHE_KEY, JSON.stringify(data));
-        GM_setValue(CACHE_EXPIRY_KEY, Date.now() + CACHE_DURATION);
-
-        console.info('Loaded and cached YouTube JSON:', data.length, 'entries');
-        return data;
-      } catch (err) {
-        console.error('Failed to load youtube.json:', err);
-        // If fetch fails but we have stale cache, use it anyway
-        if (cachedData) {
-          console.warn('Using stale cache due to fetch error');
-          return JSON.parse(cachedData);
-        }
-        return [];
-      }
-    }
+    // YouTube video data embedded directly - no network requests needed
+    const youtubeData = [
+        {"Title":"BAND-MAID / Thrill (スリル)  (Official Music Video)","Date":"2014-11-20T01:25:24","URL":"https://youtu.be/Uds7g3M-4lQ","Song":"Thrill","Views":22715884,"Type":"Official Music Video","Duration":"4:11"},
+        {"Title":"BAND-MAID / REAL EXISTENCE (Official Music Video)","Date":"2015-06-17T01:02:24","URL":"https://youtu.be/9TkHpvaO09c","Song":"REAL EXISTENCE","Views":16068560,"Type":"Official Music Video","Duration":"4:11"},
+        {"Title":"BAND-MAID / Choose me  (Official Music Video)","Date":"2017-06-26T06:06:37","URL":"https://youtu.be/MZIJ2vFxu9Y","Song":"Choose me","Views":15433440,"Type":"Official Music Video","Duration":"3:47"},
+        {"Title":"BAND-MAID / DICE (Official Music Video)","Date":"2018-03-03T22:00:07","URL":"https://youtu.be/ZpAYnVJX9CY","Song":"DICE","Views":9712972,"Type":"Official Music Video","Duration":"4:15"},
+        {"Title":"BAND-MAID / alone (Official Music Video)","Date":"2016-02-14T07:00:02","URL":"https://youtu.be/axF56i4spio","Song":"alone","Views":7590258,"Type":"Official Music Video","Duration":"3:30"},
+        {"Title":"BAND-MAID / the non-fiction days (Official Music Video)","Date":"2016-04-07T23:02:08","URL":"https://youtu.be/ItYN-ri1NPs","Song":"the non-fiction days","Views":7547572,"Type":"Official Music Video","Duration":"4:51"},
+        {"Title":"BAND-MAID / YOLO (Official Music Video)","Date":"2016-10-01T07:29:55","URL":"https://youtu.be/wKZbzcUdY1g","Song":"YOLO","Views":5768482,"Type":"Official Music Video","Duration":"4:37"},
+        {"Title":"BAND-MAID / Don't you tell ME (Official Music Video)","Date":"2017-01-09T06:00:16","URL":"https://youtu.be/tGXzhxXVimY","Song":"Don't you tell ME","Views":5419612,"Type":"Official Music Video","Duration":"3:35"},
+        {"Title":"BAND-MAID / Daydreaming (Official Music Video)","Date":"2017-05-26T08:00:02","URL":"https://youtu.be/RCaeUkrItyY","Song":"Daydreaming","Views":5232468,"Type":"Official Music Video","Duration":"4:09"},
+        {"Title":"BAND-MAID / Don't let me down (Official Music Video)","Date":"2015-10-06T04:59:59","URL":"https://youtu.be/0YGwUhg2XNk","Song":"Don't let me down","Views":5115076,"Type":"Official Music Video","Duration":"3:24"},
+        {"Title":"BAND-MAID / Sense (Official Music Video)","Date":"2021-10-26T11:00:11","URL":"https://youtu.be/BWN6iOFjm9U","Song":"Sense","Views":4859789,"Type":"Official Music Video","Duration":"3:28"},
+        {"Title":"BAND-MAID / DOMINATION (Official Music Video)","Date":"2018-02-07T06:00:01","URL":"https://youtu.be/xmxEuQXTHUU","Song":"DOMINATION","Views":4811809,"Type":"Official Music Video","Duration":"3:59"},
+        {"Title":"BAND-MAID / Different (Official Music Video)","Date":"2020-12-01T08:00:12","URL":"https://youtu.be/edlLhh8qVxM","Song":"Different","Views":4508209,"Type":"Official Music Video","Duration":"3:36"},
+        {"Title":"BAND-MAID / Blooming (Official Music Video)","Date":"2019-12-09T22:00:05","URL":"https://youtu.be/uUt_JBMocKM","Song":"Blooming","Views":3608705,"Type":"Official Music Video","Duration":"3:57"},
+        {"Title":"BAND-MAID / After Life (Official Music Video)","Date":"2021-01-26T10:00:00","URL":"https://youtu.be/2MOvCkCqz_U","Song":"After Life","Views":2977263,"Type":"Official Music Video","Duration":"3:29"},
+        {"Title":"BAND-MAID / Memorable (Official Music Video)","Date":"2023-02-21T10:00:08","URL":"https://youtu.be/DQX8BTTsHHU","Song":"Memorable","Views":941034,"Type":"Official Music Video","Duration":"3:35"}
+    ];
 
     /**
      * Creates and injects the search box into the page.
      */
-    async function createSearchBox() {
+    function createSearchBox() {
       // Avoid duplicates
       if (document.querySelector('#bandmaid-youtube-search')) return;
 
@@ -86,7 +61,7 @@
 
       const input = document.createElement('input');
       input.type = 'text';
-      input.placeholder = '🎵 Search BAND-MAID songs...';
+      input.placeholder = 'Search BAND-MAID songs...';
       input.style.cssText = `
         width: 100%;
         padding: 10px 16px;
@@ -138,17 +113,14 @@
 
       console.log('Search box injected successfully');
 
-      // Load data once and set up search
-      const data = await loadYouTubeData();
-
       // Search behavior
-      input.addEventListener('input', async e => {
+      input.addEventListener('input', e => {
         const query = e.target.value.trim().toLowerCase();
         resultsBox.innerHTML = '';
 
         if (!query) return;
 
-        const matches = data.filter(entry =>
+        const matches = youtubeData.filter(entry =>
           entry.Song && entry.Song.toLowerCase().includes(query)
         );
 
@@ -199,5 +171,5 @@
       }
     });
 
-    observer.observe(document.body, { childList: true, subtree: true });
+    observer.observe(document.body, { childList: true, subtree: false });
 })();
