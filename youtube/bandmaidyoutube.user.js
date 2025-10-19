@@ -2910,7 +2910,13 @@
         if (anchor && anchor.parentNode) anchor.parentNode.insertBefore(results, anchor.nextSibling);
         else document.body.prepend(results);
       }
-  
+
+    // add near other helpers
+    const fmtInt = (n) => {
+      const v = Number(n);
+      return Number.isFinite(v) ? v.toLocaleString('en-US') : '';
+    }
+
       if (!items.length) {
         results.replaceChildren(); // clear
         results.classList.add('hidden');
@@ -2937,6 +2943,7 @@
         if (it.Duration) parts.push(it.Duration);
         if (it.Type)     parts.push(it.Type);
         if (it.Song)     parts.push(`Song: ${it.Song}`);
+        if (it.Views != null) parts.push(`${fmtInt(it.Views)} views`);
         meta.textContent = parts.join(' • ');
   
         wrapper.appendChild(a);
