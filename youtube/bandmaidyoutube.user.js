@@ -4,7 +4,7 @@
 // @version      1.7
 // @description  Search BAND-MAID songs on YouTube
 // @author       DriveTimeBM
-// @match        *youtube.com/@BANDMAID*
+// @match        *youtube.com/*BANDMAID*
 // @grant        none
 // @run-at       document-end
 // ==/UserScript==
