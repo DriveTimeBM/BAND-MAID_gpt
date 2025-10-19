@@ -1,17 +1,16 @@
 // ==UserScript==
 // @name         BAND-MAID YouTube Search (Embedded Data)
 // @namespace    https://www.youtube.com/@BANDMAID
-// @version      1.3
+// @version      1.4
 // @description  Add a song search bar to BAND-MAID YouTube channel (offline)
 // @author       DriveTimeBM
 // @match        https://www.youtube.com/@BANDMAID*
-// @run-at       document-end
+// @run-at       document-start
 // ==/UserScript==
 
 (function() {
     'use strict';
 
-    // YouTube video data embedded directly - no network requests needed
     const youtubeData = [
         {"Title":"BAND-MAID / Thrill (スリル)  (Official Music Video)","Date":"2014-11-20T01:25:24","URL":"https://youtu.be/Uds7g3M-4lQ","Song":"Thrill","Views":22715884,"Type":"Official Music Video","Duration":"4:11"},
         {"Title":"BAND-MAID / REAL EXISTENCE (Official Music Video)","Date":"2015-06-17T01:02:24","URL":"https://youtu.be/9TkHpvaO09c","Song":"REAL EXISTENCE","Views":16068560,"Type":"Official Music Video","Duration":"4:11"},
@@ -31,22 +30,18 @@
         {"Title":"BAND-MAID / Memorable (Official Music Video)","Date":"2023-02-21T10:00:08","URL":"https://youtu.be/DQX8BTTsHHU","Song":"Memorable","Views":941034,"Type":"Official Music Video","Duration":"3:35"}
     ];
 
-    /**
-     * Creates and injects the search box into the page.
-     */
     function createSearchBox() {
-      // Avoid duplicates
-      if (document.querySelector('#bandmaid-youtube-search')) return;
+      if (document.querySelector('#bm-search-wrapper')) return;
 
       const wrapper = document.createElement('div');
-      wrapper.id = 'bandmaid-youtube-search';
+      wrapper.id = 'bm-search-wrapper';
       wrapper.style.cssText = `
         position: fixed;
-        top: 65px;
+        top: 0;
         left: 0;
         right: 0;
         width: 100%;
-        padding: 12px 16px;
+        padding: 10px 16px;
         background: #fff;
         border-bottom: 1px solid #e0e0e0;
         z-index: 99999;
@@ -57,119 +52,110 @@
       container.style.cssText = `
         max-width: 1280px;
         margin: 0 auto;
+        position: relative;
       `;
 
       const input = document.createElement('input');
       input.type = 'text';
+      input.id = 'bm-search-input';
       input.placeholder = 'Search BAND-MAID songs...';
       input.style.cssText = `
         width: 100%;
-        padding: 10px 16px;
+        max-width: 500px;
+        padding: 8px 12px;
         border: 1px solid #ccc;
-        border-radius: 24px;
-        font-size: 14px;
-        box-sizing: border-box;
-        background-color: #f9f9f9;
+        border-radius: 20px;
+        font-size: 13px;
+        background-color: #f0f0f0;
         color: #030303;
         font-family: Roboto, Arial, sans-serif;
       `;
 
-      input.addEventListener('focus', () => {
-        input.style.backgroundColor = '#fff';
-        input.style.boxShadow = '0 0 0 2px rgba(0, 0, 0, 0.1)';
-        input.style.outline = 'none';
-      });
-
-      input.addEventListener('blur', () => {
-        input.style.backgroundColor = '#f9f9f9';
-        input.style.boxShadow = 'none';
-      });
-
       const resultsBox = document.createElement('div');
+      resultsBox.id = 'bm-results-box';
       resultsBox.style.cssText = `
         position: absolute;
         top: 100%;
         left: 0;
-        right: 0;
+        width: 500px;
         background: #fff;
         border: 1px solid #e0e0e0;
         border-top: none;
         border-radius: 0 0 8px 8px;
-        max-height: 400px;
+        max-height: 300px;
         overflow-y: auto;
-        box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        box-shadow: 0 2px 8px rgba(0,0,0,0.15);
         z-index: 100000;
-        margin-top: -1px;
+        display: none;
       `;
 
-      const inputWrapper = document.createElement('div');
-      inputWrapper.style.position = 'relative';
-      inputWrapper.appendChild(input);
-      inputWrapper.appendChild(resultsBox);
-
-      container.appendChild(inputWrapper);
+      container.appendChild(input);
+      container.appendChild(resultsBox);
       wrapper.appendChild(container);
       document.body.insertBefore(wrapper, document.body.firstChild);
 
-      console.log('Search box injected successfully');
+      console.log('[BM Search] Box created and injected');
 
-      // Search behavior
-      input.addEventListener('input', e => {
+      // Search functionality
+      input.addEventListener('input', function(e) {
         const query = e.target.value.trim().toLowerCase();
-        resultsBox.innerHTML = '';
 
-        if (!query) return;
+        if (!query) {
+          resultsBox.style.display = 'none';
+          resultsBox.innerHTML = '';
+          return;
+        }
 
         const matches = youtubeData.filter(entry =>
           entry.Song && entry.Song.toLowerCase().includes(query)
         );
 
         if (!matches.length) {
-          resultsBox.innerHTML = `<div style="color:#606060; padding: 12px 16px;">No matches found.</div>`;
+          resultsBox.innerHTML = `<div style="padding:12px 16px; color:#999;">No matches</div>`;
+          resultsBox.style.display = 'block';
           return;
         }
 
         resultsBox.innerHTML = matches
-          .map(entry => {
-            const title = entry.Title || '(No Title)';
-            const url = entry.URL || '#';
-            const type = entry.Type ? `<span style="color:#909090; font-size:12px;">${entry.Type}</span>` : '';
-            const date = entry.Date ? new Date(entry.Date).getFullYear() : '';
-            
-            return `
-              <div style="
-                padding: 12px 16px;
-                border-bottom: 1px solid #e0e0e0;
-                cursor: pointer;
-                transition: background-color 0.15s;
-              " onmouseover="this.style.backgroundColor='#f5f5f5'" onmouseout="this.style.backgroundColor='transparent'">
-                <a href="${url}" target="_blank" style="
-                  text-decoration: none;
-                  color: #0066cc;
-                  font-weight: 500;
-                  display: block;
-                  margin-bottom: 4px;
-                ">${title}</a>
-                ${type}
-                ${date ? `<span style="color:#909090; font-size:12px; margin-left: 8px;">${date}</span>` : ''}
-              </div>
-            `;
-          })
+          .slice(0, 10)
+          .map(entry => `
+            <a href="${entry.URL}" target="_blank" style="
+              display: block;
+              padding: 10px 16px;
+              border-bottom: 1px solid #f0f0f0;
+              text-decoration: none;
+              color: #0066cc;
+              transition: background 0.1s;
+            " onmouseover="this.style.background='#f5f5f5'" onmouseout="this.style.background='transparent'">
+              <div style="font-weight: 500; margin-bottom: 2px;">${entry.Title}</div>
+              <div style="font-size: 11px; color: #999;">${entry.Type} • ${new Date(entry.Date).getFullYear()}</div>
+            </a>
+          `)
           .join('');
+        
+        resultsBox.style.display = 'block';
+      });
+
+      input.addEventListener('focus', function() {
+        if (input.value.trim()) {
+          resultsBox.style.display = 'block';
+        }
+      });
+
+      input.addEventListener('blur', function() {
+        setTimeout(() => {
+          resultsBox.style.display = 'none';
+        }, 200);
       });
     }
 
-    // Multiple attempts to inject the search box
-    createSearchBox();
-    setTimeout(createSearchBox, 500);
-    setTimeout(createSearchBox, 1500);
+    // Inject when DOM is ready
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', createSearchBox);
+    } else {
+      createSearchBox();
+    }
 
-    // Also watch for dynamic page changes
-    const observer = new MutationObserver(() => {
-      if (!document.querySelector('#bandmaid-youtube-search')) {
-        createSearchBox();
-      }
-    });
-
-    observer.observe(document.body, { childList: true, subtree: false });
+    // Also try after a short delay
+    setTimeout(createSearchBox, 100);
 })();
