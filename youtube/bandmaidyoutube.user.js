@@ -23,7 +23,6 @@
         "Type":  "Official Music Video",
         "Duration": "4:11"
       },
-      // more items...
       {
         "Title":  "BAND-MAID / REAL EXISTENCE (Official Music Video)",
         "Date":  "2015-06-17T01:02:24",
