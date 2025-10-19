@@ -2947,7 +2947,7 @@
         if (it.Type)     parts.push(it.Type);
         if (it.Song)     parts.push(`Song: ${it.Song}`);
         if (it.Views != null) parts.push(`${fmtInt(it.Views)} views`);
-        meta.textContent = parts.join(' â€¢ ');
+        meta.textContent = parts.join(' * ');
   
         wrapper.appendChild(a);
         wrapper.appendChild(meta);
@@ -2975,7 +2975,7 @@
       const input = document.createElement('input');
       input.id = INPUT_ID;
       input.type = 'search';
-      input.placeholder = 'Search BAND-MAID data (Title or Song)â€¦';
+      input.placeholder = 'Search BAND-MAID data (Title or Song)...';
       input.autocomplete = 'off';
       input.spellcheck = false;
       input.setAttribute('aria-label', 'BAND-MAID embedded search');
