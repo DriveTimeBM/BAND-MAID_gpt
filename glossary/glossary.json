@@ -1,9 +1,9 @@
 ﻿[
     {
-        "Term":  "トラ男",
-        "Translation":  "Torao",
-        "Romaji":  "Torao",
-        "Notes":  "Kobato Miku’s cat. Often mentioned in her Maid’s Room vlogs and fan messages. Do not translate as “the cat.” Use name “Torao.”"
+        "Term":  "allies",
+        "Translation":  "OMEISYUSAMA",
+        "Romaji":  "OMEISYUSAMA",
+        "Notes":  "BAND-MAID will sometimes use this in English messages; Translate to OMEISYUSAMA"
     },
     {
         "Term":  "cluppo",
@@ -82,6 +82,12 @@
         "Translation":  "chan",
         "Romaji":  "chan",
         "Notes":  "Japanese honorific; Alsway use the Romaji."
+    },
+    {
+        "Term":  "トラ男",
+        "Translation":  "Torao",
+        "Romaji":  "Torao",
+        "Notes":  "Kobato Miku’s cat. Often mentioned in her Maid’s Room vlogs and fan messages. Do not translate as “the cat.” Use name “Torao.”"
     },
     {
         "Term":  "ばんどまいこ",
@@ -232,11 +238,5 @@
         "Translation":  "Hatoko",
         "Romaji":  "Hatoko",
         "Notes":  "The BAND-MAIKO persona adopted by Kobato Miku"
-    },
-    {
-        "Term":  "allies",
-        "Translation":  "OMEISYUSAMA",
-        "Romaji":  "OMEISYUSAMA",
-        "Notes":  "BAND-MAID will sometimes use this in English messages; Translate to OMEISYUSAMA"
     }
 ]
