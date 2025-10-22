@@ -173,18 +173,3 @@ paths:
                 type: array
                 items:
                   type: object
-
-  /BAND-MAID_gpt/songs/streaming_links.json:
-    get:
-      operationId: getBandMaidStreamingLinks
-      summary: Get list of links to BAND-MAID songs on various streaming platforms
-      description: Fetches a structured list of streaming links on YouTube, Spotify, Amazon Music, and Apple Music 
-      responses:
-        '200':
-          description: Successfully retrieved project list
-          content:
-            application/json:
-              schema:
-                type: array
-                items:
-                  type: object
