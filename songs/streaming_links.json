@@ -22,6 +22,13 @@
     },
     {
         "Song":  "about Us",
+        "Title":  "about Us",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/bccCEFS"
+    },
+    {
+        "Song":  "about Us",
         "Title":  "BAND-MAID / about Us (Official Live Video)",
         "Service":  "YouTube",
         "Streams":  1162748,
@@ -54,6 +61,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/after-life/1542316961?i=1542316964"
+    },
+    {
+        "Song":  "After Life",
+        "Title":  "After Life",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/xfFlcIz"
     },
     {
         "Song":  "After Life",
@@ -93,6 +107,13 @@
     {
         "Song":  "Alive-or-Dead",
         "Title":  "Alive-or-Dead",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/t0TLHTc"
+    },
+    {
+        "Song":  "Alive-or-Dead",
+        "Title":  "Alive-or-Dead",
         "Service":  "YouTube",
         "Streams":  200330,
         "URL":  "https://youtu.be/rZ1mpH8iXQc"
@@ -124,6 +145,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/alone/1102275944?i=1102275963"
+    },
+    {
+        "Song":  "alone",
+        "Title":  "alone",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/dEEv5RJ"
     },
     {
         "Song":  "alone",
@@ -170,6 +198,13 @@
     {
         "Song":  "anemone",
         "Title":  "anemone",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/udeiioW"
+    },
+    {
+        "Song":  "anemone",
+        "Title":  "anemone",
         "Service":  "YouTube",
         "Streams":  248814,
         "URL":  "https://youtu.be/7RDR_gMAZok"
@@ -212,6 +247,13 @@
     {
         "Song":  "Arcadia Girl",
         "Title":  "Arcadia Girl",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/wNzsXyI"
+    },
+    {
+        "Song":  "Arcadia Girl",
+        "Title":  "Arcadia Girl",
         "Service":  "YouTube",
         "Streams":  123527,
         "URL":  "https://youtu.be/TwMx4bJ30Tk"
@@ -240,6 +282,13 @@
     {
         "Song":  "At the drop of a hat",
         "Title":  "At the drop of a hat",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/wnBBczZ"
+    },
+    {
+        "Song":  "At the drop of a hat",
+        "Title":  "At the drop of a hat",
         "Service":  "YouTube",
         "Streams":  136282,
         "URL":  "https://youtu.be/pa-zUO820-0"
@@ -264,6 +313,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/awkward/1187856204?i=1187856229"
+    },
+    {
+        "Song":  "Awkward",
+        "Title":  "Awkward",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/eTABbRH"
     },
     {
         "Song":  "Awkward",
@@ -303,6 +359,13 @@
     {
         "Song":  "azure",
         "Title":  "azure",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/WTsuCgs"
+    },
+    {
+        "Song":  "azure",
+        "Title":  "azure",
         "Service":  "YouTube",
         "Streams":  187039,
         "URL":  "https://youtu.be/QZqKqAIdxak"
@@ -327,6 +390,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/balance/1643608830?i=1643608832"
+    },
+    {
+        "Song":  "Balance",
+        "Title":  "Balance",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/Muh2IIV"
     },
     {
         "Song":  "Balance",
@@ -358,6 +428,13 @@
     },
     {
         "Song":  "Beauty and the beast",
+        "Title":  "Beauty and the beast",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/r8OaZqs"
+    },
+    {
+        "Song":  "Beauty and the beast",
         "Title":  "Beauty and the Beast",
         "Service":  "YouTube",
         "Streams":  90350,
@@ -383,6 +460,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/before-yesterday/1102275944?i=1102275960"
+    },
+    {
+        "Song":  "Before Yesterday",
+        "Title":  "Before Yesterday",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/maZzNqB"
     },
     {
         "Song":  "Before Yesterday",
@@ -418,6 +502,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/us/album/bestie/1766918192?i=1766918199"
+    },
+    {
+        "Song":  "Bestie",
+        "Title":  "Bestie",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/JVz18Gm"
     },
     {
         "Song":  "Bestie",
@@ -464,6 +555,13 @@
     {
         "Song":  "BLACK HOLE",
         "Title":  "BLACK HOLE",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/wOXsFC5"
+    },
+    {
+        "Song":  "BLACK HOLE",
+        "Title":  "BLACK HOLE",
         "Service":  "YouTube",
         "Streams":  478069,
         "URL":  "https://youtu.be/17M5oBuccOY"
@@ -488,6 +586,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/blooming/1484639785?i=1484639980"
+    },
+    {
+        "Song":  "Blooming",
+        "Title":  "Blooming",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/WSjYA5p"
     },
     {
         "Song":  "Blooming",
@@ -534,6 +639,13 @@
     {
         "Song":  "Brand-New Road",
         "Title":  "Brand-New Road",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "Brand-New Road",
+        "Title":  "Brand-New Road",
         "Service":  "YouTube",
         "Streams":  68449,
         "URL":  "https://youtu.be/_KVaSaQmb0k"
@@ -558,6 +670,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/us/album/brightest-star/1766918192?i=1766918201"
+    },
+    {
+        "Song":  "Brightest Star",
+        "Title":  "Brightest Star",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/fZUF3Ri"
     },
     {
         "Song":  "Brightest Star",
@@ -586,6 +705,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/bubble/1484639785?i=1484639795"
+    },
+    {
+        "Song":  "Bubble",
+        "Title":  "Bubble",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/EpoRbAC"
     },
     {
         "Song":  "Bubble",
@@ -639,6 +765,13 @@
     {
         "Song":  "Carry on living",
         "Title":  "Carry on living",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/4YtGYLC"
+    },
+    {
+        "Song":  "Carry on living",
+        "Title":  "Carry on living",
         "Service":  "YouTube",
         "Streams":  183344,
         "URL":  "https://youtu.be/Rylf8-NaJuk"
@@ -670,6 +803,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/catharsis/1484639785?i=1484639979"
+    },
+    {
+        "Song":  "Catharsis [カタルシス]",
+        "Title":  "Catharsis [カタルシス]",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/zlLKX1B"
     },
     {
         "Song":  "Catharsis [カタルシス]",
@@ -709,6 +849,13 @@
     {
         "Song":  "CHEMICAL REACTION",
         "Title":  "CHEMICAL REACTION",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/Vw1Z2bN"
+    },
+    {
+        "Song":  "CHEMICAL REACTION",
+        "Title":  "CHEMICAL REACTION",
         "Service":  "YouTube",
         "Streams":  280494,
         "URL":  "https://youtu.be/42uOmIhh2Vs"
@@ -733,6 +880,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/choose-me/1253769455?i=1253770874"
+    },
+    {
+        "Song":  "Choose me",
+        "Title":  "Choose me",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/DFgDaWr"
     },
     {
         "Song":  "Choose me",
@@ -786,6 +940,13 @@
     {
         "Song":  "CLANG",
         "Title":  "CLANG",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/iEx3q5b"
+    },
+    {
+        "Song":  "CLANG",
+        "Title":  "CLANG",
         "Service":  "YouTube",
         "Streams":  235513,
         "URL":  "https://youtu.be/RNJxKL5Ylf4"
@@ -817,6 +978,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/corallium/1589761551?i=1589761554"
+    },
+    {
+        "Song":  "Corallium",
+        "Title":  "Corallium",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/unERmlw"
     },
     {
         "Song":  "Corallium",
@@ -855,6 +1023,13 @@
     },
     {
         "Song":  "CROSS",
+        "Title":  "CROSS",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/mnS80bU"
+    },
+    {
+        "Song":  "CROSS",
         "Title":  "BAND-MAID / CROSS (Official Live Video)",
         "Service":  "YouTube",
         "Streams":  952208,
@@ -887,6 +1062,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/daydreaming/1253769455?i=1253769458"
+    },
+    {
+        "Song":  "Daydreaming",
+        "Title":  "Daydreaming",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/q05nMPk"
     },
     {
         "Song":  "Daydreaming",
@@ -947,6 +1129,13 @@
     {
         "Song":  "decided by myself",
         "Title":  "decided by myself",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/fpfdO0p"
+    },
+    {
+        "Song":  "decided by myself",
+        "Title":  "decided by myself",
         "Service":  "YouTube",
         "Streams":  150482,
         "URL":  "https://youtu.be/aLYJuZT37i4"
@@ -971,6 +1160,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/dice/1339560562?i=1339560706"
+    },
+    {
+        "Song":  "DICE",
+        "Title":  "DICE",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/lZb4Txd"
     },
     {
         "Song":  "DICE",
@@ -1030,6 +1226,13 @@
     },
     {
         "Song":  "Different",
+        "Title":  "Different",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/HJO2E3x"
+    },
+    {
+        "Song":  "Different",
         "Title":  "BAND-MAID / Different (Official Music Video)",
         "Service":  "YouTube",
         "Streams":  4511723,
@@ -1073,6 +1276,13 @@
     {
         "Song":  "Dilemma",
         "Title":  "Dilemma",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/QXw1Fl3"
+    },
+    {
+        "Song":  "Dilemma",
+        "Title":  "Dilemma",
         "Service":  "YouTube",
         "Streams":  194455,
         "URL":  "https://youtu.be/aYet_nevCGs"
@@ -1101,6 +1311,13 @@
     {
         "Song":  "Dilly-Dally",
         "Title":  "Dilly-Dally",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/32gvaCN"
+    },
+    {
+        "Song":  "Dilly-Dally",
+        "Title":  "Dilly-Dally",
         "Service":  "YouTube",
         "Streams":  12715,
         "URL":  "https://youtu.be/7gE2cJFw_xg"
@@ -1125,6 +1342,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/domination/1339560562?i=1339560693"
+    },
+    {
+        "Song":  "DOMINATION",
+        "Title":  "DOMINATION",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/BoAWPZk"
     },
     {
         "Song":  "DOMINATION",
@@ -1184,6 +1408,13 @@
     },
     {
         "Song":  "Don\u0027t apply the brake",
+        "Title":  "Don\u0027t apply the brake",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/YcptvW6"
+    },
+    {
+        "Song":  "Don\u0027t apply the brake",
         "Title":  "Don\u0027t Apply The Brake",
         "Service":  "YouTube",
         "Streams":  132131,
@@ -1213,6 +1444,13 @@
     {
         "Song":  "Don\u0027t be long",
         "Title":  "Don\u0027t be long",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/jrb8iK7"
+    },
+    {
+        "Song":  "Don\u0027t be long",
+        "Title":  "Don\u0027t be long",
         "Service":  "YouTube",
         "Streams":  67956,
         "URL":  "https://youtu.be/XDZYylY1IHE"
@@ -1237,6 +1475,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/dont-let-me-down/1052639752?i=1052639837"
+    },
+    {
+        "Song":  "Don\u0027t let me down",
+        "Title":  "Don\u0027t let me down",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/Iu93jSh"
     },
     {
         "Song":  "Don\u0027t let me down",
@@ -1272,6 +1517,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/dont-you-tell-me/1187856204?i=1187856211"
+    },
+    {
+        "Song":  "Don\u0027t you tell ME",
+        "Title":  "Don\u0027t you tell ME",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/fSpXBNO"
     },
     {
         "Song":  "Don\u0027t you tell ME",
@@ -1321,6 +1573,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/endless-story/1484639785?i=1484639789"
+    },
+    {
+        "Song":  "endless Story",
+        "Title":  "endless Story",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/SmGXqb4"
     },
     {
         "Song":  "endless Story",
@@ -1381,6 +1640,13 @@
     {
         "Song":  "FATE",
         "Title":  "FATE",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/ywjRpya"
+    },
+    {
+        "Song":  "FATE",
+        "Title":  "FATE",
         "Service":  "YouTube",
         "Streams":  214889,
         "URL":  "https://youtu.be/ifUSCn9l61M"
@@ -1416,6 +1682,13 @@
     {
         "Song":  "flying high",
         "Title":  "flying high",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/siiQ71w"
+    },
+    {
+        "Song":  "flying high",
+        "Title":  "flying high",
         "Service":  "YouTube",
         "Streams":  151916,
         "URL":  "https://youtu.be/Q_qA4BtEV6c"
@@ -1440,6 +1713,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/us/album/forbidden-tale/1766918192?i=1766918198"
+    },
+    {
+        "Song":  "Forbidden tale",
+        "Title":  "Forbidden tale",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/QEw4M81"
     },
     {
         "Song":  "Forbidden tale",
@@ -1475,6 +1755,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/freedom/1102275944?i=1102275957"
+    },
+    {
+        "Song":  "FREEDOM",
+        "Title":  "FREEDOM",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/BVCETYh"
     },
     {
         "Song":  "FREEDOM",
@@ -1521,6 +1808,13 @@
     {
         "Song":  "FREEZER",
         "Title":  "FREEZER",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/uMxQKTr"
+    },
+    {
+        "Song":  "FREEZER",
+        "Title":  "FREEZER",
         "Service":  "YouTube",
         "Streams":  227255,
         "URL":  "https://youtu.be/x7G0VEpWd_A"
@@ -1545,6 +1839,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/from-now-on/1643608830?i=1643608831"
+    },
+    {
+        "Song":  "from now on",
+        "Title":  "from now on",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/GOhqor4"
     },
     {
         "Song":  "from now on",
@@ -1584,6 +1885,13 @@
     {
         "Song":  "Get to the top",
         "Title":  "Get to the top",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/oo5YiOJ"
+    },
+    {
+        "Song":  "Get to the top",
+        "Title":  "Get to the top",
         "Service":  "YouTube",
         "Streams":  110544,
         "URL":  "https://youtu.be/z0KTMEXJ1RE"
@@ -1608,6 +1916,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/gioncho/1457018115?i=1457018124"
+    },
+    {
+        "Song":  "Gion-Cho [祇園町]",
+        "Title":  "Gion-Cho [祇園町]",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/piwG8r1"
     },
     {
         "Song":  "Gion-Cho [祇園町]",
@@ -1647,6 +1962,13 @@
     {
         "Song":  "Giovanni",
         "Title":  "Giovanni",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/LEtNzGP"
+    },
+    {
+        "Song":  "Giovanni",
+        "Title":  "Giovanni",
         "Service":  "YouTube",
         "Streams":  341676,
         "URL":  "https://youtu.be/0JZkjDhxohM"
@@ -1671,6 +1993,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/glory/1447869640?i=1447869911"
+    },
+    {
+        "Song":  "glory",
+        "Title":  "glory",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/QYcj53Q"
     },
     {
         "Song":  "glory",
@@ -1731,6 +2060,13 @@
     {
         "Song":  "Go easy",
         "Title":  "Go easy",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/HOnIzHB"
+    },
+    {
+        "Song":  "Go easy",
+        "Title":  "Go easy",
         "Service":  "YouTube",
         "Streams":  146761,
         "URL":  "https://youtu.be/ZBbvy6Qx4wE"
@@ -1755,6 +2091,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/hate/1643608830?i=1643608838"
+    },
+    {
+        "Song":  "HATE?",
+        "Title":  "HATE?",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/JdWe6bt"
     },
     {
         "Song":  "HATE?",
@@ -1794,6 +2137,13 @@
     {
         "Song":  "H-G-K",
         "Title":  "H-G-K",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/XEw1SmW"
+    },
+    {
+        "Song":  "H-G-K",
+        "Title":  "H-G-K",
         "Service":  "YouTube",
         "Streams":  414137,
         "URL":  "https://youtu.be/VAFq8-Xnf_8"
@@ -1818,6 +2168,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/hibana/1589761551?i=1589761553"
+    },
+    {
+        "Song":  "Hibana [火花]",
+        "Title":  "Hibana [火花]",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/8TZTPoQ"
     },
     {
         "Song":  "Hibana [火花]",
@@ -1850,6 +2207,13 @@
     {
         "Song":  "hide-and-seek",
         "Title":  "hide-and-seek",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/my16sGr"
+    },
+    {
+        "Song":  "hide-and-seek",
+        "Title":  "hide-and-seek",
         "Service":  "YouTube",
         "Streams":  76500,
         "URL":  "https://youtu.be/VQgMoXzcgaM"
@@ -1874,6 +2238,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/honey/1339560562?i=1339560707"
+    },
+    {
+        "Song":  "Honey [ハニー]",
+        "Title":  "Honey [ハニー]",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/8ImXUav"
     },
     {
         "Song":  "Honey [ハニー]",
@@ -1912,6 +2283,13 @@
     },
     {
         "Song":  "HONKAI [本懐]",
+        "Title":  "HONKAI [本懐]",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/CcOgr90"
+    },
+    {
+        "Song":  "HONKAI [本懐]",
         "Title":  "本懐",
         "Service":  "YouTube",
         "Streams":  437371,
@@ -1937,6 +2315,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/i-cant-live-without-you/1339560562?i=1339560690"
+    },
+    {
+        "Song":  "I can\u0027t live without you.",
+        "Title":  "I can\u0027t live without you.",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/wcgbCR1"
     },
     {
         "Song":  "I can\u0027t live without you.",
@@ -1983,6 +2368,13 @@
     {
         "Song":  "I still seek revenge.",
         "Title":  "I still seek revenge.",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/9N1oCbN"
+    },
+    {
+        "Song":  "I still seek revenge.",
+        "Title":  "I still seek revenge.",
         "Service":  "YouTube",
         "Streams":  403169,
         "URL":  "https://youtu.be/H0xsEwtKUkQ"
@@ -2011,6 +2403,13 @@
     {
         "Song":  "I\u0027ll",
         "Title":  "I\u0027ll",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/20kFGEC"
+    },
+    {
+        "Song":  "I\u0027ll",
+        "Title":  "I\u0027ll",
         "Service":  "YouTube",
         "Streams":  354150,
         "URL":  "https://youtu.be/S2kocC6yMik"
@@ -2035,6 +2434,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/influencer/1643608830?i=1643608837"
+    },
+    {
+        "Song":  "influencer",
+        "Title":  "influencer",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/tYEHLaJ"
     },
     {
         "Song":  "influencer",
@@ -2074,6 +2480,13 @@
     {
         "Song":  "Letters to you",
         "Title":  "Letters to you",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/VaMKnoP"
+    },
+    {
+        "Song":  "Letters to you",
+        "Title":  "Letters to you",
         "Service":  "YouTube",
         "Streams":  178212,
         "URL":  "https://youtu.be/T7lS8NkIapQ"
@@ -2098,6 +2511,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/liberal/1484639785?i=1484639788"
+    },
+    {
+        "Song":  "Liberal",
+        "Title":  "Liberal",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/xyTilIYW"
     },
     {
         "Song":  "Liberal",
@@ -2130,6 +2550,13 @@
     {
         "Song":  "Lock and Load",
         "Title":  "Lock and Load",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/HaQaM8x"
+    },
+    {
+        "Song":  "Lock and Load",
+        "Title":  "Lock and Load",
         "Service":  "YouTube",
         "Streams":  13677,
         "URL":  "https://youtu.be/yBx52tnrqZw"
@@ -2158,6 +2585,13 @@
     {
         "Song":  "LOOK AT ME",
         "Title":  "LOOK AT ME",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/Va0wUkQ"
+    },
+    {
+        "Song":  "LOOK AT ME",
+        "Title":  "LOOK AT ME",
         "Service":  "YouTube",
         "Streams":  82084,
         "URL":  "https://youtu.be/xOqnN00feSc"
@@ -2182,6 +2616,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/us/album/magie/1766918192?i=1766918193"
+    },
+    {
+        "Song":  "Magie",
+        "Title":  "Magie",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/y2WiX7Z"
     },
     {
         "Song":  "Magie",
@@ -2217,6 +2658,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/manners/1542316961?i=1542316965"
+    },
+    {
+        "Song":  "Manners",
+        "Title":  "Manners",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/ic1jWr7"
     },
     {
         "Song":  "Manners",
@@ -2263,6 +2711,13 @@
     {
         "Song":  "matchless GUM",
         "Title":  "matchless GUM",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/fmCUBRB"
+    },
+    {
+        "Song":  "matchless GUM",
+        "Title":  "matchless GUM",
         "Service":  "YouTube",
         "Streams":  88868,
         "URL":  "https://youtu.be/ljt_YGfHQr4"
@@ -2287,6 +2742,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/memorable/1669488867?i=1669488868"
+    },
+    {
+        "Song":  "Memorable",
+        "Title":  "Memorable",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/ajDFLNN"
     },
     {
         "Song":  "Memorable",
@@ -2333,6 +2795,13 @@
     {
         "Song":  "Mirage",
         "Title":  "Mirage",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/uSBBDJG"
+    },
+    {
+        "Song":  "Mirage",
+        "Title":  "Mirage",
         "Service":  "YouTube",
         "Streams":  170736,
         "URL":  "https://youtu.be/UBLKqA51hZs"
@@ -2357,6 +2826,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/moratorium/1187856204?i=1187856213"
+    },
+    {
+        "Song":  "Moratorium [モラトリアム]",
+        "Title":  "Moratorium [モラトリアム]",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/gjFWxE3"
     },
     {
         "Song":  "Moratorium [モラトリアム]",
@@ -2385,6 +2861,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/no-god/1542316961?i=1542316963"
+    },
+    {
+        "Song":  "NO GOD",
+        "Title":  "NO GOD",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/2bp8osb"
     },
     {
         "Song":  "NO GOD",
@@ -2431,6 +2914,13 @@
     {
         "Song":  "One and only",
         "Title":  "One and only",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/8oM40EG"
+    },
+    {
+        "Song":  "One and only",
+        "Title":  "One and only",
         "Service":  "YouTube",
         "Streams":  227372,
         "URL":  "https://youtu.be/f7_VMSupSlA"
@@ -2472,6 +2962,13 @@
     },
     {
         "Song":  "onset",
+        "Title":  "onset",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "onset",
         "Title":  "BAND-MAID / onset (Official Live Video)",
         "Service":  "YouTube",
         "Streams":  3653788,
@@ -2497,6 +2994,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/ooparts/1187856204?i=1187856219"
+    },
+    {
+        "Song":  "OOPARTS",
+        "Title":  "OOPARTS",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/Mn19wHN"
     },
     {
         "Song":  "OOPARTS",
@@ -2529,6 +3033,13 @@
     {
         "Song":  "ORDER",
         "Title":  "ORDER",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/ntmTA7Y"
+    },
+    {
+        "Song":  "ORDER",
+        "Title":  "ORDER",
         "Service":  "YouTube",
         "Streams":  110611,
         "URL":  "https://youtu.be/3J-TWdHqjoQ"
@@ -2557,6 +3068,13 @@
     {
         "Song":  "PAGE",
         "Title":  "PAGE",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/GkI4kJ4"
+    },
+    {
+        "Song":  "PAGE",
+        "Title":  "PAGE",
         "Service":  "YouTube",
         "Streams":  166655,
         "URL":  "https://youtu.be/nxCjEu4_7rU"
@@ -2581,6 +3099,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/play/1253769455?i=1253770875"
+    },
+    {
+        "Song":  "Play",
+        "Title":  "Play",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/EcLtcJB"
     },
     {
         "Song":  "Play",
@@ -2640,6 +3165,13 @@
     },
     {
         "Song":  "Present Perfect",
+        "Title":  "Present Perfect",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/faMklMj"
+    },
+    {
+        "Song":  "Present Perfect",
         "Title":  "BAND-MAID / Present Perfect (Official Music Video)",
         "Service":  "YouTube",
         "Streams":  197388,
@@ -2676,6 +3208,13 @@
     {
         "Song":  "Price of Pride",
         "Title":  "Price of Pride",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/iBDYnVl"
+    },
+    {
+        "Song":  "Price of Pride",
+        "Title":  "Price of Pride",
         "Service":  "YouTube",
         "Streams":  135114,
         "URL":  "https://youtu.be/wkzVmMRcC0U"
@@ -2700,6 +3239,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/us/album/protect-you/1766918192?i=1766918196"
+    },
+    {
+        "Song":  "Protect You",
+        "Title":  "Protect You",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/7SifySX"
     },
     {
         "Song":  "Protect You",
@@ -2745,6 +3291,13 @@
     },
     {
         "Song":  "Puzzle",
+        "Title":  "Puzzle",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/vT1Zx9n"
+    },
+    {
+        "Song":  "Puzzle",
         "Title":  "BAND-MAID / Puzzle (Official Live Video)",
         "Service":  "YouTube",
         "Streams":  1121750,
@@ -2784,6 +3337,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/ready-to-rock-single/1802097606"
+    },
+    {
+        "Song":  "Ready to Rock",
+        "Title":  "Ready to Rock",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/shzVonz"
     },
     {
         "Song":  "Ready to Rock",
@@ -2843,6 +3403,13 @@
     },
     {
         "Song":  "REAL EXISTENCE",
+        "Title":  "REAL EXISTENCE",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/cAkBlsY"
+    },
+    {
+        "Song":  "REAL EXISTENCE",
         "Title":  "BAND-MAID / REAL EXISTENCE (Official Music Video)",
         "Service":  "YouTube",
         "Streams":  16073831,
@@ -2892,6 +3459,13 @@
     },
     {
         "Song":  "Rinne [輪廻]",
+        "Title":  "Rinne [輪廻]",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/vjBepMN"
+    },
+    {
+        "Song":  "Rinne [輪廻]",
         "Title":  "BAND-MAID / 輪廻  \"RINNE\" (Official Music Video)",
         "Service":  "YouTube",
         "Streams":  2225227,
@@ -2931,6 +3505,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/rock-in-me/1339560562?i=1339560696"
+    },
+    {
+        "Song":  "Rock in me",
+        "Title":  "Rock in me",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/2JUPsO6"
     },
     {
         "Song":  "Rock in me",
@@ -2976,6 +3557,13 @@
     },
     {
         "Song":  "SAYONAKIDORI [サヨナキドリ]",
+        "Title":  "SAYONAKIDORI [サヨナキドリ]",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/webPbxe"
+    },
+    {
+        "Song":  "SAYONAKIDORI [サヨナキドリ]",
         "Title":  "BAND-MAID / サヨナキドリ \"Sayonakidori\"  Acoustic Ver.  (Official Live Video)",
         "Service":  "YouTube",
         "Streams":  853908,
@@ -3008,6 +3596,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/screaming/1408400481?i=1408400492"
+    },
+    {
+        "Song":  "Screaming",
+        "Title":  "Screaming",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/BYYTgKX"
     },
     {
         "Song":  "Screaming",
@@ -3050,6 +3645,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/secret-my-lips/1187856204?i=1187856231"
+    },
+    {
+        "Song":  "secret My lips",
+        "Title":  "secret My lips",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/LkCkUNs"
     },
     {
         "Song":  "secret My lips",
@@ -3116,6 +3718,13 @@
     },
     {
         "Song":  "Sense",
+        "Title":  "Sense",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/9g1AxFh"
+    },
+    {
+        "Song":  "Sense",
         "Title":  "BAND-MAID / Sense (Official Music Video)",
         "Service":  "YouTube",
         "Streams":  4864700,
@@ -3165,6 +3774,13 @@
     },
     {
         "Song":  "Shake That!!",
+        "Title":  "Shake That!!",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/UYRIprj"
+    },
+    {
+        "Song":  "Shake That!!",
         "Title":  "Shake That",
         "Service":  "YouTube",
         "Streams":  221350,
@@ -3197,6 +3813,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/us/album/shambles/1697289079?i=1697289080"
+    },
+    {
+        "Song":  "Shambles",
+        "Title":  "Shambles",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/uLOkrrZ"
     },
     {
         "Song":  "Shambles",
@@ -3249,6 +3872,13 @@
     },
     {
         "Song":  "Show Them",
+        "Title":  "Show Them",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/i9dFAQY"
+    },
+    {
+        "Song":  "Show Them",
         "Title":  "BAND-MAID with The Warning / SHOW THEM (Official Music Video)",
         "Service":  "YouTube",
         "Streams":  2276400,
@@ -3292,6 +3922,13 @@
     {
         "Song":  "SION",
         "Title":  "SION",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/WETr1uR"
+    },
+    {
+        "Song":  "SION",
+        "Title":  "SION",
         "Service":  "YouTube",
         "Streams":  13458,
         "URL":  "https://youtu.be/u9TrM7r9yOc"
@@ -3316,6 +3953,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/smile/1447869833?i=1447869835"
+    },
+    {
+        "Song":  "Smile",
+        "Title":  "Smile",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/nR09yLV"
     },
     {
         "Song":  "Smile",
@@ -3348,6 +3992,13 @@
     {
         "Song":  "So,What?",
         "Title":  "So,What?",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/C7LBtsP"
+    },
+    {
+        "Song":  "So,What?",
+        "Title":  "So,What?",
         "Service":  "YouTube",
         "Streams":  151370,
         "URL":  "https://youtu.be/di1PjUakkLw"
@@ -3372,6 +4023,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/spirit/1339560562?i=1339560695"
+    },
+    {
+        "Song":  "Spirit!!",
+        "Title":  "Spirit!!",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/Hv9dfKD"
     },
     {
         "Song":  "Spirit!!",
@@ -3407,6 +4065,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/start-over/1408400481?i=1408400491"
+    },
+    {
+        "Song":  "start over",
+        "Title":  "start over",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/WUbNsVy"
     },
     {
         "Song":  "start over",
@@ -3453,6 +4118,13 @@
     {
         "Song":  "SUPER SUNSHINE",
         "Title":  "SUPER SUNSHINE",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/TYPMGFX"
+    },
+    {
+        "Song":  "SUPER SUNSHINE",
+        "Title":  "SUPER SUNSHINE",
         "Service":  "YouTube",
         "Streams":  14936,
         "URL":  "https://youtu.be/J_dd47xa31E"
@@ -3477,6 +4149,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/take-me-higher/1187856204?i=1187856220"
+    },
+    {
+        "Song":  "Take me higher!!",
+        "Title":  "Take me higher!!",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/raTZ5V5"
     },
     {
         "Song":  "Take me higher!!",
@@ -3509,6 +4188,13 @@
     {
         "Song":  "TAMAYA!",
         "Title":  "TAMAYA!",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/MRf1KeZ"
+    },
+    {
+        "Song":  "TAMAYA!",
+        "Title":  "TAMAYA!",
         "Service":  "YouTube",
         "Streams":  166298,
         "URL":  "https://youtu.be/vvpswsFRawM"
@@ -3533,6 +4219,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/the-dragon-cries/1484639785?i=1484639976"
+    },
+    {
+        "Song":  "The Dragon Cries",
+        "Title":  "The Dragon Cries",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/NBzH62j"
     },
     {
         "Song":  "The Dragon Cries",
@@ -3568,6 +4261,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/the-non-fiction-days/1102275944?i=1102275950"
+    },
+    {
+        "Song":  "the non-fiction days",
+        "Title":  "the non-fiction days",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/tCoSSxO"
     },
     {
         "Song":  "the non-fiction days",
@@ -3614,6 +4314,13 @@
     {
         "Song":  "The one",
         "Title":  "The one",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/eEwEQUa"
+    },
+    {
+        "Song":  "The one",
+        "Title":  "The one",
         "Service":  "YouTube",
         "Streams":  197596,
         "URL":  "https://youtu.be/FORNyqfjSmM"
@@ -3638,6 +4345,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/thrill/1052639752?i=1052639755"
+    },
+    {
+        "Song":  "Thrill [スリル]",
+        "Title":  "Thrill [スリル]",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/NNuHbRG"
     },
     {
         "Song":  "Thrill [スリル]",
@@ -3691,6 +4405,13 @@
     {
         "Song":  "TIME",
         "Title":  "TIME",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/cximFm1"
+    },
+    {
+        "Song":  "TIME",
+        "Title":  "TIME",
         "Service":  "YouTube",
         "Streams":  129017,
         "URL":  "https://youtu.be/GEvS_V9bLDE"
@@ -3719,6 +4440,13 @@
     {
         "Song":  "Toi et moi",
         "Title":  "Toi et moi",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/H2B7gtv"
+    },
+    {
+        "Song":  "Toi et moi",
+        "Title":  "Toi et moi",
         "Service":  "YouTube",
         "Streams":  134495,
         "URL":  "https://youtu.be/V9VDAoYf0A0"
@@ -3743,6 +4471,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/turn-me-on/1339560562?i=1339560701"
+    },
+    {
+        "Song":  "Turn me on",
+        "Title":  "Turn me on",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/fSNRSZy"
     },
     {
         "Song":  "Turn me on",
@@ -3782,6 +4517,13 @@
     {
         "Song":  "Unfair game",
         "Title":  "Unfair game",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/WjvZ1JH"
+    },
+    {
+        "Song":  "Unfair game",
+        "Title":  "Unfair game",
         "Service":  "YouTube",
         "Streams":  77106,
         "URL":  "https://youtu.be/wlDCBVsRi2g"
@@ -3806,6 +4548,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/unleash/1643608830?i=1643608833"
+    },
+    {
+        "Song":  "Unleash!!!!!",
+        "Title":  "Unleash!!!!!",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/KhZGyRh"
     },
     {
         "Song":  "Unleash!!!!!",
@@ -3858,6 +4607,13 @@
     },
     {
         "Song":  "Warning!",
+        "Title":  "Warning!",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/bcNLXoG"
+    },
+    {
+        "Song":  "Warning!",
         "Title":  "BAND-MAID / Warning! (Official Music Video)",
         "Service":  "YouTube",
         "Streams":  2605852,
@@ -3897,6 +4653,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/song/what-is-justice/1823578453"
+    },
+    {
+        "Song":  "What is justice?",
+        "Title":  "What is justice?",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/mWDSOPb"
     },
     {
         "Song":  "What is justice?",
@@ -3950,6 +4713,13 @@
     {
         "Song":  "Why Why Why",
         "Title":  "Why Why Why",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/NHOWRz9U"
+    },
+    {
+        "Song":  "Why Why Why",
+        "Title":  "Why Why Why",
         "Service":  "YouTube",
         "Streams":  312489,
         "URL":  "https://youtu.be/bCHjyiie7MQ"
@@ -3974,6 +4744,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/wonderland/1484639785?i=1484639792"
+    },
+    {
+        "Song":  "Wonderland",
+        "Title":  "Wonderland",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/Zt2sSk8"
     },
     {
         "Song":  "Wonderland",
@@ -4009,6 +4786,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/album/yolo/1187856204?i=1187856214"
+    },
+    {
+        "Song":  "YOLO",
+        "Title":  "YOLO",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/AOkKg5V"
     },
     {
         "Song":  "YOLO",
@@ -4076,6 +4860,13 @@
     {
         "Song":  "you.",
         "Title":  "you.",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/vfZDUL5"
+    },
+    {
+        "Song":  "you.",
+        "Title":  "you.",
         "Service":  "YouTube",
         "Streams":  263788,
         "URL":  "https://youtu.be/vHOBRzjHLMo"
@@ -4104,6 +4895,13 @@
     {
         "Song":  "YURAGU",
         "Title":  "YURAGU",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/lofcgzT"
+    },
+    {
+        "Song":  "YURAGU",
+        "Title":  "YURAGU",
         "Service":  "YouTube",
         "Streams":  91314,
         "URL":  "https://youtu.be/v2ZFMzL0QPA"
@@ -4128,6 +4926,13 @@
         "Service":  "Apple",
         "Streams":  0,
         "URL":  "https://music.apple.com/ca/song/zen/1785151009"
+    },
+    {
+        "Song":  "Zen",
+        "Title":  "Zen",
+        "Service":  "LINE Music",
+        "Streams":  0,
+        "URL":  "https://lin.ee/0N5hGUc"
     },
     {
         "Song":  "Zen",
