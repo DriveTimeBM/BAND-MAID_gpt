@@ -36,6 +36,13 @@
     },
     {
         "Song":  "about Us",
+        "Title":  "about Us",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "about Us",
         "Title":  "BAND-MAID / about Us (Official Live Video)",
         "Service":  "YouTube",
         "Streams":  1162748,
@@ -82,6 +89,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/266798983"
+    },
+    {
+        "Song":  "After Life",
+        "Title":  "After Life",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "After Life",
@@ -135,6 +149,13 @@
     {
         "Song":  "Alive-or-Dead",
         "Title":  "Alive-or-Dead",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "Alive-or-Dead",
+        "Title":  "Alive-or-Dead",
         "Service":  "YouTube",
         "Streams":  200330,
         "URL":  "https://youtu.be/rZ1mpH8iXQc"
@@ -180,6 +201,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/403361270"
+    },
+    {
+        "Song":  "alone",
+        "Title":  "alone",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "alone",
@@ -240,6 +268,13 @@
     {
         "Song":  "anemone",
         "Title":  "anemone",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "anemone",
+        "Title":  "anemone",
         "Service":  "YouTube",
         "Streams":  248814,
         "URL":  "https://youtu.be/7RDR_gMAZok"
@@ -296,6 +331,13 @@
     {
         "Song":  "Arcadia Girl",
         "Title":  "Arcadia Girl",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "Arcadia Girl",
+        "Title":  "Arcadia Girl",
         "Service":  "YouTube",
         "Streams":  123527,
         "URL":  "https://youtu.be/TwMx4bJ30Tk"
@@ -338,6 +380,13 @@
     {
         "Song":  "At the drop of a hat",
         "Title":  "At the drop of a hat",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "At the drop of a hat",
+        "Title":  "At the drop of a hat",
         "Service":  "YouTube",
         "Streams":  136282,
         "URL":  "https://youtu.be/pa-zUO820-0"
@@ -376,6 +425,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/403841633"
+    },
+    {
+        "Song":  "Awkward",
+        "Title":  "Awkward",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "Awkward",
@@ -429,6 +485,13 @@
     {
         "Song":  "azure",
         "Title":  "azure",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "azure",
+        "Title":  "azure",
         "Service":  "YouTube",
         "Streams":  187039,
         "URL":  "https://youtu.be/QZqKqAIdxak"
@@ -467,6 +530,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/266823576"
+    },
+    {
+        "Song":  "Balance",
+        "Title":  "Balance",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "Balance",
@@ -512,6 +582,13 @@
     },
     {
         "Song":  "Beauty and the beast",
+        "Title":  "Beauty and the beast",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "Beauty and the beast",
         "Title":  "Beauty and the Beast",
         "Service":  "YouTube",
         "Streams":  90350,
@@ -551,6 +628,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/403361269"
+    },
+    {
+        "Song":  "Before Yesterday",
+        "Title":  "Before Yesterday",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "Before Yesterday",
@@ -600,6 +684,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/386599276"
+    },
+    {
+        "Song":  "Bestie",
+        "Title":  "Bestie",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "Bestie",
@@ -660,6 +751,13 @@
     {
         "Song":  "BLACK HOLE",
         "Title":  "BLACK HOLE",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "BLACK HOLE",
+        "Title":  "BLACK HOLE",
         "Service":  "YouTube",
         "Streams":  478069,
         "URL":  "https://youtu.be/17M5oBuccOY"
@@ -698,6 +796,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/404518307"
+    },
+    {
+        "Song":  "Blooming",
+        "Title":  "Blooming",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "Blooming",
@@ -758,6 +863,13 @@
     {
         "Song":  "Brand-New Road",
         "Title":  "Brand-New Road",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "Brand-New Road",
+        "Title":  "Brand-New Road",
         "Service":  "YouTube",
         "Streams":  68449,
         "URL":  "https://youtu.be/_KVaSaQmb0k"
@@ -796,6 +908,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/386599277"
+    },
+    {
+        "Song":  "Brightest Star",
+        "Title":  "Brightest Star",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "Brightest Star",
@@ -838,6 +957,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/404518303"
+    },
+    {
+        "Song":  "Bubble",
+        "Title":  "Bubble",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "Bubble",
@@ -905,6 +1031,13 @@
     {
         "Song":  "Carry on living",
         "Title":  "Carry on living",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "Carry on living",
+        "Title":  "Carry on living",
         "Service":  "YouTube",
         "Streams":  183344,
         "URL":  "https://youtu.be/Rylf8-NaJuk"
@@ -950,6 +1083,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/404518306"
+    },
+    {
+        "Song":  "Catharsis [カタルシス]",
+        "Title":  "Catharsis [カタルシス]",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "Catharsis [カタルシス]",
@@ -1003,6 +1143,13 @@
     {
         "Song":  "CHEMICAL REACTION",
         "Title":  "CHEMICAL REACTION",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "CHEMICAL REACTION",
+        "Title":  "CHEMICAL REACTION",
         "Service":  "YouTube",
         "Streams":  280494,
         "URL":  "https://youtu.be/42uOmIhh2Vs"
@@ -1041,6 +1188,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/404591975"
+    },
+    {
+        "Song":  "Choose me",
+        "Title":  "Choose me",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "Choose me",
@@ -1108,6 +1262,13 @@
     {
         "Song":  "CLANG",
         "Title":  "CLANG",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "CLANG",
+        "Title":  "CLANG",
         "Service":  "YouTube",
         "Streams":  235513,
         "URL":  "https://youtu.be/RNJxKL5Ylf4"
@@ -1153,6 +1314,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/266823580"
+    },
+    {
+        "Song":  "Corallium",
+        "Title":  "Corallium",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "Corallium",
@@ -1205,6 +1373,13 @@
     },
     {
         "Song":  "CROSS",
+        "Title":  "CROSS",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "CROSS",
         "Title":  "BAND-MAID / CROSS (Official Live Video)",
         "Service":  "YouTube",
         "Streams":  952208,
@@ -1251,6 +1426,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/404518496"
+    },
+    {
+        "Song":  "Daydreaming",
+        "Title":  "Daydreaming",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "Daydreaming",
@@ -1325,6 +1507,13 @@
     {
         "Song":  "decided by myself",
         "Title":  "decided by myself",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "decided by myself",
+        "Title":  "decided by myself",
         "Service":  "YouTube",
         "Streams":  150482,
         "URL":  "https://youtu.be/aLYJuZT37i4"
@@ -1363,6 +1552,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/404518500"
+    },
+    {
+        "Song":  "DICE",
+        "Title":  "DICE",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "DICE",
@@ -1436,6 +1632,13 @@
     },
     {
         "Song":  "Different",
+        "Title":  "Different",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "Different",
         "Title":  "BAND-MAID / Different (Official Music Video)",
         "Service":  "YouTube",
         "Streams":  4511723,
@@ -1493,6 +1696,13 @@
     {
         "Song":  "Dilemma",
         "Title":  "Dilemma",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "Dilemma",
+        "Title":  "Dilemma",
         "Service":  "YouTube",
         "Streams":  194455,
         "URL":  "https://youtu.be/aYet_nevCGs"
@@ -1535,6 +1745,13 @@
     {
         "Song":  "Dilly-Dally",
         "Title":  "Dilly-Dally",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "Dilly-Dally",
+        "Title":  "Dilly-Dally",
         "Service":  "YouTube",
         "Streams":  12715,
         "URL":  "https://youtu.be/7gE2cJFw_xg"
@@ -1573,6 +1790,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/404518488"
+    },
+    {
+        "Song":  "DOMINATION",
+        "Title":  "DOMINATION",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "DOMINATION",
@@ -1646,6 +1870,13 @@
     },
     {
         "Song":  "Don\u0027t apply the brake",
+        "Title":  "Don\u0027t apply the brake",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "Don\u0027t apply the brake",
         "Title":  "Don\u0027t Apply The Brake",
         "Service":  "YouTube",
         "Streams":  132131,
@@ -1689,6 +1920,13 @@
     {
         "Song":  "Don\u0027t be long",
         "Title":  "Don\u0027t be long",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "Don\u0027t be long",
+        "Title":  "Don\u0027t be long",
         "Service":  "YouTube",
         "Streams":  67956,
         "URL":  "https://youtu.be/XDZYylY1IHE"
@@ -1725,6 +1963,13 @@
         "Song":  "Don\u0027t let me down",
         "Title":  "Don\u0027t let me down",
         "Service":  "Tidal",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "Don\u0027t let me down",
+        "Title":  "Don\u0027t let me down",
+        "Service":  "Deezer",
         "Streams":  0,
         "URL":  ""
     },
@@ -1776,6 +2021,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/403841623"
+    },
+    {
+        "Song":  "Don\u0027t you tell ME",
+        "Title":  "Don\u0027t you tell ME",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "Don\u0027t you tell ME",
@@ -1839,6 +2091,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/404518297"
+    },
+    {
+        "Song":  "endless Story",
+        "Title":  "endless Story",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "endless Story",
@@ -1913,6 +2172,13 @@
     {
         "Song":  "FATE",
         "Title":  "FATE",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "FATE",
+        "Title":  "FATE",
         "Service":  "YouTube",
         "Streams":  214889,
         "URL":  "https://youtu.be/ifUSCn9l61M"
@@ -1962,6 +2228,13 @@
     {
         "Song":  "flying high",
         "Title":  "flying high",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "flying high",
+        "Title":  "flying high",
         "Service":  "YouTube",
         "Streams":  151916,
         "URL":  "https://youtu.be/Q_qA4BtEV6c"
@@ -2000,6 +2273,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/386599275"
+    },
+    {
+        "Song":  "Forbidden tale",
+        "Title":  "Forbidden tale",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "Forbidden tale",
@@ -2049,6 +2329,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/403361268"
+    },
+    {
+        "Song":  "FREEDOM",
+        "Title":  "FREEDOM",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "FREEDOM",
@@ -2109,6 +2396,13 @@
     {
         "Song":  "FREEZER",
         "Title":  "FREEZER",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "FREEZER",
+        "Title":  "FREEZER",
         "Service":  "YouTube",
         "Streams":  227255,
         "URL":  "https://youtu.be/x7G0VEpWd_A"
@@ -2147,6 +2441,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/266823574"
+    },
+    {
+        "Song":  "from now on",
+        "Title":  "from now on",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "from now on",
@@ -2200,6 +2501,13 @@
     {
         "Song":  "Get to the top",
         "Title":  "Get to the top",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "Get to the top",
+        "Title":  "Get to the top",
         "Service":  "YouTube",
         "Streams":  110544,
         "URL":  "https://youtu.be/z0KTMEXJ1RE"
@@ -2236,6 +2544,13 @@
         "Song":  "Gion-Cho [祇園町]",
         "Title":  "Gion-Cho [祇園町]",
         "Service":  "Tidal",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "Gion-Cho [祇園町]",
+        "Title":  "Gion-Cho [祇園町]",
+        "Service":  "Deezer",
         "Streams":  0,
         "URL":  ""
     },
@@ -2291,6 +2606,13 @@
     {
         "Song":  "Giovanni",
         "Title":  "Giovanni",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "Giovanni",
+        "Title":  "Giovanni",
         "Service":  "YouTube",
         "Streams":  341676,
         "URL":  "https://youtu.be/0JZkjDhxohM"
@@ -2329,6 +2651,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/404518295"
+    },
+    {
+        "Song":  "glory",
+        "Title":  "glory",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "glory",
@@ -2403,6 +2732,13 @@
     {
         "Song":  "Go easy",
         "Title":  "Go easy",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "Go easy",
+        "Title":  "Go easy",
         "Service":  "YouTube",
         "Streams":  146761,
         "URL":  "https://youtu.be/ZBbvy6Qx4wE"
@@ -2441,6 +2777,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/266823584"
+    },
+    {
+        "Song":  "HATE?",
+        "Title":  "HATE?",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "HATE?",
@@ -2494,6 +2837,13 @@
     {
         "Song":  "H-G-K",
         "Title":  "H-G-K",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "H-G-K",
+        "Title":  "H-G-K",
         "Service":  "YouTube",
         "Streams":  414137,
         "URL":  "https://youtu.be/VAFq8-Xnf_8"
@@ -2530,6 +2880,13 @@
         "Song":  "Hibana [火花]",
         "Title":  "Hibana [火花]",
         "Service":  "Tidal",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "Hibana [火花]",
+        "Title":  "Hibana [火花]",
+        "Service":  "Deezer",
         "Streams":  0,
         "URL":  ""
     },
@@ -2578,6 +2935,13 @@
     {
         "Song":  "hide-and-seek",
         "Title":  "hide-and-seek",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "hide-and-seek",
+        "Title":  "hide-and-seek",
         "Service":  "YouTube",
         "Streams":  76500,
         "URL":  "https://youtu.be/VQgMoXzcgaM"
@@ -2616,6 +2980,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/404518501"
+    },
+    {
+        "Song":  "Honey [ハニー]",
+        "Title":  "Honey [ハニー]",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "Honey [ハニー]",
@@ -2668,6 +3039,13 @@
     },
     {
         "Song":  "HONKAI [本懐]",
+        "Title":  "HONKAI [本懐]",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "HONKAI [本懐]",
         "Title":  "本懐",
         "Service":  "YouTube",
         "Streams":  437371,
@@ -2707,6 +3085,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/404518485"
+    },
+    {
+        "Song":  "I can\u0027t live without you.",
+        "Title":  "I can\u0027t live without you.",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "I can\u0027t live without you.",
@@ -2767,6 +3152,13 @@
     {
         "Song":  "I still seek revenge.",
         "Title":  "I still seek revenge.",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "I still seek revenge.",
+        "Title":  "I still seek revenge.",
         "Service":  "YouTube",
         "Streams":  403169,
         "URL":  "https://youtu.be/H0xsEwtKUkQ"
@@ -2809,6 +3201,13 @@
     {
         "Song":  "I\u0027ll",
         "Title":  "I\u0027ll",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "I\u0027ll",
+        "Title":  "I\u0027ll",
         "Service":  "YouTube",
         "Streams":  354150,
         "URL":  "https://youtu.be/S2kocC6yMik"
@@ -2847,6 +3246,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/266823581"
+    },
+    {
+        "Song":  "influencer",
+        "Title":  "influencer",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "influencer",
@@ -2900,6 +3306,13 @@
     {
         "Song":  "Letters to you",
         "Title":  "Letters to you",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "Letters to you",
+        "Title":  "Letters to you",
         "Service":  "YouTube",
         "Streams":  178212,
         "URL":  "https://youtu.be/T7lS8NkIapQ"
@@ -2938,6 +3351,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/404518296"
+    },
+    {
+        "Song":  "Liberal",
+        "Title":  "Liberal",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "Liberal",
@@ -2984,6 +3404,13 @@
     {
         "Song":  "Lock and Load",
         "Title":  "Lock and Load",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "Lock and Load",
+        "Title":  "Lock and Load",
         "Service":  "YouTube",
         "Streams":  13677,
         "URL":  "https://youtu.be/yBx52tnrqZw"
@@ -3026,6 +3453,13 @@
     {
         "Song":  "LOOK AT ME",
         "Title":  "LOOK AT ME",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "LOOK AT ME",
+        "Title":  "LOOK AT ME",
         "Service":  "YouTube",
         "Streams":  82084,
         "URL":  "https://youtu.be/xOqnN00feSc"
@@ -3064,6 +3498,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/386599271"
+    },
+    {
+        "Song":  "Magie",
+        "Title":  "Magie",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "Magie",
@@ -3113,6 +3554,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/266798984"
+    },
+    {
+        "Song":  "Manners",
+        "Title":  "Manners",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "Manners",
@@ -3173,6 +3621,13 @@
     {
         "Song":  "matchless GUM",
         "Title":  "matchless GUM",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "matchless GUM",
+        "Title":  "matchless GUM",
         "Service":  "YouTube",
         "Streams":  88868,
         "URL":  "https://youtu.be/ljt_YGfHQr4"
@@ -3211,6 +3666,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/386599280"
+    },
+    {
+        "Song":  "Memorable",
+        "Title":  "Memorable",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "Memorable",
@@ -3271,6 +3733,13 @@
     {
         "Song":  "Mirage",
         "Title":  "Mirage",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "Mirage",
+        "Title":  "Mirage",
         "Service":  "YouTube",
         "Streams":  170736,
         "URL":  "https://youtu.be/UBLKqA51hZs"
@@ -3309,6 +3778,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/403841625"
+    },
+    {
+        "Song":  "Moratorium [モラトリアム]",
+        "Title":  "Moratorium [モラトリアム]",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "Moratorium [モラトリアム]",
@@ -3351,6 +3827,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/266798982"
+    },
+    {
+        "Song":  "NO GOD",
+        "Title":  "NO GOD",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "NO GOD",
@@ -3411,6 +3894,13 @@
     {
         "Song":  "One and only",
         "Title":  "One and only",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "One and only",
+        "Title":  "One and only",
         "Service":  "YouTube",
         "Streams":  227372,
         "URL":  "https://youtu.be/f7_VMSupSlA"
@@ -3466,6 +3956,13 @@
     },
     {
         "Song":  "onset",
+        "Title":  "onset",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "onset",
         "Title":  "BAND-MAID / onset (Official Live Video)",
         "Service":  "YouTube",
         "Streams":  3653788,
@@ -3505,6 +4002,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/403841628"
+    },
+    {
+        "Song":  "OOPARTS",
+        "Title":  "OOPARTS",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "OOPARTS",
@@ -3551,6 +4055,13 @@
     {
         "Song":  "ORDER",
         "Title":  "ORDER",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "ORDER",
+        "Title":  "ORDER",
         "Service":  "YouTube",
         "Streams":  110611,
         "URL":  "https://youtu.be/3J-TWdHqjoQ"
@@ -3593,6 +4104,13 @@
     {
         "Song":  "PAGE",
         "Title":  "PAGE",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "PAGE",
+        "Title":  "PAGE",
         "Service":  "YouTube",
         "Streams":  166655,
         "URL":  "https://youtu.be/nxCjEu4_7rU"
@@ -3631,6 +4149,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/404518486"
+    },
+    {
+        "Song":  "Play",
+        "Title":  "Play",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "Play",
@@ -3704,6 +4229,13 @@
     },
     {
         "Song":  "Present Perfect",
+        "Title":  "Present Perfect",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "Present Perfect",
         "Title":  "BAND-MAID / Present Perfect (Official Music Video)",
         "Service":  "YouTube",
         "Streams":  197388,
@@ -3754,6 +4286,13 @@
     {
         "Song":  "Price of Pride",
         "Title":  "Price of Pride",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "Price of Pride",
+        "Title":  "Price of Pride",
         "Service":  "YouTube",
         "Streams":  135114,
         "URL":  "https://youtu.be/wkzVmMRcC0U"
@@ -3792,6 +4331,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/386599273"
+    },
+    {
+        "Song":  "Protect You",
+        "Title":  "Protect You",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "Protect You",
@@ -3851,6 +4397,13 @@
     },
     {
         "Song":  "Puzzle",
+        "Title":  "Puzzle",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "Puzzle",
         "Title":  "BAND-MAID / Puzzle (Official Live Video)",
         "Service":  "YouTube",
         "Streams":  1121750,
@@ -3904,6 +4457,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/465564883"
+    },
+    {
+        "Song":  "Ready to Rock",
+        "Title":  "Ready to Rock",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "Ready to Rock",
@@ -3977,6 +4537,13 @@
     },
     {
         "Song":  "REAL EXISTENCE",
+        "Title":  "REAL EXISTENCE",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "REAL EXISTENCE",
         "Title":  "BAND-MAID / REAL EXISTENCE (Official Music Video)",
         "Service":  "YouTube",
         "Streams":  16073831,
@@ -4040,6 +4607,13 @@
     },
     {
         "Song":  "Rinne [輪廻, Reincarnation]",
+        "Title":  "Rinne [輪廻, Reincarnation]",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "Rinne [輪廻, Reincarnation]",
         "Title":  "BAND-MAID / 輪廻  \"RINNE\" (Official Music Video)",
         "Service":  "YouTube",
         "Streams":  2225227,
@@ -4093,6 +4667,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/404518492"
+    },
+    {
+        "Song":  "Rock in me",
+        "Title":  "Rock in me",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "Rock in me",
@@ -4152,6 +4733,13 @@
     },
     {
         "Song":  "SAYONAKIDORI [サヨナキドリ]",
+        "Title":  "SAYONAKIDORI [サヨナキドリ]",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "SAYONAKIDORI [サヨナキドリ]",
         "Title":  "BAND-MAID / サヨナキドリ \"Sayonakidori\"  Acoustic Ver.  (Official Live Video)",
         "Service":  "YouTube",
         "Streams":  853908,
@@ -4198,6 +4786,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/404780489"
+    },
+    {
+        "Song":  "Screaming",
+        "Title":  "Screaming",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "Screaming",
@@ -4254,6 +4849,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/403841635"
+    },
+    {
+        "Song":  "secret My lips",
+        "Title":  "secret My lips",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "secret My lips",
@@ -4334,6 +4936,13 @@
     },
     {
         "Song":  "Sense",
+        "Title":  "Sense",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "Sense",
         "Title":  "BAND-MAID / Sense (Official Music Video)",
         "Service":  "YouTube",
         "Streams":  4864700,
@@ -4397,6 +5006,13 @@
     },
     {
         "Song":  "Shake That!!",
+        "Title":  "Shake That!!",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "Shake That!!",
         "Title":  "Shake That",
         "Service":  "YouTube",
         "Streams":  221350,
@@ -4443,6 +5059,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/386599272"
+    },
+    {
+        "Song":  "Shambles",
+        "Title":  "Shambles",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "Shambles",
@@ -4509,6 +5132,13 @@
     },
     {
         "Song":  "Show Them",
+        "Title":  "Show Them",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "Show Them",
         "Title":  "BAND-MAID with The Warning / SHOW THEM (Official Music Video)",
         "Service":  "YouTube",
         "Streams":  2276400,
@@ -4566,6 +5196,13 @@
     {
         "Song":  "SION",
         "Title":  "SION",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "SION",
+        "Title":  "SION",
         "Service":  "YouTube",
         "Streams":  13458,
         "URL":  "https://youtu.be/u9TrM7r9yOc"
@@ -4602,6 +5239,13 @@
         "Song":  "Smile",
         "Title":  "Smile",
         "Service":  "Tidal",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "Smile",
+        "Title":  "Smile",
+        "Service":  "Deezer",
         "Streams":  0,
         "URL":  ""
     },
@@ -4650,6 +5294,13 @@
     {
         "Song":  "So,What?",
         "Title":  "So,What?",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "So,What?",
+        "Title":  "So,What?",
         "Service":  "YouTube",
         "Streams":  151370,
         "URL":  "https://youtu.be/di1PjUakkLw"
@@ -4688,6 +5339,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/404518491"
+    },
+    {
+        "Song":  "Spirit!!",
+        "Title":  "Spirit!!",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "Spirit!!",
@@ -4737,6 +5395,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/404591978"
+    },
+    {
+        "Song":  "start over",
+        "Title":  "start over",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "start over",
@@ -4797,6 +5462,13 @@
     {
         "Song":  "SUPER SUNSHINE",
         "Title":  "SUPER SUNSHINE",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "SUPER SUNSHINE",
+        "Title":  "SUPER SUNSHINE",
         "Service":  "YouTube",
         "Streams":  14936,
         "URL":  "https://youtu.be/J_dd47xa31E"
@@ -4835,6 +5507,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/403841629"
+    },
+    {
+        "Song":  "Take me higher!!",
+        "Title":  "Take me higher!!",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "Take me higher!!",
@@ -4881,6 +5560,13 @@
     {
         "Song":  "TAMAYA!",
         "Title":  "TAMAYA!",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "TAMAYA!",
+        "Title":  "TAMAYA!",
         "Service":  "YouTube",
         "Streams":  166298,
         "URL":  "https://youtu.be/vvpswsFRawM"
@@ -4919,6 +5605,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/404518304/u"
+    },
+    {
+        "Song":  "The Dragon Cries",
+        "Title":  "The Dragon Cries",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "The Dragon Cries",
@@ -4968,6 +5661,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/403361262"
+    },
+    {
+        "Song":  "the non-fiction days",
+        "Title":  "the non-fiction days",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "the non-fiction days",
@@ -5028,6 +5728,13 @@
     {
         "Song":  "The one",
         "Title":  "The one",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "The one",
+        "Title":  "The one",
         "Service":  "YouTube",
         "Streams":  197596,
         "URL":  "https://youtu.be/FORNyqfjSmM"
@@ -5066,6 +5773,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/404591969"
+    },
+    {
+        "Song":  "Thrill [スリル]",
+        "Title":  "Thrill [スリル]",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "Thrill [スリル]",
@@ -5133,6 +5847,13 @@
     {
         "Song":  "TIME",
         "Title":  "TIME",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "TIME",
+        "Title":  "TIME",
         "Service":  "YouTube",
         "Streams":  129017,
         "URL":  "https://youtu.be/GEvS_V9bLDE"
@@ -5175,6 +5896,13 @@
     {
         "Song":  "Toi et moi",
         "Title":  "Toi et moi",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "Toi et moi",
+        "Title":  "Toi et moi",
         "Service":  "YouTube",
         "Streams":  134495,
         "URL":  "https://youtu.be/V9VDAoYf0A0"
@@ -5213,6 +5941,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/404518494"
+    },
+    {
+        "Song":  "Turn me on",
+        "Title":  "Turn me on",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "Turn me on",
@@ -5266,6 +6001,13 @@
     {
         "Song":  "Unfair game",
         "Title":  "Unfair game",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "Unfair game",
+        "Title":  "Unfair game",
         "Service":  "YouTube",
         "Streams":  77106,
         "URL":  "https://youtu.be/wlDCBVsRi2g"
@@ -5304,6 +6046,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/266823577"
+    },
+    {
+        "Song":  "Unleash!!!!!",
+        "Title":  "Unleash!!!!!",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "Unleash!!!!!",
@@ -5370,6 +6119,13 @@
     },
     {
         "Song":  "Warning!",
+        "Title":  "Warning!",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "Warning!",
         "Title":  "BAND-MAID / Warning! (Official Music Video)",
         "Service":  "YouTube",
         "Streams":  2605852,
@@ -5423,6 +6179,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/465564884"
+    },
+    {
+        "Song":  "What is justice?",
+        "Title":  "What is justice?",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "What is justice?",
@@ -5490,6 +6253,13 @@
     {
         "Song":  "Why Why Why",
         "Title":  "Why Why Why",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "Why Why Why",
+        "Title":  "Why Why Why",
         "Service":  "YouTube",
         "Streams":  312489,
         "URL":  "https://youtu.be/bCHjyiie7MQ"
@@ -5528,6 +6298,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/404518300"
+    },
+    {
+        "Song":  "Wonderland",
+        "Title":  "Wonderland",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "Wonderland",
@@ -5577,6 +6354,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/403841626"
+    },
+    {
+        "Song":  "YOLO",
+        "Title":  "YOLO",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "YOLO",
@@ -5658,6 +6442,13 @@
     {
         "Song":  "you.",
         "Title":  "you.",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "you.",
+        "Title":  "you.",
         "Service":  "YouTube",
         "Streams":  263788,
         "URL":  "https://youtu.be/vHOBRzjHLMo"
@@ -5700,6 +6491,13 @@
     {
         "Song":  "YURAGU",
         "Title":  "YURAGU",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
+    },
+    {
+        "Song":  "YURAGU",
+        "Title":  "YURAGU",
         "Service":  "YouTube",
         "Streams":  91314,
         "URL":  "https://youtu.be/v2ZFMzL0QPA"
@@ -5738,6 +6536,13 @@
         "Service":  "Tidal",
         "Streams":  0,
         "URL":  "https://tidal.com/track/465564888"
+    },
+    {
+        "Song":  "Zen",
+        "Title":  "Zen",
+        "Service":  "Deezer",
+        "Streams":  0,
+        "URL":  ""
     },
     {
         "Song":  "Zen",
