@@ -16,7 +16,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  55,
-        "SpotifyStreams":  10055301,
+        "SpotifyStreams":  10078601,
         "MediaTieIn":  "Opening theme for anime series Platinum End"
     },
     {
@@ -66,7 +66,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  42,
-        "SpotifyStreams":  4001654,
+        "SpotifyStreams":  4007996,
         "MediaTieIn":  "Used in Netflix movie Kate"
     },
     {
@@ -171,7 +171,7 @@
     },
     {
         "Name":  "Rinne",
-        "AlternativeName":  "輪廻",
+        "AlternativeName":  "輪廻, Reincarnation",
         "ReleaseDate":  "2019-11-05T00:00:00",
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
@@ -286,7 +286,7 @@
         "Album":  "start over",
         "KobatoLead":  "no",
         "PlayedLiveCount":  91,
-        "SpotifyStreams":  1823544,
+        "SpotifyStreams":  1825322,
         "MediaTieIn":  null
     },
     {
@@ -316,7 +316,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  55,
-        "SpotifyStreams":  1795155,
+        "SpotifyStreams":  1796878,
         "MediaTieIn":  null
     },
     {
@@ -366,17 +366,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  258,
-        "SpotifyStreams":  1679892,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Manners",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2021-01-12T00:00:00",
-        "Album":  "Unseen World",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  43,
-        "SpotifyStreams":  1603612,
+        "SpotifyStreams":  1682706,
         "MediaTieIn":  null
     },
     {
@@ -386,8 +376,18 @@
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
         "PlayedLiveCount":  17,
-        "SpotifyStreams":  1594376,
+        "SpotifyStreams":  1621559,
         "MediaTieIn":  "Opening theme for anime series Zenshu"
+    },
+    {
+        "Name":  "Manners",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2021-01-12T00:00:00",
+        "Album":  "Unseen World",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  43,
+        "SpotifyStreams":  1606841,
+        "MediaTieIn":  null
     },
     {
         "Name":  "about Us",
@@ -446,7 +446,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  2,
-        "SpotifyStreams":  1416821,
+        "SpotifyStreams":  1420291,
         "MediaTieIn":  null
     },
     {
@@ -546,7 +546,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  17,
-        "SpotifyStreams":  1196597,
+        "SpotifyStreams":  1197762,
         "MediaTieIn":  null
     },
     {
@@ -696,7 +696,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  1,
-        "SpotifyStreams":  971307,
+        "SpotifyStreams":  972571,
         "MediaTieIn":  null
     },
     {
@@ -706,7 +706,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  38,
-        "SpotifyStreams":  936727,
+        "SpotifyStreams":  937297,
         "MediaTieIn":  null
     },
     {
@@ -716,7 +716,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  13,
-        "SpotifyStreams":  902997,
+        "SpotifyStreams":  903188,
         "MediaTieIn":  null
     },
     {
@@ -886,7 +886,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  6,
-        "SpotifyStreams":  753492,
+        "SpotifyStreams":  753900,
         "MediaTieIn":  null
     },
     {
@@ -966,7 +966,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  52,
-        "SpotifyStreams":  694737,
+        "SpotifyStreams":  697045,
         "MediaTieIn":  null
     },
     {
@@ -976,7 +976,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  27,
-        "SpotifyStreams":  681304,
+        "SpotifyStreams":  681996,
         "MediaTieIn":  null
     },
     {
@@ -986,7 +986,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  55,
-        "SpotifyStreams":  676575,
+        "SpotifyStreams":  677313,
         "MediaTieIn":  null
     },
     {
@@ -1046,7 +1046,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  61,
-        "SpotifyStreams":  634678,
+        "SpotifyStreams":  635032,
         "MediaTieIn":  null
     },
     {
@@ -1256,7 +1256,17 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  18,
-        "SpotifyStreams":  142392,
+        "SpotifyStreams":  143269,
+        "MediaTieIn":  null
+    },
+    {
+        "Name":  "Dilly-Dally",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2025-10-22T00:00:00",
+        "Album":  "SCOOOOOP",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  null,
+        "SpotifyStreams":  9455,
         "MediaTieIn":  null
     },
     {
@@ -1291,16 +1301,6 @@
     },
     {
         "Name":  "SUPER SUNSHINE",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2025-10-22T00:00:00",
-        "Album":  "SCOOOOOP",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  null,
-        "SpotifyStreams":  0,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Dilly-Dally",
         "AlternativeName":  "",
         "ReleaseDate":  "2025-10-22T00:00:00",
         "Album":  "SCOOOOOP",
