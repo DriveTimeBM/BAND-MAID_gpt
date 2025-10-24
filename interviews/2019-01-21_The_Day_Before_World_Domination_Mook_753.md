@@ -15,7 +15,7 @@
 Akane: When I was a child, I was very unsociable, and would be constantly scowling at all the children around me... I was that kind of problem child <laughter>. I would also do things like suddenly leaving the Kindergarten to go home without permission, be the only one not participating in any of the group games and activities. The teacher had to be attached to me all the time because I was totally uncooperative and could not get along with the others, a real problem child.
 
 
-- I... I see <laughter>. Are you an only-child?
+- I... I see (laughter). Are you an only-child?
 
 Akane: No. I have an elder brother. But he is actually the son of my stepfather and is 11 years older. When I entered elementary school, he was already almost an adult, so we hardly spent any time living together. Therefore, while I do have a brother, the environment I grew up in was similar to that if I were an only-child. Having said that, our relationship was good, or rather the whole family was close and we would go shopping together or gossip about our love life, just like friends.
 
