@@ -56,7 +56,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  147,
-        "SpotifyStreams":  5736799,
+        "SpotifyStreams":  5754220,
         "MediaTieIn":  null
     },
     {
@@ -106,7 +106,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  87,
-        "SpotifyStreams":  3295480,
+        "SpotifyStreams":  3312232,
         "MediaTieIn":  null
     },
     {
@@ -180,6 +180,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Ready to Rock",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2025-04-04T00:00:00",
+        "Album":  "SCOOOOOP",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  17,
+        "SpotifyStreams":  2303122,
+        "MediaTieIn":  "Opening theme for anime series Rock Is a Lady\u0027s Modesty"
+    },
+    {
         "Name":  "YOLO",
         "AlternativeName":  "",
         "ReleaseDate":  "2016-11-16T00:00:00",
@@ -200,23 +210,13 @@
         "MediaTieIn":  null
     },
     {
-        "Name":  "Ready to Rock",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2025-04-04T00:00:00",
-        "Album":  "SCOOOOOP",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  17,
-        "SpotifyStreams":  2242075,
-        "MediaTieIn":  "Opening theme for anime series Rock Is a Lady\u0027s Modesty"
-    },
-    {
         "Name":  "alone",
         "AlternativeName":  "",
         "ReleaseDate":  "2016-02-14T00:00:00",
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  232,
-        "SpotifyStreams":  2178747,
+        "SpotifyStreams":  2184891,
         "MediaTieIn":  null
     },
     {
@@ -246,7 +246,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  48,
-        "SpotifyStreams":  2138522,
+        "SpotifyStreams":  2150711,
         "MediaTieIn":  "Ending theme for season 2 of anime series Kangan Ashura"
     },
     {
@@ -336,7 +336,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  85,
-        "SpotifyStreams":  1730185,
+        "SpotifyStreams":  1732936,
         "MediaTieIn":  null
     },
     {
@@ -456,7 +456,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  43,
-        "SpotifyStreams":  1410558,
+        "SpotifyStreams":  1415353,
         "MediaTieIn":  null
     },
     {
@@ -516,7 +516,7 @@
         "Album":  "start over",
         "KobatoLead":  "no",
         "PlayedLiveCount":  32,
-        "SpotifyStreams":  1250493,
+        "SpotifyStreams":  1253249,
         "MediaTieIn":  null
     },
     {
@@ -556,7 +556,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  21,
-        "SpotifyStreams":  1169849,
+        "SpotifyStreams":  1171890,
         "MediaTieIn":  null
     },
     {
@@ -616,7 +616,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  27,
-        "SpotifyStreams":  1111082,
+        "SpotifyStreams":  1113551,
         "MediaTieIn":  null
     },
     {
@@ -666,7 +666,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  38,
-        "SpotifyStreams":  1032570,
+        "SpotifyStreams":  1033397,
         "MediaTieIn":  null
     },
     {
@@ -876,7 +876,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  12,
-        "SpotifyStreams":  774196,
+        "SpotifyStreams":  775033,
         "MediaTieIn":  null
     },
     {
@@ -896,7 +896,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  18,
-        "SpotifyStreams":  747109,
+        "SpotifyStreams":  748331,
         "MediaTieIn":  null
     },
     {
@@ -906,7 +906,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  9,
-        "SpotifyStreams":  745499,
+        "SpotifyStreams":  747354,
         "MediaTieIn":  null
     },
     {
@@ -1006,7 +1006,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  15,
-        "SpotifyStreams":  669358,
+        "SpotifyStreams":  670344,
         "MediaTieIn":  null
     },
     {
@@ -1016,7 +1016,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
-        "SpotifyStreams":  665204,
+        "SpotifyStreams":  666354,
         "MediaTieIn":  null
     },
     {
@@ -1146,7 +1146,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
-        "SpotifyStreams":  445703,
+        "SpotifyStreams":  446628,
         "MediaTieIn":  null
     },
     {
@@ -1236,7 +1236,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  20,
-        "SpotifyStreams":  169752,
+        "SpotifyStreams":  171250,
         "MediaTieIn":  null
     },
     {
@@ -1280,10 +1280,10 @@
         "MediaTieIn":  null
     },
     {
-        "Name":  "Lock and Load",
+        "Name":  "Searing",
         "AlternativeName":  "",
         "ReleaseDate":  "2025-10-22T00:00:00",
-        "Album":  "SCOOOOOP",
+        "Album":  "",
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
         "SpotifyStreams":  0,
@@ -1310,6 +1310,36 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Lock and Load",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2025-10-22T00:00:00",
+        "Album":  "SCOOOOOP",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  null,
+        "SpotifyStreams":  0,
+        "MediaTieIn":  null
+    },
+    {
+        "Name":  "onset",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2019-01-16T00:00:00",
+        "Album":  "",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  52,
+        "SpotifyStreams":  null,
+        "MediaTieIn":  null
+    },
+    {
+        "Name":  "Seasoned",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2024-09-25T00:00:00",
+        "Album":  "",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  null,
+        "SpotifyStreams":  null,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Youth",
         "AlternativeName":  "",
         "ReleaseDate":  "2021-01-20T00:00:00",
@@ -1330,16 +1360,6 @@
         "MediaTieIn":  null
     },
     {
-        "Name":  "Seasoned",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2024-09-25T00:00:00",
-        "Album":  "",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  null,
-        "SpotifyStreams":  null,
-        "MediaTieIn":  null
-    },
-    {
         "Name":  "Dawn Winery Theme",
         "AlternativeName":  null,
         "ReleaseDate":  "2022-10-02T00:00:00",
@@ -1348,15 +1368,5 @@
         "PlayedLiveCount":  null,
         "SpotifyStreams":  null,
         "MediaTieIn":  "Created for (game) Genshin Impact Concert 2022"
-    },
-    {
-        "Name":  "onset",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2019-01-16T00:00:00",
-        "Album":  "",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  52,
-        "SpotifyStreams":  null,
-        "MediaTieIn":  null
     }
 ]
