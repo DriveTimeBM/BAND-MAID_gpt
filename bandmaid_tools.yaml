@@ -173,3 +173,18 @@ paths:
                 type: array
                 items:
                   type: object
+
+  /BAND-MAID_gpt/glossary/translation_tips.json:
+    get:
+      operationId: getOtherTranslationTips
+      summary: Get list of inside information about the band that may aid translations
+      description: Fetches a structured list of details and inside jokes within BAND-MAID 
+      responses:
+        '200':
+          description: Successfully retrieved project list
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
