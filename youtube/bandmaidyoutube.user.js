@@ -23,7 +23,7 @@
         "Date":  "2014-11-20T01:25:24",
         "URL":  "https://youtu.be/Uds7g3M-4lQ",
         "Song":  "Thrill",
-        "Views":  22747026,
+        "Views":  22750109,
         "Type":  "Official Music Video",
         "Duration":  "4:11"
     },
@@ -32,7 +32,7 @@
         "Date":  "2015-06-17T01:02:24",
         "URL":  "https://youtu.be/9TkHpvaO09c",
         "Song":  "REAL EXISTENCE",
-        "Views":  16080299,
+        "Views":  16081345,
         "Type":  "Official Music Video",
         "Duration":  "4:11"
     },
@@ -41,7 +41,7 @@
         "Date":  "2017-06-26T06:06:37",
         "URL":  "https://youtu.be/MZIJ2vFxu9Y",
         "Song":  "Choose me",
-        "Views":  15460454,
+        "Views":  15463614,
         "Type":  "Official Music Video",
         "Duration":  "3:47"
     },
@@ -50,7 +50,7 @@
         "Date":  "2018-03-03T22:00:07",
         "URL":  "https://youtu.be/ZpAYnVJX9CY",
         "Song":  "DICE",
-        "Views":  9732454,
+        "Views":  9735022,
         "Type":  "Official Music Video",
         "Duration":  "4:15"
     },
@@ -59,7 +59,7 @@
         "Date":  "2016-02-14T07:00:02",
         "URL":  "https://youtu.be/axF56i4spio",
         "Song":  "alone",
-        "Views":  7597499,
+        "Views":  7598226,
         "Type":  "Official Music Video",
         "Duration":  "3:30"
     },
@@ -68,7 +68,7 @@
         "Date":  "2016-04-07T23:02:08",
         "URL":  "https://youtu.be/ItYN-ri1NPs",
         "Song":  "the non-fiction days",
-        "Views":  7556168,
+        "Views":  7557156,
         "Type":  "Official Music Video",
         "Duration":  "4:51"
     },
@@ -77,7 +77,7 @@
         "Date":  "2016-10-01T07:29:55",
         "URL":  "https://youtu.be/wKZbzcUdY1g",
         "Song":  "YOLO",
-        "Views":  5776714,
+        "Views":  5777501,
         "Type":  "Official Music Video",
         "Duration":  "4:37"
     },
@@ -86,7 +86,7 @@
         "Date":  "2017-01-09T06:00:16",
         "URL":  "https://youtu.be/tGXzhxXVimY",
         "Song":  "Don\u0027t you tell ME",
-        "Views":  5422898,
+        "Views":  5423279,
         "Type":  "Official Music Video",
         "Duration":  "3:35"
     },
@@ -95,7 +95,7 @@
         "Date":  "2017-05-26T08:00:02",
         "URL":  "https://youtu.be/RCaeUkrItyY",
         "Song":  "Daydreaming",
-        "Views":  5237995,
+        "Views":  5238645,
         "Type":  "Official Music Video",
         "Duration":  "4:09"
     },
@@ -104,7 +104,7 @@
         "Date":  "2015-10-06T04:59:59",
         "URL":  "https://youtu.be/0YGwUhg2XNk",
         "Song":  "Don\u0027t let me down",
-        "Views":  5116874,
+        "Views":  5117098,
         "Type":  "Official Music Video",
         "Duration":  "3:24"
     },
@@ -113,7 +113,7 @@
         "Date":  "2021-10-26T11:00:11",
         "URL":  "https://youtu.be/BWN6iOFjm9U",
         "Song":  "Sense",
-        "Views":  4870895,
+        "Views":  4872385,
         "Type":  "Official Music Video",
         "Duration":  "3:28"
     },
@@ -122,7 +122,7 @@
         "Date":  "2018-02-07T06:00:01",
         "URL":  "https://youtu.be/xmxEuQXTHUU",
         "Song":  "DOMINATION",
-        "Views":  4815915,
+        "Views":  4816480,
         "Type":  "Official Music Video",
         "Duration":  "3:59"
     },
@@ -131,7 +131,7 @@
         "Date":  "2020-03-20T08:00:05",
         "URL":  "https://youtu.be/QbyQCJn6rYg",
         "Song":  "DOMINATION",
-        "Views":  4775894,
+        "Views":  4777065,
         "Type":  "Official Live Video",
         "Duration":  "4:58"
     },
@@ -140,7 +140,7 @@
         "Date":  "2018-03-31T11:09:21",
         "URL":  "https://youtu.be/NNHGABwme50",
         "Song":  "secret My lips",
-        "Views":  4649256,
+        "Views":  4649843,
         "Type":  "Official Music Video",
         "Duration":  "4:55"
     },
@@ -149,7 +149,7 @@
         "Date":  "2020-12-01T08:00:12",
         "URL":  "https://youtu.be/edlLhh8qVxM",
         "Song":  "Different",
-        "Views":  4516064,
+        "Views":  4517018,
         "Type":  "Official Music Video",
         "Duration":  "3:36"
     },
@@ -158,7 +158,7 @@
         "Date":  "2025-04-03T11:30:08",
         "URL":  "https://youtu.be/eapNDHKbu0M",
         "Song":  "Ready to Rock",
-        "Views":  4250994,
+        "Views":  4255297,
         "Type":  "Official Music Video",
         "Duration":  "3:40"
     },
@@ -167,7 +167,7 @@
         "Date":  "2018-11-02T04:00:04",
         "URL":  "https://youtu.be/TAMiLTiXPpU",
         "Song":  "glory",
-        "Views":  4005499,
+        "Views":  4006029,
         "Type":  "Official Music Video",
         "Duration":  "4:05"
     },
@@ -176,7 +176,7 @@
         "Date":  "2022-08-09T11:00:12",
         "URL":  "https://youtu.be/7LB_EPS48HE",
         "Song":  "Unleash!!!!!",
-        "Views":  3871039,
+        "Views":  3872429,
         "Type":  "Official Music Video",
         "Duration":  "3:10"
     },
@@ -185,7 +185,7 @@
         "Date":  "2020-06-30T23:00:03",
         "URL":  "https://youtu.be/FHpuEqMAcDg",
         "Song":  "FREEDOM",
-        "Views":  3835286,
+        "Views":  3836107,
         "Type":  "Official Live Video",
         "Duration":  "4:33"
     },
@@ -194,7 +194,7 @@
         "Date":  "2020-06-23T21:00:07",
         "URL":  "https://youtu.be/mVrN-j_Uc0U",
         "Song":  "onset",
-        "Views":  3658916,
+        "Views":  3659876,
         "Type":  "Official Live Video",
         "Duration":  "3:59"
     },
@@ -203,7 +203,7 @@
         "Date":  "2019-12-09T22:00:05",
         "URL":  "https://youtu.be/uUt_JBMocKM",
         "Song":  "Blooming",
-        "Views":  3615382,
+        "Views":  3616272,
         "Type":  "Official Music Video",
         "Duration":  "3:57"
     },
@@ -212,7 +212,7 @@
         "Date":  "2017-03-25T23:15:48",
         "URL":  "https://youtu.be/1Vuca7V-5Ec",
         "Song":  "secret My lips",
-        "Views":  3442843,
+        "Views":  3443272,
         "Type":  "Official Music Video",
         "Duration":  "4:24"
     },
@@ -221,7 +221,7 @@
         "Date":  "2016-06-24T08:28:24",
         "URL":  "https://youtu.be/Zuj_-z5-06w",
         "Song":  "Before Yesterday",
-        "Views":  3390878,
+        "Views":  3391206,
         "Type":  "Official Music Video",
         "Duration":  "4:00"
     },
@@ -230,7 +230,7 @@
         "Date":  "2019-01-15T05:00:08",
         "URL":  "https://youtu.be/T_PWQtc7zVw",
         "Song":  "Bubble",
-        "Views":  3099446,
+        "Views":  3099712,
         "Type":  "Official Music Video",
         "Duration":  "4:12"
     },
@@ -239,7 +239,7 @@
         "Date":  "2021-01-26T10:00:00",
         "URL":  "https://youtu.be/2MOvCkCqz_U",
         "Song":  "After Life",
-        "Views":  2982153,
+        "Views":  2982784,
         "Type":  "Official Music Video",
         "Duration":  "3:29"
     },
@@ -248,7 +248,7 @@
         "Date":  "2021-01-20T10:00:11",
         "URL":  "https://youtu.be/9yD3IqrLtPk",
         "Song":  "Warning!",
-        "Views":  2608474,
+        "Views":  2609207,
         "Type":  "Official Music Video",
         "Duration":  "4:19"
     },
@@ -257,7 +257,7 @@
         "Date":  "2025-07-17T11:00:07",
         "URL":  "https://youtu.be/3kMIh0_Wkpk",
         "Song":  "What is justice?",
-        "Views":  2523713,
+        "Views":  2530253,
         "Type":  "Official Music Video",
         "Duration":  "3:28"
     },
@@ -266,7 +266,7 @@
         "Date":  "2022-09-20T11:00:11",
         "URL":  "https://youtu.be/e_bEf1C0spY",
         "Song":  "influencer",
-        "Views":  2415094,
+        "Views":  2415927,
         "Type":  "Official Music Video",
         "Duration":  "3:26"
     },
@@ -275,7 +275,7 @@
         "Date":  "2025-01-12T10:15:06",
         "URL":  "https://youtu.be/GZ9RRiy43j4",
         "Song":  "Zen",
-        "Views":  2308551,
+        "Views":  2310949,
         "Type":  "Official Music Video",
         "Duration":  "3:38"
     },
@@ -284,7 +284,7 @@
         "Date":  "2018-07-03T04:59:28",
         "URL":  "https://youtu.be/iL5sRrSECQ0",
         "Song":  "start over",
-        "Views":  2308291,
+        "Views":  2308457,
         "Type":  "Official Music Video",
         "Duration":  "3:36"
     },
@@ -293,7 +293,7 @@
         "Date":  "2024-08-06T11:00:07",
         "URL":  "https://youtu.be/LVl0mcEu1r8",
         "Song":  "Show Them",
-        "Views":  2282550,
+        "Views":  2283580,
         "Type":  "Official Music Video",
         "Duration":  "3:22"
     },
@@ -302,7 +302,7 @@
         "Date":  "2019-11-05T06:02:18",
         "URL":  "https://youtu.be/CQ9dbEVgZcA",
         "Song":  "Rinne",
-        "Views":  2226896,
+        "Views":  2227199,
         "Type":  "Official Music Video",
         "Duration":  "3:35"
     },
@@ -311,7 +311,7 @@
         "Date":  "2020-08-12T07:00:01",
         "URL":  "https://youtu.be/3LxX_t4vg7U",
         "Song":  "Play",
-        "Views":  2214579,
+        "Views":  2214884,
         "Type":  "Official Live Video",
         "Duration":  "4:32"
     },
@@ -320,7 +320,7 @@
         "Date":  "2019-03-31T11:00:11",
         "URL":  "https://youtu.be/umSt7oMUMcs",
         "Song":  "Gion-Cho",
-        "Views":  2144267,
+        "Views":  2144513,
         "Type":  "Official Music Video",
         "Duration":  "4:05"
     },
@@ -329,7 +329,7 @@
         "Date":  "2023-08-03T11:00:08",
         "URL":  "https://youtu.be/lf0mQOiu8J8",
         "Song":  "Shambles",
-        "Views":  2031800,
+        "Views":  2032654,
         "Type":  "Official Music Video",
         "Duration":  "3:31"
     },
@@ -338,7 +338,7 @@
         "Date":  "2022-11-24T22:00:00",
         "URL":  "https://youtu.be/a6ZSvmnkS00",
         "Song":  "from now on",
-        "Views":  2029562,
+        "Views":  2030428,
         "Type":  "Official Music Video",
         "Duration":  "3:46"
     },
@@ -347,7 +347,7 @@
         "Date":  "2019-08-07T08:00:00",
         "URL":  "https://youtu.be/5_S4s8jZQ-A",
         "Song":  "endless Story",
-        "Views":  1927278,
+        "Views":  1927659,
         "Type":  "Official Music Video",
         "Duration":  "4:03"
     },
@@ -356,7 +356,7 @@
         "Date":  "2018-07-03T04:59:46",
         "URL":  "https://youtu.be/-qQnKILR5u0",
         "Song":  "REAL EXISTENCE",
-        "Views":  1764417,
+        "Views":  1764722,
         "Type":  "Official Live Video",
         "Duration":  "4:13"
     },
@@ -365,7 +365,7 @@
         "Date":  "2021-10-26T06:05:58",
         "URL":  "https://youtu.be/ss11rU97V2I",
         "Song":  "Sense",
-        "Views":  1733194,
+        "Views":  1734075,
         "Type":  "Audio",
         "Duration":  "3:25"
     },
@@ -374,7 +374,7 @@
         "Date":  "2024-07-05T11:00:07",
         "URL":  "https://youtu.be/knnw6Mri9gc",
         "Song":  "Protect You",
-        "Views":  1699874,
+        "Views":  1701016,
         "Type":  "Official Music Video",
         "Duration":  "3:19"
     },
@@ -383,7 +383,7 @@
         "Date":  "2021-01-12T10:00:00",
         "URL":  "https://youtu.be/-FWuMx_pkH4",
         "Song":  "Manners",
-        "Views":  1685341,
+        "Views":  1685602,
         "Type":  "Official Music Video",
         "Duration":  "3:56"
     },
@@ -392,7 +392,7 @@
         "Date":  "2018-10-02T11:52:28",
         "URL":  "https://youtu.be/Imq5n_Cmd4o",
         "Song":  "Choose me",
-        "Views":  1658197,
+        "Views":  1660386,
         "Type":  "Audio",
         "Duration":  "3:42"
     },
@@ -401,7 +401,7 @@
         "Date":  "2020-04-22T07:00:02",
         "URL":  "https://youtu.be/HcqitbXgigU",
         "Song":  "Choose me",
-        "Views":  1645791,
+        "Views":  1646144,
         "Type":  "Official Live Video",
         "Duration":  "4:03"
     },
@@ -410,7 +410,7 @@
         "Date":  "2025-04-03T06:00:08",
         "URL":  "https://youtu.be/5uOdE0j4h1E",
         "Song":  "Ready to Rock",
-        "Views":  1614342,
+        "Views":  1619575,
         "Type":  "Audio",
         "Duration":  "3:27"
     },
@@ -419,7 +419,7 @@
         "Date":  "2021-07-26T05:00:16",
         "URL":  "https://youtu.be/iaf94nNSRGE",
         "Song":  "Manners; BLACK HOLE",
-        "Views":  1523748,
+        "Views":  1524007,
         "Type":  "Official Live Video",
         "Duration":  "7:42"
     },
@@ -428,7 +428,7 @@
         "Date":  "2025-06-26T11:30:10",
         "URL":  "https://youtu.be/JegJ6cSsUgg",
         "Song":  "Ready to Rock",
-        "Views":  1486480,
+        "Views":  1491085,
         "Type":  "Anime Music Video",
         "Duration":  "3:28"
     },
@@ -437,7 +437,7 @@
         "Date":  "2021-10-23T03:00:11",
         "URL":  "https://youtu.be/h_RZwRbI1QI",
         "Song":  "DICE; Different",
-        "Views":  1407574,
+        "Views":  1407920,
         "Type":  "Official Live Video",
         "Duration":  "7:43"
     },
@@ -446,7 +446,7 @@
         "Date":  "2024-03-06T10:00:07",
         "URL":  "https://youtu.be/yfORoQIqB3E",
         "Song":  "HATE?",
-        "Views":  1285255,
+        "Views":  1286558,
         "Type":  "Official Live Video",
         "Duration":  "5:04"
     },
@@ -455,7 +455,7 @@
         "Date":  "2024-10-04T09:00:06",
         "URL":  "https://youtu.be/EiknA3mWivA",
         "Song":  "Forbidden tale",
-        "Views":  1186490,
+        "Views":  1187041,
         "Type":  "Official Music Video",
         "Duration":  "4:36"
     },
@@ -464,7 +464,7 @@
         "Date":  "2021-02-19T03:00:11",
         "URL":  "https://youtu.be/qicgVAxCYV8",
         "Song":  "about Us",
-        "Views":  1163584,
+        "Views":  1163735,
         "Type":  "Official Live Video",
         "Duration":  "4:44"
     },
@@ -473,7 +473,7 @@
         "Date":  "2024-05-01T11:00:07",
         "URL":  "https://youtu.be/gXjNsTS5bEY",
         "Song":  "Bestie",
-        "Views":  1161309,
+        "Views":  1161683,
         "Type":  "Official Music Video",
         "Duration":  "3:44"
     },
@@ -482,7 +482,7 @@
         "Date":  "2018-10-02T11:47:18",
         "URL":  "https://youtu.be/46A5e-KzDOc",
         "Song":  "Thrill",
-        "Views":  1137214,
+        "Views":  1138251,
         "Type":  "Audio",
         "Duration":  "4:06"
     },
@@ -491,7 +491,7 @@
         "Date":  "2023-04-04T11:00:08",
         "URL":  "https://youtu.be/zvuqmSQEnaA",
         "Song":  "Puzzle",
-        "Views":  1124529,
+        "Views":  1124998,
         "Type":  "Official Live Video",
         "Duration":  "4:49"
     },
@@ -500,7 +500,7 @@
         "Date":  "2020-07-08T05:00:15",
         "URL":  "https://youtu.be/yQn4IMr56zY",
         "Song":  "CROSS",
-        "Views":  953543,
+        "Views":  953811,
         "Type":  "Official Live Video",
         "Duration":  "3:45"
     },
@@ -509,7 +509,7 @@
         "Date":  "2023-02-21T10:00:08",
         "URL":  "https://youtu.be/DQX8BTTsHHU",
         "Song":  "Memorable",
-        "Views":  942598,
+        "Views":  942772,
         "Type":  "Official Music Video",
         "Duration":  "3:35"
     },
@@ -518,7 +518,7 @@
         "Date":  "2020-07-08T05:00:15",
         "URL":  "https://youtu.be/x4hxLeHbqZo",
         "Song":  "Wonderland",
-        "Views":  930364,
+        "Views":  930462,
         "Type":  "Official Live Video",
         "Duration":  "3:55"
     },
@@ -527,7 +527,7 @@
         "Date":  "2018-10-02T11:55:46",
         "URL":  "https://youtu.be/HsvWNhIt6RY",
         "Song":  "DICE",
-        "Views":  927954,
+        "Views":  928669,
         "Type":  "Audio",
         "Duration":  "4:03"
     },
@@ -536,7 +536,7 @@
         "Date":  "2021-05-25T23:00:14",
         "URL":  "https://youtu.be/nAdWnIRjGak",
         "Song":  "NO GOD",
-        "Views":  887971,
+        "Views":  888153,
         "Type":  "Official Live Video",
         "Duration":  "4:15"
     },
@@ -545,7 +545,7 @@
         "Date":  "2021-05-10T08:00:12",
         "URL":  "https://youtu.be/XwRrpaSbaGk",
         "Song":  "Thrill",
-        "Views":  880943,
+        "Views":  881197,
         "Type":  "Official Live Video",
         "Duration":  "4:10"
     },
@@ -554,7 +554,7 @@
         "Date":  "2022-07-15T05:00:16",
         "URL":  "https://youtu.be/sGzAQigaL14",
         "Song":  "SAYONAKIDORI",
-        "Views":  855469,
+        "Views":  855778,
         "Type":  "Official Live Video",
         "Duration":  "5:15"
     },
@@ -563,7 +563,7 @@
         "Date":  "2020-02-12T06:00:11",
         "URL":  "https://youtu.be/skEkpogsmE0",
         "Song":  "The Dragon Cries",
-        "Views":  852686,
+        "Views":  852770,
         "Type":  "Official Music Video",
         "Duration":  "4:17"
     },
@@ -572,7 +572,7 @@
         "Date":  "2022-08-09T06:05:28",
         "URL":  "https://youtu.be/g8aEQ2XR2UI",
         "Song":  "Unleash!!!!!",
-        "Views":  761088,
+        "Views":  761748,
         "Type":  "Audio",
         "Duration":  "3:10"
     },
@@ -581,16 +581,25 @@
         "Date":  "2021-05-01T05:00:15",
         "URL":  "https://youtu.be/Kojg8ULibeY",
         "Song":  "Warning!",
-        "Views":  749368,
+        "Views":  749681,
         "Type":  "Official Live Video",
         "Duration":  "4:25"
+    },
+    {
+        "Title":  "BAND-MAID / Present Perfect (Official Music Video)",
+        "Date":  "2025-10-21T11:00:07",
+        "URL":  "https://youtu.be/yzSdgw-tdr0",
+        "Song":  "Present Perfect",
+        "Views":  744990,
+        "Type":  "Official Music Video",
+        "Duration":  "3:53"
     },
     {
         "Title":  "BAND-MAID / endless Story (Official Live Video)",
         "Date":  "2024-03-20T07:30:07",
         "URL":  "https://youtu.be/Za1y-RRVd70",
         "Song":  "endless Story",
-        "Views":  742919,
+        "Views":  743284,
         "Type":  "Official Live Video",
         "Duration":  "7:00"
     },
@@ -599,7 +608,7 @@
         "Date":  "2022-01-21T04:00:34",
         "URL":  "https://youtu.be/tx9h41gaNo0",
         "Song":  "Catharsis",
-        "Views":  731007,
+        "Views":  731206,
         "Type":  "Official Live Video",
         "Duration":  "3:41"
     },
@@ -608,7 +617,7 @@
         "Date":  "2020-12-13T05:02:51",
         "URL":  "https://youtu.be/kkFIoq1TeA0",
         "Song":  "After Life",
-        "Views":  728543,
+        "Views":  728857,
         "Type":  "Audio",
         "Duration":  "3:24"
     },
@@ -617,7 +626,7 @@
         "Date":  "2018-10-02T11:48:43",
         "URL":  "https://youtu.be/F0B-h1qWt2E",
         "Song":  "REAL EXISTENCE",
-        "Views":  713439,
+        "Views":  713955,
         "Type":  "Audio",
         "Duration":  "4:13"
     },
@@ -626,25 +635,16 @@
         "Date":  "2020-12-01T10:04:07",
         "URL":  "https://youtu.be/yJIQKRywEY8",
         "Song":  "Different",
-        "Views":  713149,
+        "Views":  713622,
         "Type":  "Audio",
         "Duration":  "3:34"
-    },
-    {
-        "Title":  "BAND-MAID / Present Perfect (Official Music Video)",
-        "Date":  "2025-10-21T11:00:07",
-        "URL":  "https://youtu.be/yzSdgw-tdr0",
-        "Song":  "Present Perfect",
-        "Views":  681591,
-        "Type":  "Official Music Video",
-        "Duration":  "3:53"
     },
     {
         "Title":  "BAND-MAID / Don\u0027t you tell ME (Official Live Video)",
         "Date":  "2024-02-22T07:00:10",
         "URL":  "https://youtu.be/SOj3qXBhiP4",
         "Song":  "Don\u0027t you tell ME",
-        "Views":  676041,
+        "Views":  676551,
         "Type":  "Official Live Video",
         "Duration":  "4:27"
     },
@@ -653,7 +653,7 @@
         "Date":  "2025-01-12T05:00:33",
         "URL":  "https://youtu.be/XHuBR4nAjrE",
         "Song":  "Zen",
-        "Views":  669449,
+        "Views":  670847,
         "Type":  "Audio",
         "Duration":  "3:35"
     },
@@ -662,7 +662,7 @@
         "Date":  "2021-10-26T06:06:13",
         "URL":  "https://youtu.be/aK9KruOd_Bw",
         "Song":  "Corallium",
-        "Views":  656153,
+        "Views":  656405,
         "Type":  "Audio",
         "Duration":  "3:56"
     },
@@ -671,7 +671,7 @@
         "Date":  "2022-09-20T06:08:55",
         "URL":  "https://youtu.be/Ly62PczTrZM",
         "Song":  "influencer",
-        "Views":  652395,
+        "Views":  652939,
         "Type":  "Audio",
         "Duration":  "3:24"
     },
@@ -680,7 +680,7 @@
         "Date":  "2021-01-12T05:01:55",
         "URL":  "https://youtu.be/swHdFvBN3yI",
         "Song":  "Warning!",
-        "Views":  639442,
+        "Views":  639753,
         "Type":  "Audio",
         "Duration":  "4:20"
     },
@@ -689,7 +689,7 @@
         "Date":  "2018-10-02T11:55:46",
         "URL":  "https://youtu.be/yo9ZFz4v6Dk",
         "Song":  "DOMINATION",
-        "Views":  637278,
+        "Views":  637727,
         "Type":  "Audio",
         "Duration":  "3:52"
     },
@@ -698,7 +698,7 @@
         "Date":  "2023-04-21T11:00:26",
         "URL":  "https://youtu.be/iLF5zd0yl64",
         "Song":  "NO GOD",
-        "Views":  584813,
+        "Views":  585034,
         "Type":  "Official Live Video",
         "Duration":  "4:34"
     },
@@ -707,7 +707,7 @@
         "Date":  "2021-01-12T05:03:14",
         "URL":  "https://youtu.be/6mVaehjAo2k",
         "Song":  "SAYONAKIDORI",
-        "Views":  570465,
+        "Views":  570704,
         "Type":  "Audio",
         "Duration":  "4:34"
     },
@@ -716,7 +716,7 @@
         "Date":  "2025-07-17T06:01:36",
         "URL":  "https://youtu.be/vu2D3lzH7Y0",
         "Song":  "What is justice?",
-        "Views":  548244,
+        "Views":  551842,
         "Type":  "Audio",
         "Duration":  "3:23"
     },
@@ -725,7 +725,7 @@
         "Date":  "2025-02-18T22:00:32",
         "URL":  "https://youtu.be/RmFYjTJRrQM",
         "Song":  "Shambles",
-        "Views":  535189,
+        "Views":  535781,
         "Type":  "Official Live Video",
         "Duration":  "5:15"
     },
@@ -734,7 +734,7 @@
         "Date":  "2025-05-01T05:00:45",
         "URL":  "https://youtu.be/YEFugw_-jwo",
         "Song":  "Ready to Rock",
-        "Views":  511766,
+        "Views":  512547,
         "Type":  "Official Cover",
         "Duration":  "0:21"
     },
@@ -743,7 +743,7 @@
         "Date":  "2021-01-12T05:02:00",
         "URL":  "https://youtu.be/-ZEF3shvlsU",
         "Song":  "NO GOD",
-        "Views":  508693,
+        "Views":  508966,
         "Type":  "Audio",
         "Duration":  "4:11"
     },
@@ -752,7 +752,7 @@
         "Date":  "2025-09-26T10:30:58",
         "URL":  "https://youtu.be/zbleEG_5e_4",
         "Song":  "What is justice?",
-        "Views":  504321,
+        "Views":  506015,
         "Type":  "Anime Music Video",
         "Duration":  "3:22"
     },
@@ -761,7 +761,7 @@
         "Date":  "2022-09-20T06:05:04",
         "URL":  "https://youtu.be/MK0auns521Q",
         "Song":  "from now on",
-        "Views":  501404,
+        "Views":  501762,
         "Type":  "Audio",
         "Duration":  "3:47"
     },
@@ -770,7 +770,7 @@
         "Date":  "2021-01-12T05:01:50",
         "URL":  "https://youtu.be/17M5oBuccOY",
         "Song":  "BLACK HOLE",
-        "Views":  479428,
+        "Views":  479766,
         "Type":  "Audio",
         "Duration":  "3:06"
     },
@@ -779,7 +779,7 @@
         "Date":  "2023-08-03T06:00:28",
         "URL":  "https://youtu.be/_UgN3Tb8Chc",
         "Song":  "Shambles",
-        "Views":  477505,
+        "Views":  477615,
         "Type":  "Audio",
         "Duration":  "3:22"
     },
@@ -788,7 +788,7 @@
         "Date":  "2018-10-02T11:25:59",
         "URL":  "https://youtu.be/mY0ZusGd-Fo",
         "Song":  "alone",
-        "Views":  474467,
+        "Views":  474821,
         "Type":  "Audio",
         "Duration":  "3:29"
     },
@@ -797,7 +797,7 @@
         "Date":  "2019-12-05T00:27:11",
         "URL":  "https://youtu.be/3NJf8CSiUZs",
         "Song":  "Blooming",
-        "Views":  471769,
+        "Views":  472270,
         "Type":  "Audio",
         "Duration":  "3:50"
     },
@@ -806,7 +806,7 @@
         "Date":  "2021-10-26T06:05:47",
         "URL":  "https://youtu.be/uMQicabwqus",
         "Song":  "Hibana",
-        "Views":  469344,
+        "Views":  469526,
         "Type":  "Audio",
         "Duration":  "3:40"
     },
@@ -815,7 +815,7 @@
         "Date":  "2018-10-02T11:36:15",
         "URL":  "https://youtu.be/RnyseN3hrKM",
         "Song":  "Don\u0027t you tell ME",
-        "Views":  445711,
+        "Views":  446067,
         "Type":  "Audio",
         "Duration":  "3:11"
     },
@@ -824,7 +824,7 @@
         "Date":  "2024-02-10T10:00:09",
         "URL":  "https://youtu.be/-i3N-WbZnJM",
         "Song":  "Unleash!!!!!",
-        "Views":  443159,
+        "Views":  443418,
         "Type":  "Official Live Video",
         "Duration":  "3:34"
     },
@@ -833,7 +833,7 @@
         "Date":  "2021-01-12T05:01:50",
         "URL":  "https://youtu.be/ND5EeINq3F0",
         "Song":  "HONKAI",
-        "Views":  438892,
+        "Views":  439263,
         "Type":  "Audio",
         "Duration":  "3:17"
     },
@@ -842,7 +842,7 @@
         "Date":  "2018-10-02T11:26:11",
         "URL":  "https://youtu.be/5N4ymEJu5Vc",
         "Song":  "the non-fiction days",
-        "Views":  432190,
+        "Views":  432509,
         "Type":  "Audio",
         "Duration":  "4:42"
     },
@@ -851,7 +851,7 @@
         "Date":  "2025-08-19T23:00:11",
         "URL":  "https://youtu.be/5I6VV4HYnW8",
         "Song":  "Ready to Rock",
-        "Views":  424341,
+        "Views":  426221,
         "Type":  "Official Live Video",
         "Duration":  "4:10"
     },
@@ -860,7 +860,7 @@
         "Date":  "2018-10-02T11:48:01",
         "URL":  "https://youtu.be/kMF7sECmoP8",
         "Song":  "Don\u0027t let me down",
-        "Views":  423336,
+        "Views":  423634,
         "Type":  "Audio",
         "Duration":  "3:20"
     },
@@ -869,7 +869,7 @@
         "Date":  "2021-01-12T05:02:10",
         "URL":  "https://youtu.be/VAFq8-Xnf_8",
         "Song":  "H-G-K",
-        "Views":  415412,
+        "Views":  415704,
         "Type":  "Audio",
         "Duration":  "3:08"
     },
@@ -878,7 +878,7 @@
         "Date":  "2021-01-12T05:01:49",
         "URL":  "https://youtu.be/H0xsEwtKUkQ",
         "Song":  "I still seek revenge.",
-        "Views":  404063,
+        "Views":  404258,
         "Type":  "Audio",
         "Duration":  "3:03"
     },
@@ -887,7 +887,7 @@
         "Date":  "2018-10-02T11:34:32",
         "URL":  "https://youtu.be/tMyNS4YKS6A",
         "Song":  "Puzzle",
-        "Views":  392512,
+        "Views":  393137,
         "Type":  "Audio",
         "Duration":  "4:20"
     },
@@ -896,7 +896,7 @@
         "Date":  "2021-01-12T05:01:49",
         "URL":  "https://youtu.be/axYjQAMEZrs",
         "Song":  "Manners",
-        "Views":  389101,
+        "Views":  389254,
         "Type":  "Audio",
         "Duration":  "3:51"
     },
@@ -905,7 +905,7 @@
         "Date":  "2022-09-20T06:03:13",
         "URL":  "https://youtu.be/OJnKhVPDe4Q",
         "Song":  "HATE?",
-        "Views":  387081,
+        "Views":  387495,
         "Type":  "Audio",
         "Duration":  "3:38"
     },
@@ -914,7 +914,7 @@
         "Date":  "2018-11-13T00:44:31",
         "URL":  "https://youtu.be/9TwXsbGFYnU",
         "Song":  "glory",
-        "Views":  370876,
+        "Views":  371159,
         "Type":  "Audio",
         "Duration":  "3:37"
     },
@@ -923,7 +923,7 @@
         "Date":  "2025-05-22T09:01:06",
         "URL":  "https://youtu.be/bQDrcpN6B-U",
         "Song":  "Ready to Rock",
-        "Views":  361525,
+        "Views":  361745,
         "Type":  "Official Live Short",
         "Duration":  "0:27"
     },
@@ -932,7 +932,7 @@
         "Date":  "2018-02-13T07:01:48",
         "URL":  "https://youtu.be/kJhR3YwIRyc",
         "Song":  "DICE",
-        "Views":  360174,
+        "Views":  360176,
         "Type":  "Audio",
         "Duration":  "4:07"
     },
@@ -941,7 +941,7 @@
         "Date":  "2023-03-21T11:00:10",
         "URL":  "https://youtu.be/p5Lo7t9Yzxw",
         "Song":  "Sense",
-        "Views":  359933,
+        "Views":  360056,
         "Type":  "Official Live Video",
         "Duration":  "3:34"
     },
@@ -950,7 +950,7 @@
         "Date":  "2022-09-20T06:03:53",
         "URL":  "https://youtu.be/S2kocC6yMik",
         "Song":  "I\u0027ll",
-        "Views":  355435,
+        "Views":  355691,
         "Type":  "Audio",
         "Duration":  "4:08"
     },
@@ -959,7 +959,7 @@
         "Date":  "2018-10-02T11:56:55",
         "URL":  "https://youtu.be/3C7hDUB0lgk",
         "Song":  "I can\u0027t live without you.",
-        "Views":  348189,
+        "Views":  348545,
         "Type":  "Audio",
         "Duration":  "3:50"
     },
@@ -968,7 +968,7 @@
         "Date":  "2021-01-12T05:02:01",
         "URL":  "https://youtu.be/0JZkjDhxohM",
         "Song":  "Giovanni",
-        "Views":  342501,
+        "Views":  342668,
         "Type":  "Audio",
         "Duration":  "4:18"
     },
@@ -977,7 +977,7 @@
         "Date":  "2025-03-06T04:09:00",
         "URL":  "https://youtu.be/_jb5rtSUEik",
         "Song":  "Ready to Rock",
-        "Views":  340396,
+        "Views":  340459,
         "Type":  "Official Teaser Video",
         "Duration":  "0:19"
     },
@@ -986,7 +986,7 @@
         "Date":  "2018-10-02T11:52:23",
         "URL":  "https://youtu.be/dw4mb6eWHu0",
         "Song":  "Daydreaming",
-        "Views":  338616,
+        "Views":  338909,
         "Type":  "Audio",
         "Duration":  "4:02"
     },
@@ -995,7 +995,7 @@
         "Date":  "2024-07-20T09:00:07",
         "URL":  "https://youtu.be/obXVrwIwk2k",
         "Song":  "Magie",
-        "Views":  330191,
+        "Views":  330382,
         "Type":  "Official Live Video",
         "Duration":  "3:10"
     },
@@ -1004,7 +1004,7 @@
         "Date":  "2024-08-06T06:00:19",
         "URL":  "https://youtu.be/OPNcauboxkg",
         "Song":  "Show Them",
-        "Views":  324989,
+        "Views":  325126,
         "Type":  "Audio",
         "Duration":  "3:15"
     },
@@ -1013,7 +1013,7 @@
         "Date":  "2024-07-04T06:01:01",
         "URL":  "https://youtu.be/ww7G7Vlm8hQ",
         "Song":  "Protect You",
-        "Views":  317998,
+        "Views":  318095,
         "Type":  "Audio",
         "Duration":  "3:13"
     },
@@ -1022,7 +1022,7 @@
         "Date":  "2018-10-02T11:42:17",
         "URL":  "https://youtu.be/34MAbWeVE64",
         "Song":  "YOLO",
-        "Views":  317232,
+        "Views":  317479,
         "Type":  "Audio",
         "Duration":  "4:27"
     },
@@ -1031,7 +1031,7 @@
         "Date":  "2022-09-20T06:03:37",
         "URL":  "https://youtu.be/TwrvDCcYuRE",
         "Song":  "Balance",
-        "Views":  313349,
+        "Views":  313571,
         "Type":  "Audio",
         "Duration":  "3:10"
     },
@@ -1040,7 +1040,7 @@
         "Date":  "2021-01-12T05:01:56",
         "URL":  "https://youtu.be/bCHjyiie7MQ",
         "Song":  "Why Why Why",
-        "Views":  313234,
+        "Views":  313378,
         "Type":  "Audio",
         "Duration":  "3:38"
     },
@@ -1049,7 +1049,7 @@
         "Date":  "2024-09-08T01:47:25",
         "URL":  "https://youtu.be/vE7qTycXp3A",
         "Song":  "Don\u0027t you tell ME",
-        "Views":  303590,
+        "Views":  304009,
         "Type":  "Official Live Short",
         "Duration":  "0:43"
     },
@@ -1058,7 +1058,7 @@
         "Date":  "2018-10-02T11:56:14",
         "URL":  "https://youtu.be/f0etXeLBvBw",
         "Song":  "Rock in me",
-        "Views":  300957,
+        "Views":  301188,
         "Type":  "Audio",
         "Duration":  "3:22"
     },
@@ -1067,7 +1067,7 @@
         "Date":  "2024-04-16T06:00:16",
         "URL":  "https://youtu.be/OvoR_Xt8mzM",
         "Song":  "Bestie",
-        "Views":  298486,
+        "Views":  298523,
         "Type":  "Audio",
         "Duration":  "3:36"
     },
@@ -1076,7 +1076,7 @@
         "Date":  "2021-02-03T05:03:48",
         "URL":  "https://youtu.be/AmjOY0lIwhI",
         "Song":  "about Us",
-        "Views":  296089,
+        "Views":  296187,
         "Type":  "Audio",
         "Duration":  "4:39"
     },
@@ -1085,7 +1085,7 @@
         "Date":  "2019-12-05T00:27:11",
         "URL":  "https://youtu.be/lWLEvPPYdS4",
         "Song":  "Rinne",
-        "Views":  283518,
+        "Views":  283779,
         "Type":  "Audio",
         "Duration":  "3:28"
     },
@@ -1094,7 +1094,7 @@
         "Date":  "2018-10-02T11:36:17",
         "URL":  "https://youtu.be/W6odZxUQ84s",
         "Song":  "CROSS",
-        "Views":  283003,
+        "Views":  283339,
         "Type":  "Audio",
         "Duration":  "3:46"
     },
@@ -1103,7 +1103,7 @@
         "Date":  "2021-01-12T05:01:56",
         "URL":  "https://youtu.be/42uOmIhh2Vs",
         "Song":  "CHEMICAL REACTION",
-        "Views":  281058,
+        "Views":  281166,
         "Type":  "Audio",
         "Duration":  "4:10"
     },
@@ -1112,7 +1112,7 @@
         "Date":  "2018-02-13T07:01:27",
         "URL":  "https://youtu.be/EuTmlA2DHis",
         "Song":  "I can\u0027t live without you.",
-        "Views":  279545,
+        "Views":  279548,
         "Type":  "Audio",
         "Duration":  "3:54"
     },
@@ -1121,7 +1121,7 @@
         "Date":  "2018-10-02T11:25:59",
         "URL":  "https://youtu.be/hSV25w66G7A",
         "Song":  "FREEDOM",
-        "Views":  273023,
+        "Views":  273247,
         "Type":  "Audio",
         "Duration":  "3:44"
     },
@@ -1139,7 +1139,7 @@
         "Date":  "2018-10-02T11:34:32",
         "URL":  "https://youtu.be/vHOBRzjHLMo",
         "Song":  "you.",
-        "Views":  265073,
+        "Views":  265338,
         "Type":  "Audio",
         "Duration":  "3:44"
     },
@@ -1148,7 +1148,7 @@
         "Date":  "2018-10-02T11:35:27",
         "URL":  "https://youtu.be/gr7JL2C4zHQ",
         "Song":  "secret My lips",
-        "Views":  262075,
+        "Views":  262291,
         "Type":  "Audio",
         "Duration":  "4:12"
     },
@@ -1157,7 +1157,7 @@
         "Date":  "2019-12-05T00:27:11",
         "URL":  "https://youtu.be/72RuhiJznsI",
         "Song":  "endless Story",
-        "Views":  253356,
+        "Views":  253595,
         "Type":  "Audio",
         "Duration":  "3:45"
     },
@@ -1166,7 +1166,7 @@
         "Date":  "2018-10-02T11:55:47",
         "URL":  "https://youtu.be/7RDR_gMAZok",
         "Song":  "anemone",
-        "Views":  249672,
+        "Views":  249813,
         "Type":  "Audio",
         "Duration":  "4:23"
     },
@@ -1175,7 +1175,7 @@
         "Date":  "2018-02-13T07:01:48",
         "URL":  "https://youtu.be/oZWc7jk4GNs",
         "Song":  "Play",
-        "Views":  241914,
+        "Views":  241917,
         "Type":  "Audio",
         "Duration":  "3:24"
     },
@@ -1184,7 +1184,7 @@
         "Date":  "2018-10-02T11:55:45",
         "URL":  "https://youtu.be/RNJxKL5Ylf4",
         "Song":  "CLANG",
-        "Views":  236313,
+        "Views":  236477,
         "Type":  "Audio",
         "Duration":  "4:11"
     },
@@ -1193,7 +1193,7 @@
         "Date":  "2018-10-02T11:35:27",
         "URL":  "https://youtu.be/WFrVI2eXlko",
         "Song":  "Moratorium",
-        "Views":  234207,
+        "Views":  234380,
         "Type":  "Audio",
         "Duration":  "4:16"
     },
@@ -1202,7 +1202,7 @@
         "Date":  "2018-10-02T11:47:17",
         "URL":  "https://youtu.be/x7G0VEpWd_A",
         "Song":  "FREEZER",
-        "Views":  228142,
+        "Views":  228349,
         "Type":  "Audio",
         "Duration":  "3:18"
     },
@@ -1211,7 +1211,7 @@
         "Date":  "2018-10-02T11:55:47",
         "URL":  "https://youtu.be/f7_VMSupSlA",
         "Song":  "One and only",
-        "Views":  228087,
+        "Views":  228243,
         "Type":  "Audio",
         "Duration":  "3:23"
     },
@@ -1220,7 +1220,7 @@
         "Date":  "2018-10-02T11:49:00",
         "URL":  "https://youtu.be/zZcZdQgs-ws",
         "Song":  "Shake That!!",
-        "Views":  222063,
+        "Views":  222216,
         "Type":  "Audio",
         "Duration":  "4:06"
     },
@@ -1229,7 +1229,7 @@
         "Date":  "2018-10-02T11:53:02",
         "URL":  "https://youtu.be/iH-EnjSUi3k",
         "Song":  "Play",
-        "Views":  218065,
+        "Views":  218287,
         "Type":  "Audio",
         "Duration":  "3:22"
     },
@@ -1238,7 +1238,7 @@
         "Date":  "2018-10-02T11:55:45",
         "URL":  "https://youtu.be/6RVy5UEhz4s",
         "Song":  "Turn me on",
-        "Views":  216577,
+        "Views":  216730,
         "Type":  "Audio",
         "Duration":  "4:16"
     },
@@ -1247,7 +1247,7 @@
         "Date":  "2025-05-27T00:01:00",
         "URL":  "https://youtu.be/nbFF1513ptw",
         "Song":  "Ready to Rock",
-        "Views":  216477,
+        "Views":  216600,
         "Type":  "Official Live Short",
         "Duration":  "0:34"
     },
@@ -1256,7 +1256,7 @@
         "Date":  "2018-10-02T11:56:52",
         "URL":  "https://youtu.be/ifUSCn9l61M",
         "Song":  "FATE",
-        "Views":  215873,
+        "Views":  216099,
         "Type":  "Audio",
         "Duration":  "4:32"
     },
@@ -1265,7 +1265,7 @@
         "Date":  "2019-04-02T11:04:53",
         "URL":  "https://youtu.be/V-1HH3saWX4",
         "Song":  "secret My lips",
-        "Views":  210178,
+        "Views":  210330,
         "Type":  "Audio",
         "Duration":  "4:25"
     },
@@ -1274,7 +1274,7 @@
         "Date":  "2018-10-02T11:55:46",
         "URL":  "https://youtu.be/A1h37zkAXck",
         "Song":  "Play",
-        "Views":  205261,
+        "Views":  205583,
         "Type":  "Audio",
         "Duration":  "3:20"
     },
@@ -1283,7 +1283,7 @@
         "Date":  "2024-09-24T06:00:52",
         "URL":  "https://youtu.be/l29qDqsgORA",
         "Song":  "Forbidden tale",
-        "Views":  204383,
+        "Views":  204701,
         "Type":  "Audio",
         "Duration":  "4:35"
     },
@@ -1292,7 +1292,7 @@
         "Date":  "2018-10-02T11:56:53",
         "URL":  "https://youtu.be/rZ1mpH8iXQc",
         "Song":  "Alive-or-Dead",
-        "Views":  202508,
+        "Views":  202990,
         "Type":  "Audio",
         "Duration":  "3:45"
     },
@@ -1301,7 +1301,7 @@
         "Date":  "2019-01-15T10:01:49",
         "URL":  "https://youtu.be/3vHHv_dmhM8",
         "Song":  "Bubble",
-        "Views":  200386,
+        "Views":  200551,
         "Type":  "Audio",
         "Duration":  "3:47"
     },
@@ -1310,7 +1310,7 @@
         "Date":  "2024-09-24T06:00:20",
         "URL":  "https://youtu.be/FORNyqfjSmM",
         "Song":  "The one",
-        "Views":  199116,
+        "Views":  199375,
         "Type":  "Audio",
         "Duration":  "4:11"
     },
@@ -1319,7 +1319,7 @@
         "Date":  "2019-12-05T00:27:11",
         "URL":  "https://youtu.be/aYet_nevCGs",
         "Song":  "Dilemma",
-        "Views":  195227,
+        "Views":  195389,
         "Type":  "Audio",
         "Duration":  "3:37"
     },
@@ -1328,7 +1328,7 @@
         "Date":  "2018-10-02T11:32:03",
         "URL":  "https://youtu.be/JBgNx7OXtao",
         "Song":  "Screaming",
-        "Views":  194797,
+        "Views":  194983,
         "Type":  "Audio",
         "Duration":  "3:50"
     },
@@ -1337,7 +1337,7 @@
         "Date":  "2021-09-05T06:02:13",
         "URL":  "https://youtu.be/1kv3cfGlMQQ",
         "Song":  "Sense",
-        "Views":  191767,
+        "Views":  191793,
         "Type":  "Audio",
         "Duration":  "1:30"
     },
@@ -1346,7 +1346,7 @@
         "Date":  "2018-02-13T07:01:53",
         "URL":  "https://youtu.be/TuWzx67ow3E",
         "Song":  "Rock in me",
-        "Views":  191211,
+        "Views":  191213,
         "Type":  "Audio",
         "Duration":  "3:25"
     },
@@ -1355,7 +1355,7 @@
         "Date":  "2018-02-13T07:01:51",
         "URL":  "https://youtu.be/-ooj0u845AY",
         "Song":  "FATE",
-        "Views":  190038,
+        "Views":  190039,
         "Type":  "Audio",
         "Duration":  "4:35"
     },
@@ -1364,34 +1364,34 @@
         "Date":  "2019-12-05T00:27:13",
         "URL":  "https://youtu.be/QZqKqAIdxak",
         "Song":  "azure",
-        "Views":  187850,
+        "Views":  188024,
         "Type":  "Audio",
         "Duration":  "2:50"
-    },
-    {
-        "Title":  "Turn me on",
-        "Date":  "2018-02-13T07:01:53",
-        "URL":  "https://youtu.be/IWVtcPssnok",
-        "Song":  "Turn me on",
-        "Views":  184528,
-        "Type":  "Audio",
-        "Duration":  "4:18"
     },
     {
         "Title":  "Magie",
         "Date":  "2024-09-24T06:00:52",
         "URL":  "https://youtu.be/p0OxjDTf_2A",
         "Song":  "Magie",
-        "Views":  184491,
+        "Views":  184842,
         "Type":  "Audio",
         "Duration":  "3:05"
+    },
+    {
+        "Title":  "Turn me on",
+        "Date":  "2018-02-13T07:01:53",
+        "URL":  "https://youtu.be/IWVtcPssnok",
+        "Song":  "Turn me on",
+        "Views":  184530,
+        "Type":  "Audio",
+        "Duration":  "4:18"
     },
     {
         "Title":  "Carry on living",
         "Date":  "2018-10-02T11:57:15",
         "URL":  "https://youtu.be/Rylf8-NaJuk",
         "Song":  "Carry on living",
-        "Views":  184005,
+        "Views":  184126,
         "Type":  "Audio",
         "Duration":  "3:33"
     },
@@ -1400,34 +1400,34 @@
         "Date":  "2018-10-02T11:55:46",
         "URL":  "https://youtu.be/fxeDfNl1IfU",
         "Song":  "Spirit!!",
-        "Views":  180690,
+        "Views":  180819,
         "Type":  "Audio",
         "Duration":  "3:42"
-    },
-    {
-        "Title":  "CLANG",
-        "Date":  "2018-02-13T07:01:53",
-        "URL":  "https://youtu.be/4mSEQ4Qae4Y",
-        "Song":  "CLANG",
-        "Views":  180566,
-        "Type":  "Audio",
-        "Duration":  "4:13"
     },
     {
         "Title":  "Take me higher ! !",
         "Date":  "2018-10-02T11:35:11",
         "URL":  "https://youtu.be/SDrfTXRVpw4",
         "Song":  "Take me higher!!",
-        "Views":  180543,
+        "Views":  180675,
         "Type":  "Audio",
         "Duration":  "3:19"
+    },
+    {
+        "Title":  "CLANG",
+        "Date":  "2018-02-13T07:01:53",
+        "URL":  "https://youtu.be/4mSEQ4Qae4Y",
+        "Song":  "CLANG",
+        "Views":  180568,
+        "Type":  "Audio",
+        "Duration":  "4:13"
     },
     {
         "Title":  "Letters to you",
         "Date":  "2024-09-24T06:00:27",
         "URL":  "https://youtu.be/T7lS8NkIapQ",
         "Song":  "Letters to you",
-        "Views":  179729,
+        "Views":  180015,
         "Type":  "Audio",
         "Duration":  "3:09"
     },
@@ -1436,7 +1436,7 @@
         "Date":  "2019-12-05T00:27:11",
         "URL":  "https://youtu.be/YwLqiLlCoKE",
         "Song":  "Liberal",
-        "Views":  179581,
+        "Views":  179695,
         "Type":  "Audio",
         "Duration":  "3:15"
     },
@@ -1445,7 +1445,7 @@
         "Date":  "2019-12-05T00:27:12",
         "URL":  "https://youtu.be/N5zqCsBjfTU",
         "Song":  "Catharsis",
-        "Views":  179512,
+        "Views":  179629,
         "Type":  "Audio",
         "Duration":  "3:19"
     },
@@ -1454,7 +1454,7 @@
         "Date":  "2018-02-13T07:00:01",
         "URL":  "https://youtu.be/XyWA2xfDtyM",
         "Song":  "Daydreaming",
-        "Views":  178641,
+        "Views":  178642,
         "Type":  "Audio",
         "Duration":  "4:00"
     },
@@ -1463,7 +1463,7 @@
         "Date":  "2018-02-13T07:01:47",
         "URL":  "https://youtu.be/uh0JDdCgZcs",
         "Song":  "anemone",
-        "Views":  177627,
+        "Views":  177630,
         "Type":  "Audio",
         "Duration":  "4:28"
     },
@@ -1472,7 +1472,7 @@
         "Date":  "2018-10-02T11:27:07",
         "URL":  "https://youtu.be/xlUYvGjmOas",
         "Song":  "Before Yesterday",
-        "Views":  176828,
+        "Views":  176963,
         "Type":  "Audio",
         "Duration":  "3:45"
     },
@@ -1481,7 +1481,7 @@
         "Date":  "2019-12-05T00:27:11",
         "URL":  "https://youtu.be/CewPL6F9XhM",
         "Song":  "Wonderland",
-        "Views":  175011,
+        "Views":  175197,
         "Type":  "Audio",
         "Duration":  "3:56"
     },
@@ -1490,7 +1490,7 @@
         "Date":  "2019-12-05T00:27:11",
         "URL":  "https://youtu.be/UBLKqA51hZs",
         "Song":  "Mirage",
-        "Views":  171405,
+        "Views":  171497,
         "Type":  "Audio",
         "Duration":  "3:58"
     },
@@ -1499,34 +1499,34 @@
         "Date":  "2024-09-24T06:00:53",
         "URL":  "https://youtu.be/vvpswsFRawM",
         "Song":  "TAMAYA!",
-        "Views":  167814,
+        "Views":  168133,
         "Type":  "Audio",
         "Duration":  "3:16"
-    },
-    {
-        "Title":  "PAGE",
-        "Date":  "2019-12-05T00:27:12",
-        "URL":  "https://youtu.be/nxCjEu4_7rU",
-        "Song":  "PAGE",
-        "Views":  167072,
-        "Type":  "Audio",
-        "Duration":  "4:18"
     },
     {
         "Title":  "Shambles",
         "Date":  "2024-09-24T06:00:07",
         "URL":  "https://youtu.be/8eu3BQgB9OQ",
         "Song":  "Shambles",
-        "Views":  166372,
+        "Views":  167333,
         "Type":  "Audio",
         "Duration":  "3:22"
+    },
+    {
+        "Title":  "PAGE",
+        "Date":  "2019-12-05T00:27:12",
+        "URL":  "https://youtu.be/nxCjEu4_7rU",
+        "Song":  "PAGE",
+        "Views":  167164,
+        "Type":  "Audio",
+        "Duration":  "4:18"
     },
     {
         "Title":  "One and only",
         "Date":  "2018-02-13T07:01:49",
         "URL":  "https://youtu.be/FkbKXUGMLvA",
         "Song":  "One and only",
-        "Views":  166065,
+        "Views":  166070,
         "Type":  "Audio",
         "Duration":  "3:23"
     },
@@ -1535,7 +1535,7 @@
         "Date":  "2025-06-25T23:01:02",
         "URL":  "https://youtu.be/snND6wFvgx8",
         "Song":  "Ready to Rock",
-        "Views":  164124,
+        "Views":  164340,
         "Type":  "Anime Music Video Short",
         "Duration":  "0:37"
     },
@@ -1544,7 +1544,7 @@
         "Date":  "2018-10-02T11:32:04",
         "URL":  "https://youtu.be/HoXEk8Rcsyg",
         "Song":  "start over",
-        "Views":  161730,
+        "Views":  161826,
         "Type":  "Audio",
         "Duration":  "3:12"
     },
@@ -1553,7 +1553,7 @@
         "Date":  "2023-02-21T05:04:04",
         "URL":  "https://youtu.be/UZvceYLB75c",
         "Song":  "Memorable",
-        "Views":  161211,
+        "Views":  161229,
         "Type":  "Audio",
         "Duration":  "3:14"
     },
@@ -1562,7 +1562,7 @@
         "Date":  "2018-10-02T11:35:20",
         "URL":  "https://youtu.be/9tf-bzo9bI0",
         "Song":  "Awkward",
-        "Views":  160424,
+        "Views":  160531,
         "Type":  "Audio",
         "Duration":  "3:33"
     },
@@ -1571,7 +1571,7 @@
         "Date":  "2019-04-02T11:04:53",
         "URL":  "https://youtu.be/aJmR2e_RtWQ",
         "Song":  "Gion-Cho",
-        "Views":  158738,
+        "Views":  158879,
         "Type":  "Audio",
         "Duration":  "3:36"
     },
@@ -1580,7 +1580,7 @@
         "Date":  "2022-09-20T06:04:21",
         "URL":  "https://youtu.be/FywmRdKKSjg",
         "Song":  "Corallium",
-        "Views":  153328,
+        "Views":  153390,
         "Type":  "Audio",
         "Duration":  "3:55"
     },
@@ -1589,7 +1589,7 @@
         "Date":  "2019-12-05T00:27:11",
         "URL":  "https://youtu.be/Q_qA4BtEV6c",
         "Song":  "flying high",
-        "Views":  152480,
+        "Views":  152608,
         "Type":  "Audio",
         "Duration":  "3:43"
     },
@@ -1598,7 +1598,7 @@
         "Date":  "2018-10-02T11:34:32",
         "URL":  "https://youtu.be/di1PjUakkLw",
         "Song":  "So,What?",
-        "Views":  152064,
+        "Views":  152210,
         "Type":  "Audio",
         "Duration":  "3:49"
     },
@@ -1607,7 +1607,7 @@
         "Date":  "2018-10-02T11:34:32",
         "URL":  "https://youtu.be/aLYJuZT37i4",
         "Song":  "decided by myself",
-        "Views":  151363,
+        "Views":  151551,
         "Type":  "Audio",
         "Duration":  "3:55"
     },
@@ -1616,7 +1616,7 @@
         "Date":  "2025-04-06T22:00:32",
         "URL":  "https://youtu.be/bOjubutSnXo",
         "Song":  "Ready to Rock",
-        "Views":  151220,
+        "Views":  151309,
         "Type":  "Official Teaser Video",
         "Duration":  "0:24"
     },
@@ -1625,7 +1625,7 @@
         "Date":  "2024-09-24T06:00:11",
         "URL":  "https://youtu.be/70uZ87dY2z0",
         "Song":  "Brightest Star",
-        "Views":  149260,
+        "Views":  149511,
         "Type":  "Audio",
         "Duration":  "3:18"
     },
@@ -1634,7 +1634,7 @@
         "Date":  "2019-01-15T10:01:45",
         "URL":  "https://youtu.be/KzCUAJIMtu0",
         "Song":  "Smile",
-        "Views":  148584,
+        "Views":  148749,
         "Type":  "Audio",
         "Duration":  "3:58"
     },
@@ -1643,7 +1643,7 @@
         "Date":  "2024-09-24T06:00:38",
         "URL":  "https://youtu.be/ZBbvy6Qx4wE",
         "Song":  "Go easy",
-        "Views":  147917,
+        "Views":  148200,
         "Type":  "Audio",
         "Duration":  "3:01"
     },
@@ -1652,7 +1652,7 @@
         "Date":  "2025-08-29T00:00:36",
         "URL":  "https://youtu.be/QWKfL5C7oRg",
         "Song":  "Ready to Rock",
-        "Views":  143534,
+        "Views":  143749,
         "Type":  "Official Live Short",
         "Duration":  "0:23"
     },
@@ -1661,7 +1661,7 @@
         "Date":  "2025-04-05T00:30:03",
         "URL":  "https://youtu.be/50H_hmPh4dI",
         "Song":  "Ready to Rock",
-        "Views":  140068,
+        "Views":  140174,
         "Type":  "Official Teaser Video",
         "Duration":  "0:24"
     },
@@ -1670,7 +1670,7 @@
         "Date":  "2018-02-13T07:01:52",
         "URL":  "https://youtu.be/2XR0CmgB1pI",
         "Song":  "Spirit!!",
-        "Views":  139438,
+        "Views":  139439,
         "Type":  "Audio",
         "Duration":  "3:44"
     },
@@ -1679,52 +1679,52 @@
         "Date":  "2019-12-05T00:27:13",
         "URL":  "https://youtu.be/pa-zUO820-0",
         "Song":  "At the drop of a hat",
-        "Views":  136641,
+        "Views":  136713,
         "Type":  "Audio",
         "Duration":  "4:20"
-    },
-    {
-        "Title":  "Price of Pride",
-        "Date":  "2018-10-02T11:48:26",
-        "URL":  "https://youtu.be/wkzVmMRcC0U",
-        "Song":  "Price of Pride",
-        "Views":  135558,
-        "Type":  "Audio",
-        "Duration":  "3:28"
     },
     {
         "Title":  "Toi et moi",
         "Date":  "2024-09-24T06:00:25",
         "URL":  "https://youtu.be/V9VDAoYf0A0",
         "Song":  "Toi et moi",
-        "Views":  135465,
+        "Views":  135667,
         "Type":  "Audio",
         "Duration":  "2:57"
     },
     {
-        "Title":  "Don\u0027t Apply The Brake",
-        "Date":  "2018-10-02T11:47:34",
-        "URL":  "https://youtu.be/vY6eYTG315A",
-        "Song":  "Don\u0027t apply the brake",
-        "Views":  132713,
+        "Title":  "Price of Pride",
+        "Date":  "2018-10-02T11:48:26",
+        "URL":  "https://youtu.be/wkzVmMRcC0U",
+        "Song":  "Price of Pride",
+        "Views":  135652,
         "Type":  "Audio",
-        "Duration":  "3:21"
+        "Duration":  "3:28"
     },
     {
         "Title":  "Protect You",
         "Date":  "2024-09-24T06:00:31",
         "URL":  "https://youtu.be/PDaRbNVVdCE",
         "Song":  "Protect You",
-        "Views":  132027,
+        "Views":  132997,
         "Type":  "Audio",
         "Duration":  "3:14"
+    },
+    {
+        "Title":  "Don\u0027t Apply The Brake",
+        "Date":  "2018-10-02T11:47:34",
+        "URL":  "https://youtu.be/vY6eYTG315A",
+        "Song":  "Don\u0027t apply the brake",
+        "Views":  132855,
+        "Type":  "Audio",
+        "Duration":  "3:21"
     },
     {
         "Title":  "TIME",
         "Date":  "2018-10-02T11:35:37",
         "URL":  "https://youtu.be/GEvS_V9bLDE",
         "Song":  "TIME",
-        "Views":  129525,
+        "Views":  129625,
         "Type":  "Audio",
         "Duration":  "3:30"
     },
@@ -1733,7 +1733,7 @@
         "Date":  "2018-10-02T11:55:46",
         "URL":  "https://youtu.be/_I70qgGN-6I",
         "Song":  "Honey",
-        "Views":  128244,
+        "Views":  128336,
         "Type":  "Audio",
         "Duration":  "3:25"
     },
@@ -1742,7 +1742,7 @@
         "Date":  "2018-10-02T11:47:25",
         "URL":  "https://youtu.be/TwMx4bJ30Tk",
         "Song":  "Arcadia Girl",
-        "Views":  123968,
+        "Views":  124049,
         "Type":  "Audio",
         "Duration":  "4:06"
     },
@@ -1751,7 +1751,7 @@
         "Date":  "2025-08-27T00:04:12",
         "URL":  "https://youtu.be/0q8L_YvNZn0",
         "Song":  "Ready to Rock",
-        "Views":  123790,
+        "Views":  123894,
         "Type":  "Official Live Short",
         "Duration":  "0:25"
     },
@@ -1760,7 +1760,7 @@
         "Date":  "2018-02-13T07:00:01",
         "URL":  "https://youtu.be/pKFBa8urc60",
         "Song":  "Carry on living",
-        "Views":  123693,
+        "Views":  123694,
         "Type":  "Audio",
         "Duration":  "3:35"
     },
@@ -1769,7 +1769,7 @@
         "Date":  "2025-05-29T09:01:19",
         "URL":  "https://youtu.be/lBkdxHmvyAA",
         "Song":  "Ready to Rock",
-        "Views":  121153,
+        "Views":  121213,
         "Type":  "Official Live Short",
         "Duration":  "0:44"
     },
@@ -1778,7 +1778,7 @@
         "Date":  "2024-09-24T06:00:03",
         "URL":  "https://youtu.be/42AfEN1SGZ4",
         "Song":  "Show Them",
-        "Views":  118704,
+        "Views":  119253,
         "Type":  "Audio",
         "Duration":  "3:15"
     },
@@ -1787,7 +1787,7 @@
         "Date":  "2024-10-11T09:00:00",
         "URL":  "https://youtu.be/08dX4S0DWfg",
         "Song":  "Forbidden tale",
-        "Views":  118011,
+        "Views":  118046,
         "Type":  "Official Teaser Video",
         "Duration":  "0:32"
     },
@@ -1796,7 +1796,7 @@
         "Date":  "2024-09-24T06:00:58",
         "URL":  "https://youtu.be/z0KTMEXJ1RE",
         "Song":  "Get to the top",
-        "Views":  111315,
+        "Views":  111502,
         "Type":  "Audio",
         "Duration":  "3:08"
     },
@@ -1805,7 +1805,7 @@
         "Date":  "2018-10-02T11:26:01",
         "URL":  "https://youtu.be/3J-TWdHqjoQ",
         "Song":  "ORDER",
-        "Views":  111096,
+        "Views":  111182,
         "Type":  "Audio",
         "Duration":  "3:23"
     },
@@ -1814,7 +1814,7 @@
         "Date":  "2018-10-02T11:34:30",
         "URL":  "https://youtu.be/YFLsVQ4iPxw",
         "Song":  "OOPARTS",
-        "Views":  110648,
+        "Views":  110773,
         "Type":  "Audio",
         "Duration":  "4:07"
     },
@@ -1823,7 +1823,7 @@
         "Date":  "2018-02-13T07:01:49",
         "URL":  "https://youtu.be/0ozhb_hN9JY",
         "Song":  "Honey",
-        "Views":  109391,
+        "Views":  109392,
         "Type":  "Audio",
         "Duration":  "3:25"
     },
@@ -1832,7 +1832,7 @@
         "Date":  "2018-02-13T07:01:41",
         "URL":  "https://youtu.be/aNM9ovsfshc",
         "Song":  "Alive-or-Dead",
-        "Views":  106639,
+        "Views":  106640,
         "Type":  "Audio",
         "Duration":  "3:48"
     },
@@ -1841,7 +1841,7 @@
         "Date":  "2022-09-20T06:05:20",
         "URL":  "https://youtu.be/uLTBtjZEGv0",
         "Song":  "Unleash!!!!!",
-        "Views":  104429,
+        "Views":  104475,
         "Type":  "Audio",
         "Duration":  "3:11"
     },
@@ -1850,7 +1850,7 @@
         "Date":  "2019-12-05T00:27:11",
         "URL":  "https://youtu.be/uHBnf1pXC2E",
         "Song":  "The Dragon Cries",
-        "Views":  103739,
+        "Views":  103797,
         "Type":  "Audio",
         "Duration":  "3:56"
     },
@@ -1859,7 +1859,7 @@
         "Date":  "2025-07-12T07:00:04",
         "URL":  "https://youtu.be/1kbZ5NsrdX4",
         "Song":  "What is justice?",
-        "Views":  95394,
+        "Views":  95432,
         "Type":  "Official Teaser Video",
         "Duration":  "0:10"
     },
@@ -1868,7 +1868,7 @@
         "Date":  "2019-04-02T11:05:24",
         "URL":  "https://youtu.be/-Z7S8Y_Eb4Q",
         "Song":  "One and only",
-        "Views":  94614,
+        "Views":  94685,
         "Type":  "Audio",
         "Duration":  "3:27"
     },
@@ -1877,7 +1877,7 @@
         "Date":  "2025-01-23T22:00:07",
         "URL":  "https://youtu.be/A1vhzIBfTGQ",
         "Song":  "Zen",
-        "Views":  94173,
+        "Views":  94210,
         "Type":  "Official Teaser Video",
         "Duration":  "0:27"
     },
@@ -1886,7 +1886,7 @@
         "Date":  "2018-10-02T11:25:59",
         "URL":  "https://youtu.be/v2ZFMzL0QPA",
         "Song":  "YURAGU",
-        "Views":  91700,
+        "Views":  91756,
         "Type":  "Audio",
         "Duration":  "4:02"
     },
@@ -1895,7 +1895,7 @@
         "Date":  "2025-06-24T23:00:05",
         "URL":  "https://youtu.be/anA8iIVMTHw",
         "Song":  "Ready to Rock",
-        "Views":  91012,
+        "Views":  91044,
         "Type":  "Anime Music Video Short",
         "Duration":  "0:25"
     },
@@ -1904,7 +1904,7 @@
         "Date":  "2018-10-02T11:47:18",
         "URL":  "https://youtu.be/u4L-I041jis",
         "Song":  "Beauty and the beast",
-        "Views":  90767,
+        "Views":  90848,
         "Type":  "Audio",
         "Duration":  "4:01"
     },
@@ -1913,7 +1913,7 @@
         "Date":  "2018-10-02T11:42:18",
         "URL":  "https://youtu.be/ljt_YGfHQr4",
         "Song":  "matchless GUM",
-        "Views":  89567,
+        "Views":  89722,
         "Type":  "Audio",
         "Duration":  "3:12"
     },
@@ -1922,7 +1922,7 @@
         "Date":  "2025-04-03T12:00:12",
         "URL":  "https://youtu.be/ua-_klKlbdY",
         "Song":  "Ready to Rock",
-        "Views":  84618,
+        "Views":  84635,
         "Type":  "Official Teaser Video",
         "Duration":  "0:24"
     },
@@ -1931,7 +1931,7 @@
         "Date":  "2025-01-19T22:00:40",
         "URL":  "https://youtu.be/owIg4MUVG8M",
         "Song":  "Zen",
-        "Views":  82438,
+        "Views":  82464,
         "Type":  "Official Teaser Video",
         "Duration":  "0:27"
     },
@@ -1940,7 +1940,7 @@
         "Date":  "2018-10-02T11:26:01",
         "URL":  "https://youtu.be/xOqnN00feSc",
         "Song":  "LOOK AT ME",
-        "Views":  82403,
+        "Views":  82460,
         "Type":  "Audio",
         "Duration":  "3:59"
     },
@@ -1949,16 +1949,25 @@
         "Date":  "2022-09-20T06:04:05",
         "URL":  "https://youtu.be/eAX5_kypXp4",
         "Song":  "Sense",
-        "Views":  81148,
+        "Views":  81193,
         "Type":  "Audio",
         "Duration":  "3:25"
+    },
+    {
+        "Title":  "SION",
+        "Date":  "2025-10-21T06:01:34",
+        "URL":  "https://youtu.be/u9TrM7r9yOc",
+        "Song":  "SION",
+        "Views":  80493,
+        "Type":  "Audio",
+        "Duration":  "4:15"
     },
     {
         "Title":  "Unfair game",
         "Date":  "2018-10-02T11:44:03",
         "URL":  "https://youtu.be/wlDCBVsRi2g",
         "Song":  "Unfair game",
-        "Views":  77598,
+        "Views":  77702,
         "Type":  "Audio",
         "Duration":  "3:31"
     },
@@ -1967,7 +1976,7 @@
         "Date":  "2019-01-15T10:02:07",
         "URL":  "https://youtu.be/VQgMoXzcgaM",
         "Song":  "hide-and-seek",
-        "Views":  77022,
+        "Views":  77143,
         "Type":  "Audio",
         "Duration":  "3:01"
     },
@@ -1976,7 +1985,7 @@
         "Date":  "2025-07-18T23:00:29",
         "URL":  "https://youtu.be/KN5arIuiRp8",
         "Song":  "What is justice?",
-        "Views":  76810,
+        "Views":  76859,
         "Type":  "Official Teaser Video",
         "Duration":  "0:27"
     },
@@ -1985,7 +1994,7 @@
         "Date":  "2025-04-17T23:00:39",
         "URL":  "https://youtu.be/XqGukTfP8n8",
         "Song":  "Ready to Rock",
-        "Views":  75724,
+        "Views":  75763,
         "Type":  "Official Teaser Video",
         "Duration":  "0:12"
     },
@@ -1994,7 +2003,7 @@
         "Date":  "2025-07-31T06:01:22",
         "URL":  "https://youtu.be/rG8cfEJeNMw",
         "Song":  "What is justice?",
-        "Views":  73743,
+        "Views":  73837,
         "Type":  "Official Live Short",
         "Duration":  "0:34"
     },
@@ -2003,7 +2012,7 @@
         "Date":  "2019-04-02T11:05:25",
         "URL":  "https://youtu.be/4TniI0IJEkk",
         "Song":  "YOLO",
-        "Views":  70113,
+        "Views":  70171,
         "Type":  "Audio",
         "Duration":  "4:22"
     },
@@ -2012,7 +2021,7 @@
         "Date":  "2018-10-02T11:27:08",
         "URL":  "https://youtu.be/_KVaSaQmb0k",
         "Song":  "Brand-New Road",
-        "Views":  68750,
+        "Views":  68788,
         "Type":  "Audio",
         "Duration":  "3:50"
     },
@@ -2021,7 +2030,7 @@
         "Date":  "2024-09-24T06:00:45",
         "URL":  "https://youtu.be/eLQCEiBUthE",
         "Song":  "Bestie",
-        "Views":  68344,
+        "Views":  68504,
         "Type":  "Audio",
         "Duration":  "3:36"
     },
@@ -2030,7 +2039,7 @@
         "Date":  "2020-12-01T10:04:07",
         "URL":  "https://youtu.be/XDZYylY1IHE",
         "Song":  "Don\u0027t be long",
-        "Views":  68211,
+        "Views":  68290,
         "Type":  "Audio",
         "Duration":  "3:20"
     },
@@ -2039,7 +2048,7 @@
         "Date":  "2019-04-02T11:04:51",
         "URL":  "https://youtu.be/VACaI2GRUVE",
         "Song":  "Screaming",
-        "Views":  66852,
+        "Views":  66914,
         "Type":  "Audio",
         "Duration":  "3:55"
     },
@@ -2048,7 +2057,7 @@
         "Date":  "2025-04-19T22:00:44",
         "URL":  "https://youtu.be/jxhdmtaXg9A",
         "Song":  "Ready to Rock",
-        "Views":  66458,
+        "Views":  66475,
         "Type":  "Official Dance Video",
         "Duration":  "0:26"
     },
@@ -2057,7 +2066,7 @@
         "Date":  "2023-08-01T06:00:07",
         "URL":  "https://youtu.be/CqFkNqdPnK8",
         "Song":  "Shake That!!",
-        "Views":  65306,
+        "Views":  65360,
         "Type":  "Audio",
         "Duration":  "4:05"
     },
@@ -2066,25 +2075,25 @@
         "Date":  "2025-08-07T23:11:02",
         "URL":  "https://youtu.be/UHZDVE5Ea6c",
         "Song":  "What is justice?",
-        "Views":  64795,
+        "Views":  64913,
         "Type":  "Official Live Short",
         "Duration":  "0:33"
     },
     {
-        "Title":  "SION",
-        "Date":  "2025-10-21T06:01:34",
-        "URL":  "https://youtu.be/u9TrM7r9yOc",
-        "Song":  "SION",
-        "Views":  63528,
+        "Title":  "Present Perfect",
+        "Date":  "2025-10-21T06:00:28",
+        "URL":  "https://youtu.be/IvDzDMJ5cL4",
+        "Song":  "Present Perfect",
+        "Views":  64394,
         "Type":  "Audio",
-        "Duration":  "4:15"
+        "Duration":  "3:52"
     },
     {
         "Title":  "glory",
         "Date":  "2019-12-05T00:27:11",
         "URL":  "https://youtu.be/uZJNer5jBm8",
         "Song":  "glory",
-        "Views":  62595,
+        "Views":  62631,
         "Type":  "Audio",
         "Duration":  "3:40"
     },
@@ -2093,25 +2102,16 @@
         "Date":  "2025-09-02T23:01:06",
         "URL":  "https://youtu.be/wi1SwV0vWzs",
         "Song":  "Ready to Rock",
-        "Views":  60387,
+        "Views":  60517,
         "Type":  "Official Live Short",
         "Duration":  "0:37"
-    },
-    {
-        "Title":  "Present Perfect",
-        "Date":  "2025-10-21T06:00:28",
-        "URL":  "https://youtu.be/IvDzDMJ5cL4",
-        "Song":  "Present Perfect",
-        "Views":  59904,
-        "Type":  "Audio",
-        "Duration":  "3:52"
     },
     {
         "Title":  "Puzzle",
         "Date":  "2023-08-01T06:00:27",
         "URL":  "https://youtu.be/gbopW5vHlio",
         "Song":  "Puzzle",
-        "Views":  59228,
+        "Views":  59306,
         "Type":  "Audio",
         "Duration":  "4:21"
     },
@@ -2120,16 +2120,25 @@
         "Date":  "2024-06-20T23:00:00",
         "URL":  "https://youtu.be/aGjPAPnf_-A",
         "Song":  "Protect You",
-        "Views":  58574,
+        "Views":  58585,
         "Type":  "Official Teaser Video",
         "Duration":  "0:26"
+    },
+    {
+        "Title":  "BAND-MAID / Present Perfect (Official Teaser Video)",
+        "Date":  "2025-10-14T23:30:17",
+        "URL":  "https://youtu.be/M_YlnotO7sM",
+        "Song":  "Present Perfect",
+        "Views":  57077,
+        "Type":  "Official Teaser Video",
+        "Duration":  "0:23"
     },
     {
         "Title":  "BAND-MAID / Ready to Rock (Official Teaser Video)  TVアニメ「ロックは淑女の嗜みでして」オープニングテーマソング",
         "Date":  "2025-03-16T08:00:37",
         "URL":  "https://youtu.be/NFS8hO3BgTA",
         "Song":  "Ready to Rock",
-        "Views":  56920,
+        "Views":  56927,
         "Type":  "Official Teaser Video",
         "Duration":  "0:15"
     },
@@ -2138,7 +2147,7 @@
         "Date":  "2025-04-10T11:00:38",
         "URL":  "https://youtu.be/MPYm3Y6yVkM",
         "Song":  "Ready to Rock",
-        "Views":  56142,
+        "Views":  56157,
         "Type":  "Official Dance Video",
         "Duration":  "0:26"
     },
@@ -2147,34 +2156,34 @@
         "Date":  "2019-04-02T11:04:52",
         "URL":  "https://youtu.be/EqV2Bnzj9Bo",
         "Song":  "anemone",
-        "Views":  56056,
+        "Views":  56108,
         "Type":  "Audio",
         "Duration":  "4:29"
-    },
-    {
-        "Title":  "BAND-MAID / Present Perfect (Official Teaser Video)",
-        "Date":  "2025-10-14T23:30:17",
-        "URL":  "https://youtu.be/M_YlnotO7sM",
-        "Song":  "Present Perfect",
-        "Views":  55718,
-        "Type":  "Official Teaser Video",
-        "Duration":  "0:23"
     },
     {
         "Title":  "Daydreaming",
         "Date":  "2018-10-02T11:55:46",
         "URL":  "https://youtu.be/-7D6FuWUpsk",
         "Song":  "Daydreaming",
-        "Views":  55065,
+        "Views":  55097,
         "Type":  "Audio",
         "Duration":  "3:58"
+    },
+    {
+        "Title":  "Lock and Load",
+        "Date":  "2025-10-21T06:01:38",
+        "URL":  "https://youtu.be/yBx52tnrqZw",
+        "Song":  "Lock and Load",
+        "Views":  54338,
+        "Type":  "Audio",
+        "Duration":  "3:21"
     },
     {
         "Title":  "BAND-MAID with The Warning / SHOW THEM (Official Teaser Video)  AKANE vs Pau",
         "Date":  "2024-07-31T11:00:32",
         "URL":  "https://youtu.be/N5uWg7wPvZA",
         "Song":  "Show Them",
-        "Views":  53576,
+        "Views":  53751,
         "Type":  "Official Teaser Video",
         "Duration":  "0:29"
     },
@@ -2183,16 +2192,25 @@
         "Date":  "2024-09-24T06:00:54",
         "URL":  "https://youtu.be/o8p3rYAKFys",
         "Song":  "Memorable",
-        "Views":  51935,
+        "Views":  52054,
         "Type":  "Audio",
         "Duration":  "3:14"
+    },
+    {
+        "Title":  "SUPER SUNSHINE",
+        "Date":  "2025-10-21T06:00:29",
+        "URL":  "https://youtu.be/J_dd47xa31E",
+        "Song":  "SUPER SUNSHINE",
+        "Views":  51923,
+        "Type":  "Audio",
+        "Duration":  "3:52"
     },
     {
         "Title":  "YOLO",
         "Date":  "2018-10-02T11:35:19",
         "URL":  "https://youtu.be/T_BxRz7-ncw",
         "Song":  "YOLO",
-        "Views":  50734,
+        "Views":  50771,
         "Type":  "Audio",
         "Duration":  "4:26"
     },
@@ -2201,25 +2219,16 @@
         "Date":  "2019-04-02T11:04:51",
         "URL":  "https://youtu.be/hHrnhXfJhL8",
         "Song":  "Awkward",
-        "Views":  49402,
+        "Views":  49447,
         "Type":  "Audio",
         "Duration":  "3:20"
-    },
-    {
-        "Title":  "Lock and Load",
-        "Date":  "2025-10-21T06:01:38",
-        "URL":  "https://youtu.be/yBx52tnrqZw",
-        "Song":  "Lock and Load",
-        "Views":  48912,
-        "Type":  "Audio",
-        "Duration":  "3:21"
     },
     {
         "Title":  "Thrill",
         "Date":  "2023-08-01T06:00:25",
         "URL":  "https://youtu.be/Nld9hWfIfjE",
         "Song":  "Thrill",
-        "Views":  48833,
+        "Views":  48884,
         "Type":  "Audio",
         "Duration":  "4:03"
     },
@@ -2228,7 +2237,7 @@
         "Date":  "2024-07-29T23:00:03",
         "URL":  "https://youtu.be/enNgR1c9ZEo",
         "Song":  "Show Them",
-        "Views":  48115,
+        "Views":  48123,
         "Type":  "Official Teaser Video",
         "Duration":  "0:29"
     },
@@ -2237,7 +2246,7 @@
         "Date":  "2025-04-07T22:00:25",
         "URL":  "https://youtu.be/RcoQoHORdek",
         "Song":  "Ready to Rock",
-        "Views":  47659,
+        "Views":  47669,
         "Type":  "Official Teaser Video",
         "Duration":  "0:24"
     },
@@ -2246,43 +2255,34 @@
         "Date":  "2019-12-05T00:27:11",
         "URL":  "https://youtu.be/VMswJMSWKDw",
         "Song":  "Bubble",
-        "Views":  47642,
+        "Views":  47668,
         "Type":  "Audio",
         "Duration":  "3:47"
-    },
-    {
-        "Title":  "BAND-MAID / Ready to Rock (Official Teaser Video MISA ver.)  TVアニメ「ロックは淑女の嗜みでして」オープニングテーマソング",
-        "Date":  "2025-04-05T22:21:17",
-        "URL":  "https://youtu.be/h9t2zJe-JIY",
-        "Song":  "Ready to Rock",
-        "Views":  47056,
-        "Type":  "Official Teaser Video",
-        "Duration":  "0:24"
     },
     {
         "Title":  "DICE",
         "Date":  "2023-08-01T06:00:33",
         "URL":  "https://youtu.be/bKCcDI5-Oa0",
         "Song":  "DICE",
-        "Views":  47048,
+        "Views":  47112,
         "Type":  "Audio",
         "Duration":  "4:03"
     },
     {
-        "Title":  "SUPER SUNSHINE",
-        "Date":  "2025-10-21T06:00:29",
-        "URL":  "https://youtu.be/J_dd47xa31E",
-        "Song":  "SUPER SUNSHINE",
-        "Views":  47011,
-        "Type":  "Audio",
-        "Duration":  "3:52"
+        "Title":  "BAND-MAID / Ready to Rock (Official Teaser Video MISA ver.)  TVアニメ「ロックは淑女の嗜みでして」オープニングテーマソング",
+        "Date":  "2025-04-05T22:21:17",
+        "URL":  "https://youtu.be/h9t2zJe-JIY",
+        "Song":  "Ready to Rock",
+        "Views":  47075,
+        "Type":  "Official Teaser Video",
+        "Duration":  "0:24"
     },
     {
         "Title":  "DOMINATION",
         "Date":  "2023-08-01T06:00:41",
         "URL":  "https://youtu.be/uc6ILmIBTMA",
         "Song":  "DOMINATION",
-        "Views":  46882,
+        "Views":  46920,
         "Type":  "Audio",
         "Duration":  "3:51"
     },
@@ -2291,7 +2291,7 @@
         "Date":  "2025-07-17T23:00:29",
         "URL":  "https://youtu.be/WVpuhXbZuR0",
         "Song":  "What is justice?",
-        "Views":  46788,
+        "Views":  46820,
         "Type":  "Official Teaser Video",
         "Duration":  "0:30"
     },
@@ -2300,7 +2300,7 @@
         "Date":  "2025-04-23T22:00:42",
         "URL":  "https://youtu.be/gKsEHgTRD84",
         "Song":  "Ready to Rock",
-        "Views":  46778,
+        "Views":  46800,
         "Type":  "Official Teaser Video",
         "Duration":  "0:32"
     },
@@ -2309,7 +2309,7 @@
         "Date":  "2025-07-19T23:00:35",
         "URL":  "https://youtu.be/TSb_aKt6KtI",
         "Song":  "What is justice?",
-        "Views":  46552,
+        "Views":  46669,
         "Type":  "Official Teaser Video",
         "Duration":  "0:27"
     },
@@ -2318,7 +2318,7 @@
         "Date":  "2024-08-02T11:00:36",
         "URL":  "https://youtu.be/YN9Mv3C0WE4",
         "Song":  "Show Them",
-        "Views":  45085,
+        "Views":  45228,
         "Type":  "Official Teaser Video",
         "Duration":  "0:29"
     },
@@ -2327,7 +2327,7 @@
         "Date":  "2024-08-05T11:00:30",
         "URL":  "https://youtu.be/L1prF8ArZb8",
         "Song":  "Show Them",
-        "Views":  45015,
+        "Views":  45023,
         "Type":  "Official Teaser Video",
         "Duration":  "0:29"
     },
@@ -2336,7 +2336,7 @@
         "Date":  "2023-08-01T06:00:36",
         "URL":  "https://youtu.be/fbiSk3eczBc",
         "Song":  "I can\u0027t live without you.",
-        "Views":  44529,
+        "Views":  44568,
         "Type":  "Audio",
         "Duration":  "3:50"
     },
@@ -2345,7 +2345,7 @@
         "Date":  "2023-08-01T06:00:04",
         "URL":  "https://youtu.be/5kjW4huHKNo",
         "Song":  "Play",
-        "Views":  44389,
+        "Views":  44428,
         "Type":  "Audio",
         "Duration":  "3:20"
     },
@@ -2354,7 +2354,7 @@
         "Date":  "2023-08-01T06:00:18",
         "URL":  "https://youtu.be/VMZxl3h3IPc",
         "Song":  "FREEDOM",
-        "Views":  43818,
+        "Views":  43867,
         "Type":  "Audio",
         "Duration":  "3:45"
     },
@@ -2363,7 +2363,7 @@
         "Date":  "2025-07-20T23:00:29",
         "URL":  "https://youtu.be/RjdMcfqLzhk",
         "Song":  "What is justice?",
-        "Views":  42697,
+        "Views":  42754,
         "Type":  "Official Teaser Video",
         "Duration":  "0:27"
     },
@@ -2372,7 +2372,7 @@
         "Date":  "2024-07-14T07:15:29",
         "URL":  "https://youtu.be/kobDkT-NMkU",
         "Song":  "",
-        "Views":  42386,
+        "Views":  42493,
         "Type":  "Official Teaser Video",
         "Duration":  "0:53"
     },
@@ -2381,34 +2381,34 @@
         "Date":  "2024-08-04T11:00:35",
         "URL":  "https://youtu.be/_wA3a3op4I4",
         "Song":  "Show Them",
-        "Views":  41745,
+        "Views":  41842,
         "Type":  "Official Teaser Video",
         "Duration":  "0:29"
-    },
-    {
-        "Title":  "BAND-MAID / Zen (Official Teaser Video)  AKANE Ver.  MAPPAアニメ「全修。」オープニングテーマソング",
-        "Date":  "2025-01-16T22:00:12",
-        "URL":  "https://youtu.be/Hn_D-xpYaXY",
-        "Song":  "Zen",
-        "Views":  41351,
-        "Type":  "Official Teaser Video",
-        "Duration":  "0:27"
     },
     {
         "Title":  "Choose me",
         "Date":  "2023-08-01T06:00:09",
         "URL":  "https://youtu.be/I3icx12V-KU",
         "Song":  "Choose me",
-        "Views":  41316,
+        "Views":  41371,
         "Type":  "Audio",
         "Duration":  "3:39"
+    },
+    {
+        "Title":  "BAND-MAID / Zen (Official Teaser Video)  AKANE Ver.  MAPPAアニメ「全修。」オープニングテーマソング",
+        "Date":  "2025-01-16T22:00:12",
+        "URL":  "https://youtu.be/Hn_D-xpYaXY",
+        "Song":  "Zen",
+        "Views":  41362,
+        "Type":  "Official Teaser Video",
+        "Duration":  "0:27"
     },
     {
         "Title":  "REAL EXISTENCE",
         "Date":  "2023-08-01T06:00:14",
         "URL":  "https://youtu.be/KARLb_qDCpg",
         "Song":  "REAL EXISTENCE",
-        "Views":  40886,
+        "Views":  40931,
         "Type":  "Audio",
         "Duration":  "4:10"
     },
@@ -2417,7 +2417,7 @@
         "Date":  "2025-07-21T23:00:46",
         "URL":  "https://youtu.be/byPQCySUe0M",
         "Song":  "What is justice?",
-        "Views":  40349,
+        "Views":  40419,
         "Type":  "Official Teaser Video",
         "Duration":  "0:27"
     },
@@ -2426,7 +2426,7 @@
         "Date":  "2023-08-01T06:00:02",
         "URL":  "https://youtu.be/2UPXHfkrh-0",
         "Song":  "alone",
-        "Views":  40123,
+        "Views":  40172,
         "Type":  "Audio",
         "Duration":  "3:28"
     },
@@ -2435,7 +2435,7 @@
         "Date":  "2025-04-08T22:00:10",
         "URL":  "https://youtu.be/Ii3dVgCB3_Q",
         "Song":  "Ready to Rock",
-        "Views":  39265,
+        "Views":  39280,
         "Type":  "Official Teaser Video",
         "Duration":  "0:26"
     },
@@ -2444,7 +2444,7 @@
         "Date":  "2023-08-01T06:00:46",
         "URL":  "https://youtu.be/yiwuTda0E8s",
         "Song":  "Screaming",
-        "Views":  39072,
+        "Views":  39110,
         "Type":  "Audio",
         "Duration":  "3:50"
     },
@@ -2453,7 +2453,7 @@
         "Date":  "2023-08-01T06:00:34",
         "URL":  "https://youtu.be/_i2Knq68730",
         "Song":  "Rock in me",
-        "Views":  37595,
+        "Views":  37632,
         "Type":  "Audio",
         "Duration":  "3:22"
     },
@@ -2462,7 +2462,7 @@
         "Date":  "2024-08-21T05:00:06",
         "URL":  "https://youtu.be/8ofX0GW1mHc",
         "Song":  "",
-        "Views":  37459,
+        "Views":  37470,
         "Type":  "Official Live Short",
         "Duration":  "0:38"
     },
@@ -2471,43 +2471,52 @@
         "Date":  "2023-08-01T06:00:13",
         "URL":  "https://youtu.be/Msr-nKTQcao",
         "Song":  "Daydreaming",
-        "Views":  37086,
+        "Views":  37134,
         "Type":  "Audio",
         "Duration":  "3:59"
+    },
+    {
+        "Title":  "Dilly-Dally",
+        "Date":  "2025-10-21T06:00:11",
+        "URL":  "https://youtu.be/7gE2cJFw_xg",
+        "Song":  "Dilly-Dally",
+        "Views":  36809,
+        "Type":  "Audio",
+        "Duration":  "2:49"
     },
     {
         "Title":  "YOLO",
         "Date":  "2023-08-01T06:00:28",
         "URL":  "https://youtu.be/hoOUddgdUXk",
         "Song":  "YOLO",
-        "Views":  36763,
+        "Views":  36800,
         "Type":  "Audio",
         "Duration":  "4:26"
-    },
-    {
-        "Title":  "BAND-MAID / Zen (Official Teaser Video)  SAIKI Ver.  MAPPAアニメ「全修。」オープニングテーマソング",
-        "Date":  "2025-01-30T22:00:18",
-        "URL":  "https://youtu.be/D-mKCUY2UmI",
-        "Song":  "Zen",
-        "Views":  36078,
-        "Type":  "Official Teaser Video",
-        "Duration":  "0:27"
     },
     {
         "Title":  "BAND-MAID / Present Perfect (Official Teaser Video 2)",
         "Date":  "2025-10-21T23:00:22",
         "URL":  "https://youtu.be/KYqudoBNACU",
         "Song":  "Present Perfect",
-        "Views":  35820,
+        "Views":  36486,
         "Type":  "Official Teaser Video",
         "Duration":  "0:26"
+    },
+    {
+        "Title":  "BAND-MAID / Zen (Official Teaser Video)  SAIKI Ver.  MAPPAアニメ「全修。」オープニングテーマソング",
+        "Date":  "2025-01-30T22:00:18",
+        "URL":  "https://youtu.be/D-mKCUY2UmI",
+        "Song":  "Zen",
+        "Views":  36089,
+        "Type":  "Official Teaser Video",
+        "Duration":  "0:27"
     },
     {
         "Title":  "Don\u0027t you tell ME",
         "Date":  "2023-08-01T06:00:07",
         "URL":  "https://youtu.be/83axQdf0gE8",
         "Song":  "Don\u0027t you tell ME",
-        "Views":  35238,
+        "Views":  35287,
         "Type":  "Audio",
         "Duration":  "3:10"
     },
@@ -2516,7 +2525,7 @@
         "Date":  "2025-02-09T22:00:35",
         "URL":  "https://youtu.be/ir0wriDMxns",
         "Song":  "Zen",
-        "Views":  34958,
+        "Views":  34977,
         "Type":  "Official Teaser Video",
         "Duration":  "0:28"
     },
@@ -2525,7 +2534,7 @@
         "Date":  "2025-07-22T23:00:42",
         "URL":  "https://youtu.be/_xflJi4BvWo",
         "Song":  "What is justice?",
-        "Views":  34871,
+        "Views":  34940,
         "Type":  "Official Teaser Video",
         "Duration":  "0:27"
     },
@@ -2534,25 +2543,16 @@
         "Date":  "2025-01-26T22:00:40",
         "URL":  "https://youtu.be/kgIMz3ibHiU",
         "Song":  "Zen",
-        "Views":  34739,
+        "Views":  34753,
         "Type":  "Official Teaser Video",
         "Duration":  "0:27"
-    },
-    {
-        "Title":  "Dilly-Dally",
-        "Date":  "2025-10-21T06:00:11",
-        "URL":  "https://youtu.be/7gE2cJFw_xg",
-        "Song":  "Dilly-Dally",
-        "Views":  33987,
-        "Type":  "Audio",
-        "Duration":  "2:49"
     },
     {
         "Title":  "BAND-MAID 2025",
         "Date":  "2024-11-26T06:18:21",
         "URL":  "https://youtu.be/vwX8-HPivqg",
         "Song":  "Zen",
-        "Views":  32838,
+        "Views":  32845,
         "Type":  "Other",
         "Duration":  "0:57"
     },
@@ -2561,16 +2561,25 @@
         "Date":  "2025-01-16T01:00:24",
         "URL":  "https://youtu.be/CXQeSVxdSw4",
         "Song":  "Zen",
-        "Views":  32031,
+        "Views":  32042,
         "Type":  "Official Teaser Video",
         "Duration":  "0:30"
+    },
+    {
+        "Title":  "BAND-MAID / Present Perfect (Official Teaser Video MIKU KOBATO)",
+        "Date":  "2025-10-25T08:01:46",
+        "URL":  "https://youtu.be/s9xuG5xq0jo",
+        "Song":  "Present Perfect",
+        "Views":  31607,
+        "Type":  "Official Teaser Video",
+        "Duration":  "0:23"
     },
     {
         "Title":  "BAND-MAID / What is justice? (Official Teaser Video 3) TVアニメ「桃源暗鬼」エンディング主題歌",
         "Date":  "2025-07-24T01:06:05",
         "URL":  "https://youtu.be/AoIdy16pje8",
         "Song":  "What is justice?",
-        "Views":  31325,
+        "Views":  31375,
         "Type":  "Official Teaser Video",
         "Duration":  "0:32"
     },
@@ -2579,7 +2588,7 @@
         "Date":  "2024-10-13T09:00:46",
         "URL":  "https://youtu.be/fwKbV3B7pg4",
         "Song":  "Forbidden tale",
-        "Views":  30656,
+        "Views":  30662,
         "Type":  "Official Teaser Video",
         "Duration":  "0:30"
     },
@@ -2588,7 +2597,7 @@
         "Date":  "2024-10-14T09:00:39",
         "URL":  "https://youtu.be/X4IQwPJN7E0",
         "Song":  "Forbidden tale",
-        "Views":  30085,
+        "Views":  30093,
         "Type":  "Official Teaser Video",
         "Duration":  "0:32"
     },
@@ -2597,7 +2606,7 @@
         "Date":  "2023-08-01T06:00:47",
         "URL":  "https://youtu.be/wvEFTlgYIAc",
         "Song":  "glory",
-        "Views":  29154,
+        "Views":  29184,
         "Type":  "Audio",
         "Duration":  "3:35"
     },
@@ -2606,7 +2615,7 @@
         "Date":  "2023-08-01T06:00:10",
         "URL":  "https://youtu.be/85QjGCRd5j0",
         "Song":  "secret My lips",
-        "Views":  28878,
+        "Views":  28902,
         "Type":  "Audio",
         "Duration":  "4:12"
     },
@@ -2615,7 +2624,7 @@
         "Date":  "2023-08-01T06:00:04",
         "URL":  "https://youtu.be/5rhwRHIF_EM",
         "Song":  "the non-fiction days",
-        "Views":  28804,
+        "Views":  28837,
         "Type":  "Audio",
         "Duration":  "4:43"
     },
@@ -2624,25 +2633,16 @@
         "Date":  "2024-08-07T11:00:03",
         "URL":  "https://youtu.be/2uVT3sr8QAs",
         "Song":  "Show Them",
-        "Views":  28246,
+        "Views":  28254,
         "Type":  "Official Teaser Video",
         "Duration":  "0:29"
-    },
-    {
-        "Title":  "BAND-MAID / Present Perfect (Official Teaser Video MIKU KOBATO)",
-        "Date":  "2025-10-25T08:01:46",
-        "URL":  "https://youtu.be/s9xuG5xq0jo",
-        "Song":  "Present Perfect",
-        "Views":  27586,
-        "Type":  "Official Teaser Video",
-        "Duration":  "0:23"
     },
     {
         "Title":  "BAND-MAID / Magie  #ジャイガ #bandmaid #夏フェス",
         "Date":  "2024-07-21T00:00:10",
         "URL":  "https://youtu.be/B2N2xiinQzI",
         "Song":  "Magie",
-        "Views":  27468,
+        "Views":  27474,
         "Type":  "Official Live Short",
         "Duration":  "0:24"
     },
@@ -2651,34 +2651,34 @@
         "Date":  "2024-10-15T09:01:11",
         "URL":  "https://youtu.be/woI6ILUBWaI",
         "Song":  "Forbidden tale",
-        "Views":  27232,
+        "Views":  27242,
         "Type":  "Official Teaser Video",
         "Duration":  "0:32"
-    },
-    {
-        "Title":  "start over",
-        "Date":  "2023-08-01T06:00:01",
-        "URL":  "https://youtu.be/a3QswEhUsy4",
-        "Song":  "start over",
-        "Views":  26953,
-        "Type":  "Audio",
-        "Duration":  "3:12"
     },
     {
         "Title":  "Bubble",
         "Date":  "2023-08-01T06:00:45",
         "URL":  "https://youtu.be/viKp4mkdAzk",
         "Song":  "Bubble",
-        "Views":  26943,
+        "Views":  26982,
         "Type":  "Audio",
         "Duration":  "3:45"
+    },
+    {
+        "Title":  "start over",
+        "Date":  "2023-08-01T06:00:01",
+        "URL":  "https://youtu.be/a3QswEhUsy4",
+        "Song":  "start over",
+        "Views":  26978,
+        "Type":  "Audio",
+        "Duration":  "3:12"
     },
     {
         "Title":  "Different",
         "Date":  "2023-08-01T06:00:05",
         "URL":  "https://youtu.be/91oVKMsHpYI",
         "Song":  "Different",
-        "Views":  26890,
+        "Views":  26911,
         "Type":  "Audio",
         "Duration":  "3:30"
     },
@@ -2687,7 +2687,7 @@
         "Date":  "2025-07-16T01:01:04",
         "URL":  "https://youtu.be/zBOqFbyTgkI",
         "Song":  "What is justice?",
-        "Views":  26511,
+        "Views":  26544,
         "Type":  "Official Talk Video",
         "Duration":  "1:00"
     },
@@ -2696,7 +2696,7 @@
         "Date":  "2023-08-01T06:00:35",
         "URL":  "https://youtu.be/cKG44jAk1Y8",
         "Song":  "endless Story",
-        "Views":  26286,
+        "Views":  26314,
         "Type":  "Audio",
         "Duration":  "3:42"
     },
@@ -2705,7 +2705,7 @@
         "Date":  "2024-09-24T23:00:12",
         "URL":  "https://youtu.be/8dawxG_v7Fc",
         "Song":  "",
-        "Views":  26010,
+        "Views":  26013,
         "Type":  "Official Teaser Video",
         "Duration":  "1:00"
     },
@@ -2714,7 +2714,7 @@
         "Date":  "2024-10-03T04:30:13",
         "URL":  "https://youtu.be/D0Lj5un6Ul0",
         "Song":  "Forbidden tale",
-        "Views":  25355,
+        "Views":  25360,
         "Type":  "Official Teaser Video",
         "Duration":  "0:49"
     },
@@ -2723,7 +2723,7 @@
         "Date":  "2024-10-12T09:00:32",
         "URL":  "https://youtu.be/PDhRae9X-w4",
         "Song":  "Forbidden tale",
-        "Views":  25177,
+        "Views":  25184,
         "Type":  "Official Teaser Video",
         "Duration":  "0:32"
     },
@@ -2732,16 +2732,25 @@
         "Date":  "2023-08-01T06:00:00",
         "URL":  "https://youtu.be/-XFwab31HfY",
         "Song":  "Blooming",
-        "Views":  24792,
+        "Views":  24810,
         "Type":  "Audio",
         "Duration":  "3:47"
+    },
+    {
+        "Title":  "BAND-MAID / Present Perfect (Official Teaser Video SAIKI)",
+        "Date":  "2025-10-26T08:00:17",
+        "URL":  "https://youtu.be/LApK4w7OpJ8",
+        "Song":  "Present Perfect",
+        "Views":  24758,
+        "Type":  "Official Teaser Video",
+        "Duration":  "0:23"
     },
     {
         "Title":  "BAND-MAID with The Warning / SHOW THEM (Official Teaser Video)",
         "Date":  "2024-08-05T23:27:06",
         "URL":  "https://youtu.be/e3Q0GuBX3rk",
         "Song":  "Show Them",
-        "Views":  24584,
+        "Views":  24588,
         "Type":  "Official Teaser Video",
         "Duration":  "0:37"
     },
@@ -2750,7 +2759,7 @@
         "Date":  "2024-08-21T05:00:20",
         "URL":  "https://youtu.be/PfMQkYxaVWE",
         "Song":  "",
-        "Views":  23657,
+        "Views":  23665,
         "Type":  "Official Teaser Video",
         "Duration":  "0:31"
     },
@@ -2759,7 +2768,7 @@
         "Date":  "2023-08-01T06:00:16",
         "URL":  "https://youtu.be/CUteeAnG5Y4",
         "Song":  "Rinne",
-        "Views":  23008,
+        "Views":  23039,
         "Type":  "Audio",
         "Duration":  "3:26"
     },
@@ -2768,7 +2777,7 @@
         "Date":  "2024-08-08T11:00:33",
         "URL":  "https://youtu.be/TXj5Y4VfVkU",
         "Song":  "Show Them",
-        "Views":  20069,
+        "Views":  20075,
         "Type":  "Official Teaser Video",
         "Duration":  "0:29"
     },
@@ -2777,7 +2786,7 @@
         "Date":  "2024-08-14T11:00:00",
         "URL":  "https://youtu.be/-NsV_51FYVE",
         "Song":  "Show Them",
-        "Views":  19296,
+        "Views":  19301,
         "Type":  "Official Teaser Video",
         "Duration":  "0:29"
     },
@@ -2786,7 +2795,7 @@
         "Date":  "2018-10-02T11:42:18",
         "URL":  "https://youtu.be/_iU7a_GnZXo",
         "Song":  "YOLO",
-        "Views":  19067,
+        "Views":  19091,
         "Type":  "Audio",
         "Duration":  "4:26"
     },
@@ -2795,16 +2804,16 @@
         "Date":  "2025-10-01T23:01:08",
         "URL":  "https://youtu.be/sts6c_ZTwUM",
         "Song":  "What is justice?",
-        "Views":  18156,
+        "Views":  18314,
         "Type":  "Anime Music Video Short",
         "Duration":  "0:31"
     },
     {
-        "Title":  "BAND-MAID / Present Perfect (Official Teaser Video SAIKI)",
-        "Date":  "2025-10-26T08:00:17",
-        "URL":  "https://youtu.be/LApK4w7OpJ8",
+        "Title":  "BAND-MAID / Present Perfect (Official Teaser Video KANAMI)",
+        "Date":  "2025-10-27T08:00:58",
+        "URL":  "https://youtu.be/V8qZKlfgoFg",
         "Song":  "Present Perfect",
-        "Views":  17387,
+        "Views":  18312,
         "Type":  "Official Teaser Video",
         "Duration":  "0:23"
     },
@@ -2813,7 +2822,7 @@
         "Date":  "2024-08-13T11:00:36",
         "URL":  "https://youtu.be/XDu4B75zz18",
         "Song":  "Show Them",
-        "Views":  15733,
+        "Views":  15740,
         "Type":  "Official Teaser Video",
         "Duration":  "0:29"
     },
@@ -2822,7 +2831,7 @@
         "Date":  "2024-08-09T11:00:30",
         "URL":  "https://youtu.be/KKJUY7g1UaU",
         "Song":  "Show Them",
-        "Views":  14980,
+        "Views":  14986,
         "Type":  "Official Teaser Video",
         "Duration":  "0:29"
     },
@@ -2831,7 +2840,7 @@
         "Date":  "2024-08-12T11:00:23",
         "URL":  "https://youtu.be/QtdLS9CLkj8",
         "Song":  "Show Them",
-        "Views":  14385,
+        "Views":  14391,
         "Type":  "Official Teaser Video",
         "Duration":  "0:29"
     },
@@ -2840,16 +2849,25 @@
         "Date":  "2025-10-03T10:31:10",
         "URL":  "https://youtu.be/YltgGeE57LU",
         "Song":  "What is justice?",
-        "Views":  14220,
+        "Views":  14362,
         "Type":  "Anime Music Video Short",
         "Duration":  "0:41"
     },
     {
-        "Title":  "BAND-MAID / Present Perfect (Official Teaser Video KANAMI)",
-        "Date":  "2025-10-27T08:00:58",
-        "URL":  "https://youtu.be/V8qZKlfgoFg",
+        "Title":  "Ready to Rock",
+        "Date":  "2025-10-21T06:01:28",
+        "URL":  "https://youtu.be/sYuZanAQ2Os",
+        "Song":  "Ready to Rock",
+        "Views":  12607,
+        "Type":  "Audio",
+        "Duration":  "3:34"
+    },
+    {
+        "Title":  "BAND-MAID / Present Perfect (Official Teaser Video AKANE)",
+        "Date":  "2025-10-28T08:02:12",
+        "URL":  "https://youtu.be/y_P3bYEjsbE",
         "Song":  "",
-        "Views":  11883,
+        "Views":  11893,
         "Type":  "Other",
         "Duration":  "0:23"
     },
@@ -2858,43 +2876,43 @@
         "Date":  "2020-12-01T10:04:07",
         "URL":  "https://youtu.be/zjYoCChnNjw",
         "Song":  "Different",
-        "Views":  11845,
+        "Views":  11854,
         "Type":  "Audio",
         "Duration":  "1:31"
-    },
-    {
-        "Title":  "Ready to Rock",
-        "Date":  "2025-10-21T06:01:28",
-        "URL":  "https://youtu.be/sYuZanAQ2Os",
-        "Song":  "Ready to Rock",
-        "Views":  11341,
-        "Type":  "Audio",
-        "Duration":  "3:34"
-    },
-    {
-        "Title":  "BAND-MAID with The Warning / SHOW THEM (Official Teaser Video) SAIKI vs Dany  part 2",
-        "Date":  "2024-08-11T11:00:10",
-        "URL":  "https://youtu.be/Cc30aTM0DVo",
-        "Song":  "Show Them",
-        "Views":  11113,
-        "Type":  "Official Teaser Video",
-        "Duration":  "0:29"
     },
     {
         "Title":  "What is justice?",
         "Date":  "2025-10-21T06:00:06",
         "URL":  "https://youtu.be/2gKVQrp1IB4",
         "Song":  "What is justice?",
-        "Views":  10339,
+        "Views":  11495,
         "Type":  "Audio",
         "Duration":  "3:25"
+    },
+    {
+        "Title":  "BAND-MAID with The Warning / SHOW THEM (Official Teaser Video) SAIKI vs Dany  part 2",
+        "Date":  "2024-08-11T11:00:10",
+        "URL":  "https://youtu.be/Cc30aTM0DVo",
+        "Song":  "Show Them",
+        "Views":  11119,
+        "Type":  "Official Teaser Video",
+        "Duration":  "0:29"
+    },
+    {
+        "Title":  "Zen",
+        "Date":  "2025-10-21T06:00:05",
+        "URL":  "https://youtu.be/azlZWEGgLQc",
+        "Song":  "Zen",
+        "Views":  10110,
+        "Type":  "Audio",
+        "Duration":  "3:41"
     },
     {
         "Title":  "BAND-MAID with The Warning / SHOW THEM (Official Teaser Video) SAIKI",
         "Date":  "2024-08-07T11:00:41",
         "URL":  "https://youtu.be/ccfzCEO2RC8",
         "Song":  "Show Them",
-        "Views":  9826,
+        "Views":  9830,
         "Type":  "Official Teaser Video",
         "Duration":  "0:29"
     },
@@ -2903,25 +2921,16 @@
         "Date":  "2019-10-02T11:00:23",
         "URL":  "https://youtu.be/MmhcEkgr_kY",
         "Song":  "endless Story",
-        "Views":  9420,
+        "Views":  9425,
         "Type":  "Audio",
         "Duration":  "3:45"
-    },
-    {
-        "Title":  "Zen",
-        "Date":  "2025-10-21T06:00:05",
-        "URL":  "https://youtu.be/azlZWEGgLQc",
-        "Song":  "Zen",
-        "Views":  9120,
-        "Type":  "Audio",
-        "Duration":  "3:41"
     },
     {
         "Title":  "Protect You (TVサイズ)",
         "Date":  "2024-10-08T06:04:40",
         "URL":  "https://youtu.be/JQTMWroS3So",
         "Song":  "Protect You",
-        "Views":  7760,
+        "Views":  7769,
         "Type":  "Audio",
         "Duration":  "1:37"
     },
@@ -2930,7 +2939,7 @@
         "Date":  "2019-01-15T10:01:50",
         "URL":  "https://youtu.be/-ZalwXFqleQ",
         "Song":  "glory",
-        "Views":  5527,
+        "Views":  5531,
         "Type":  "Audio",
         "Duration":  "3:36"
     },
@@ -2939,7 +2948,7 @@
         "Date":  "2018-10-02T11:19:47",
         "URL":  "https://youtu.be/jjLrlvuPVqY",
         "Song":  "secret My lips",
-        "Views":  4522,
+        "Views":  4528,
         "Type":  "Audio",
         "Duration":  "4:28"
     }
