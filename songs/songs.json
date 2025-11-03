@@ -166,7 +166,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  40,
-        "SpotifyStreams":  2480315,
+        "SpotifyStreams":  2485058,
         "MediaTieIn":  null
     },
     {
@@ -196,7 +196,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  93,
-        "SpotifyStreams":  2289884,
+        "SpotifyStreams":  2293926,
         "MediaTieIn":  "Used in mobile game Valiant Knights"
     },
     {
@@ -276,7 +276,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  13,
-        "SpotifyStreams":  1921582,
+        "SpotifyStreams":  1923640,
         "MediaTieIn":  null
     },
     {
@@ -416,7 +416,17 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  14,
-        "SpotifyStreams":  1492898,
+        "SpotifyStreams":  1495858,
+        "MediaTieIn":  null
+    },
+    {
+        "Name":  "FREEZER",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2015-11-18T00:00:00",
+        "Album":  "New Beginning",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  39,
+        "SpotifyStreams":  1480185,
         "MediaTieIn":  null
     },
     {
@@ -427,16 +437,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  18,
         "SpotifyStreams":  1479543,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "FREEZER",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2015-11-18T00:00:00",
-        "Album":  "New Beginning",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  39,
-        "SpotifyStreams":  1478594,
         "MediaTieIn":  null
     },
     {
@@ -476,7 +476,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  40,
-        "SpotifyStreams":  1386494,
+        "SpotifyStreams":  1389563,
         "MediaTieIn":  null
     },
     {
@@ -486,7 +486,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  62,
-        "SpotifyStreams":  1356048,
+        "SpotifyStreams":  1358251,
         "MediaTieIn":  null
     },
     {
@@ -496,7 +496,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  73,
-        "SpotifyStreams":  1326362,
+        "SpotifyStreams":  1327246,
         "MediaTieIn":  null
     },
     {
@@ -576,7 +576,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  29,
-        "SpotifyStreams":  1147779,
+        "SpotifyStreams":  1154036,
         "MediaTieIn":  "Ending theme for anime series Grendizer U"
     },
     {
@@ -646,7 +646,7 @@
         "Album":  "glory",
         "KobatoLead":  "no",
         "PlayedLiveCount":  22,
-        "SpotifyStreams":  1057737,
+        "SpotifyStreams":  1058579,
         "MediaTieIn":  null
     },
     {
@@ -826,7 +826,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  8,
-        "SpotifyStreams":  811483,
+        "SpotifyStreams":  812128,
         "MediaTieIn":  null
     },
     {
@@ -846,7 +846,17 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  12,
-        "SpotifyStreams":  786486,
+        "SpotifyStreams":  787316,
+        "MediaTieIn":  null
+    },
+    {
+        "Name":  "Awkward",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2017-01-11T00:00:00",
+        "Album":  "Just Bring It",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  34,
+        "SpotifyStreams":  785673,
         "MediaTieIn":  null
     },
     {
@@ -857,16 +867,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  63,
         "SpotifyStreams":  785075,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Awkward",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2017-01-11T00:00:00",
-        "Album":  "Just Bring It",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  34,
-        "SpotifyStreams":  784676,
         "MediaTieIn":  null
     },
     {
@@ -916,7 +916,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  739334,
+        "SpotifyStreams":  740821,
         "MediaTieIn":  null
     },
     {
@@ -1066,7 +1066,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  49,
-        "SpotifyStreams":  612435,
+        "SpotifyStreams":  613059,
         "MediaTieIn":  null
     },
     {
@@ -1090,6 +1090,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "At the drop of a hat",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2019-12-11T00:00:00",
+        "Album":  "CONQUEROR",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  3,
+        "SpotifyStreams":  570437,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Unfair game",
         "AlternativeName":  "",
         "ReleaseDate":  "2016-11-16T00:00:00",
@@ -1097,16 +1107,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  50,
         "SpotifyStreams":  570236,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "At the drop of a hat",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2019-12-11T00:00:00",
-        "Album":  "CONQUEROR",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  3,
-        "SpotifyStreams":  569639,
         "MediaTieIn":  null
     },
     {
@@ -1126,7 +1126,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
-        "SpotifyStreams":  514574,
+        "SpotifyStreams":  515970,
         "MediaTieIn":  null
     },
     {
@@ -1156,7 +1156,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  27,
-        "SpotifyStreams":  417433,
+        "SpotifyStreams":  420936,
         "MediaTieIn":  null
     },
     {
@@ -1270,6 +1270,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Lock and Load",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2025-10-22T00:00:00",
+        "Album":  "SCOOOOOP",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  1,
+        "SpotifyStreams":  40309,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Dilly-Dally",
         "AlternativeName":  "",
         "ReleaseDate":  "2025-10-22T00:00:00",
@@ -1287,16 +1297,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  1,
         "SpotifyStreams":  34551,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Lock and Load",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2025-10-22T00:00:00",
-        "Album":  "SCOOOOOP",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  1,
-        "SpotifyStreams":  21437,
         "MediaTieIn":  null
     },
     {
