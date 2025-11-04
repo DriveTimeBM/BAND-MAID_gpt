@@ -206,7 +206,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  143,
-        "SpotifyStreams":  2248672,
+        "SpotifyStreams":  2252074,
         "MediaTieIn":  null
     },
     {
@@ -266,7 +266,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  108,
-        "SpotifyStreams":  1956531,
+        "SpotifyStreams":  1961333,
         "MediaTieIn":  null
     },
     {
@@ -290,6 +290,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "HATE?",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2022-09-21T00:00:00",
+        "Album":  "Unleash",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  64,
+        "SpotifyStreams":  1826510,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Moratorium",
         "AlternativeName":  "モラトリアム",
         "ReleaseDate":  "2017-01-11T00:00:00",
@@ -297,16 +307,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  113,
         "SpotifyStreams":  1824722,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "HATE?",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2022-09-21T00:00:00",
-        "Album":  "Unleash",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  64,
-        "SpotifyStreams":  1821831,
         "MediaTieIn":  null
     },
     {
@@ -396,7 +396,7 @@
         "Album":  "about Us",
         "KobatoLead":  "no",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  1539180,
+        "SpotifyStreams":  1540520,
         "MediaTieIn":  null
     },
     {
@@ -566,7 +566,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  43,
-        "SpotifyStreams":  1166764,
+        "SpotifyStreams":  1168484,
         "MediaTieIn":  null
     },
     {
@@ -656,7 +656,7 @@
         "Album":  "Bubble",
         "KobatoLead":  "no",
         "PlayedLiveCount":  7,
-        "SpotifyStreams":  1040144,
+        "SpotifyStreams":  1040982,
         "MediaTieIn":  null
     },
     {
@@ -686,7 +686,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  9,
-        "SpotifyStreams":  989732,
+        "SpotifyStreams":  990654,
         "MediaTieIn":  null
     },
     {
@@ -736,7 +736,7 @@
         "Album":  "Different",
         "KobatoLead":  "no",
         "PlayedLiveCount":  17,
-        "SpotifyStreams":  861158,
+        "SpotifyStreams":  862927,
         "MediaTieIn":  null
     },
     {
@@ -746,7 +746,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  121,
-        "SpotifyStreams":  854989,
+        "SpotifyStreams":  856083,
         "MediaTieIn":  null
     },
     {
@@ -756,7 +756,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  1,
-        "SpotifyStreams":  846032,
+        "SpotifyStreams":  848213,
         "MediaTieIn":  null
     },
     {
@@ -836,7 +836,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  35,
-        "SpotifyStreams":  805957,
+        "SpotifyStreams":  806868,
         "MediaTieIn":  null
     },
     {
@@ -850,6 +850,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "FORWARD",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2014-01-08T00:00:00",
+        "Album":  "MAID IN JAPAN",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  63,
+        "SpotifyStreams":  785736,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Awkward",
         "AlternativeName":  "",
         "ReleaseDate":  "2017-01-11T00:00:00",
@@ -857,16 +867,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  34,
         "SpotifyStreams":  785673,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "FORWARD",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2014-01-08T00:00:00",
-        "Album":  "MAID IN JAPAN",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  63,
-        "SpotifyStreams":  785075,
         "MediaTieIn":  null
     },
     {
@@ -1036,7 +1036,7 @@
         "Album":  "Love, Passion, Matador (愛と情熱のマタドール)",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  40,
-        "SpotifyStreams":  647221,
+        "SpotifyStreams":  647615,
         "MediaTieIn":  null
     },
     {
@@ -1086,7 +1086,7 @@
         "Album":  "YOLO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  53,
-        "SpotifyStreams":  578482,
+        "SpotifyStreams":  579079,
         "MediaTieIn":  null
     },
     {
@@ -1206,7 +1206,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  24,
-        "SpotifyStreams":  255592,
+        "SpotifyStreams":  258459,
         "MediaTieIn":  null
     },
     {
@@ -1246,7 +1246,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  9,
-        "SpotifyStreams":  162942,
+        "SpotifyStreams":  164313,
         "MediaTieIn":  null
     },
     {
@@ -1266,7 +1266,7 @@
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
         "PlayedLiveCount":  2,
-        "SpotifyStreams":  50619,
+        "SpotifyStreams":  99490,
         "MediaTieIn":  null
     },
     {
