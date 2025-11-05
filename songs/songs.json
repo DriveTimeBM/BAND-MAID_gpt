@@ -36,7 +36,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  132,
-        "SpotifyStreams":  7170116,
+        "SpotifyStreams":  7179467,
         "MediaTieIn":  null
     },
     {
@@ -46,7 +46,7 @@
         "Album":  "Different",
         "KobatoLead":  "no",
         "PlayedLiveCount":  38,
-        "SpotifyStreams":  6884963,
+        "SpotifyStreams":  6899584,
         "MediaTieIn":  "Opening theme for S3 of anime series Log Horizon"
     },
     {
@@ -76,7 +76,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  168,
-        "SpotifyStreams":  3774863,
+        "SpotifyStreams":  3781685,
         "MediaTieIn":  null
     },
     {
@@ -146,7 +146,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  39,
-        "SpotifyStreams":  2591184,
+        "SpotifyStreams":  2594004,
         "MediaTieIn":  "Theme song for TV show Perfect Crime"
     },
     {
@@ -210,6 +210,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Show Them",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2024-08-07T00:00:00",
+        "Album":  "Epic Narratives",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  10,
+        "SpotifyStreams":  2197354,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "alone",
         "AlternativeName":  "",
         "ReleaseDate":  "2016-02-14T00:00:00",
@@ -217,16 +227,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  232,
         "SpotifyStreams":  2190248,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Show Them",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2024-08-07T00:00:00",
-        "Album":  "Epic Narratives",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  10,
-        "SpotifyStreams":  2179187,
         "MediaTieIn":  null
     },
     {
@@ -346,7 +346,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  122,
-        "SpotifyStreams":  1719644,
+        "SpotifyStreams":  1722556,
         "MediaTieIn":  null
     },
     {
@@ -356,7 +356,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  3,
-        "SpotifyStreams":  1714707,
+        "SpotifyStreams":  1716663,
         "MediaTieIn":  null
     },
     {
@@ -406,7 +406,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  111,
-        "SpotifyStreams":  1536398,
+        "SpotifyStreams":  1538967,
         "MediaTieIn":  null
     },
     {
@@ -586,7 +586,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  69,
-        "SpotifyStreams":  1146592,
+        "SpotifyStreams":  1148095,
         "MediaTieIn":  "Ending theme for anime series Quiz Tokiko-san"
     },
     {
@@ -596,7 +596,7 @@
         "Album":  "Sense",
         "KobatoLead":  "no",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  1145927,
+        "SpotifyStreams":  1147314,
         "MediaTieIn":  "Battle theme for e-sports All-Japan University e-Sports Competition"
     },
     {
@@ -770,23 +770,23 @@
         "MediaTieIn":  null
     },
     {
-        "Name":  "Yoake Mae",
-        "AlternativeName":  "夜明け前",
-        "ReleaseDate":  "2014-01-08T00:00:00",
-        "Album":  "MAID IN JAPAN",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  40,
-        "SpotifyStreams":  825181,
-        "MediaTieIn":  null
-    },
-    {
         "Name":  "CHEMICAL REACTION",
         "AlternativeName":  "",
         "ReleaseDate":  "2021-01-20T00:00:00",
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  2,
-        "SpotifyStreams":  823530,
+        "SpotifyStreams":  826717,
+        "MediaTieIn":  null
+    },
+    {
+        "Name":  "Yoake Mae",
+        "AlternativeName":  "夜明け前",
+        "ReleaseDate":  "2014-01-08T00:00:00",
+        "Album":  "MAID IN JAPAN",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  40,
+        "SpotifyStreams":  825896,
         "MediaTieIn":  null
     },
     {
@@ -796,7 +796,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  4,
-        "SpotifyStreams":  822930,
+        "SpotifyStreams":  825550,
         "MediaTieIn":  null
     },
     {
@@ -956,7 +956,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  48,
-        "SpotifyStreams":  701984,
+        "SpotifyStreams":  702728,
         "MediaTieIn":  null
     },
     {
@@ -996,7 +996,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  31,
-        "SpotifyStreams":  675769,
+        "SpotifyStreams":  676697,
         "MediaTieIn":  null
     },
     {
@@ -1090,6 +1090,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Unfair game",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2016-11-16T00:00:00",
+        "Album":  "YOLO",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  50,
+        "SpotifyStreams":  571483,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "At the drop of a hat",
         "AlternativeName":  "",
         "ReleaseDate":  "2019-12-11T00:00:00",
@@ -1097,16 +1107,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  3,
         "SpotifyStreams":  570437,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Unfair game",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2016-11-16T00:00:00",
-        "Album":  "YOLO",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  50,
-        "SpotifyStreams":  570236,
         "MediaTieIn":  null
     },
     {
@@ -1136,7 +1136,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  31,
-        "SpotifyStreams":  475111,
+        "SpotifyStreams":  475615,
         "MediaTieIn":  null
     },
     {
@@ -1186,7 +1186,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  7,
-        "SpotifyStreams":  273161,
+        "SpotifyStreams":  275679,
         "MediaTieIn":  null
     },
     {
@@ -1270,6 +1270,26 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "SUPER SUNSHINE",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2025-10-22T00:00:00",
+        "Album":  "SCOOOOOP",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  1,
+        "SpotifyStreams":  58449,
+        "MediaTieIn":  null
+    },
+    {
+        "Name":  "SION",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2025-10-22T00:00:00",
+        "Album":  "SCOOOOOP",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  1,
+        "SpotifyStreams":  49909,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Lock and Load",
         "AlternativeName":  "",
         "ReleaseDate":  "2025-10-22T00:00:00",
@@ -1287,26 +1307,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  2,
         "SpotifyStreams":  39133,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "SUPER SUNSHINE",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2025-10-22T00:00:00",
-        "Album":  "SCOOOOOP",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  1,
-        "SpotifyStreams":  34551,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "SION",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2025-10-22T00:00:00",
-        "Album":  "SCOOOOOP",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  1,
-        "SpotifyStreams":  1271,
         "MediaTieIn":  null
     },
     {
