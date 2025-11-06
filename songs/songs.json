@@ -6,7 +6,7 @@
         "Album":  "Daydreaming / Choose me",
         "KobatoLead":  "no",
         "PlayedLiveCount":  227,
-        "SpotifyStreams":  14541290,
+        "SpotifyStreams":  14584551,
         "MediaTieIn":  "Used in Netflix movie Kate. Used in S01E03 of TV show Peacemaker."
     },
     {
@@ -96,7 +96,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  162,
-        "SpotifyStreams":  3685125,
+        "SpotifyStreams":  3691881,
         "MediaTieIn":  null
     },
     {
@@ -116,7 +116,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  33,
-        "SpotifyStreams":  3187297,
+        "SpotifyStreams":  3193363,
         "MediaTieIn":  null
     },
     {
@@ -126,7 +126,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  34,
-        "SpotifyStreams":  3157040,
+        "SpotifyStreams":  3163644,
         "MediaTieIn":  "Used in TV show World Pro-Wrestling (TV Asahi)"
     },
     {
@@ -136,7 +136,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  53,
-        "SpotifyStreams":  3082678,
+        "SpotifyStreams":  3086660,
         "MediaTieIn":  null
     },
     {
@@ -176,7 +176,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  46,
-        "SpotifyStreams":  2427995,
+        "SpotifyStreams":  2432098,
         "MediaTieIn":  null
     },
     {
@@ -256,7 +256,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  2,
-        "SpotifyStreams":  2064668,
+        "SpotifyStreams":  2068307,
         "MediaTieIn":  null
     },
     {
@@ -326,7 +326,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  44,
-        "SpotifyStreams":  1753627,
+        "SpotifyStreams":  1758625,
         "MediaTieIn":  null
     },
     {
@@ -420,6 +420,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Corallium",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2021-10-27T00:00:00",
+        "Album":  "Unleash",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  18,
+        "SpotifyStreams":  1482454,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "FREEZER",
         "AlternativeName":  "",
         "ReleaseDate":  "2015-11-18T00:00:00",
@@ -427,16 +437,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  39,
         "SpotifyStreams":  1480185,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Corallium",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2021-10-27T00:00:00",
-        "Album":  "Unleash",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  18,
-        "SpotifyStreams":  1479543,
         "MediaTieIn":  null
     },
     {
@@ -526,7 +526,7 @@
         "Album":  "Love, Passion, Matador (愛と情熱のマタドール)",
         "KobatoLead":  "no",
         "PlayedLiveCount":  36,
-        "SpotifyStreams":  1214889,
+        "SpotifyStreams":  1215553,
         "MediaTieIn":  null
     },
     {
@@ -606,7 +606,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
-        "SpotifyStreams":  1142858,
+        "SpotifyStreams":  1145115,
         "MediaTieIn":  null
     },
     {
@@ -676,7 +676,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  36,
-        "SpotifyStreams":  1009223,
+        "SpotifyStreams":  1010128,
         "MediaTieIn":  null
     },
     {
@@ -920,6 +920,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Dilemma",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2019-12-11T00:00:00",
+        "Album":  "CONQUEROR",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  13,
+        "SpotifyStreams":  718528,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Shake That!!",
         "AlternativeName":  "",
         "ReleaseDate":  "2015-11-18T00:00:00",
@@ -930,23 +940,13 @@
         "MediaTieIn":  null
     },
     {
-        "Name":  "Dilemma",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2019-12-11T00:00:00",
-        "Album":  "CONQUEROR",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  13,
-        "SpotifyStreams":  717585,
-        "MediaTieIn":  null
-    },
-    {
         "Name":  "Big Dad",
         "AlternativeName":  "",
         "ReleaseDate":  "2014-01-08T00:00:00",
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  9,
-        "SpotifyStreams":  715787,
+        "SpotifyStreams":  716352,
         "MediaTieIn":  null
     },
     {
@@ -1026,7 +1026,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
-        "SpotifyStreams":  665846,
+        "SpotifyStreams":  666547,
         "MediaTieIn":  null
     },
     {
@@ -1116,7 +1116,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  550426,
+        "SpotifyStreams":  551167,
         "MediaTieIn":  null
     },
     {
@@ -1160,6 +1160,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Brightest Star",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2024-09-25T00:00:00",
+        "Album":  "Epic Narratives",
+        "KobatoLead":  "yes",
+        "PlayedLiveCount":  35,
+        "SpotifyStreams":  392386,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Akasimahen",
         "AlternativeName":  "",
         "ReleaseDate":  "2019-04-01T00:00:00",
@@ -1167,16 +1177,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  1,
         "SpotifyStreams":  388859,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Brightest Star",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2024-09-25T00:00:00",
-        "Album":  "Epic Narratives",
-        "KobatoLead":  "yes",
-        "PlayedLiveCount":  35,
-        "SpotifyStreams":  386539,
         "MediaTieIn":  null
     },
     {
@@ -1226,7 +1226,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  20,
-        "SpotifyStreams":  175671,
+        "SpotifyStreams":  177122,
         "MediaTieIn":  null
     },
     {
@@ -1286,7 +1286,7 @@
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
         "PlayedLiveCount":  1,
-        "SpotifyStreams":  49909,
+        "SpotifyStreams":  55583,
         "MediaTieIn":  null
     },
     {
@@ -1330,6 +1330,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Seasoned",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2024-09-25T00:00:00",
+        "Album":  "",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  null,
+        "SpotifyStreams":  null,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Youth",
         "AlternativeName":  "",
         "ReleaseDate":  "2021-01-20T00:00:00",
@@ -1358,15 +1368,5 @@
         "PlayedLiveCount":  null,
         "SpotifyStreams":  null,
         "MediaTieIn":  "Created for (game) Genshin Impact Concert 2022"
-    },
-    {
-        "Name":  "Seasoned",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2024-09-25T00:00:00",
-        "Album":  "",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  null,
-        "SpotifyStreams":  null,
-        "MediaTieIn":  null
     }
 ]
