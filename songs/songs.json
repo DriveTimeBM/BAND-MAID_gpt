@@ -26,7 +26,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  207,
-        "SpotifyStreams":  7816595,
+        "SpotifyStreams":  7855353,
         "MediaTieIn":  null
     },
     {
@@ -206,7 +206,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  143,
-        "SpotifyStreams":  2252074,
+        "SpotifyStreams":  2255565,
         "MediaTieIn":  null
     },
     {
@@ -266,7 +266,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  108,
-        "SpotifyStreams":  1961333,
+        "SpotifyStreams":  1966095,
         "MediaTieIn":  null
     },
     {
@@ -277,6 +277,16 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  13,
         "SpotifyStreams":  1925687,
+        "MediaTieIn":  null
+    },
+    {
+        "Name":  "HATE?",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2022-09-21T00:00:00",
+        "Album":  "Unleash",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  64,
+        "SpotifyStreams":  1830919,
         "MediaTieIn":  null
     },
     {
@@ -297,16 +307,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  113,
         "SpotifyStreams":  1827410,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "HATE?",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2022-09-21T00:00:00",
-        "Album":  "Unleash",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  64,
-        "SpotifyStreams":  1826510,
         "MediaTieIn":  null
     },
     {
@@ -396,7 +396,7 @@
         "Album":  "about Us",
         "KobatoLead":  "no",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  1540520,
+        "SpotifyStreams":  1541881,
         "MediaTieIn":  null
     },
     {
@@ -566,7 +566,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  43,
-        "SpotifyStreams":  1168484,
+        "SpotifyStreams":  1170262,
         "MediaTieIn":  null
     },
     {
@@ -656,7 +656,7 @@
         "Album":  "Bubble",
         "KobatoLead":  "no",
         "PlayedLiveCount":  7,
-        "SpotifyStreams":  1040982,
+        "SpotifyStreams":  1041905,
         "MediaTieIn":  null
     },
     {
@@ -686,7 +686,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  9,
-        "SpotifyStreams":  990654,
+        "SpotifyStreams":  991619,
         "MediaTieIn":  null
     },
     {
@@ -736,7 +736,7 @@
         "Album":  "Different",
         "KobatoLead":  "no",
         "PlayedLiveCount":  17,
-        "SpotifyStreams":  862927,
+        "SpotifyStreams":  864158,
         "MediaTieIn":  null
     },
     {
@@ -756,7 +756,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  1,
-        "SpotifyStreams":  848213,
+        "SpotifyStreams":  850295,
         "MediaTieIn":  null
     },
     {
@@ -836,7 +836,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  35,
-        "SpotifyStreams":  806868,
+        "SpotifyStreams":  807667,
         "MediaTieIn":  null
     },
     {
@@ -856,7 +856,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  63,
-        "SpotifyStreams":  785736,
+        "SpotifyStreams":  786475,
         "MediaTieIn":  null
     },
     {
@@ -920,6 +920,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Shake That!!",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2015-11-18T00:00:00",
+        "Album":  "New Beginning",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  58,
+        "SpotifyStreams":  721051,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Dilemma",
         "AlternativeName":  "",
         "ReleaseDate":  "2019-12-11T00:00:00",
@@ -927,16 +937,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  13,
         "SpotifyStreams":  718528,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Shake That!!",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2015-11-18T00:00:00",
-        "Album":  "New Beginning",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  58,
-        "SpotifyStreams":  718241,
         "MediaTieIn":  null
     },
     {
@@ -1036,7 +1036,7 @@
         "Album":  "Love, Passion, Matador (愛と情熱のマタドール)",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  40,
-        "SpotifyStreams":  647615,
+        "SpotifyStreams":  648230,
         "MediaTieIn":  null
     },
     {
@@ -1206,7 +1206,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  24,
-        "SpotifyStreams":  258459,
+        "SpotifyStreams":  261034,
         "MediaTieIn":  null
     },
     {
@@ -1246,7 +1246,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  9,
-        "SpotifyStreams":  164313,
+        "SpotifyStreams":  165510,
         "MediaTieIn":  null
     },
     {
@@ -1266,7 +1266,7 @@
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
         "PlayedLiveCount":  2,
-        "SpotifyStreams":  99490,
+        "SpotifyStreams":  133459,
         "MediaTieIn":  null
     },
     {
@@ -1330,16 +1330,6 @@
         "MediaTieIn":  null
     },
     {
-        "Name":  "Seasoned",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2024-09-25T00:00:00",
-        "Album":  "",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  null,
-        "SpotifyStreams":  null,
-        "MediaTieIn":  null
-    },
-    {
         "Name":  "Youth",
         "AlternativeName":  "",
         "ReleaseDate":  "2021-01-20T00:00:00",
@@ -1368,5 +1358,15 @@
         "PlayedLiveCount":  null,
         "SpotifyStreams":  null,
         "MediaTieIn":  "Created for (game) Genshin Impact Concert 2022"
+    },
+    {
+        "Name":  "Seasoned",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2024-09-25T00:00:00",
+        "Album":  "",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  null,
+        "SpotifyStreams":  null,
+        "MediaTieIn":  null
     }
 ]
