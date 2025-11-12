@@ -86,6 +86,8 @@ are defined in the bandmaid_tools.yaml file.
 
 If you wanted to clone this GPT you could do it in minutes by feeding a GPT the BAND-MAID Overview.md and glossary.md files from the glossary folder, all of the md files from the interviews folder, and pasting the yaml file contents into the "Actions" for the GPT. That's all there is to it. I may add actions to the yaml in the future if I think of things.
 
+---
+
 ## All BAND-MAID Projects
 
 - [BAND-MAID X/Twitter Archive](https://github.com/DriveTimeBM/BAND-MAID_tweets)
@@ -96,3 +98,6 @@ If you wanted to clone this GPT you could do it in minutes by feeding a GPT the 
 - [BAND-MAID GPT](https://github.com/DriveTimeBM/BAND-MAID_gpt)
 - [BAND-MAID Prime Metadata](https://github.com/DriveTimeBM/BAND-MAID_prime)
 - [BAND-MAID Creations](https://github.com/DriveTimeBM/BAND-MAID_creations)
+- [BAND-MAID Setlists (Okyuji)](https://github.com/DriveTimeBM/BAND-MAID_okyuji)
+- [BAND-MAID Translations](https://github.com/DriveTimeBM/BAND-MAID_translations)
+- [BAND-MAID Songs](https://github.com/DriveTimeBM/BAND-MAID_songs)
