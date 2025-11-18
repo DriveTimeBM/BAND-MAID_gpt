@@ -26,7 +26,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  208,
-        "SpotifyStreams":  7855353,
+        "SpotifyStreams":  7874880,
         "MediaTieIn":  null
     },
     {
@@ -206,7 +206,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  143,
-        "SpotifyStreams":  2255565,
+        "SpotifyStreams":  2259019,
         "MediaTieIn":  null
     },
     {
@@ -266,7 +266,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  109,
-        "SpotifyStreams":  1966095,
+        "SpotifyStreams":  1970911,
         "MediaTieIn":  null
     },
     {
@@ -280,6 +280,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "HATE?",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2022-09-21T00:00:00",
+        "Album":  "Unleash",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  65,
+        "SpotifyStreams":  1835524,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Screaming",
         "AlternativeName":  "",
         "ReleaseDate":  "2018-07-25T00:00:00",
@@ -287,16 +297,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  92,
         "SpotifyStreams":  1831259,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "HATE?",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2022-09-21T00:00:00",
-        "Album":  "Unleash",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  65,
-        "SpotifyStreams":  1830919,
         "MediaTieIn":  null
     },
     {
@@ -656,7 +656,7 @@
         "Album":  "Bubble",
         "KobatoLead":  "no",
         "PlayedLiveCount":  7,
-        "SpotifyStreams":  1041905,
+        "SpotifyStreams":  1042860,
         "MediaTieIn":  null
     },
     {
@@ -686,7 +686,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  9,
-        "SpotifyStreams":  991619,
+        "SpotifyStreams":  992591,
         "MediaTieIn":  null
     },
     {
@@ -736,7 +736,7 @@
         "Album":  "Different",
         "KobatoLead":  "no",
         "PlayedLiveCount":  17,
-        "SpotifyStreams":  864158,
+        "SpotifyStreams":  865086,
         "MediaTieIn":  null
     },
     {
@@ -746,7 +746,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  122,
-        "SpotifyStreams":  856083,
+        "SpotifyStreams":  858598,
         "MediaTieIn":  null
     },
     {
@@ -756,7 +756,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  1,
-        "SpotifyStreams":  850295,
+        "SpotifyStreams":  852527,
         "MediaTieIn":  null
     },
     {
@@ -836,7 +836,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  35,
-        "SpotifyStreams":  807667,
+        "SpotifyStreams":  808498,
         "MediaTieIn":  null
     },
     {
@@ -866,7 +866,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  63,
-        "SpotifyStreams":  786475,
+        "SpotifyStreams":  787114,
         "MediaTieIn":  null
     },
     {
@@ -926,7 +926,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  58,
-        "SpotifyStreams":  721051,
+        "SpotifyStreams":  722358,
         "MediaTieIn":  null
     },
     {
@@ -1036,7 +1036,7 @@
         "Album":  "Love, Passion, Matador (愛と情熱のマタドール)",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  40,
-        "SpotifyStreams":  648230,
+        "SpotifyStreams":  648619,
         "MediaTieIn":  null
     },
     {
@@ -1086,7 +1086,7 @@
         "Album":  "YOLO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  53,
-        "SpotifyStreams":  579079,
+        "SpotifyStreams":  580281,
         "MediaTieIn":  null
     },
     {
@@ -1206,7 +1206,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  24,
-        "SpotifyStreams":  261034,
+        "SpotifyStreams":  263678,
         "MediaTieIn":  null
     },
     {
@@ -1246,7 +1246,17 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  9,
-        "SpotifyStreams":  165510,
+        "SpotifyStreams":  166728,
+        "MediaTieIn":  null
+    },
+    {
+        "Name":  "Present Perfect",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2025-10-22T00:00:00",
+        "Album":  "SCOOOOOP",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  3,
+        "SpotifyStreams":  159395,
         "MediaTieIn":  null
     },
     {
@@ -1257,16 +1267,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  18,
         "SpotifyStreams":  146678,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Present Perfect",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2025-10-22T00:00:00",
-        "Album":  "SCOOOOOP",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  3,
-        "SpotifyStreams":  133459,
         "MediaTieIn":  null
     },
     {
