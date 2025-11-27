@@ -6,7 +6,7 @@
         "Album":  "Daydreaming / Choose me",
         "KobatoLead":  "no",
         "PlayedLiveCount":  228,
-        "SpotifyStreams":  14666361,
+        "SpotifyStreams":  14705680,
         "MediaTieIn":  "Used in Netflix movie Kate. Used in S01E03 of TV show Peacemaker."
     },
     {
@@ -96,7 +96,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  162,
-        "SpotifyStreams":  3705842,
+        "SpotifyStreams":  3712832,
         "MediaTieIn":  null
     },
     {
@@ -116,7 +116,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  33,
-        "SpotifyStreams":  3205283,
+        "SpotifyStreams":  3211250,
         "MediaTieIn":  null
     },
     {
@@ -126,7 +126,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  35,
-        "SpotifyStreams":  3176171,
+        "SpotifyStreams":  3182555,
         "MediaTieIn":  "Used in TV show World Pro-Wrestling (TV Asahi)"
     },
     {
@@ -136,7 +136,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  53,
-        "SpotifyStreams":  3095030,
+        "SpotifyStreams":  3099187,
         "MediaTieIn":  null
     },
     {
@@ -186,7 +186,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  46,
-        "SpotifyStreams":  2440398,
+        "SpotifyStreams":  2444352,
         "MediaTieIn":  null
     },
     {
@@ -256,7 +256,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  2,
-        "SpotifyStreams":  2076167,
+        "SpotifyStreams":  2080213,
         "MediaTieIn":  null
     },
     {
@@ -326,7 +326,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  44,
-        "SpotifyStreams":  1768548,
+        "SpotifyStreams":  1773268,
         "MediaTieIn":  null
     },
     {
@@ -426,7 +426,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  18,
-        "SpotifyStreams":  1488260,
+        "SpotifyStreams":  1491131,
         "MediaTieIn":  null
     },
     {
@@ -526,7 +526,7 @@
         "Album":  "Love, Passion, Matador (愛と情熱のマタドール)",
         "KobatoLead":  "no",
         "PlayedLiveCount":  36,
-        "SpotifyStreams":  1217040,
+        "SpotifyStreams":  1217765,
         "MediaTieIn":  null
     },
     {
@@ -590,6 +590,16 @@
         "MediaTieIn":  "Ending theme for anime series Quiz Tokiko-san"
     },
     {
+        "Name":  "Sukurimingu [Screaming]",
+        "AlternativeName":  "すくりーみんぐ",
+        "ReleaseDate":  "2019-04-01T00:00:00",
+        "Album":  "BAND-MAIKO",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  null,
+        "SpotifyStreams":  1152358,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Hibana",
         "AlternativeName":  "火花",
         "ReleaseDate":  "2021-10-27T00:00:00",
@@ -598,16 +608,6 @@
         "PlayedLiveCount":  10,
         "SpotifyStreams":  1151310,
         "MediaTieIn":  "Battle theme for e-sports All-Japan University e-Sports Competition"
-    },
-    {
-        "Name":  "Sukurimingu [Screaming]",
-        "AlternativeName":  "すくりーみんぐ",
-        "ReleaseDate":  "2019-04-01T00:00:00",
-        "Album":  "BAND-MAIKO",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  null,
-        "SpotifyStreams":  1150087,
-        "MediaTieIn":  null
     },
     {
         "Name":  "BLACK HOLE",
@@ -686,7 +686,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  36,
-        "SpotifyStreams":  1012077,
+        "SpotifyStreams":  1013079,
         "MediaTieIn":  null
     },
     {
@@ -936,7 +936,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  13,
-        "SpotifyStreams":  720537,
+        "SpotifyStreams":  721531,
         "MediaTieIn":  null
     },
     {
@@ -1026,7 +1026,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
-        "SpotifyStreams":  668226,
+        "SpotifyStreams":  669007,
         "MediaTieIn":  null
     },
     {
@@ -1116,7 +1116,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  552698,
+        "SpotifyStreams":  553452,
         "MediaTieIn":  null
     },
     {
@@ -1166,7 +1166,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  36,
-        "SpotifyStreams":  403821,
+        "SpotifyStreams":  409620,
         "MediaTieIn":  null
     },
     {
@@ -1216,7 +1216,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  21,
-        "SpotifyStreams":  179747,
+        "SpotifyStreams":  181020,
         "MediaTieIn":  null
     },
     {
@@ -1286,7 +1286,7 @@
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
         "PlayedLiveCount":  1,
-        "SpotifyStreams":  82729,
+        "SpotifyStreams":  91712,
         "MediaTieIn":  null
     },
     {
