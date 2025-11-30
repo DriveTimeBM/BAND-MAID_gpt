@@ -86,7 +86,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  112,
-        "SpotifyStreams":  3729183,
+        "SpotifyStreams":  3734443,
         "MediaTieIn":  "Ending theme for anime series Yu-Gi-Oh! VRAINS (ep 71-95)"
     },
     {
@@ -166,7 +166,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  242,
-        "SpotifyStreams":  2516981,
+        "SpotifyStreams":  2521895,
         "MediaTieIn":  null
     },
     {
@@ -246,7 +246,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  166,
-        "SpotifyStreams":  2179941,
+        "SpotifyStreams":  2184274,
         "MediaTieIn":  null
     },
     {
@@ -290,6 +290,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Moratorium",
+        "AlternativeName":  "モラトリアム",
+        "ReleaseDate":  "2017-01-11T00:00:00",
+        "Album":  "Just Bring It",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  113,
+        "SpotifyStreams":  1835787,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Screaming",
         "AlternativeName":  "",
         "ReleaseDate":  "2018-07-25T00:00:00",
@@ -297,16 +307,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  92,
         "SpotifyStreams":  1835369,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Moratorium",
-        "AlternativeName":  "モラトリアム",
-        "ReleaseDate":  "2017-01-11T00:00:00",
-        "Album":  "Just Bring It",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  113,
-        "SpotifyStreams":  1832984,
         "MediaTieIn":  null
     },
     {
@@ -466,7 +466,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  27,
-        "SpotifyStreams":  1411597,
+        "SpotifyStreams":  1414489,
         "MediaTieIn":  "Theme song for movie 狂い華 (Kuruibana)"
     },
     {
@@ -506,7 +506,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  70,
-        "SpotifyStreams":  1295475,
+        "SpotifyStreams":  1299430,
         "MediaTieIn":  null
     },
     {
@@ -520,6 +520,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Spirit!!",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2018-02-14T00:00:00",
+        "Album":  "WORLD DOMINATION",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  36,
+        "SpotifyStreams":  1218276,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Ai to Jonetsu no Matador",
         "AlternativeName":  "愛と情熱のマタドール",
         "ReleaseDate":  "2014-08-13T00:00:00",
@@ -527,16 +537,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  36,
         "SpotifyStreams":  1217765,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Spirit!!",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2018-02-14T00:00:00",
-        "Album":  "WORLD DOMINATION",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  36,
-        "SpotifyStreams":  1216700,
         "MediaTieIn":  null
     },
     {
@@ -626,7 +626,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  59,
-        "SpotifyStreams":  1080812,
+        "SpotifyStreams":  1081946,
         "MediaTieIn":  null
     },
     {
@@ -636,7 +636,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  37,
-        "SpotifyStreams":  1072832,
+        "SpotifyStreams":  1074250,
         "MediaTieIn":  null
     },
     {
@@ -648,6 +648,16 @@
         "PlayedLiveCount":  22,
         "SpotifyStreams":  1061011,
         "MediaTieIn":  null
+    },
+    {
+        "Name":  "What is justice?",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2025-07-18T00:00:00",
+        "Album":  "SCOOOOOP",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  13,
+        "SpotifyStreams":  1053415,
+        "MediaTieIn":  "Ending theme for anime series Tougen Anki"
     },
     {
         "Name":  "Smile",
@@ -668,16 +678,6 @@
         "PlayedLiveCount":  38,
         "SpotifyStreams":  1038385,
         "MediaTieIn":  null
-    },
-    {
-        "Name":  "What is justice?",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2025-07-18T00:00:00",
-        "Album":  "SCOOOOOP",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  13,
-        "SpotifyStreams":  1017265,
-        "MediaTieIn":  "Ending theme for anime series Tougen Anki"
     },
     {
         "Name":  "Beauty and the beast",
@@ -766,7 +766,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  844553,
+        "SpotifyStreams":  845784,
         "MediaTieIn":  null
     },
     {
@@ -806,7 +806,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  17,
-        "SpotifyStreams":  821802,
+        "SpotifyStreams":  822482,
         "MediaTieIn":  null
     },
     {
@@ -816,7 +816,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  11,
-        "SpotifyStreams":  818415,
+        "SpotifyStreams":  819883,
         "MediaTieIn":  null
     },
     {
@@ -1056,7 +1056,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  17,
-        "SpotifyStreams":  632163,
+        "SpotifyStreams":  634404,
         "MediaTieIn":  null
     },
     {
@@ -1076,7 +1076,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  1,
-        "SpotifyStreams":  609538,
+        "SpotifyStreams":  610326,
         "MediaTieIn":  null
     },
     {
@@ -1176,7 +1176,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  1,
-        "SpotifyStreams":  391427,
+        "SpotifyStreams":  392216,
         "MediaTieIn":  null
     },
     {
@@ -1196,7 +1196,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  12,
-        "SpotifyStreams":  277653,
+        "SpotifyStreams":  280630,
         "MediaTieIn":  null
     },
     {
@@ -1226,7 +1226,7 @@
         "Album":  "YOLO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
-        "SpotifyStreams":  178505,
+        "SpotifyStreams":  178701,
         "MediaTieIn":  null
     },
     {
