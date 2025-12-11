@@ -36,18 +36,6 @@
         "ReleaseDate":  "2015-11-18T00:00:00"
     },
     {
-        "Name":  "Brand New MAID (type A)",
-        "Work":  "Brand New MAID",
-        "Type":  "Album",
-        "URL":  "https://bandmaidshop.com/products/band-maid-brand-new-maid-cd",
-        "Description":  "Brand New MAID CD+DVD",
-        "Media":  "CD+DVD",
-        "BonusMedia":  "DVD",
-        "BonusDesc":  "01. the non-fiction days MV 02. Order MV 03. alone MV",
-        "Publisher":  "Crown Stones",
-        "ReleaseDate":  "2016-05-18T00:00:00"
-    },
-    {
         "Name":  "Brand New MAID (type B)",
         "Work":  "Brand New MAID",
         "Type":  "Album",
@@ -56,6 +44,18 @@
         "Media":  "CD",
         "BonusMedia":  "",
         "BonusDesc":  "REAL EXISTENCE (live ver.)",
+        "Publisher":  "Crown Stones",
+        "ReleaseDate":  "2016-05-18T00:00:00"
+    },
+    {
+        "Name":  "Brand New MAID (type A)",
+        "Work":  "Brand New MAID",
+        "Type":  "Album",
+        "URL":  "https://bandmaidshop.com/products/band-maid-brand-new-maid-cd",
+        "Description":  "Brand New MAID CD+DVD",
+        "Media":  "CD+DVD",
+        "BonusMedia":  "DVD",
+        "BonusDesc":  "01. the non-fiction days MV 02. Order MV 03. alone MV",
         "Publisher":  "Crown Stones",
         "ReleaseDate":  "2016-05-18T00:00:00"
     },
@@ -108,30 +108,6 @@
         "ReleaseDate":  "2017-07-19T00:00:00"
     },
     {
-        "Name":  "WORLD DOMINATION (type B)",
-        "Work":  "WORLD DOMINATION",
-        "Type":  "Album",
-        "URL":  "https://bandmaidshop.com/products/band-maid-world-domination-cd",
-        "Description":  "WORLD DOMINATION (type B) CD+DCD",
-        "Media":  "CD+DVD",
-        "BonusMedia":  "DVD",
-        "BonusDesc":  "Live at Shinkiba Studio Coast on 2017.11.23 1. CHOOSE ME 2. DON’T YOU TELL ME 3. モラトリアム [Moratorium] 4. PUZZLE 5. CROSS 6. MATCHLESS GUM 7. AWKWARD 8. DAYDREAMING 9. YOLO 10. ALONE 11. REAL EXISTENCE 12. TAKE ME HIGHER!! 13. PLAY 14. SECRET MY LIPS 15. TH",
-        "Publisher":  "Crown Stones",
-        "ReleaseDate":  "2018-02-14T00:00:00"
-    },
-    {
-        "Name":  "Live at Shinkiba STUDIO COAST (Blu-ray)",
-        "Work":  "Live at Shinkiba STUDIO COAST",
-        "Type":  "Live Video",
-        "URL":  "https://bandmaidprime.tokyo/movies/58426",
-        "Description":  "Live at Shinkiba STUDIO COAST - WORLD DOMINATION 1st press limited edition A (Blu-ray)",
-        "Media":  "Blu-ray",
-        "BonusMedia":  "",
-        "BonusDesc":  "",
-        "Publisher":  "Crown Stones",
-        "ReleaseDate":  "2018-02-14T00:00:00"
-    },
-    {
         "Name":  "Live at Shinkiba STUDIO COAST (DVD)",
         "Work":  "Live at Shinkiba STUDIO COAST",
         "Type":  "Live Video",
@@ -150,6 +126,30 @@
         "URL":  "https://bandmaidshop.com/products/band-maid-maid-in-japan-cd",
         "Description":  "MAID IN JAPAN Reissue of MAID IN JAPAN All tracks are remastered",
         "Media":  "CD",
+        "BonusMedia":  "",
+        "BonusDesc":  "",
+        "Publisher":  "Crown Stones",
+        "ReleaseDate":  "2018-02-14T00:00:00"
+    },
+    {
+        "Name":  "WORLD DOMINATION (type B)",
+        "Work":  "WORLD DOMINATION",
+        "Type":  "Album",
+        "URL":  "https://bandmaidshop.com/products/band-maid-world-domination-cd",
+        "Description":  "WORLD DOMINATION (type B) CD+DCD",
+        "Media":  "CD+DVD",
+        "BonusMedia":  "DVD",
+        "BonusDesc":  "Live at Shinkiba Studio Coast on 2017.11.23 1. CHOOSE ME 2. DON’T YOU TELL ME 3. モラトリアム [Moratorium] 4. PUZZLE 5. CROSS 6. MATCHLESS GUM 7. AWKWARD 8. DAYDREAMING 9. YOLO 10. ALONE 11. REAL EXISTENCE 12. TAKE ME HIGHER!! 13. PLAY 14. SECRET MY LIPS 15. TH",
+        "Publisher":  "Crown Stones",
+        "ReleaseDate":  "2018-02-14T00:00:00"
+    },
+    {
+        "Name":  "Live at Shinkiba STUDIO COAST (Blu-ray)",
+        "Work":  "Live at Shinkiba STUDIO COAST",
+        "Type":  "Live Video",
+        "URL":  "https://bandmaidprime.tokyo/movies/58426",
+        "Description":  "Live at Shinkiba STUDIO COAST - WORLD DOMINATION 1st press limited edition A (Blu-ray)",
+        "Media":  "Blu-ray",
         "BonusMedia":  "",
         "BonusDesc":  "",
         "Publisher":  "Crown Stones",
@@ -204,18 +204,6 @@
         "ReleaseDate":  "2018-07-25T00:00:00"
     },
     {
-        "Name":  "start over",
-        "Work":  "start over",
-        "Type":  "Single",
-        "URL":  "https://bandmaidshop.com/products/start-over-blu-ray-postcard-cd-limited-edition-type-a-2",
-        "Description":  "start over CD",
-        "Media":  "CD",
-        "BonusMedia":  "",
-        "BonusDesc":  "secret MAIKO lips (secret track)",
-        "Publisher":  "Crown Stones",
-        "ReleaseDate":  "2018-07-25T00:00:00"
-    },
-    {
         "Name":  "start over (type A)",
         "Work":  "start over",
         "Type":  "Single",
@@ -236,6 +224,18 @@
         "Media":  "CD+DVD",
         "BonusMedia":  "DVD",
         "BonusDesc":  "Live at ZEPP Tokyo on 2018.4.13 (26 songs) 1. DOMINATION 2. Play 3. Spirit!! 4. the non-fiction days 5. Moratorium 6. Alive‐or‐Dead 7. CROSS 8. Turn me on 9. Don\u0027t you tell ME 10. Daydreaming 11. One and only 12. Puzzle (acoustic ver.) 13. anemone (acoust",
+        "Publisher":  "Crown Stones",
+        "ReleaseDate":  "2018-07-25T00:00:00"
+    },
+    {
+        "Name":  "start over",
+        "Work":  "start over",
+        "Type":  "Single",
+        "URL":  "https://bandmaidshop.com/products/start-over-blu-ray-postcard-cd-limited-edition-type-a-2",
+        "Description":  "start over CD",
+        "Media":  "CD",
+        "BonusMedia":  "",
+        "BonusDesc":  "secret MAIKO lips (secret track)",
         "Publisher":  "Crown Stones",
         "ReleaseDate":  "2018-07-25T00:00:00"
     },
@@ -324,18 +324,6 @@
         "ReleaseDate":  "2019-12-11T00:00:00"
     },
     {
-        "Name":  "WORLD DOMINATION TOUR 【進化】at LINE CUBE SHIBUYA（渋谷公会堂）Blu-ray",
-        "Work":  "WORLD DOMINATION TOUR at LINE CUBE SHIBUYA",
-        "Type":  "Live Video",
-        "URL":  "https://bandmaidshop.com/products/band-maid-live-world-domination-tour-shinka-at-line-cube-shibuya-shibuya-public-hall-blu-ray",
-        "Description":  "BAND-MAID LIVE - WORLD DOMINATION TOUR [SHINKA] at LINE CUBE SHIBUYA (Shibuya Public Hall) - Blu-ray",
-        "Media":  "Blu-ray",
-        "BonusMedia":  "Blu-ray",
-        "BonusDesc":  "BTS movie",
-        "Publisher":  "Pony Canyon",
-        "ReleaseDate":  "2020-04-29T00:00:00"
-    },
-    {
         "Name":  "WORLD DOMINATION TOUR 【進化】at LINE CUBE SHIBUYA（渋谷公会堂）DVD",
         "Work":  "WORLD DOMINATION TOUR at LINE CUBE SHIBUYA",
         "Type":  "Live Video",
@@ -343,6 +331,18 @@
         "Description":  "BAND-MAID LIVE - WORLD DOMINATION TOUR [SHINKA] at LINE CUBE SHIBUYA (Shibuya Public Hall) - DVD",
         "Media":  "DVD",
         "BonusMedia":  "DVD",
+        "BonusDesc":  "BTS movie",
+        "Publisher":  "Pony Canyon",
+        "ReleaseDate":  "2020-04-29T00:00:00"
+    },
+    {
+        "Name":  "WORLD DOMINATION TOUR 【進化】at LINE CUBE SHIBUYA（渋谷公会堂）Blu-ray",
+        "Work":  "WORLD DOMINATION TOUR at LINE CUBE SHIBUYA",
+        "Type":  "Live Video",
+        "URL":  "https://bandmaidshop.com/products/band-maid-live-world-domination-tour-shinka-at-line-cube-shibuya-shibuya-public-hall-blu-ray",
+        "Description":  "BAND-MAID LIVE - WORLD DOMINATION TOUR [SHINKA] at LINE CUBE SHIBUYA (Shibuya Public Hall) - Blu-ray",
+        "Media":  "Blu-ray",
+        "BonusMedia":  "Blu-ray",
         "BonusDesc":  "BTS movie",
         "Publisher":  "Pony Canyon",
         "ReleaseDate":  "2020-04-29T00:00:00"
@@ -408,14 +408,14 @@
         "ReleaseDate":  "2021-03-25T00:00:00"
     },
     {
-        "Name":  "BAND-MAID ONLINE OKYU-JI (Feb. 11, 2021) DVD",
+        "Name":  "BAND-MAID ONLINE OKYU-JI (Feb. 11, 2021) (One-time-only pressing) Blu-ray(x2) + CD",
         "Work":  "BAND-MAID ONLINE OKYU-JI (Feb. 11, 2021)",
         "Type":  "Live Video",
-        "URL":  "https://bandmaidshop.com/products/band-maid-live-online-okyu-ji-feb-11-2021-dvd-regular-edition",
-        "Description":  "BAND-MAID LIVE - ONLINE OKYU-JI (Feb. 11, 2021) [DVD] REGULAR EDITION",
-        "Media":  "DVD",
-        "BonusMedia":  "DVD",
-        "BonusDesc":  "OKYU-JI（LIVE）Footage Recorded Exclusively for Blu-ray/DVD] 29. Moratorium 30. the non-fiction days 31. glory 32. Play 33. Smile (Acoustic Ver.)",
+        "URL":  "https://bandmaidshop.com/products/band-maid-online-okyu-ji-feb-11-2021-blu-ray-regular-edition",
+        "Description":  "BAND-MAID ONLINE OKYU-JI (Feb. 11, 2021) (One-time-only pressing) Blu-ray(x2) + CD",
+        "Media":  "Blu-ray",
+        "BonusMedia":  "Blu-ray",
+        "BonusDesc":  "OKYU-JI（LIVE）Footage Recorded Exclusively for Blu-ray/DVD] 29. Moratorium 30. the non-fiction days 31. glory 32. Play 33. Smile (Acoustic Ver.)  5 Multi Cam Recorded Footages (Fixed cam on each members) 1. Warning! 2. NO GOD 3. Manners 4. After Life 5. Gi",
         "Publisher":  "Pony Canyon",
         "ReleaseDate":  "2021-05-26T00:00:00"
     },
@@ -432,25 +432,25 @@
         "ReleaseDate":  "2021-05-26T00:00:00"
     },
     {
-        "Name":  "BAND-MAID ONLINE OKYU-JI (Feb. 11, 2021) (One-time-only pressing) Blu-ray(x2) + CD",
+        "Name":  "BAND-MAID ONLINE OKYU-JI (Feb. 11, 2021) DVD",
         "Work":  "BAND-MAID ONLINE OKYU-JI (Feb. 11, 2021)",
         "Type":  "Live Video",
-        "URL":  "https://bandmaidshop.com/products/band-maid-online-okyu-ji-feb-11-2021-blu-ray-regular-edition",
-        "Description":  "BAND-MAID ONLINE OKYU-JI (Feb. 11, 2021) (One-time-only pressing) Blu-ray(x2) + CD",
-        "Media":  "Blu-ray",
-        "BonusMedia":  "Blu-ray",
-        "BonusDesc":  "OKYU-JI（LIVE）Footage Recorded Exclusively for Blu-ray/DVD] 29. Moratorium 30. the non-fiction days 31. glory 32. Play 33. Smile (Acoustic Ver.)  5 Multi Cam Recorded Footages (Fixed cam on each members) 1. Warning! 2. NO GOD 3. Manners 4. After Life 5. Gi",
+        "URL":  "https://bandmaidshop.com/products/band-maid-live-online-okyu-ji-feb-11-2021-dvd-regular-edition",
+        "Description":  "BAND-MAID LIVE - ONLINE OKYU-JI (Feb. 11, 2021) [DVD] REGULAR EDITION",
+        "Media":  "DVD",
+        "BonusMedia":  "DVD",
+        "BonusDesc":  "OKYU-JI（LIVE）Footage Recorded Exclusively for Blu-ray/DVD] 29. Moratorium 30. the non-fiction days 31. glory 32. Play 33. Smile (Acoustic Ver.)",
         "Publisher":  "Pony Canyon",
         "ReleaseDate":  "2021-05-26T00:00:00"
     },
     {
-        "Name":  "Sense (CD+DVD)",
+        "Name":  "Sense (CD+Blu-ray)",
         "Work":  "Sense",
         "Type":  "Single",
-        "URL":  "https://www.cdjapan.co.jp/product/PCCA-6077",
-        "Description":  "Sense [w/ DVD, Limited Edition]",
-        "Media":  "CD+DVD",
-        "BonusMedia":  "DVD",
+        "URL":  "https://www.cdjapan.co.jp/product/PCCA-6076",
+        "Description":  "Sense [w/ Blu-ray, Limited Edition]",
+        "Media":  "CD+Blu-ray",
+        "BonusMedia":  "Blu-ray",
         "BonusDesc":  "THE DAY OF MAID Okyu-ji (2021.5.10) (6 songs) Chemical Reaction H-G-K Honkai I Still Seek Revenge Why Why Why Youth",
         "Publisher":  "Pony Canyon",
         "ReleaseDate":  "2021-10-27T00:00:00"
@@ -468,13 +468,13 @@
         "ReleaseDate":  "2021-10-27T00:00:00"
     },
     {
-        "Name":  "Sense (CD+Blu-ray)",
+        "Name":  "Sense (CD+DVD)",
         "Work":  "Sense",
         "Type":  "Single",
-        "URL":  "https://www.cdjapan.co.jp/product/PCCA-6076",
-        "Description":  "Sense [w/ Blu-ray, Limited Edition]",
-        "Media":  "CD+Blu-ray",
-        "BonusMedia":  "Blu-ray",
+        "URL":  "https://www.cdjapan.co.jp/product/PCCA-6077",
+        "Description":  "Sense [w/ DVD, Limited Edition]",
+        "Media":  "CD+DVD",
+        "BonusMedia":  "DVD",
         "BonusDesc":  "THE DAY OF MAID Okyu-ji (2021.5.10) (6 songs) Chemical Reaction H-G-K Honkai I Still Seek Revenge Why Why Why Youth",
         "Publisher":  "Pony Canyon",
         "ReleaseDate":  "2021-10-27T00:00:00"
@@ -490,18 +490,6 @@
         "BonusDesc":  "",
         "Publisher":  "Pony Canyon",
         "ReleaseDate":  "2021-10-27T00:00:00"
-    },
-    {
-        "Name":  "Brand New MAID vinyl",
-        "Work":  "New Beginning",
-        "Type":  "Album",
-        "URL":  "https://bandmaidshop.com/products/band-maid-brand-new-maid-vinyl-lp-limited-edition",
-        "Description":  "BAND-MAID Brand New MAID (VINYL LP) [Limited Edition]",
-        "Media":  "Vinyl",
-        "BonusMedia":  "",
-        "BonusDesc":  "",
-        "Publisher":  "Nippon Crown",
-        "ReleaseDate":  "2021-11-03T00:00:00"
     },
     {
         "Name":  "New Beginning vinyl",
@@ -522,6 +510,18 @@
         "URL":  "https://bandmaidshop.com/products/band-maid-world-domination-vinyl-2lp-limited-edition",
         "Description":  "BAND-MAID WORLD DOMINATION (VINYL 2LP) [Limited Edition]",
         "Media":  "Vinyl x 2",
+        "BonusMedia":  "",
+        "BonusDesc":  "",
+        "Publisher":  "Nippon Crown",
+        "ReleaseDate":  "2021-11-03T00:00:00"
+    },
+    {
+        "Name":  "Brand New MAID vinyl",
+        "Work":  "New Beginning",
+        "Type":  "Album",
+        "URL":  "https://bandmaidshop.com/products/band-maid-brand-new-maid-vinyl-lp-limited-edition",
+        "Description":  "BAND-MAID Brand New MAID (VINYL LP) [Limited Edition]",
+        "Media":  "Vinyl",
         "BonusMedia":  "",
         "BonusDesc":  "",
         "Publisher":  "Nippon Crown",
@@ -588,18 +588,6 @@
         "ReleaseDate":  "2022-09-21T00:00:00"
     },
     {
-        "Name":  "Unleash",
-        "Work":  "Unleash",
-        "Type":  "EP",
-        "URL":  "https://bandmaidshop.com/products/band-maid-unleash-normal-edition-cd-only",
-        "Description":  "BAND-MAID \"Unleash\" Normal Edition (CD Only)",
-        "Media":  "CD",
-        "BonusMedia":  "",
-        "BonusDesc":  "",
-        "Publisher":  "Pony Canyon",
-        "ReleaseDate":  "2022-09-21T00:00:00"
-    },
-    {
         "Name":  "Unleash (CD+Blu-ray)",
         "Work":  "Unleash",
         "Type":  "EP",
@@ -612,14 +600,26 @@
         "ReleaseDate":  "2022-09-21T00:00:00"
     },
     {
-        "Name":  "BAND-MAID TOKYO GARDEN THEATER OKYUJI (Jan.09,2023) [Limited Edition]",
+        "Name":  "Unleash",
+        "Work":  "Unleash",
+        "Type":  "EP",
+        "URL":  "https://bandmaidshop.com/products/band-maid-unleash-normal-edition-cd-only",
+        "Description":  "BAND-MAID \"Unleash\" Normal Edition (CD Only)",
+        "Media":  "CD",
+        "BonusMedia":  "",
+        "BonusDesc":  "",
+        "Publisher":  "Pony Canyon",
+        "ReleaseDate":  "2022-09-21T00:00:00"
+    },
+    {
+        "Name":  "BAND-MAID TOKYO GARDEN THEATER OKYUJI (Jan.09,2023) [Regular Edition Blu-ray]",
         "Work":  "BAND-MAID TOKYO GARDEN THEATER OKYUJI (Jan. 9, 2023)",
         "Type":  "Live Video",
-        "URL":  "https://www.cdjapan.co.jp/product/PCXP-50979?s_ssid=e3635864305bd1ebf9",
-        "Description":  "BAND-MAID TOKYO GARDEN THEATER OKYUJI (Jan.09,2023) [2 Blu-ray + PHOTOBOOK] ONE-TIME-ONLY PRESSING",
-        "Media":  "Blu-ray x 2",
-        "BonusMedia":  "Blu-ray",
-        "BonusDesc":  "[Blu-ray Disc-2] \"BAND-MAID U.S. Tour 2022 BEHIND-THE SCENES\" DOCUMENTARY VIDEO 90 MINUTES, PHOTOBOOK 100 Pages",
+        "URL":  "https://www.cdjapan.co.jp/product/PCXP-50980",
+        "Description":  "BAND-MAID TOKYO GARDEN THEATER OKYUJI (Jan. 9, 2023) [Blu-ray] REGULAR EDITION",
+        "Media":  "Blu-ray",
+        "BonusMedia":  "",
+        "BonusDesc":  "",
         "Publisher":  "Pony Canyon",
         "ReleaseDate":  "2023-04-26T00:00:00"
     },
@@ -636,14 +636,14 @@
         "ReleaseDate":  "2023-04-26T00:00:00"
     },
     {
-        "Name":  "BAND-MAID TOKYO GARDEN THEATER OKYUJI (Jan.09,2023) [Regular Edition Blu-ray]",
+        "Name":  "BAND-MAID TOKYO GARDEN THEATER OKYUJI (Jan.09,2023) [Limited Edition]",
         "Work":  "BAND-MAID TOKYO GARDEN THEATER OKYUJI (Jan. 9, 2023)",
         "Type":  "Live Video",
-        "URL":  "https://www.cdjapan.co.jp/product/PCXP-50980",
-        "Description":  "BAND-MAID TOKYO GARDEN THEATER OKYUJI (Jan. 9, 2023) [Blu-ray] REGULAR EDITION",
-        "Media":  "Blu-ray",
-        "BonusMedia":  "",
-        "BonusDesc":  "",
+        "URL":  "https://www.cdjapan.co.jp/product/PCXP-50979?s_ssid=e3635864305bd1ebf9",
+        "Description":  "BAND-MAID TOKYO GARDEN THEATER OKYUJI (Jan.09,2023) [2 Blu-ray + PHOTOBOOK] ONE-TIME-ONLY PRESSING",
+        "Media":  "Blu-ray x 2",
+        "BonusMedia":  "Blu-ray",
+        "BonusDesc":  "[Blu-ray Disc-2] \"BAND-MAID U.S. Tour 2022 BEHIND-THE SCENES\" DOCUMENTARY VIDEO 90 MINUTES, PHOTOBOOK 100 Pages",
         "Publisher":  "Pony Canyon",
         "ReleaseDate":  "2023-04-26T00:00:00"
     },
@@ -708,14 +708,14 @@
         "ReleaseDate":  "2024-03-27T00:00:00"
     },
     {
-        "Name":  "Epic Narratives (CD + Blu-ray + PHOTO BOOK)",
+        "Name":  "Epic Narratives",
         "Work":  "Epic Narratives",
         "Type":  "Album",
-        "URL":  "https://bandmaidshop.com/products/band-maid-epic-narratives-limited-edition-cd-blu-ray-photo-book",
-        "Description":  "BAND-MAID \"Epic Narratives\" Limited Edition (CD + Blu-ray + PHOTO BOOK)",
-        "Media":  "CD+Blu-ray",
-        "BonusMedia":  "Blu-ray",
-        "BonusDesc":  "Day of Maid Live 2024",
+        "URL":  "https://bandmaidshop.com/products/band-maid-epic-narratives-regular-edition-cd",
+        "Description":  "BAND-MAID \"Epic Narratives\" Regular Edition (CD)",
+        "Media":  "CD",
+        "BonusMedia":  "",
+        "BonusDesc":  "",
         "Publisher":  "Pony Canyon",
         "ReleaseDate":  "2024-09-25T00:00:00"
     },
@@ -732,14 +732,14 @@
         "ReleaseDate":  "2024-09-25T00:00:00"
     },
     {
-        "Name":  "Epic Narratives",
+        "Name":  "Epic Narratives (CD + Blu-ray + PHOTO BOOK)",
         "Work":  "Epic Narratives",
         "Type":  "Album",
-        "URL":  "https://bandmaidshop.com/products/band-maid-epic-narratives-regular-edition-cd",
-        "Description":  "BAND-MAID \"Epic Narratives\" Regular Edition (CD)",
-        "Media":  "CD",
-        "BonusMedia":  "",
-        "BonusDesc":  "",
+        "URL":  "https://bandmaidshop.com/products/band-maid-epic-narratives-limited-edition-cd-blu-ray-photo-book",
+        "Description":  "BAND-MAID \"Epic Narratives\" Limited Edition (CD + Blu-ray + PHOTO BOOK)",
+        "Media":  "CD+Blu-ray",
+        "BonusMedia":  "Blu-ray",
+        "BonusDesc":  "Day of Maid Live 2024",
         "Publisher":  "Pony Canyon",
         "ReleaseDate":  "2024-09-25T00:00:00"
     },
