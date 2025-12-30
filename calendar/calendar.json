@@ -12,5 +12,12 @@
         "Description":  "Open 16:00",
         "Location":  "Namba Hatch, 1-chōme-3-1 Minatomachi, Naniwa Ward, Osaka, 556-0017, Japan",
         "Start_Japan":  "2026-02-21T17:00:00"
+    },
+    {
+        "Summary":  "Megaport Festival - Kaohsiung\\, Taiwan",
+        "Start_Local":  "2026-03-21T02:00:00",
+        "Description":  null,
+        "Location":  "The Pier2 Art Center, No. 1號, Dayong Rd, Yancheng District, Kaohsiung City, Taiwan 803",
+        "Start_Japan":  "2026-03-21T15:00:00"
     }
 ]
