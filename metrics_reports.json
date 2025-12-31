@@ -255,6 +255,11 @@
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Top%20Reaction%20Videos%20by%20Song.pdf"
     },
     {
+        "File":  "Top Google Trends.pdf",
+        "Description":  "Top days for Google searches of BAND-MAID. (100 is top day. Other numbers are relative to the top day)",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Top%20Google%20Trends.pdf"
+    },
+    {
         "File":  "Thrill Comments by Day.pdf",
         "Description":  "Number of new comment on the Thrill OMV by day",
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Thrill%20Comments%20by%20Day.pdf"
@@ -528,6 +533,11 @@
         "File":  "Reaction Avg Views by Channel.pdf",
         "Description":  "Average reaction views for each YT channel",
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Reaction%20Avg%20Views%20by%20Channel.pdf"
+    },
+    {
+        "File":  "Prime Detail.pdf",
+        "Description":  "Track/Section listings for BAND-MAID Prime videos for okyuji, talks, BTS or other videos with sections",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Prime%20Detail.pdf"
     },
     {
         "File":  "Prime Self-Covers.pdf",
