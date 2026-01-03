@@ -1,7 +1,7 @@
 ﻿[
     {
         "File":  "YouTube YTD Summary.pdf",
-        "Description":  "Total Views since I started keeping records on 2025/02/19",
+        "Description":  "Total Views since the beginning of the calendar year",
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20YTD%20Summary.pdf"
     },
     {
@@ -68,6 +68,11 @@
         "File":  "YouTube Shorts by Member.pdf",
         "Description":  "All YT shorts grouped by member, ranked by views",
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Shorts%20by%20Member.pdf"
+    },
+    {
+        "File":  "YouTube Releases by Year.pdf",
+        "Description":  "Summary of YouTube releases by year",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Releases%20by%20Year.pdf"
     },
     {
         "File":  "YouTube Million Groups.pdf",
