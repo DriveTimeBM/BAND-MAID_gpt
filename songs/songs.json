@@ -36,7 +36,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  132,
-        "SpotifyStreams":  7265762,
+        "SpotifyStreams":  7275393,
         "MediaTieIn":  null
     },
     {
@@ -46,7 +46,7 @@
         "Album":  "Different",
         "KobatoLead":  "no",
         "PlayedLiveCount":  38,
-        "SpotifyStreams":  7007717,
+        "SpotifyStreams":  7020129,
         "MediaTieIn":  "Opening theme for S3 of anime series Log Horizon"
     },
     {
@@ -76,7 +76,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  168,
-        "SpotifyStreams":  3829491,
+        "SpotifyStreams":  3841881,
         "MediaTieIn":  null
     },
     {
@@ -156,7 +156,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  39,
-        "SpotifyStreams":  2616146,
+        "SpotifyStreams":  2619190,
         "MediaTieIn":  "Theme song for TV show Perfect Crime"
     },
     {
@@ -196,7 +196,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  2343545,
+        "SpotifyStreams":  2360121,
         "MediaTieIn":  null
     },
     {
@@ -356,7 +356,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  122,
-        "SpotifyStreams":  1747247,
+        "SpotifyStreams":  1749851,
         "MediaTieIn":  null
     },
     {
@@ -366,7 +366,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  3,
-        "SpotifyStreams":  1731853,
+        "SpotifyStreams":  1733588,
         "MediaTieIn":  null
     },
     {
@@ -396,7 +396,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  112,
-        "SpotifyStreams":  1561310,
+        "SpotifyStreams":  1563850,
         "MediaTieIn":  null
     },
     {
@@ -606,7 +606,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  69,
-        "SpotifyStreams":  1159812,
+        "SpotifyStreams":  1162019,
         "MediaTieIn":  "Ending theme for anime series Quiz Tokiko-san"
     },
     {
@@ -616,7 +616,7 @@
         "Album":  "Sense",
         "KobatoLead":  "no",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  1158337,
+        "SpotifyStreams":  1159622,
         "MediaTieIn":  "Battle theme for e-sports All-Japan University e-Sports Competition"
     },
     {
@@ -776,7 +776,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  4,
-        "SpotifyStreams":  846199,
+        "SpotifyStreams":  848565,
         "MediaTieIn":  null
     },
     {
@@ -786,7 +786,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  2,
-        "SpotifyStreams":  836691,
+        "SpotifyStreams":  837853,
         "MediaTieIn":  null
     },
     {
@@ -796,7 +796,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  40,
-        "SpotifyStreams":  831986,
+        "SpotifyStreams":  832695,
         "MediaTieIn":  null
     },
     {
@@ -966,7 +966,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  48,
-        "SpotifyStreams":  709769,
+        "SpotifyStreams":  710611,
         "MediaTieIn":  null
     },
     {
@@ -986,7 +986,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  31,
-        "SpotifyStreams":  684705,
+        "SpotifyStreams":  685706,
         "MediaTieIn":  null
     },
     {
@@ -1106,7 +1106,7 @@
         "Album":  "YOLO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  50,
-        "SpotifyStreams":  576094,
+        "SpotifyStreams":  576591,
         "MediaTieIn":  null
     },
     {
@@ -1136,7 +1136,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  31,
-        "SpotifyStreams":  480229,
+        "SpotifyStreams":  480809,
         "MediaTieIn":  null
     },
     {
@@ -1186,7 +1186,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  8,
-        "SpotifyStreams":  296586,
+        "SpotifyStreams":  298820,
         "MediaTieIn":  null
     },
     {
@@ -1260,6 +1260,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "SUPER SUNSHINE",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2025-10-22T00:00:00",
+        "Album":  "SCOOOOOP",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  4,
+        "SpotifyStreams":  155752,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Get to the top",
         "AlternativeName":  "",
         "ReleaseDate":  "2024-09-25T00:00:00",
@@ -1267,16 +1277,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  18,
         "SpotifyStreams":  154140,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "SUPER SUNSHINE",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2025-10-22T00:00:00",
-        "Album":  "SCOOOOOP",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  4,
-        "SpotifyStreams":  149242,
         "MediaTieIn":  null
     },
     {
