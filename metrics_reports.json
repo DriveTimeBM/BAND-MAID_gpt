@@ -455,6 +455,16 @@
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Song%20Reaction%20Leaderboard.pdf"
     },
     {
+        "File":  "Song Name Analysis.pdf",
+        "Description":  "Songs grouped by first letter with stats for song name lengths",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Song%20Name%20Analysis.pdf"
+    },
+    {
+        "File":  "Song Names by Length.pdf",
+        "Description":  "Songs grouped by name length",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Song%20Names%20by%20Length.pdf"
+    },
+    {
         "File":  "Song Notes and Quotes Report.pdf",
         "Description":  "Collection of band quotes organized by song",
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Song%20Notes%20and%20Quotes%20Report.pdf"
