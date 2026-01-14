@@ -6,7 +6,7 @@
         "Album":  "Daydreaming / Choose me",
         "KobatoLead":  "no",
         "PlayedLiveCount":  231,
-        "SpotifyStreams":  14923404,
+        "SpotifyStreams":  14953872,
         "MediaTieIn":  "Used in Netflix movie Kate. Used in S01E03 of TV show Peacemaker."
     },
     {
@@ -196,7 +196,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  2360121,
+        "SpotifyStreams":  2377859,
         "MediaTieIn":  null
     },
     {
@@ -336,7 +336,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  44,
-        "SpotifyStreams":  1802846,
+        "SpotifyStreams":  1806896,
         "MediaTieIn":  null
     },
     {
@@ -356,7 +356,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  122,
-        "SpotifyStreams":  1749851,
+        "SpotifyStreams":  1752691,
         "MediaTieIn":  null
     },
     {
@@ -396,7 +396,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  112,
-        "SpotifyStreams":  1563850,
+        "SpotifyStreams":  1566567,
         "MediaTieIn":  null
     },
     {
@@ -426,7 +426,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  18,
-        "SpotifyStreams":  1509513,
+        "SpotifyStreams":  1512062,
         "MediaTieIn":  null
     },
     {
@@ -586,7 +586,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  43,
-        "SpotifyStreams":  1186161,
+        "SpotifyStreams":  1186432,
         "MediaTieIn":  null
     },
     {
@@ -606,7 +606,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  69,
-        "SpotifyStreams":  1162019,
+        "SpotifyStreams":  1163724,
         "MediaTieIn":  "Ending theme for anime series Quiz Tokiko-san"
     },
     {
@@ -626,7 +626,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  27,
-        "SpotifyStreams":  1133167,
+        "SpotifyStreams":  1134138,
         "MediaTieIn":  null
     },
     {
@@ -646,7 +646,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  37,
-        "SpotifyStreams":  1083191,
+        "SpotifyStreams":  1083759,
         "MediaTieIn":  null
     },
     {
@@ -656,7 +656,7 @@
         "Album":  "glory",
         "KobatoLead":  "no",
         "PlayedLiveCount":  22,
-        "SpotifyStreams":  1066385,
+        "SpotifyStreams":  1066579,
         "MediaTieIn":  null
     },
     {
@@ -736,7 +736,7 @@
         "Album":  "Different",
         "KobatoLead":  "no",
         "PlayedLiveCount":  17,
-        "SpotifyStreams":  872507,
+        "SpotifyStreams":  872639,
         "MediaTieIn":  null
     },
     {
@@ -866,7 +866,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  63,
-        "SpotifyStreams":  792785,
+        "SpotifyStreams":  792910,
         "MediaTieIn":  null
     },
     {
@@ -1016,7 +1016,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
-        "SpotifyStreams":  675504,
+        "SpotifyStreams":  676059,
         "MediaTieIn":  null
     },
     {
@@ -1086,7 +1086,7 @@
         "Album":  "YOLO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  53,
-        "SpotifyStreams":  585273,
+        "SpotifyStreams":  585366,
         "MediaTieIn":  null
     },
     {
@@ -1116,7 +1116,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  558170,
+        "SpotifyStreams":  558920,
         "MediaTieIn":  null
     },
     {
@@ -1166,7 +1166,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  37,
-        "SpotifyStreams":  438241,
+        "SpotifyStreams":  443079,
         "MediaTieIn":  null
     },
     {
@@ -1280,6 +1280,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "SION",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2025-10-22T00:00:00",
+        "Album":  "SCOOOOOP",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  2,
+        "SpotifyStreams":  135777,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Dilly-Dally",
         "AlternativeName":  "",
         "ReleaseDate":  "2025-10-22T00:00:00",
@@ -1287,16 +1297,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  6,
         "SpotifyStreams":  134765,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "SION",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2025-10-22T00:00:00",
-        "Album":  "SCOOOOOP",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  2,
-        "SpotifyStreams":  131267,
         "MediaTieIn":  null
     },
     {
@@ -1320,6 +1320,36 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Seasoned",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2024-09-25T00:00:00",
+        "Album":  "",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  null,
+        "SpotifyStreams":  null,
+        "MediaTieIn":  null
+    },
+    {
+        "Name":  "Dawn Winery Theme",
+        "AlternativeName":  null,
+        "ReleaseDate":  "2022-10-02T00:00:00",
+        "Album":  "",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  null,
+        "SpotifyStreams":  null,
+        "MediaTieIn":  "Created for (game) Genshin Impact Concert 2022"
+    },
+    {
+        "Name":  "without holding back",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2021-01-20T00:00:00",
+        "Album":  "Unseen World",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  7,
+        "SpotifyStreams":  null,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "onset",
         "AlternativeName":  "",
         "ReleaseDate":  "2019-01-16T00:00:00",
@@ -1336,36 +1366,6 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  3,
-        "SpotifyStreams":  null,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "without holding back",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2021-01-20T00:00:00",
-        "Album":  "Unseen World",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  7,
-        "SpotifyStreams":  null,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Dawn Winery Theme",
-        "AlternativeName":  null,
-        "ReleaseDate":  "2022-10-02T00:00:00",
-        "Album":  "",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  null,
-        "SpotifyStreams":  null,
-        "MediaTieIn":  "Created for (game) Genshin Impact Concert 2022"
-    },
-    {
-        "Name":  "Seasoned",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2024-09-25T00:00:00",
-        "Album":  "",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  null,
         "SpotifyStreams":  null,
         "MediaTieIn":  null
     }
