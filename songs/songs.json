@@ -106,7 +106,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  91,
-        "SpotifyStreams":  3394356,
+        "SpotifyStreams":  3401435,
         "MediaTieIn":  null
     },
     {
@@ -146,7 +146,7 @@
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
         "PlayedLiveCount":  25,
-        "SpotifyStreams":  2841671,
+        "SpotifyStreams":  2884986,
         "MediaTieIn":  "Opening theme for anime series Rock Is a Lady\u0027s Modesty"
     },
     {
@@ -166,7 +166,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  242,
-        "SpotifyStreams":  2550513,
+        "SpotifyStreams":  2554609,
         "MediaTieIn":  null
     },
     {
@@ -226,7 +226,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  50,
-        "SpotifyStreams":  2251649,
+        "SpotifyStreams":  2260348,
         "MediaTieIn":  "Ending theme for season 2 of anime series Kengan Ashura"
     },
     {
@@ -236,7 +236,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  233,
-        "SpotifyStreams":  2243350,
+        "SpotifyStreams":  2248431,
         "MediaTieIn":  null
     },
     {
@@ -276,7 +276,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  13,
-        "SpotifyStreams":  1944256,
+        "SpotifyStreams":  1945830,
         "MediaTieIn":  null
     },
     {
@@ -366,7 +366,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  3,
-        "SpotifyStreams":  1733588,
+        "SpotifyStreams":  1736498,
         "MediaTieIn":  null
     },
     {
@@ -476,7 +476,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  40,
-        "SpotifyStreams":  1420224,
+        "SpotifyStreams":  1422406,
         "MediaTieIn":  null
     },
     {
@@ -516,7 +516,7 @@
         "Album":  "start over",
         "KobatoLead":  "no",
         "PlayedLiveCount":  32,
-        "SpotifyStreams":  1279067,
+        "SpotifyStreams":  1281469,
         "MediaTieIn":  null
     },
     {
@@ -576,7 +576,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  21,
-        "SpotifyStreams":  1192271,
+        "SpotifyStreams":  1194084,
         "MediaTieIn":  null
     },
     {
@@ -676,7 +676,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  38,
-        "SpotifyStreams":  1044531,
+        "SpotifyStreams":  1045586,
         "MediaTieIn":  null
     },
     {
@@ -766,7 +766,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  853583,
+        "SpotifyStreams":  854692,
         "MediaTieIn":  null
     },
     {
@@ -856,7 +856,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  34,
-        "SpotifyStreams":  796043,
+        "SpotifyStreams":  796862,
         "MediaTieIn":  null
     },
     {
@@ -936,7 +936,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  13,
-        "SpotifyStreams":  727801,
+        "SpotifyStreams":  729242,
         "MediaTieIn":  null
     },
     {
@@ -1026,7 +1026,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
-        "SpotifyStreams":  673964,
+        "SpotifyStreams":  675119,
         "MediaTieIn":  null
     },
     {
@@ -1076,7 +1076,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  1,
-        "SpotifyStreams":  615651,
+        "SpotifyStreams":  616475,
         "MediaTieIn":  null
     },
     {
@@ -1176,7 +1176,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  1,
-        "SpotifyStreams":  396797,
+        "SpotifyStreams":  397355,
         "MediaTieIn":  null
     },
     {
@@ -1260,6 +1260,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Get to the top",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2024-09-25T00:00:00",
+        "Album":  "Epic Narratives",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  18,
+        "SpotifyStreams":  156418,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "SUPER SUNSHINE",
         "AlternativeName":  "",
         "ReleaseDate":  "2025-10-22T00:00:00",
@@ -1267,16 +1277,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  4,
         "SpotifyStreams":  155752,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Get to the top",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2024-09-25T00:00:00",
-        "Album":  "Epic Narratives",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  18,
-        "SpotifyStreams":  155265,
         "MediaTieIn":  null
     },
     {
