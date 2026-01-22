@@ -85,6 +85,11 @@
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Milestones.pdf"
     },
     {
+        "File":  "YouTube Delta by DoW.pdf",
+        "Description":  "YouTube views by day of week (Monday measures Sunday, etc.)",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Delta%20by%20DoW.pdf"
+    },
+    {
         "File":  "YouTube Birthdays.pdf",
         "Description":  "All YT videos release ordered by closeness to their anniversaries",
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Birthdays.pdf"
@@ -318,6 +323,11 @@
         "File":  "Spotify Album Popularity.pdf",
         "Description":  "Albums ranked by Spotify Popularity",
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Spotify%20Album%20Popularity.pdf"
+    },
+    {
+        "File":  "Spotify vs OMV.pdf",
+        "Description":  "Spotify performance on songs compared to their YouTube OMVs",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Spotify%20vs%20OMV.pdf"
     },
     {
         "File":  "Sorter Results By Album.pdf",
