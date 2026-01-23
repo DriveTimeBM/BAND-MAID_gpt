@@ -140,6 +140,11 @@
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Audio%20Track%20Detail.pdf"
     },
     {
+        "File":  "YouTube Audio Tracks by Views per Day.pdf",
+        "Description":  "Audio track details sorted by views per day",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Audio%20Tracks%20by%20Views%20per%20Day.pdf"
+    },
+    {
         "File":  "YouTube Anime Aggregate Views.pdf",
         "Description":  "Agrregate total views of just the anime songs",
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Anime%20Aggregate%20Views.pdf"
