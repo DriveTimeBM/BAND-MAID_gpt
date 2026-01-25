@@ -86,7 +86,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  112,
-        "SpotifyStreams":  3769167,
+        "SpotifyStreams":  3774330,
         "MediaTieIn":  "Ending theme for anime series Yu-Gi-Oh! VRAINS (ep 71-95)"
     },
     {
@@ -206,7 +206,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  93,
-        "SpotifyStreams":  2339806,
+        "SpotifyStreams":  2343883,
         "MediaTieIn":  "Used in mobile game Valiant Knights"
     },
     {
@@ -246,7 +246,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  166,
-        "SpotifyStreams":  2214202,
+        "SpotifyStreams":  2218627,
         "MediaTieIn":  null
     },
     {
@@ -346,7 +346,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  85,
-        "SpotifyStreams":  1761506,
+        "SpotifyStreams":  1764012,
         "MediaTieIn":  null
     },
     {
@@ -366,7 +366,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  3,
-        "SpotifyStreams":  1736498,
+        "SpotifyStreams":  1738816,
         "MediaTieIn":  null
     },
     {
@@ -440,6 +440,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "anemone",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2018-02-14T00:00:00",
+        "Album":  "WORLD DOMINATION",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  43,
+        "SpotifyStreams":  1457359,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Gion-Cho",
         "AlternativeName":  "祇園町",
         "ReleaseDate":  "2019-04-01T00:00:00",
@@ -447,16 +457,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  2,
         "SpotifyStreams":  1456850,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "anemone",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2018-02-14T00:00:00",
-        "Album":  "WORLD DOMINATION",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  43,
-        "SpotifyStreams":  1454294,
         "MediaTieIn":  null
     },
     {
@@ -506,7 +506,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  70,
-        "SpotifyStreams":  1326445,
+        "SpotifyStreams":  1330133,
         "MediaTieIn":  null
     },
     {
@@ -516,7 +516,7 @@
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
         "PlayedLiveCount":  16,
-        "SpotifyStreams":  1289143,
+        "SpotifyStreams":  1319807,
         "MediaTieIn":  "Ending theme for anime series Tougen Anki"
     },
     {
@@ -716,7 +716,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  38,
-        "SpotifyStreams":  949511,
+        "SpotifyStreams":  950521,
         "MediaTieIn":  null
     },
     {
@@ -806,7 +806,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  11,
-        "SpotifyStreams":  829534,
+        "SpotifyStreams":  830890,
         "MediaTieIn":  null
     },
     {
@@ -840,6 +840,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "The Dragon Cries",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2019-12-11T00:00:00",
+        "Album":  "CONQUEROR",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  12,
+        "SpotifyStreams":  798745,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Awkward",
         "AlternativeName":  "",
         "ReleaseDate":  "2017-01-11T00:00:00",
@@ -847,16 +857,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  34,
         "SpotifyStreams":  797948,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "The Dragon Cries",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2019-12-11T00:00:00",
-        "Album":  "CONQUEROR",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  12,
-        "SpotifyStreams":  797747,
         "MediaTieIn":  null
     },
     {
@@ -886,7 +886,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  6,
-        "SpotifyStreams":  767985,
+        "SpotifyStreams":  769241,
         "MediaTieIn":  null
     },
     {
@@ -976,7 +976,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  27,
-        "SpotifyStreams":  693973,
+        "SpotifyStreams":  695007,
         "MediaTieIn":  null
     },
     {
@@ -986,7 +986,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  31,
-        "SpotifyStreams":  687490,
+        "SpotifyStreams":  688588,
         "MediaTieIn":  null
     },
     {
@@ -996,7 +996,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  55,
-        "SpotifyStreams":  686107,
+        "SpotifyStreams":  686839,
         "MediaTieIn":  null
     },
     {
@@ -1030,6 +1030,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Bestie",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2024-04-17T00:00:00",
+        "Album":  "Epic Narratives",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  17,
+        "SpotifyStreams":  652531,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Summer Drive",
         "AlternativeName":  "",
         "ReleaseDate":  "2014-08-13T00:00:00",
@@ -1037,16 +1047,6 @@
         "KobatoLead":  "yes",
         "PlayedLiveCount":  40,
         "SpotifyStreams":  652431,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Bestie",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2024-04-17T00:00:00",
-        "Album":  "Epic Narratives",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  17,
-        "SpotifyStreams":  650342,
         "MediaTieIn":  null
     },
     {
@@ -1140,6 +1140,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "ansan",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2019-04-01T00:00:00",
+        "Album":  "BAND-MAIKO",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  null,
+        "SpotifyStreams":  459751,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Forbidden tale",
         "AlternativeName":  "",
         "ReleaseDate":  "2024-09-25T00:00:00",
@@ -1147,16 +1157,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  29,
         "SpotifyStreams":  459066,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "ansan",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2019-04-01T00:00:00",
-        "Album":  "BAND-MAIKO",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  null,
-        "SpotifyStreams":  458803,
         "MediaTieIn":  null
     },
     {
@@ -1236,7 +1236,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  20,
-        "SpotifyStreams":  187271,
+        "SpotifyStreams":  188430,
         "MediaTieIn":  null
     },
     {
