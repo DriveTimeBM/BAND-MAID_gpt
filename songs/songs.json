@@ -116,7 +116,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  33,
-        "SpotifyStreams":  3256101,
+        "SpotifyStreams":  3262633,
         "MediaTieIn":  null
     },
     {
@@ -156,7 +156,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  39,
-        "SpotifyStreams":  2624292,
+        "SpotifyStreams":  2627161,
         "MediaTieIn":  "Theme song for TV show Perfect Crime"
     },
     {
@@ -306,7 +306,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  113,
-        "SpotifyStreams":  1855657,
+        "SpotifyStreams":  1858452,
         "MediaTieIn":  null
     },
     {
@@ -326,7 +326,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  55,
-        "SpotifyStreams":  1842618,
+        "SpotifyStreams":  1846077,
         "MediaTieIn":  null
     },
     {
@@ -416,7 +416,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  14,
-        "SpotifyStreams":  1532946,
+        "SpotifyStreams":  1536252,
         "MediaTieIn":  null
     },
     {
@@ -540,6 +540,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Protect You",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2024-07-05T00:00:00",
+        "Album":  "Epic Narratives",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  31,
+        "SpotifyStreams":  1224076,
+        "MediaTieIn":  "Ending theme for anime series Grendizer U"
+    },
+    {
         "Name":  "Ai to Jonetsu no Matador",
         "AlternativeName":  "愛と情熱のマタドール",
         "ReleaseDate":  "2014-08-13T00:00:00",
@@ -548,16 +558,6 @@
         "PlayedLiveCount":  36,
         "SpotifyStreams":  1223641,
         "MediaTieIn":  null
-    },
-    {
-        "Name":  "Protect You",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2024-07-05T00:00:00",
-        "Album":  "Epic Narratives",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  31,
-        "SpotifyStreams":  1218814,
-        "MediaTieIn":  "Ending theme for anime series Grendizer U"
     },
     {
         "Name":  "Liberal",
@@ -696,7 +696,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  9,
-        "SpotifyStreams":  1001344,
+        "SpotifyStreams":  1002424,
         "MediaTieIn":  null
     },
     {
@@ -726,7 +726,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  13,
-        "SpotifyStreams":  917949,
+        "SpotifyStreams":  919224,
         "MediaTieIn":  null
     },
     {
@@ -756,7 +756,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  1,
-        "SpotifyStreams":  868714,
+        "SpotifyStreams":  870551,
         "MediaTieIn":  null
     },
     {
@@ -786,7 +786,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  2,
-        "SpotifyStreams":  840055,
+        "SpotifyStreams":  841281,
         "MediaTieIn":  null
     },
     {
@@ -816,7 +816,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  17,
-        "SpotifyStreams":  827816,
+        "SpotifyStreams":  828587,
         "MediaTieIn":  null
     },
     {
@@ -836,7 +836,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  35,
-        "SpotifyStreams":  815921,
+        "SpotifyStreams":  816722,
         "MediaTieIn":  null
     },
     {
@@ -916,7 +916,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  756439,
+        "SpotifyStreams":  757936,
         "MediaTieIn":  null
     },
     {
@@ -946,7 +946,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  9,
-        "SpotifyStreams":  722650,
+        "SpotifyStreams":  723241,
         "MediaTieIn":  null
     },
     {
@@ -1056,7 +1056,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  61,
-        "SpotifyStreams":  645484,
+        "SpotifyStreams":  646345,
         "MediaTieIn":  null
     },
     {
@@ -1096,7 +1096,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  3,
-        "SpotifyStreams":  579344,
+        "SpotifyStreams":  580175,
         "MediaTieIn":  null
     },
     {
@@ -1216,7 +1216,7 @@
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
         "PlayedLiveCount":  6,
-        "SpotifyStreams":  274394,
+        "SpotifyStreams":  283470,
         "MediaTieIn":  null
     },
     {
@@ -1226,7 +1226,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  22,
-        "SpotifyStreams":  193097,
+        "SpotifyStreams":  194426,
         "MediaTieIn":  null
     },
     {
@@ -1246,7 +1246,7 @@
         "Album":  "YOLO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
-        "SpotifyStreams":  180134,
+        "SpotifyStreams":  180364,
         "MediaTieIn":  null
     },
     {
