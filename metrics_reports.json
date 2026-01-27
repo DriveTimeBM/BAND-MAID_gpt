@@ -671,8 +671,18 @@
     },
     {
         "File":  "Live Videos.pdf",
-        "Description":  "Master list of live BAND-MAID videos",
+        "Description":  "Master list of live BAND-MAID videos grouped by event",
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Live%20Videos.pdf"
+    },
+    {
+        "File":  "Live Videos by Views.pdf",
+        "Description":  "Master list of live BAND-MAID videos sorted by views",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Live%20Videos%20by%20Views.pdf"
+    },
+    {
+        "File":  "Live FanCam Videos by Views.pdf",
+        "Description":  "Master list of live fancam videos sorted by views",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Live%20FanCam%20Videos%20by%20Views.pdf"
     },
     {
         "File":  "Live History of all Songs.pdf",

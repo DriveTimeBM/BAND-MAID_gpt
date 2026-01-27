@@ -46,7 +46,7 @@
         "Album":  "Different",
         "KobatoLead":  "no",
         "PlayedLiveCount":  38,
-        "SpotifyStreams":  7045179,
+        "SpotifyStreams":  7058200,
         "MediaTieIn":  "Opening theme for S3 of anime series Log Horizon"
     },
     {
@@ -56,7 +56,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  147,
-        "SpotifyStreams":  5930537,
+        "SpotifyStreams":  5943546,
         "MediaTieIn":  null
     },
     {
@@ -76,7 +76,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  168,
-        "SpotifyStreams":  3854481,
+        "SpotifyStreams":  3860735,
         "MediaTieIn":  null
     },
     {
@@ -296,7 +296,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  67,
-        "SpotifyStreams":  1878034,
+        "SpotifyStreams":  1882416,
         "MediaTieIn":  null
     },
     {
@@ -376,7 +376,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  258,
-        "SpotifyStreams":  1727119,
+        "SpotifyStreams":  1730743,
         "MediaTieIn":  null
     },
     {
@@ -406,7 +406,7 @@
         "Album":  "about Us",
         "KobatoLead":  "no",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  1555171,
+        "SpotifyStreams":  1556523,
         "MediaTieIn":  null
     },
     {
@@ -440,6 +440,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Gion-Cho",
+        "AlternativeName":  "祇園町",
+        "ReleaseDate":  "2019-04-01T00:00:00",
+        "Album":  "BAND-MAIKO",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  2,
+        "SpotifyStreams":  1459405,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "anemone",
         "AlternativeName":  "",
         "ReleaseDate":  "2018-02-14T00:00:00",
@@ -450,23 +460,13 @@
         "MediaTieIn":  null
     },
     {
-        "Name":  "Gion-Cho",
-        "AlternativeName":  "祇園町",
-        "ReleaseDate":  "2019-04-01T00:00:00",
-        "Album":  "BAND-MAIKO",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  2,
-        "SpotifyStreams":  1456850,
-        "MediaTieIn":  null
-    },
-    {
         "Name":  "One and only",
         "AlternativeName":  "",
         "ReleaseDate":  "2018-02-14T00:00:00",
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  27,
-        "SpotifyStreams":  1436809,
+        "SpotifyStreams":  1439950,
         "MediaTieIn":  "Theme song for movie 狂い華 (Kuruibana)"
     },
     {
@@ -496,7 +496,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  73,
-        "SpotifyStreams":  1337710,
+        "SpotifyStreams":  1338688,
         "MediaTieIn":  null
     },
     {
@@ -636,7 +636,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  59,
-        "SpotifyStreams":  1090925,
+        "SpotifyStreams":  1092191,
         "MediaTieIn":  null
     },
     {
@@ -666,7 +666,7 @@
         "Album":  "Bubble",
         "KobatoLead":  "no",
         "PlayedLiveCount":  7,
-        "SpotifyStreams":  1050943,
+        "SpotifyStreams":  1051790,
         "MediaTieIn":  null
     },
     {
@@ -686,7 +686,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  36,
-        "SpotifyStreams":  1020783,
+        "SpotifyStreams":  1021737,
         "MediaTieIn":  null
     },
     {
@@ -876,7 +876,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  12,
-        "SpotifyStreams":  788490,
+        "SpotifyStreams":  789654,
         "MediaTieIn":  null
     },
     {
@@ -896,7 +896,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  18,
-        "SpotifyStreams":  763097,
+        "SpotifyStreams":  764307,
         "MediaTieIn":  null
     },
     {
@@ -1030,6 +1030,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Summer Drive",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2014-08-13T00:00:00",
+        "Album":  "Love, Passion, Matador (愛と情熱のマタドール)",
+        "KobatoLead":  "yes",
+        "PlayedLiveCount":  40,
+        "SpotifyStreams":  652871,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Bestie",
         "AlternativeName":  "",
         "ReleaseDate":  "2024-04-17T00:00:00",
@@ -1037,16 +1047,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  17,
         "SpotifyStreams":  652531,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Summer Drive",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2014-08-13T00:00:00",
-        "Album":  "Love, Passion, Matador (愛と情熱のマタドール)",
-        "KobatoLead":  "yes",
-        "PlayedLiveCount":  40,
-        "SpotifyStreams":  652431,
         "MediaTieIn":  null
     },
     {
@@ -1106,7 +1106,7 @@
         "Album":  "YOLO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  50,
-        "SpotifyStreams":  577694,
+        "SpotifyStreams":  578288,
         "MediaTieIn":  null
     },
     {
@@ -1206,7 +1206,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  25,
-        "SpotifyStreams":  283810,
+        "SpotifyStreams":  285862,
         "MediaTieIn":  null
     },
     {
@@ -1256,7 +1256,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  9,
-        "SpotifyStreams":  177307,
+        "SpotifyStreams":  178451,
         "MediaTieIn":  null
     },
     {
@@ -1266,7 +1266,7 @@
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
         "PlayedLiveCount":  4,
-        "SpotifyStreams":  168022,
+        "SpotifyStreams":  173939,
         "MediaTieIn":  null
     },
     {
