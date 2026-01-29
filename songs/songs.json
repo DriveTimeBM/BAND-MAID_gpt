@@ -16,7 +16,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  56,
-        "SpotifyStreams":  10350114,
+        "SpotifyStreams":  10369355,
         "MediaTieIn":  "Opening theme for anime series Platinum End"
     },
     {
@@ -80,6 +80,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Don\u0027t you tell ME",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2017-01-10T00:00:00",
+        "Album":  "Just Bring It",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  162,
+        "SpotifyStreams":  3774702,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "glory",
         "AlternativeName":  "",
         "ReleaseDate":  "2018-11-02T00:00:00",
@@ -88,16 +98,6 @@
         "PlayedLiveCount":  112,
         "SpotifyStreams":  3774330,
         "MediaTieIn":  "Ending theme for anime series Yu-Gi-Oh! VRAINS (ep 71-95)"
-    },
-    {
-        "Name":  "Don\u0027t you tell ME",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2017-01-10T00:00:00",
-        "Album":  "Just Bring It",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  162,
-        "SpotifyStreams":  3768310,
-        "MediaTieIn":  null
     },
     {
         "Name":  "Unleash!!!!!",
@@ -126,7 +126,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  35,
-        "SpotifyStreams":  3228631,
+        "SpotifyStreams":  3233992,
         "MediaTieIn":  "Used in TV show World Pro-Wrestling (TV Asahi)"
     },
     {
@@ -136,7 +136,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  53,
-        "SpotifyStreams":  3131850,
+        "SpotifyStreams":  3135761,
         "MediaTieIn":  null
     },
     {
@@ -186,7 +186,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  46,
-        "SpotifyStreams":  2476902,
+        "SpotifyStreams":  2480859,
         "MediaTieIn":  null
     },
     {
@@ -216,7 +216,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  143,
-        "SpotifyStreams":  2290556,
+        "SpotifyStreams":  2293831,
         "MediaTieIn":  null
     },
     {
@@ -256,7 +256,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  2,
-        "SpotifyStreams":  2108136,
+        "SpotifyStreams":  2111649,
         "MediaTieIn":  null
     },
     {
@@ -536,7 +536,17 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  36,
-        "SpotifyStreams":  1231150,
+        "SpotifyStreams":  1232801,
+        "MediaTieIn":  null
+    },
+    {
+        "Name":  "Ai to Jonetsu no Matador",
+        "AlternativeName":  "愛と情熱のマタドール",
+        "ReleaseDate":  "2014-08-13T00:00:00",
+        "Album":  "Love, Passion, Matador (愛と情熱のマタドール)",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  36,
+        "SpotifyStreams":  1224455,
         "MediaTieIn":  null
     },
     {
@@ -548,16 +558,6 @@
         "PlayedLiveCount":  31,
         "SpotifyStreams":  1224076,
         "MediaTieIn":  "Ending theme for anime series Grendizer U"
-    },
-    {
-        "Name":  "Ai to Jonetsu no Matador",
-        "AlternativeName":  "愛と情熱のマタドール",
-        "ReleaseDate":  "2014-08-13T00:00:00",
-        "Album":  "Love, Passion, Matador (愛と情熱のマタドール)",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  36,
-        "SpotifyStreams":  1223641,
-        "MediaTieIn":  null
     },
     {
         "Name":  "Liberal",
@@ -760,6 +760,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "I\u0027ll",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2022-09-21T00:00:00",
+        "Album":  "Unleash",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  4,
+        "SpotifyStreams":  856182,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "I still seek revenge.",
         "AlternativeName":  "",
         "ReleaseDate":  "2021-01-20T00:00:00",
@@ -767,16 +777,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  10,
         "SpotifyStreams":  855976,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "I\u0027ll",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2022-09-21T00:00:00",
-        "Album":  "Unleash",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  4,
-        "SpotifyStreams":  853867,
         "MediaTieIn":  null
     },
     {
@@ -796,7 +796,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  40,
-        "SpotifyStreams":  834319,
+        "SpotifyStreams":  835113,
         "MediaTieIn":  null
     },
     {
@@ -906,7 +906,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  9,
-        "SpotifyStreams":  761281,
+        "SpotifyStreams":  762425,
         "MediaTieIn":  null
     },
     {
@@ -926,7 +926,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  58,
-        "SpotifyStreams":  735412,
+        "SpotifyStreams":  736874,
         "MediaTieIn":  null
     },
     {
@@ -966,7 +966,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  48,
-        "SpotifyStreams":  712706,
+        "SpotifyStreams":  713623,
         "MediaTieIn":  null
     },
     {
@@ -1126,7 +1126,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
-        "SpotifyStreams":  529882,
+        "SpotifyStreams":  530873,
         "MediaTieIn":  null
     },
     {
@@ -1136,7 +1136,17 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  31,
-        "SpotifyStreams":  482182,
+        "SpotifyStreams":  482802,
+        "MediaTieIn":  null
+    },
+    {
+        "Name":  "Forbidden tale",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2024-09-25T00:00:00",
+        "Album":  "Epic Narratives",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  29,
+        "SpotifyStreams":  462042,
         "MediaTieIn":  null
     },
     {
@@ -1147,16 +1157,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
         "SpotifyStreams":  459751,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Forbidden tale",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2024-09-25T00:00:00",
-        "Album":  "Epic Narratives",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  29,
-        "SpotifyStreams":  459066,
         "MediaTieIn":  null
     },
     {
@@ -1186,7 +1186,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  8,
-        "SpotifyStreams":  303958,
+        "SpotifyStreams":  306170,
         "MediaTieIn":  null
     },
     {
@@ -1306,7 +1306,7 @@
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
         "PlayedLiveCount":  3,
-        "SpotifyStreams":  117064,
+        "SpotifyStreams":  120274,
         "MediaTieIn":  null
     },
     {
