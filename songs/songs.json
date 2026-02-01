@@ -80,6 +80,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "glory",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2018-11-02T00:00:00",
+        "Album":  "CONQUEROR",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  112,
+        "SpotifyStreams":  3779410,
+        "MediaTieIn":  "Ending theme for anime series Yu-Gi-Oh! VRAINS (ep 71-95)"
+    },
+    {
         "Name":  "Don\u0027t you tell ME",
         "AlternativeName":  "",
         "ReleaseDate":  "2017-01-10T00:00:00",
@@ -88,16 +98,6 @@
         "PlayedLiveCount":  162,
         "SpotifyStreams":  3774702,
         "MediaTieIn":  null
-    },
-    {
-        "Name":  "glory",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2018-11-02T00:00:00",
-        "Album":  "CONQUEROR",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  112,
-        "SpotifyStreams":  3774330,
-        "MediaTieIn":  "Ending theme for anime series Yu-Gi-Oh! VRAINS (ep 71-95)"
     },
     {
         "Name":  "Unleash!!!!!",
@@ -166,7 +166,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  242,
-        "SpotifyStreams":  2564126,
+        "SpotifyStreams":  2564906,
         "MediaTieIn":  null
     },
     {
@@ -246,7 +246,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  166,
-        "SpotifyStreams":  2218627,
+        "SpotifyStreams":  2222773,
         "MediaTieIn":  null
     },
     {
@@ -466,7 +466,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  27,
-        "SpotifyStreams":  1439950,
+        "SpotifyStreams":  1442119,
         "MediaTieIn":  "Theme song for movie 狂い華 (Kuruibana)"
     },
     {
@@ -490,6 +490,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "What is justice?",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2025-07-18T00:00:00",
+        "Album":  "SCOOOOOP",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  16,
+        "SpotifyStreams":  1348912,
+        "MediaTieIn":  "Ending theme for anime series Tougen Anki"
+    },
+    {
         "Name":  "Be OK",
         "AlternativeName":  "",
         "ReleaseDate":  "2014-01-08T00:00:00",
@@ -506,18 +516,8 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  70,
-        "SpotifyStreams":  1330133,
+        "SpotifyStreams":  1333684,
         "MediaTieIn":  null
-    },
-    {
-        "Name":  "What is justice?",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2025-07-18T00:00:00",
-        "Album":  "SCOOOOOP",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  16,
-        "SpotifyStreams":  1319807,
-        "MediaTieIn":  "Ending theme for anime series Tougen Anki"
     },
     {
         "Name":  "start over",
@@ -636,7 +636,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  59,
-        "SpotifyStreams":  1092191,
+        "SpotifyStreams":  1093177,
         "MediaTieIn":  null
     },
     {
@@ -646,7 +646,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  37,
-        "SpotifyStreams":  1086717,
+        "SpotifyStreams":  1087604,
         "MediaTieIn":  null
     },
     {
@@ -726,7 +726,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  13,
-        "SpotifyStreams":  919224,
+        "SpotifyStreams":  920292,
         "MediaTieIn":  null
     },
     {
@@ -766,7 +766,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  857292,
+        "SpotifyStreams":  857494,
         "MediaTieIn":  null
     },
     {
@@ -806,7 +806,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  11,
-        "SpotifyStreams":  830890,
+        "SpotifyStreams":  832233,
         "MediaTieIn":  null
     },
     {
@@ -816,7 +816,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  17,
-        "SpotifyStreams":  828587,
+        "SpotifyStreams":  829266,
         "MediaTieIn":  null
     },
     {
@@ -1016,7 +1016,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
-        "SpotifyStreams":  677792,
+        "SpotifyStreams":  678346,
         "MediaTieIn":  null
     },
     {
@@ -1030,6 +1030,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Bestie",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2024-04-17T00:00:00",
+        "Album":  "Epic Narratives",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  17,
+        "SpotifyStreams":  654734,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Summer Drive",
         "AlternativeName":  "",
         "ReleaseDate":  "2014-08-13T00:00:00",
@@ -1037,16 +1047,6 @@
         "KobatoLead":  "yes",
         "PlayedLiveCount":  40,
         "SpotifyStreams":  652871,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Bestie",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2024-04-17T00:00:00",
-        "Album":  "Epic Narratives",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  17,
-        "SpotifyStreams":  652531,
         "MediaTieIn":  null
     },
     {
@@ -1076,7 +1076,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  1,
-        "SpotifyStreams":  618373,
+        "SpotifyStreams":  618517,
         "MediaTieIn":  null
     },
     {
@@ -1126,7 +1126,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
-        "SpotifyStreams":  530873,
+        "SpotifyStreams":  531360,
         "MediaTieIn":  null
     },
     {
@@ -1196,7 +1196,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  12,
-        "SpotifyStreams":  303558,
+        "SpotifyStreams":  304301,
         "MediaTieIn":  null
     },
     {
@@ -1246,7 +1246,7 @@
         "Album":  "YOLO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
-        "SpotifyStreams":  180364,
+        "SpotifyStreams":  180551,
         "MediaTieIn":  null
     },
     {
@@ -1320,36 +1320,6 @@
         "MediaTieIn":  null
     },
     {
-        "Name":  "Seasoned",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2024-09-25T00:00:00",
-        "Album":  "",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  null,
-        "SpotifyStreams":  null,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Dawn Winery Theme",
-        "AlternativeName":  null,
-        "ReleaseDate":  "2022-10-02T00:00:00",
-        "Album":  "",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  null,
-        "SpotifyStreams":  null,
-        "MediaTieIn":  "Created for (game) Genshin Impact Concert 2022"
-    },
-    {
-        "Name":  "without holding back",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2021-01-20T00:00:00",
-        "Album":  "Unseen World",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  7,
-        "SpotifyStreams":  null,
-        "MediaTieIn":  null
-    },
-    {
         "Name":  "onset",
         "AlternativeName":  "",
         "ReleaseDate":  "2019-01-16T00:00:00",
@@ -1366,6 +1336,36 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  3,
+        "SpotifyStreams":  null,
+        "MediaTieIn":  null
+    },
+    {
+        "Name":  "without holding back",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2021-01-20T00:00:00",
+        "Album":  "Unseen World",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  7,
+        "SpotifyStreams":  null,
+        "MediaTieIn":  null
+    },
+    {
+        "Name":  "Dawn Winery Theme",
+        "AlternativeName":  null,
+        "ReleaseDate":  "2022-10-02T00:00:00",
+        "Album":  "",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  null,
+        "SpotifyStreams":  null,
+        "MediaTieIn":  "Created for (game) Genshin Impact Concert 2022"
+    },
+    {
+        "Name":  "Seasoned",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2024-09-25T00:00:00",
+        "Album":  "",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  null,
         "SpotifyStreams":  null,
         "MediaTieIn":  null
     }
