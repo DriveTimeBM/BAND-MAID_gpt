@@ -301,8 +301,18 @@
     },
     {
         "File":  "Spotify Song Streams per Day.pdf",
-        "Description":  "Sorted by avegage streams per day for the previous week.",
+        "Description":  "Sorted by average streams per day for the previous week.",
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Spotify%20Song%20Streams%20per%20Day.pdf"
+    },
+    {
+        "File":  "Spotify Song Streams per Day All Time.pdf",
+        "Description":  "Sorted by lifetime average streams per day.",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Spotify%20Song%20Streams%20per%20Day%20All%20Time.pdf"
+    },
+    {
+        "File":  "Spotify Song Streams per Day Pct.pdf",
+        "Description":  "Sorted by current average streams per day as a percentage of historical streams per day",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Spotify%20Song%20Streams%20per%20Day%20Pct.pdf"
     },
     {
         "File":  "Spotify Song Streams by Album.pdf",
@@ -863,6 +873,11 @@
         "File":  "All YouTube Content by Views.pdf",
         "Description":  "All YT content sorted by views",
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/All%20YouTube%20Content%20by%20Views.pdf"
+    },
+    {
+        "File":  "All YouTube Content by Views Per Day.pdf",
+        "Description":  "All YT content sorted by lifetime views per day",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/All%20YouTube%20Content%20by%20Views%20Per%20Day.pdf"
     },
     {
         "File":  "All YouTube Content by Release Date.pdf",
