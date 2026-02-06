@@ -9,23 +9,23 @@
     {
         "Summary":  "Tokyo SPIN-OFF OKYUJI “Sessions Selection”",
         "Start_Local":  "2026-02-11T03:30:00",
-        "Description":  "Open 16:30",
+        "Description":  "\u003ca href=\"https://bandmaid.tokyo/contents/1020038\"\u003ehttps://bandmaid.tokyo/contents/1020038\u003c/a\u003e",
         "Location":  "LINE CUBE SHIBUYA, 1-1-1 Udagawachō, Shibuya, Tokyo 150-0042, Japan",
         "Start_Japan":  "2026-02-11T17:30:00"
     },
     {
         "Summary":  "Osaka SPIN-OFF OKYUJI “Sessions Selection”",
         "Start_Local":  "2026-02-21T03:00:00",
-        "Description":  "Open 16:00",
+        "Description":  "\u003ca href=\"https://bandmaid.tokyo/contents/1020038\"\u003ehttps://bandmaid.tokyo/contents/1020038\u003c/a\u003e",
         "Location":  "Namba Hatch, 1-chōme-3-1 Minatomachi, Naniwa Ward, Osaka, 556-0017, Japan",
         "Start_Japan":  "2026-02-21T17:00:00"
     },
     {
         "Summary":  "Hong Kong - Kitty Woo Stadium",
-        "Start_Local":  "2026-03-20T05:00:00",
-        "Description":  null,
+        "Start_Local":  "2026-03-20T08:00:00",
+        "Description":  "\u003ca href=\"https://bandmaid.tokyo/contents/1043048\"\u003ehttps://bandmaid.tokyo/contents/1043048\u003c/a\u003e",
         "Location":  "Kitty Woo Stadium, 2號 Tsat Po St, San Po Kong, Hong Kong",
-        "Start_Japan":  "2026-03-20T18:00:00"
+        "Start_Japan":  "2026-03-20T21:00:00"
     },
     {
         "Summary":  "Megaport Festival - Kaohsiung\\, Taiwan",
@@ -33,6 +33,13 @@
         "Description":  null,
         "Location":  "The Pier2 Art Center, No. 1號, Dayong Rd, Yancheng District, Kaohsiung City, Taiwan 803",
         "Start_Japan":  "2026-03-22T15:00:00"
+    },
+    {
+        "Summary":  "CENTRAL MUSIC \u0026 ENTERTAINMENT FESTIVAL 2026",
+        "Start_Local":  "2026-04-04T03:30:00",
+        "Description":  "\u003ca href=\"https://bandmaid.tokyo/contents/1043338\"\u003ehttps://bandmaid.tokyo/contents/1043338\u003c/a\u003e",
+        "Location":  "KT Zepp Yokohama, 4-chōme-3-6 Minatomirai, Nishi Ward, Yokohama, Kanagawa 220-0012, Japan",
+        "Start_Japan":  "2026-04-04T16:30:00"
     },
     {
         "Summary":  "Kanagawa - KT Zepp Yokohama",
@@ -93,14 +100,14 @@
     {
         "Summary":  "HOKKAIDO - SAPPORO FACTORY HALL",
         "Start_Local":  "2026-07-12T04:30:00",
-        "Description":  "This is an event reminder",
+        "Description":  "Open 16:30",
         "Location":  "Sapporo Factory Hall, 3 Chome Kita 2 Johigashi, Chuo Ward, Sapporo, Hokkaido 060-0032, Japan",
         "Start_Japan":  "2026-07-12T17:30:00"
     },
     {
         "Summary":  "KUMAMOTO - B.9 V1",
         "Start_Local":  "2026-07-17T05:30:00",
-        "Description":  null,
+        "Description":  "Open 18:00",
         "Location":  "KUMAMoTo B.9, 5-13 Jōtōmachi, Chuo Ward, Kumamoto, 860-0846, Japan",
         "Start_Japan":  "2026-07-17T18:30:00"
     },
@@ -121,14 +128,14 @@
     {
         "Summary":  "NIPPON BUDOKAN",
         "Start_Local":  "2026-11-13T04:00:00",
-        "Description":  "Open 17:00",
+        "Description":  "\u003ca href=\"https://bandmaid.tokyo/contents/1041130\"\u003ehttps://bandmaid.tokyo/contents/1041130\u003c/a\u003e",
         "Location":  "Nippon Budokan, 2-3 Kitanomarukōen, Chiyoda City, Tokyo 102-8321, Japan",
         "Start_Japan":  "2026-11-13T18:00:00"
     },
     {
         "Summary":  "NIPPON BUDOKAN",
         "Start_Local":  "2026-11-14T03:00:00",
-        "Description":  "Open 16:00",
+        "Description":  "\u003ca href=\"https://bandmaid.tokyo/contents/1041130\"\u003ehttps://bandmaid.tokyo/contents/1041130\u003c/a\u003e",
         "Location":  "Nippon Budokan, 2-3 Kitanomarukōen, Chiyoda City, Tokyo 102-8321, Japan",
         "Start_Japan":  "2026-11-14T17:00:00"
     }
