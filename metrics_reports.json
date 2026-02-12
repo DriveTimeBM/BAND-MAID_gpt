@@ -866,13 +866,18 @@
     },
     {
         "File":  "Arrangement Credits by Song.pdf",
-        "Description":  "Arragement credits for each studio song",
+        "Description":  "Arragement credits for each studio song listed by arrangement count",
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Arrangement%20Credits%20by%20Song.pdf"
     },
     {
         "File":  "Alternative Live Arrangements.pdf",
         "Description":  "List of  alternative song arrangement listed by song",
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Alternative%20Live%20Arrangements.pdf"
+    },
+    {
+        "File":  "Alternative Live Arrangements by Name.pdf",
+        "Description":  "List of  alternative song arrangement listed by song name",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Alternative%20Live%20Arrangements%20by%20Name.pdf"
     },
     {
         "File":  "All YouTube Live Content by Views.pdf",
