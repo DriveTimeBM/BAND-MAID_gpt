@@ -580,6 +580,11 @@
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Reaction%20Avg%20Views%20by%20Channel.pdf"
     },
     {
+        "File":  "Radio Plays.pdf",
+        "Description":  "Detail listing of known radio plays",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Radio%20Plays.pdf"
+    },
+    {
         "File":  "Prime Detail.pdf",
         "Description":  "Track/Section listings for BAND-MAID Prime videos for okyuji, talks, BTS or other videos with sections",
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Prime%20Detail.pdf"

@@ -444,24 +444,24 @@
         "ReleaseDate":  "2021-05-26T00:00:00"
     },
     {
+        "Name":  "Sense (CD+Blu-ray)",
+        "Work":  "Sense",
+        "Type":  "Single",
+        "URL":  "https://www.cdjapan.co.jp/product/PCCA-6076",
+        "Description":  "Sense [w/ Blu-ray, Limited Edition]",
+        "Media":  "CD+Blu-ray",
+        "BonusMedia":  "Blu-ray",
+        "BonusDesc":  "THE DAY OF MAID Okyu-ji (2021.5.10) (6 songs) Chemical Reaction H-G-K Honkai I Still Seek Revenge Why Why Why Youth",
+        "Publisher":  "Pony Canyon",
+        "ReleaseDate":  "2021-10-27T00:00:00"
+    },
+    {
         "Name":  "BAND-MAID ONLINE OKYU-JI 5 \"THE DAY OF MAID\" (Blu-ray/DVD}",
         "Work":  "BAND-MAID ONLINE OKYU-JI 5 \"THE DAY OF MAID\"",
         "Type":  "Live Video",
         "URL":  "",
         "Description":  "BAND-MAID ONLINE OKYU-JI 5 \"THE DAY OF MAID\" Blu-ray/DVD",
         "Media":  "DVD",
-        "BonusMedia":  "",
-        "BonusDesc":  "",
-        "Publisher":  "Pony Canyon",
-        "ReleaseDate":  "2021-10-27T00:00:00"
-    },
-    {
-        "Name":  "Sense",
-        "Work":  "Sense",
-        "Type":  "Single",
-        "URL":  "https://bandmaidshop.com/products/band-maid-sense-normal-edition-cd-only",
-        "Description":  "BAND-MAID - Sense - Normal Edition [CD ONLY]",
-        "Media":  "CD",
         "BonusMedia":  "",
         "BonusDesc":  "",
         "Publisher":  "Pony Canyon",
@@ -480,24 +480,24 @@
         "ReleaseDate":  "2021-10-27T00:00:00"
     },
     {
-        "Name":  "Sense (CD+Blu-ray)",
+        "Name":  "Sense",
         "Work":  "Sense",
         "Type":  "Single",
-        "URL":  "https://www.cdjapan.co.jp/product/PCCA-6076",
-        "Description":  "Sense [w/ Blu-ray, Limited Edition]",
-        "Media":  "CD+Blu-ray",
-        "BonusMedia":  "Blu-ray",
-        "BonusDesc":  "THE DAY OF MAID Okyu-ji (2021.5.10) (6 songs) Chemical Reaction H-G-K Honkai I Still Seek Revenge Why Why Why Youth",
+        "URL":  "https://bandmaidshop.com/products/band-maid-sense-normal-edition-cd-only",
+        "Description":  "BAND-MAID - Sense - Normal Edition [CD ONLY]",
+        "Media":  "CD",
+        "BonusMedia":  "",
+        "BonusDesc":  "",
         "Publisher":  "Pony Canyon",
         "ReleaseDate":  "2021-10-27T00:00:00"
     },
     {
-        "Name":  "Just Bring It vinyl",
-        "Work":  "Just Bring It",
+        "Name":  "New Beginning vinyl",
+        "Work":  "New Beginning",
         "Type":  "Album",
-        "URL":  "https://bandmaidshop.com/products/band-maid-just-bring-it-vinyl-2lp-limited-edition",
-        "Description":  "BAND-MAID Just Bring It (VINYL 2LP) [Limited Edition]",
-        "Media":  "Vinyl x 2",
+        "URL":  "https://bandmaidshop.com/products/band-maid-new-beginning-vinyl-lp-limited-edition",
+        "Description":  "BAND-MAID New Beginning (VINYL LP) [Limited Edition]",
+        "Media":  "Vinyl",
         "BonusMedia":  "",
         "BonusDesc":  "",
         "Publisher":  "Nippon Crown",
@@ -516,6 +516,18 @@
         "ReleaseDate":  "2021-11-03T00:00:00"
     },
     {
+        "Name":  "Brand New MAID vinyl",
+        "Work":  "New Beginning",
+        "Type":  "Album",
+        "URL":  "https://bandmaidshop.com/products/band-maid-brand-new-maid-vinyl-lp-limited-edition",
+        "Description":  "BAND-MAID Brand New MAID (VINYL LP) [Limited Edition]",
+        "Media":  "Vinyl",
+        "BonusMedia":  "",
+        "BonusDesc":  "",
+        "Publisher":  "Nippon Crown",
+        "ReleaseDate":  "2021-11-03T00:00:00"
+    },
+    {
         "Name":  "CONQUEROR vinyl",
         "Work":  "CONQUEROR",
         "Type":  "Album",
@@ -528,24 +540,12 @@
         "ReleaseDate":  "2021-11-03T00:00:00"
     },
     {
-        "Name":  "New Beginning vinyl",
-        "Work":  "New Beginning",
+        "Name":  "Just Bring It vinyl",
+        "Work":  "Just Bring It",
         "Type":  "Album",
-        "URL":  "https://bandmaidshop.com/products/band-maid-new-beginning-vinyl-lp-limited-edition",
-        "Description":  "BAND-MAID New Beginning (VINYL LP) [Limited Edition]",
-        "Media":  "Vinyl",
-        "BonusMedia":  "",
-        "BonusDesc":  "",
-        "Publisher":  "Nippon Crown",
-        "ReleaseDate":  "2021-11-03T00:00:00"
-    },
-    {
-        "Name":  "Brand New MAID vinyl",
-        "Work":  "New Beginning",
-        "Type":  "Album",
-        "URL":  "https://bandmaidshop.com/products/band-maid-brand-new-maid-vinyl-lp-limited-edition",
-        "Description":  "BAND-MAID Brand New MAID (VINYL LP) [Limited Edition]",
-        "Media":  "Vinyl",
+        "URL":  "https://bandmaidshop.com/products/band-maid-just-bring-it-vinyl-2lp-limited-edition",
+        "Description":  "BAND-MAID Just Bring It (VINYL 2LP) [Limited Edition]",
+        "Media":  "Vinyl x 2",
         "BonusMedia":  "",
         "BonusDesc":  "",
         "Publisher":  "Nippon Crown",
@@ -624,18 +624,6 @@
         "ReleaseDate":  "2023-04-26T00:00:00"
     },
     {
-        "Name":  "BAND-MAID TOKYO GARDEN THEATER OKYUJI (Jan.09,2023) [Limited Edition]",
-        "Work":  "BAND-MAID TOKYO GARDEN THEATER OKYUJI (Jan. 9, 2023)",
-        "Type":  "Live Video",
-        "URL":  "https://www.cdjapan.co.jp/product/PCXP-50979?s_ssid=e3635864305bd1ebf9",
-        "Description":  "BAND-MAID TOKYO GARDEN THEATER OKYUJI (Jan.09,2023) [2 Blu-ray + PHOTOBOOK] ONE-TIME-ONLY PRESSING",
-        "Media":  "Blu-ray x 2",
-        "BonusMedia":  "Blu-ray",
-        "BonusDesc":  "[Blu-ray Disc-2] \"BAND-MAID U.S. Tour 2022 BEHIND-THE SCENES\" DOCUMENTARY VIDEO 90 MINUTES, PHOTOBOOK 100 Pages",
-        "Publisher":  "Pony Canyon",
-        "ReleaseDate":  "2023-04-26T00:00:00"
-    },
-    {
         "Name":  "BAND-MAID TOKYO GARDEN THEATER OKYUJI (Jan.09,2023) [Regular Edition DVD]",
         "Work":  "BAND-MAID TOKYO GARDEN THEATER OKYUJI (Jan. 9, 2023)",
         "Type":  "Live Video",
@@ -648,16 +636,16 @@
         "ReleaseDate":  "2023-04-26T00:00:00"
     },
     {
-        "Name":  "BAND-MAID - 10th Anniversary Best Vol.2 CD",
-        "Work":  "BAND-MAID - 10th Anniversary Best Vol.2 CD",
-        "Type":  "Album",
-        "URL":  "https://bandmaidshop.com/products/band-maid-10th-anniversary-best-vol-2-cd",
-        "Description":  "BAND-MAID - 10th Anniversary Best Vol.2 CD",
-        "Media":  "CD",
-        "BonusMedia":  "",
-        "BonusDesc":  "",
-        "Publisher":  "Crown Stones",
-        "ReleaseDate":  "2023-08-02T00:00:00"
+        "Name":  "BAND-MAID TOKYO GARDEN THEATER OKYUJI (Jan.09,2023) [Limited Edition]",
+        "Work":  "BAND-MAID TOKYO GARDEN THEATER OKYUJI (Jan. 9, 2023)",
+        "Type":  "Live Video",
+        "URL":  "https://www.cdjapan.co.jp/product/PCXP-50979?s_ssid=e3635864305bd1ebf9",
+        "Description":  "BAND-MAID TOKYO GARDEN THEATER OKYUJI (Jan.09,2023) [2 Blu-ray + PHOTOBOOK] ONE-TIME-ONLY PRESSING",
+        "Media":  "Blu-ray x 2",
+        "BonusMedia":  "Blu-ray",
+        "BonusDesc":  "[Blu-ray Disc-2] \"BAND-MAID U.S. Tour 2022 BEHIND-THE SCENES\" DOCUMENTARY VIDEO 90 MINUTES, PHOTOBOOK 100 Pages",
+        "Publisher":  "Pony Canyon",
+        "ReleaseDate":  "2023-04-26T00:00:00"
     },
     {
         "Name":  "BAND-MAID - 10th Anniversary Best Vol.1 CD",
@@ -665,6 +653,18 @@
         "Type":  "Album",
         "URL":  "https://bandmaidshop.com/products/band-maid-10th-anniversary-best-vol-1",
         "Description":  "BAND-MAID - 10th Anniversary Best Vol.1 CD",
+        "Media":  "CD",
+        "BonusMedia":  "",
+        "BonusDesc":  "",
+        "Publisher":  "Crown Stones",
+        "ReleaseDate":  "2023-08-02T00:00:00"
+    },
+    {
+        "Name":  "BAND-MAID - 10th Anniversary Best Vol.2 CD",
+        "Work":  "BAND-MAID - 10th Anniversary Best Vol.2 CD",
+        "Type":  "Album",
+        "URL":  "https://bandmaidshop.com/products/band-maid-10th-anniversary-best-vol-2-cd",
+        "Description":  "BAND-MAID - 10th Anniversary Best Vol.2 CD",
         "Media":  "CD",
         "BonusMedia":  "",
         "BonusDesc":  "",
@@ -756,14 +756,14 @@
         "ReleaseDate":  "2024-12-25T00:00:00"
     },
     {
-        "Name":  "SCOOOOOP",
+        "Name":  "SCOOOOOP (CD + Blu-ray + Poster Style Booklet)",
         "Work":  "SCOOOOOP",
         "Type":  "EP",
-        "URL":  "https://ampedjapan.com/products/band-maid-scooooop-regular-edition-cd",
-        "Description":  "BAND-MAID \"SCOOOOOP\" Regular Edition (CD)",
-        "Media":  "CD",
-        "BonusMedia":  "",
-        "BonusDesc":  null,
+        "URL":  "https://ampedjapan.com/products/band-maid-scooooop-limited-edition-cd-blu-ray-poster-style-booklet-special-packaging",
+        "Description":  "BAND-MAID \"SCOOOOOP\" Limited Edition (CD + Blu-ray + Poster Style Booklet) (Special Packaging)",
+        "Media":  "CD+Blu-ray",
+        "BonusMedia":  "Blu-ray",
+        "BonusDesc":  "Zen (Instrumental Video), Ready to Rock (Instrumental Video), What is justice? (Instrumental Video)",
         "Publisher":  "Pony Canyon",
         "ReleaseDate":  "2025-10-22T00:00:00"
     },
@@ -780,14 +780,14 @@
         "ReleaseDate":  "2025-10-22T00:00:00"
     },
     {
-        "Name":  "SCOOOOOP (CD + Blu-ray + Poster Style Booklet)",
+        "Name":  "SCOOOOOP",
         "Work":  "SCOOOOOP",
         "Type":  "EP",
-        "URL":  "https://ampedjapan.com/products/band-maid-scooooop-limited-edition-cd-blu-ray-poster-style-booklet-special-packaging",
-        "Description":  "BAND-MAID \"SCOOOOOP\" Limited Edition (CD + Blu-ray + Poster Style Booklet) (Special Packaging)",
-        "Media":  "CD+Blu-ray",
-        "BonusMedia":  "Blu-ray",
-        "BonusDesc":  "Zen (Instrumental Video), Ready to Rock (Instrumental Video), What is justice? (Instrumental Video)",
+        "URL":  "https://ampedjapan.com/products/band-maid-scooooop-regular-edition-cd",
+        "Description":  "BAND-MAID \"SCOOOOOP\" Regular Edition (CD)",
+        "Media":  "CD",
+        "BonusMedia":  "",
+        "BonusDesc":  null,
         "Publisher":  "Pony Canyon",
         "ReleaseDate":  "2025-10-22T00:00:00"
     }
