@@ -56,7 +56,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  148,
-        "SpotifyStreams":  5955464,
+        "SpotifyStreams":  5980067,
         "MediaTieIn":  null
     },
     {
@@ -80,6 +80,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "glory",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2018-11-02T00:00:00",
+        "Album":  "CONQUEROR",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  113,
+        "SpotifyStreams":  3789573,
+        "MediaTieIn":  "Ending theme for anime series Yu-Gi-Oh! VRAINS (ep 71-95)"
+    },
+    {
         "Name":  "Don\u0027t you tell ME",
         "AlternativeName":  "",
         "ReleaseDate":  "2017-01-10T00:00:00",
@@ -88,16 +98,6 @@
         "PlayedLiveCount":  163,
         "SpotifyStreams":  3788740,
         "MediaTieIn":  null
-    },
-    {
-        "Name":  "glory",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2018-11-02T00:00:00",
-        "Album":  "CONQUEROR",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  113,
-        "SpotifyStreams":  3779410,
-        "MediaTieIn":  "Ending theme for anime series Yu-Gi-Oh! VRAINS (ep 71-95)"
     },
     {
         "Name":  "Unleash!!!!!",
@@ -166,7 +166,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  242,
-        "SpotifyStreams":  2564906,
+        "SpotifyStreams":  2574417,
         "MediaTieIn":  null
     },
     {
@@ -246,7 +246,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  166,
-        "SpotifyStreams":  2222773,
+        "SpotifyStreams":  2231683,
         "MediaTieIn":  null
     },
     {
@@ -306,7 +306,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  113,
-        "SpotifyStreams":  1858452,
+        "SpotifyStreams":  1866591,
         "MediaTieIn":  null
     },
     {
@@ -440,6 +440,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "anemone",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2018-02-14T00:00:00",
+        "Album":  "WORLD DOMINATION",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  43,
+        "SpotifyStreams":  1466566,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Gion-Cho",
         "AlternativeName":  "祇園町",
         "ReleaseDate":  "2019-04-01T00:00:00",
@@ -447,16 +457,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  2,
         "SpotifyStreams":  1465754,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "anemone",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2018-02-14T00:00:00",
-        "Album":  "WORLD DOMINATION",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  43,
-        "SpotifyStreams":  1457359,
         "MediaTieIn":  null
     },
     {
@@ -480,6 +480,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "What is justice?",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2025-07-18T00:00:00",
+        "Album":  "SCOOOOOP",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  16,
+        "SpotifyStreams":  1405593,
+        "MediaTieIn":  "Ending theme for anime series Tougen Anki"
+    },
+    {
         "Name":  "Rock in me",
         "AlternativeName":  "",
         "ReleaseDate":  "2018-02-14T00:00:00",
@@ -490,14 +500,14 @@
         "MediaTieIn":  null
     },
     {
-        "Name":  "What is justice?",
+        "Name":  "from now on",
         "AlternativeName":  "",
-        "ReleaseDate":  "2025-07-18T00:00:00",
-        "Album":  "SCOOOOOP",
+        "ReleaseDate":  "2022-09-21T00:00:00",
+        "Album":  "Unleash",
         "KobatoLead":  "no",
-        "PlayedLiveCount":  16,
-        "SpotifyStreams":  1348912,
-        "MediaTieIn":  "Ending theme for anime series Tougen Anki"
+        "PlayedLiveCount":  71,
+        "SpotifyStreams":  1341120,
+        "MediaTieIn":  null
     },
     {
         "Name":  "Be OK",
@@ -507,16 +517,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  73,
         "SpotifyStreams":  1340557,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "from now on",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2022-09-21T00:00:00",
-        "Album":  "Unleash",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  71,
-        "SpotifyStreams":  1333684,
         "MediaTieIn":  null
     },
     {
@@ -636,7 +636,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  59,
-        "SpotifyStreams":  1093177,
+        "SpotifyStreams":  1095769,
         "MediaTieIn":  null
     },
     {
@@ -646,7 +646,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  37,
-        "SpotifyStreams":  1087604,
+        "SpotifyStreams":  1090552,
         "MediaTieIn":  null
     },
     {
@@ -760,6 +760,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "I still seek revenge.",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2021-01-20T00:00:00",
+        "Album":  "Unseen World",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  10,
+        "SpotifyStreams":  860043,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "I\u0027ll",
         "AlternativeName":  "",
         "ReleaseDate":  "2022-09-21T00:00:00",
@@ -767,16 +777,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  4,
         "SpotifyStreams":  859675,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "I still seek revenge.",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2021-01-20T00:00:00",
-        "Album":  "Unseen World",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  10,
-        "SpotifyStreams":  857494,
         "MediaTieIn":  null
     },
     {
@@ -806,7 +806,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  11,
-        "SpotifyStreams":  832233,
+        "SpotifyStreams":  835051,
         "MediaTieIn":  null
     },
     {
@@ -816,7 +816,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  17,
-        "SpotifyStreams":  829266,
+        "SpotifyStreams":  830874,
         "MediaTieIn":  null
     },
     {
@@ -1036,7 +1036,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  17,
-        "SpotifyStreams":  654734,
+        "SpotifyStreams":  659087,
         "MediaTieIn":  null
     },
     {
@@ -1076,7 +1076,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  1,
-        "SpotifyStreams":  618517,
+        "SpotifyStreams":  620682,
         "MediaTieIn":  null
     },
     {
@@ -1176,7 +1176,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  1,
-        "SpotifyStreams":  399038,
+        "SpotifyStreams":  400603,
         "MediaTieIn":  null
     },
     {
@@ -1196,7 +1196,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  12,
-        "SpotifyStreams":  304301,
+        "SpotifyStreams":  309306,
         "MediaTieIn":  null
     },
     {
@@ -1250,6 +1250,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "YOLO (instrumental)",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2016-11-16T00:00:00",
+        "Album":  "YOLO",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  null,
+        "SpotifyStreams":  181084,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Go easy",
         "AlternativeName":  "",
         "ReleaseDate":  "2024-09-25T00:00:00",
@@ -1257,16 +1267,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  9,
         "SpotifyStreams":  180682,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "YOLO (instrumental)",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2016-11-16T00:00:00",
-        "Album":  "YOLO",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  null,
-        "SpotifyStreams":  180551,
         "MediaTieIn":  null
     },
     {

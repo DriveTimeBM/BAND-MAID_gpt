@@ -10,6 +10,11 @@
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Views%20Per%20Day.pdf"
     },
     {
+        "File":  "YouTube Viewers by City.pdf",
+        "Description":  "Top cities for YT video views",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Viewers%20by%20City.pdf"
+    },
+    {
         "File":  "YouTube Videos by Type.pdf",
         "Description":  "Breakdown of YT videos by type (OMV,OLV,Audio, etc.)",
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Videos%20by%20Type.pdf"
@@ -330,6 +335,11 @@
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Spotify%20Next%20Million%20Projection.pdf"
     },
     {
+        "File":  "Spotify Monthly Listeners.pdf",
+        "Description":  "Spotify listeners by city/country",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Spotify%20Monthly%20Listeners.pdf"
+    },
+    {
         "File":  "Spotify Milestones.pdf",
         "Description":  "List of all Spotify songs that cross 100K milestones for that day",
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Spotify%20Milestones.pdf"
@@ -583,6 +593,21 @@
         "File":  "Radio Plays.pdf",
         "Description":  "Detail listing of known radio plays",
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Radio%20Plays.pdf"
+    },
+    {
+        "File":  "Total Radio Plays Country.pdf",
+        "Description":  "Summary of known radio plays by country",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Total%20Radio%20Plays%20Country.pdf"
+    },
+    {
+        "File":  "Radio Plays Country.pdf",
+        "Description":  "Radio plays by country",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Radio%20Plays%20Country.pdf"
+    },
+    {
+        "File":  "Radio Plays by City - Totals.pdf",
+        "Description":  "Radio plays organized by country/city",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Radio%20Plays%20by%20City%20-%20Totals.pdf"
     },
     {
         "File":  "Prime Detail.pdf",
@@ -873,6 +898,16 @@
         "File":  "Arrangement Credits by Song.pdf",
         "Description":  "Arragement credits for each studio song listed by arrangement count",
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Arrangement%20Credits%20by%20Song.pdf"
+    },
+    {
+        "File":  "Apple Music Charts History.pdf",
+        "Description":  "Appearances of albums and songs on the Apple Music charts by country",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Apple%20Music%20Charts%20History.pdf"
+    },
+    {
+        "File":  "Amazon Music Charts History.pdf",
+        "Description":  "Appearances of albums and songs on the Amazon Music charts by country",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Amazon%20Music%20Charts%20History.pdf"
     },
     {
         "File":  "Alternative Live Arrangements.pdf",
