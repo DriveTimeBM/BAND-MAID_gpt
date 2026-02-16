@@ -175,6 +175,11 @@
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Aggregate%20Likes.pdf"
     },
     {
+        "File":  "YouTube OMV vs OLV.pdf",
+        "Description":  "Relative performance of OLVs to OMVs for songs that have both",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20OMV%20vs%20OLV.pdf"
+    },
+    {
         "File":  "XHuBR4nAjrE.pdf",
         "Description":  "Day by day views for the Zen audio track",
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/XHuBR4nAjrE.pdf"
@@ -998,6 +1003,11 @@
         "File":  "yzSdgw-tdr0.pdf",
         "Description":  "Daily YT stats for the Present Perfect OMV",
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/yzSdgw-tdr0.pdf"
+    },
+    {
+        "File":  "2U9AP21jXuk.pdf",
+        "Description":  "Daily YT stats for the Present Perfect OLV (benefitted from ad campaign)",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/2U9AP21jXuk.pdf"
     },
     {
         "File":  "YouTube MV Comparison.pdf",

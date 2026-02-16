@@ -176,7 +176,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  40,
-        "SpotifyStreams":  2549469,
+        "SpotifyStreams":  2553868,
         "MediaTieIn":  null
     },
     {
@@ -206,7 +206,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  94,
-        "SpotifyStreams":  2352491,
+        "SpotifyStreams":  2356746,
         "MediaTieIn":  "Used in mobile game Valiant Knights"
     },
     {
@@ -416,7 +416,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  14,
-        "SpotifyStreams":  1542259,
+        "SpotifyStreams":  1545897,
         "MediaTieIn":  null
     },
     {
@@ -436,7 +436,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  39,
-        "SpotifyStreams":  1502170,
+        "SpotifyStreams":  1503981,
         "MediaTieIn":  null
     },
     {
@@ -466,7 +466,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  27,
-        "SpotifyStreams":  1445446,
+        "SpotifyStreams":  1448512,
         "MediaTieIn":  "Theme song for movie 狂い華 (Kuruibana)"
     },
     {
@@ -476,7 +476,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  40,
-        "SpotifyStreams":  1432531,
+        "SpotifyStreams":  1435697,
         "MediaTieIn":  null
     },
     {
@@ -500,6 +500,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Be OK",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2014-01-08T00:00:00",
+        "Album":  "MAID IN JAPAN",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  73,
+        "SpotifyStreams":  1341477,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "from now on",
         "AlternativeName":  "",
         "ReleaseDate":  "2022-09-21T00:00:00",
@@ -507,16 +517,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  71,
         "SpotifyStreams":  1341120,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Be OK",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2014-01-08T00:00:00",
-        "Album":  "MAID IN JAPAN",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  73,
-        "SpotifyStreams":  1340557,
         "MediaTieIn":  null
     },
     {
@@ -530,24 +530,24 @@
         "MediaTieIn":  null
     },
     {
-        "Name":  "Spirit!!",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2018-02-14T00:00:00",
-        "Album":  "WORLD DOMINATION",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  36,
-        "SpotifyStreams":  1235558,
-        "MediaTieIn":  null
-    },
-    {
         "Name":  "Protect You",
         "AlternativeName":  "",
         "ReleaseDate":  "2024-07-05T00:00:00",
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  31,
-        "SpotifyStreams":  1234311,
+        "SpotifyStreams":  1239583,
         "MediaTieIn":  "Ending theme for anime series Grendizer U"
+    },
+    {
+        "Name":  "Spirit!!",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2018-02-14T00:00:00",
+        "Album":  "WORLD DOMINATION",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  36,
+        "SpotifyStreams":  1237375,
+        "MediaTieIn":  null
     },
     {
         "Name":  "Ai to Jonetsu no Matador",
@@ -596,7 +596,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
-        "SpotifyStreams":  1174828,
+        "SpotifyStreams":  1176825,
         "MediaTieIn":  null
     },
     {
@@ -656,7 +656,7 @@
         "Album":  "glory",
         "KobatoLead":  "no",
         "PlayedLiveCount":  22,
-        "SpotifyStreams":  1069842,
+        "SpotifyStreams":  1070689,
         "MediaTieIn":  null
     },
     {
@@ -826,7 +826,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  8,
-        "SpotifyStreams":  821718,
+        "SpotifyStreams":  822439,
         "MediaTieIn":  null
     },
     {
@@ -846,7 +846,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  12,
-        "SpotifyStreams":  800873,
+        "SpotifyStreams":  801890,
         "MediaTieIn":  null
     },
     {
@@ -856,7 +856,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  34,
-        "SpotifyStreams":  800603,
+        "SpotifyStreams":  801701,
         "MediaTieIn":  null
     },
     {
@@ -916,7 +916,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  760852,
+        "SpotifyStreams":  762300,
         "MediaTieIn":  null
     },
     {
@@ -1066,7 +1066,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  49,
-        "SpotifyStreams":  622907,
+        "SpotifyStreams":  623634,
         "MediaTieIn":  null
     },
     {
@@ -1096,7 +1096,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  3,
-        "SpotifyStreams":  581818,
+        "SpotifyStreams":  582612,
         "MediaTieIn":  null
     },
     {
@@ -1146,7 +1146,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  29,
-        "SpotifyStreams":  466996,
+        "SpotifyStreams":  470156,
         "MediaTieIn":  null
     },
     {
@@ -1306,7 +1306,7 @@
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
         "PlayedLiveCount":  4,
-        "SpotifyStreams":  125628,
+        "SpotifyStreams":  128802,
         "MediaTieIn":  null
     },
     {
