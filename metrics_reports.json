@@ -90,6 +90,11 @@
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Milestones.pdf"
     },
     {
+        "File":  "YouTube Language Breakdown.pdf",
+        "Description":  "Percentage of Japanese comments in YouTube videos",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Language%20Breakdown.pdf"
+    },
+    {
         "File":  "YouTube Delta by DoW.pdf",
         "Description":  "YouTube views by day of week (Monday measures Sunday, etc.)",
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Delta%20by%20DoW.pdf"
