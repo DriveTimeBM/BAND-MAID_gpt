@@ -6,7 +6,7 @@
         "Album":  "Daydreaming / Choose me",
         "KobatoLead":  "no",
         "PlayedLiveCount":  231,
-        "SpotifyStreams":  15093277,
+        "SpotifyStreams":  15126731,
         "MediaTieIn":  "Used in Netflix movie Kate. Used in S01E03 of TV show Peacemaker."
     },
     {
@@ -126,7 +126,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  35,
-        "SpotifyStreams":  3245369,
+        "SpotifyStreams":  3250915,
         "MediaTieIn":  "Used in TV show World Pro-Wrestling (TV Asahi)"
     },
     {
@@ -136,7 +136,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  53,
-        "SpotifyStreams":  3144067,
+        "SpotifyStreams":  3148115,
         "MediaTieIn":  null
     },
     {
@@ -186,7 +186,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  47,
-        "SpotifyStreams":  2489094,
+        "SpotifyStreams":  2493306,
         "MediaTieIn":  null
     },
     {
@@ -256,7 +256,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  2,
-        "SpotifyStreams":  2118396,
+        "SpotifyStreams":  2121695,
         "MediaTieIn":  null
     },
     {
@@ -336,7 +336,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  45,
-        "SpotifyStreams":  1825654,
+        "SpotifyStreams":  1830448,
         "MediaTieIn":  null
     },
     {
@@ -426,7 +426,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  18,
-        "SpotifyStreams":  1525408,
+        "SpotifyStreams":  1529321,
         "MediaTieIn":  null
     },
     {
@@ -556,7 +556,7 @@
         "Album":  "Love, Passion, Matador (愛と情熱のマタドール)",
         "KobatoLead":  "no",
         "PlayedLiveCount":  36,
-        "SpotifyStreams":  1226066,
+        "SpotifyStreams":  1226842,
         "MediaTieIn":  null
     },
     {
@@ -606,7 +606,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  69,
-        "SpotifyStreams":  1170297,
+        "SpotifyStreams":  1171887,
         "MediaTieIn":  "Ending theme for anime series Quiz Tokiko-san"
     },
     {
@@ -686,7 +686,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  36,
-        "SpotifyStreams":  1024037,
+        "SpotifyStreams":  1025030,
         "MediaTieIn":  null
     },
     {
@@ -756,7 +756,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  1,
-        "SpotifyStreams":  874676,
+        "SpotifyStreams":  876361,
         "MediaTieIn":  null
     },
     {
@@ -936,7 +936,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  13,
-        "SpotifyStreams":  733306,
+        "SpotifyStreams":  734334,
         "MediaTieIn":  null
     },
     {
@@ -946,7 +946,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  9,
-        "SpotifyStreams":  724790,
+        "SpotifyStreams":  725398,
         "MediaTieIn":  null
     },
     {
@@ -1026,7 +1026,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
-        "SpotifyStreams":  678280,
+        "SpotifyStreams":  679186,
         "MediaTieIn":  null
     },
     {
@@ -1116,7 +1116,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  562493,
+        "SpotifyStreams":  563364,
         "MediaTieIn":  null
     },
     {
@@ -1140,6 +1140,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Brightest Star",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2024-09-25T00:00:00",
+        "Album":  "Epic Narratives",
+        "KobatoLead":  "yes",
+        "PlayedLiveCount":  38,
+        "SpotifyStreams":  470280,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Forbidden tale",
         "AlternativeName":  "",
         "ReleaseDate":  "2024-09-25T00:00:00",
@@ -1147,16 +1157,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  29,
         "SpotifyStreams":  470156,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Brightest Star",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2024-09-25T00:00:00",
-        "Album":  "Epic Narratives",
-        "KobatoLead":  "yes",
-        "PlayedLiveCount":  38,
-        "SpotifyStreams":  464758,
         "MediaTieIn":  null
     },
     {
@@ -1226,7 +1226,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  23,
-        "SpotifyStreams":  197831,
+        "SpotifyStreams":  199286,
         "MediaTieIn":  null
     },
     {
@@ -1280,6 +1280,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "SION",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2025-10-22T00:00:00",
+        "Album":  "SCOOOOOP",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  2,
+        "SpotifyStreams":  160060,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Dilly-Dally",
         "AlternativeName":  "",
         "ReleaseDate":  "2025-10-22T00:00:00",
@@ -1287,16 +1297,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  7,
         "SpotifyStreams":  159916,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "SION",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2025-10-22T00:00:00",
-        "Album":  "SCOOOOOP",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  2,
-        "SpotifyStreams":  155610,
         "MediaTieIn":  null
     },
     {

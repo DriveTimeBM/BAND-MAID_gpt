@@ -295,6 +295,11 @@
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Top%20Google%20Trends.pdf"
     },
     {
+        "File":  "Google Trends Region Summary.pdf",
+        "Description":  "Summary of BAND-MAID Google trends across regions",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Google%20Trends%20Region%20Summary.pdf"
+    },
+    {
         "File":  "Thrill Comments by Day.pdf",
         "Description":  "Number of new comment on the Thrill OMV by day",
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Thrill%20Comments%20by%20Day.pdf"
