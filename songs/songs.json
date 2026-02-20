@@ -16,7 +16,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  56,
-        "SpotifyStreams":  10412998,
+        "SpotifyStreams":  10432566,
         "MediaTieIn":  "Opening theme for anime series Platinum End"
     },
     {
@@ -66,7 +66,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  42,
-        "SpotifyStreams":  4099431,
+        "SpotifyStreams":  4104945,
         "MediaTieIn":  "Used in Netflix movie Kate"
     },
     {
@@ -116,7 +116,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  33,
-        "SpotifyStreams":  3277908,
+        "SpotifyStreams":  3283532,
         "MediaTieIn":  null
     },
     {
@@ -276,7 +276,7 @@
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
         "PlayedLiveCount":  20,
-        "SpotifyStreams":  1979756,
+        "SpotifyStreams":  1996770,
         "MediaTieIn":  "Opening theme for anime series Zenshu"
     },
     {
@@ -310,23 +310,23 @@
         "MediaTieIn":  null
     },
     {
-        "Name":  "Screaming",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2018-07-25T00:00:00",
-        "Album":  "start over",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  92,
-        "SpotifyStreams":  1856798,
-        "MediaTieIn":  null
-    },
-    {
         "Name":  "CROSS",
         "AlternativeName":  "",
         "ReleaseDate":  "2017-01-11T00:00:00",
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  55,
-        "SpotifyStreams":  1855331,
+        "SpotifyStreams":  1858767,
+        "MediaTieIn":  null
+    },
+    {
+        "Name":  "Screaming",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2018-07-25T00:00:00",
+        "Album":  "start over",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  92,
+        "SpotifyStreams":  1858760,
         "MediaTieIn":  null
     },
     {
@@ -376,7 +376,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  259,
-        "SpotifyStreams":  1740277,
+        "SpotifyStreams":  1744245,
         "MediaTieIn":  null
     },
     {
@@ -386,7 +386,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  43,
-        "SpotifyStreams":  1647256,
+        "SpotifyStreams":  1650140,
         "MediaTieIn":  null
     },
     {
@@ -566,7 +566,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  17,
-        "SpotifyStreams":  1216431,
+        "SpotifyStreams":  1217584,
         "MediaTieIn":  null
     },
     {
@@ -706,7 +706,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  1,
-        "SpotifyStreams":  992187,
+        "SpotifyStreams":  993377,
         "MediaTieIn":  null
     },
     {
@@ -716,7 +716,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  38,
-        "SpotifyStreams":  953248,
+        "SpotifyStreams":  954212,
         "MediaTieIn":  null
     },
     {
@@ -886,7 +886,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  6,
-        "SpotifyStreams":  772333,
+        "SpotifyStreams":  773464,
         "MediaTieIn":  null
     },
     {
@@ -956,7 +956,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  52,
-        "SpotifyStreams":  723059,
+        "SpotifyStreams":  724763,
         "MediaTieIn":  null
     },
     {
@@ -976,7 +976,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  27,
-        "SpotifyStreams":  697725,
+        "SpotifyStreams":  698774,
         "MediaTieIn":  null
     },
     {
@@ -996,7 +996,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  55,
-        "SpotifyStreams":  688893,
+        "SpotifyStreams":  689694,
         "MediaTieIn":  null
     },
     {
@@ -1056,7 +1056,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  61,
-        "SpotifyStreams":  648606,
+        "SpotifyStreams":  649446,
         "MediaTieIn":  null
     },
     {
@@ -1126,7 +1126,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
-        "SpotifyStreams":  533407,
+        "SpotifyStreams":  534499,
         "MediaTieIn":  null
     },
     {
@@ -1270,13 +1270,23 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Dilly-Dally",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2025-10-22T00:00:00",
+        "Album":  "SCOOOOOP",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  7,
+        "SpotifyStreams":  164632,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Get to the top",
         "AlternativeName":  "",
         "ReleaseDate":  "2024-09-25T00:00:00",
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  18,
-        "SpotifyStreams":  160224,
+        "SpotifyStreams":  161288,
         "MediaTieIn":  null
     },
     {
@@ -1287,16 +1297,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  2,
         "SpotifyStreams":  160060,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Dilly-Dally",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2025-10-22T00:00:00",
-        "Album":  "SCOOOOOP",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  7,
-        "SpotifyStreams":  159916,
         "MediaTieIn":  null
     },
     {
@@ -1317,16 +1317,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
         "SpotifyStreams":  0,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "onset",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2019-01-16T00:00:00",
-        "Album":  "",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  52,
-        "SpotifyStreams":  null,
         "MediaTieIn":  null
     },
     {
@@ -1358,6 +1348,16 @@
         "PlayedLiveCount":  null,
         "SpotifyStreams":  null,
         "MediaTieIn":  "Created for (game) Genshin Impact Concert 2022"
+    },
+    {
+        "Name":  "onset",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2019-01-16T00:00:00",
+        "Album":  "",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  52,
+        "SpotifyStreams":  null,
+        "MediaTieIn":  null
     },
     {
         "Name":  "Seasoned",
