@@ -26,7 +26,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  210,
-        "SpotifyStreams":  8109480,
+        "SpotifyStreams":  8126733,
         "MediaTieIn":  null
     },
     {
@@ -106,7 +106,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  92,
-        "SpotifyStreams":  3428939,
+        "SpotifyStreams":  3436851,
         "MediaTieIn":  null
     },
     {
@@ -146,7 +146,7 @@
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
         "PlayedLiveCount":  25,
-        "SpotifyStreams":  3042825,
+        "SpotifyStreams":  3079996,
         "MediaTieIn":  "Opening theme for anime series Rock Is a Lady\u0027s Modesty"
     },
     {
@@ -226,7 +226,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  50,
-        "SpotifyStreams":  2293805,
+        "SpotifyStreams":  2301899,
         "MediaTieIn":  "Ending theme for season 2 of anime series Kengan Ashura"
     },
     {
@@ -236,7 +236,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  233,
-        "SpotifyStreams":  2269230,
+        "SpotifyStreams":  2274362,
         "MediaTieIn":  null
     },
     {
@@ -346,7 +346,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  85,
-        "SpotifyStreams":  1772474,
+        "SpotifyStreams":  1774912,
         "MediaTieIn":  null
     },
     {
@@ -440,6 +440,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Gion-Cho",
+        "AlternativeName":  "祇園町",
+        "ReleaseDate":  "2019-04-01T00:00:00",
+        "Album":  "BAND-MAIKO",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  2,
+        "SpotifyStreams":  1468452,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "anemone",
         "AlternativeName":  "",
         "ReleaseDate":  "2018-02-14T00:00:00",
@@ -447,16 +457,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  43,
         "SpotifyStreams":  1466566,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Gion-Cho",
-        "AlternativeName":  "祇園町",
-        "ReleaseDate":  "2019-04-01T00:00:00",
-        "Album":  "BAND-MAIKO",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  2,
-        "SpotifyStreams":  1465754,
         "MediaTieIn":  null
     },
     {
@@ -526,7 +526,7 @@
         "Album":  "start over",
         "KobatoLead":  "no",
         "PlayedLiveCount":  32,
-        "SpotifyStreams":  1290949,
+        "SpotifyStreams":  1293278,
         "MediaTieIn":  null
     },
     {
@@ -576,7 +576,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  21,
-        "SpotifyStreams":  1201383,
+        "SpotifyStreams":  1203115,
         "MediaTieIn":  null
     },
     {
@@ -626,7 +626,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  27,
-        "SpotifyStreams":  1142216,
+        "SpotifyStreams":  1143979,
         "MediaTieIn":  null
     },
     {
@@ -676,7 +676,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  38,
-        "SpotifyStreams":  1049865,
+        "SpotifyStreams":  1050948,
         "MediaTieIn":  null
     },
     {
@@ -726,7 +726,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  13,
-        "SpotifyStreams":  922507,
+        "SpotifyStreams":  923708,
         "MediaTieIn":  null
     },
     {
@@ -876,7 +876,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  12,
-        "SpotifyStreams":  792664,
+        "SpotifyStreams":  793810,
         "MediaTieIn":  null
     },
     {
@@ -896,7 +896,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  18,
-        "SpotifyStreams":  767457,
+        "SpotifyStreams":  768575,
         "MediaTieIn":  null
     },
     {
@@ -906,7 +906,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  9,
-        "SpotifyStreams":  765022,
+        "SpotifyStreams":  766162,
         "MediaTieIn":  null
     },
     {
@@ -1006,7 +1006,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  15,
-        "SpotifyStreams":  683852,
+        "SpotifyStreams":  684684,
         "MediaTieIn":  null
     },
     {
@@ -1016,7 +1016,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
-        "SpotifyStreams":  679954,
+        "SpotifyStreams":  680826,
         "MediaTieIn":  null
     },
     {
@@ -1230,6 +1230,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "TAMAYA!",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2024-09-25T00:00:00",
+        "Album":  "Epic Narratives",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  20,
+        "SpotifyStreams":  193186,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "SUPER SUNSHINE",
         "AlternativeName":  "",
         "ReleaseDate":  "2025-10-22T00:00:00",
@@ -1237,16 +1247,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  4,
         "SpotifyStreams":  192263,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "TAMAYA!",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2024-09-25T00:00:00",
-        "Album":  "Epic Narratives",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  20,
-        "SpotifyStreams":  191974,
         "MediaTieIn":  null
     },
     {
