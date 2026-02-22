@@ -30,14 +30,14 @@
     {
         "Summary":  "Sendai Gigs",
         "Start_Local":  "2026-05-02T04:00:00",
-        "Description":  "Open 16:00",
+        "Description":  "\u003ca href=\"https://bandmaid.tokyo/contents/1041130\"\u003ehttps://bandmaid.tokyo/contents/1041130\u003c/a\u003e",
         "Location":  "SENDAI GIGS, 1-chōme-4-1 Araihigashi, Wakabayashi Ward, Sendai, Miyagi 984-0030, Japan",
         "Start_Japan":  "2026-05-02T17:00:00"
     },
     {
         "Summary":  "Zepp Haneda - Tokyo",
         "Start_Local":  "2026-05-10T04:30:00",
-        "Description":  "Open 16:30",
+        "Description":  "\u003ca href=\"https://bandmaid.tokyo/contents/1041130\"\u003ehttps://bandmaid.tokyo/contents/1041130\u003c/a\u003e",
         "Location":  "Zepp Haneda, 1-chōme-1-4 Hanedakūkō, Ota City, Tokyo 144-0041, Japan",
         "Start_Japan":  "2026-05-10T17:30:00"
     },
@@ -93,21 +93,21 @@
     {
         "Summary":  "HOKKAIDO - SAPPORO FACTORY HALL",
         "Start_Local":  "2026-07-12T04:30:00",
-        "Description":  "Open 16:30",
+        "Description":  "\u003ca href=\"https://bandmaid.tokyo/contents/1041130\"\u003ehttps://bandmaid.tokyo/contents/1041130\u003c/a\u003e",
         "Location":  "Sapporo Factory Hall, 3 Chome Kita 2 Johigashi, Chuo Ward, Sapporo, Hokkaido 060-0032, Japan",
         "Start_Japan":  "2026-07-12T17:30:00"
     },
     {
         "Summary":  "KUMAMOTO - B.9 V1",
         "Start_Local":  "2026-07-17T05:30:00",
-        "Description":  "Open 18:00",
+        "Description":  "\u003ca href=\"https://bandmaid.tokyo/contents/1041130\"\u003ehttps://bandmaid.tokyo/contents/1041130\u003c/a\u003e",
         "Location":  "KUMAMoTo B.9, 5-13 Jōtōmachi, Chuo Ward, Kumamoto, 860-0846, Japan",
         "Start_Japan":  "2026-07-17T18:30:00"
     },
     {
         "Summary":  "ZEPP FUKUOKA",
         "Start_Local":  "2026-07-18T04:30:00",
-        "Description":  "Open 16:30",
+        "Description":  "\u003ca href=\"https://bandmaid.tokyo/contents/1041130\"\u003ehttps://bandmaid.tokyo/contents/1041130\u003c/a\u003e",
         "Location":  "Zepp Fukuoka, 2-chōme-2-1 Jigyōhama, Chuo Ward, Fukuoka, 810-0065, Japan",
         "Start_Japan":  "2026-07-18T17:30:00"
     },
@@ -121,7 +121,7 @@
     {
         "Summary":  "Osaka - NAMBA HATCH ",
         "Start_Local":  "2026-11-03T03:30:00",
-        "Description":  "Open 16:30",
+        "Description":  "\u003ca href=\"https://bandmaid.tokyo/contents/1041130\"\u003ehttps://bandmaid.tokyo/contents/1041130\u003c/a\u003e",
         "Location":  "Namba Hatch, 1-chōme-3-1 Minatomachi, Naniwa Ward, Osaka, 556-0017, Japan",
         "Start_Japan":  "2026-11-03T17:30:00"
     },
