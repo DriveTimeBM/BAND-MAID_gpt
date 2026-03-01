@@ -865,6 +865,16 @@
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/CDJapan%20Monthly%20Rank.pdf"
     },
     {
+        "File":  "CDJapan Ranks by Product.pdf",
+        "Description":  "Products ranked by number of times appearing in the CDJapan monthly top 400",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/CDJapan%20Ranks%20by%20Product.pdf"
+    },
+    {
+        "File":  "CDJapan Ranks by Album.pdf",
+        "Description":  "Albums ranked by number of times appearing in the CDJapan monthly top 400",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/CDJapan%20Ranks%20by%20Album.pdf"
+    },
+    {
         "File":  "Calendar.pdf",
         "Description":  "Upcoming shows and events",
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Calendar.pdf"
