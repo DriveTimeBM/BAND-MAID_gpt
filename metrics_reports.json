@@ -875,6 +875,26 @@
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/CDJapan%20Ranks%20by%20Album.pdf"
     },
     {
+        "File":  "CDJapan Daily.pdf",
+        "Description":  "History of BAND-MAID items in the CDJapan top 20 items for the day (from January 2022)",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/CDJapan%20Daily.pdf"
+    },
+    {
+        "File":  "CDJapan Daily Grouped.pdf",
+        "Description":  "History of BAND-MAID items in the CDJapan top 20 items for the day (from January 2022)",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/CDJapan%20Daily%20Grouped.pdf"
+    },
+    {
+        "File":  "CDJapan Daily Grouped by Title.pdf",
+        "Description":  "History of BAND-MAID items in the CDJapan top 20 grouped by title (from January 2022)",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/CDJapan%20Daily%20Grouped%20by%20Title.pdf"
+    },
+    {
+        "File":  "CDJapan Yearly.pdf",
+        "Description":  "History of BAND-MAID items in the CDJapan yearly top 100 since 2022",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/CDJapan%20Yearly.pdf"
+    },
+    {
         "File":  "Calendar.pdf",
         "Description":  "Upcoming shows and events",
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Calendar.pdf"
