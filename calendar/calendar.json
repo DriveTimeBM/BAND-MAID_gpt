@@ -7,14 +7,14 @@
         "Start_Japan":  "2026-03-20T21:00:00"
     },
     {
-        "Summary":  "Megaport Festival - Kaohsiung\\, Taiwan",
+        "Summary":  "Taiwan - Megaport Fes - Kaohsiung",
         "Start_Local":  "2026-03-22T02:00:00",
         "Description":  null,
         "Location":  "The Pier2 Art Center, No. 1號, Dayong Rd, Yancheng District, Kaohsiung City, Taiwan 803",
         "Start_Japan":  "2026-03-22T15:00:00"
     },
     {
-        "Summary":  "CENTRAL MUSIC \u0026 ENTERTAINMENT FESTIVAL 2026",
+        "Summary":  "Yokohama - CME Festival",
         "Start_Local":  "2026-04-04T05:30:00",
         "Description":  "\u003ca href=\"https://bandmaid.tokyo/contents/1043338\"\u003ehttps://bandmaid.tokyo/contents/1043338\u003c/a\u003e",
         "Location":  "KT Zepp Yokohama, 4-chōme-3-6 Minatomirai, Nishi Ward, Yokohama, Kanagawa 220-0012, Japan",
@@ -28,14 +28,14 @@
         "Start_Japan":  "2026-04-11T17:30:00"
     },
     {
-        "Summary":  "Sendai Gigs",
+        "Summary":  "Sendai - Gigs",
         "Start_Local":  "2026-05-02T04:00:00",
         "Description":  "\u003ca href=\"https://bandmaid.tokyo/contents/1041130\"\u003ehttps://bandmaid.tokyo/contents/1041130\u003c/a\u003e",
         "Location":  "SENDAI GIGS, 1-chōme-4-1 Araihigashi, Wakabayashi Ward, Sendai, Miyagi 984-0030, Japan",
         "Start_Japan":  "2026-05-02T17:00:00"
     },
     {
-        "Summary":  "Zepp Haneda - Tokyo",
+        "Summary":  "Tokyo - Zepp Haneda",
         "Start_Local":  "2026-05-10T04:30:00",
         "Description":  "\u003ca href=\"https://bandmaid.tokyo/contents/1041130\"\u003ehttps://bandmaid.tokyo/contents/1041130\u003c/a\u003e",
         "Location":  "Zepp Haneda, 1-chōme-1-4 Hanedakūkō, Ota City, Tokyo 144-0041, Japan",
@@ -77,7 +77,7 @@
         "Start_Japan":  "2026-06-12T03:00:00"
     },
     {
-        "Summary":  "Download Festival",
+        "Summary":  "Download UK - Festival",
         "Start_Local":  "2026-06-12T11:00:00",
         "Description":  "\u003ca href=\"https://downloadfestival.co.uk/\"\u003ehttps://downloadfestival.co.uk/\u003c/a\u003e",
         "Location":  "Donington Park Circuit, Donington Park, Castle Donington, Derby DE74 2RP, UK",
@@ -112,21 +112,21 @@
         "Start_Japan":  "2026-07-17T18:30:00"
     },
     {
-        "Summary":  "ZEPP FUKUOKA",
+        "Summary":  "FUKUOKA - Zepp",
         "Start_Local":  "2026-07-18T04:30:00",
         "Description":  "\u003ca href=\"https://bandmaid.tokyo/contents/1041130\"\u003ehttps://bandmaid.tokyo/contents/1041130\u003c/a\u003e",
         "Location":  "Zepp Fukuoka, 2-chōme-2-1 Jigyōhama, Chuo Ward, Fukuoka, 810-0065, Japan",
         "Start_Japan":  "2026-07-18T17:30:00"
     },
     {
-        "Summary":  "NUMBER SHOT 2026",
+        "Summary":  "FUKUOKA - NUMBER SHOT",
         "Start_Local":  "2026-08-01T02:00:00",
         "Description":  "\u003ca href=\"https://numbershot.jp/2026\"\u003ehttps://numbershot.jp/2026\u003c/a\u003e",
         "Location":  "Momochi Seaside Park, 2-chōme-902-1 Momochihama, Sawara Ward, Fukuoka, 814-0001, Japan",
         "Start_Japan":  "2026-08-01T15:00:00"
     },
     {
-        "Summary":  "OSAKA GIGANTIC MUSIC FESTIVAL",
+        "Summary":  "OSAKA - GIGANTIC FES",
         "Start_Local":  "2026-08-02T02:00:00",
         "Description":  "\u003ca href=\"https://giga-osaka.com/\"\u003ehttps://giga-osaka.com/\u003c/a\u003e",
         "Location":  "Maishima Sports Island, 2-chōme-1-128 Hokkōryokuchi, Konohana Ward, Osaka, 554-0042, Japan",
@@ -147,14 +147,14 @@
         "Start_Japan":  "2026-11-03T17:30:00"
     },
     {
-        "Summary":  "NIPPON BUDOKAN",
+        "Summary":  "BUDOKAN",
         "Start_Local":  "2026-11-13T04:00:00",
         "Description":  "\u003ca href=\"https://bandmaid.tokyo/contents/1041130\"\u003ehttps://bandmaid.tokyo/contents/1041130\u003c/a\u003e",
         "Location":  "Nippon Budokan, 2-3 Kitanomarukōen, Chiyoda City, Tokyo 102-8321, Japan",
         "Start_Japan":  "2026-11-13T18:00:00"
     },
     {
-        "Summary":  "NIPPON BUDOKAN",
+        "Summary":  "BUDOKAN",
         "Start_Local":  "2026-11-14T03:00:00",
         "Description":  "\u003ca href=\"https://bandmaid.tokyo/contents/1041130\"\u003ehttps://bandmaid.tokyo/contents/1041130\u003c/a\u003e",
         "Location":  "Nippon Budokan, 2-3 Kitanomarukōen, Chiyoda City, Tokyo 102-8321, Japan",
