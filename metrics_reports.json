@@ -80,6 +80,11 @@
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Releases%20by%20Year.pdf"
     },
     {
+        "File":  "YouTube MV Comparison.pdf",
+        "Description":  "Compare the most recent OMV daily performance to the fastest to 1M views",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20MV%20Comparison.pdf"
+    },
+    {
         "File":  "YouTube Million Groups.pdf",
         "Description":  "YT videos over 1M views grouped by views range 1M, 2M ,etc.",
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Million%20Groups.pdf"
@@ -185,11 +190,6 @@
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20OMV%20vs%20OLV.pdf"
     },
     {
-        "File":  "XHuBR4nAjrE.pdf",
-        "Description":  "Day by day views for the Zen audio track",
-        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/XHuBR4nAjrE.pdf"
-    },
-    {
         "File":  "Wikipedia Top Years JA.pdf",
         "Description":  "Yearly Wikipedia lookups for Japanese Wikipedia",
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Wikipedia%20Top%20Years%20JA.pdf"
@@ -238,11 +238,6 @@
         "File":  "White Room Videos.pdf",
         "Description":  "All BAND-MAID songs with \"white room videos\"",
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/White%20Room%20Videos.pdf"
-    },
-    {
-        "File":  "vu2D3lzH7Y0.pdf",
-        "Description":  "Day by day views for the What is justice? audio track",
-        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/vu2D3lzH7Y0.pdf"
     },
     {
         "File":  "Unique Arrangements.pdf",
@@ -341,7 +336,7 @@
     },
     {
         "File":  "Spotify Song Popularity.pdf",
-        "Description":  "Songs ranked by Spotify Popularity",
+        "Description":  "**Obsolete as of  2026-03-09** Songs ranked by Spotify Popularity",
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Spotify%20Song%20Popularity.pdf"
     },
     {
@@ -361,7 +356,7 @@
     },
     {
         "File":  "Spotify Album Popularity.pdf",
-        "Description":  "Albums ranked by Spotify Popularity",
+        "Description":  "**Obsolete as of  2026-03-09** Albums ranked by Spotify Popularity",
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Spotify%20Album%20Popularity.pdf"
     },
     {
@@ -545,19 +540,14 @@
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Shazam%20Top%20Tracks.pdf"
     },
     {
-        "File":  "rZ1mpH8iXQc.pdf",
-        "Description":  "Daily YT stats for the Alive-or-Dead audio track",
-        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/rZ1mpH8iXQc.pdf"
-    },
-    {
         "File":  "Release Notes and Quotes Report.pdf",
         "Description":  "Collection of band quotes organized by release",
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Release%20Notes%20and%20Quotes%20Report.pdf"
     },
     {
-        "File":  "Related Artists - Spotify.pdf",
+        "File":  "Related Artists - **Obsolete as of  2026-03-09** Spotify.pdf",
         "Description":  "Spotify stats for some peer bands.",
-        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Related%20Artists%20-%20Spotify.pdf"
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Related%20Artists%20-%20**Obsolete%20as%20of%20%202026-03-09**%20Spotify.pdf"
     },
     {
         "File":  "Ready to Rock - 3 versions.pdf",
@@ -770,11 +760,6 @@
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/LastFM%20Rank.pdf"
     },
     {
-        "File":  "JegJ6cSsUgg.pdf",
-        "Description":  "Daily YT stats for the Ready to Rock Special Anime OMV",
-        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/JegJ6cSsUgg.pdf"
-    },
-    {
         "File":  "Interview Videos.pdf",
         "Description":  "All interview videos by views",
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Interview%20Videos.pdf"
@@ -793,11 +778,6 @@
         "File":  "First Time Reactions (Recent First).pdf",
         "Description":  "First time reactions to BAND-MAID (newest first)",
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/First%20Time%20Reactions%20(Recent%20First).pdf"
-    },
-    {
-        "File":  "eapNDHKbu0M.pdf",
-        "Description":  "Daily YT stats for the Ready to Rock OMV",
-        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/eapNDHKbu0M.pdf"
     },
     {
         "File":  "Deezer Top Tracks.pdf",
@@ -1035,6 +1015,31 @@
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Albums%20On%20Report.pdf"
     },
     {
+        "File":  "XHuBR4nAjrE.pdf",
+        "Description":  "Day by day views for the Zen audio track",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/XHuBR4nAjrE.pdf"
+    },
+    {
+        "File":  "vu2D3lzH7Y0.pdf",
+        "Description":  "Day by day views for the What is justice? audio track",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/vu2D3lzH7Y0.pdf"
+    },
+    {
+        "File":  "rZ1mpH8iXQc.pdf",
+        "Description":  "Daily YT stats for the Alive-or-Dead audio track",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/rZ1mpH8iXQc.pdf"
+    },
+    {
+        "File":  "JegJ6cSsUgg.pdf",
+        "Description":  "Daily YT stats for the Ready to Rock Special Anime OMV",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/JegJ6cSsUgg.pdf"
+    },
+    {
+        "File":  "eapNDHKbu0M.pdf",
+        "Description":  "Daily YT stats for the Ready to Rock OMV",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/eapNDHKbu0M.pdf"
+    },
+    {
         "File":  "5uOdE0j4h1E.pdf",
         "Description":  "Daily YT stats for the Ready to Rock audio track",
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/5uOdE0j4h1E.pdf"
@@ -1053,11 +1058,6 @@
         "File":  "2U9AP21jXuk.pdf",
         "Description":  "Daily YT stats for the Present Perfect OLV (benefitted from ad campaign)",
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/2U9AP21jXuk.pdf"
-    },
-    {
-        "File":  "YouTube MV Comparison.pdf",
-        "Description":  "Compare the most recent OMV daily performance to the fastest to 1M views",
-        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20MV%20Comparison.pdf"
     },
     {
         "File":  "JohnPJohnson YouTube Comments.pdf",
