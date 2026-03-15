@@ -96,7 +96,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  114,
-        "SpotifyStreams":  3806205,
+        "SpotifyStreams":  3812074,
         "MediaTieIn":  "Ending theme for anime series Yu-Gi-Oh! VRAINS (ep 71-95)"
     },
     {
@@ -166,7 +166,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  242,
-        "SpotifyStreams":  2588205,
+        "SpotifyStreams":  2592666,
         "MediaTieIn":  null
     },
     {
@@ -246,7 +246,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  166,
-        "SpotifyStreams":  2244406,
+        "SpotifyStreams":  2248695,
         "MediaTieIn":  null
     },
     {
@@ -306,7 +306,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  113,
-        "SpotifyStreams":  1874860,
+        "SpotifyStreams":  1877628,
         "MediaTieIn":  null
     },
     {
@@ -430,6 +430,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "What is justice?",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2025-07-18T00:00:00",
+        "Album":  "SCOOOOOP",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  16,
+        "SpotifyStreams":  1508742,
+        "MediaTieIn":  "Ending theme for anime series Tougen Anki"
+    },
+    {
         "Name":  "FREEZER",
         "AlternativeName":  "",
         "ReleaseDate":  "2015-11-18T00:00:00",
@@ -440,14 +450,14 @@
         "MediaTieIn":  null
     },
     {
-        "Name":  "What is justice?",
+        "Name":  "anemone",
         "AlternativeName":  "",
-        "ReleaseDate":  "2025-07-18T00:00:00",
-        "Album":  "SCOOOOOP",
+        "ReleaseDate":  "2018-02-14T00:00:00",
+        "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
-        "PlayedLiveCount":  16,
-        "SpotifyStreams":  1483940,
-        "MediaTieIn":  "Ending theme for anime series Tougen Anki"
+        "PlayedLiveCount":  43,
+        "SpotifyStreams":  1479316,
+        "MediaTieIn":  null
     },
     {
         "Name":  "Gion-Cho",
@@ -457,16 +467,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  2,
         "SpotifyStreams":  1476290,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "anemone",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2018-02-14T00:00:00",
-        "Album":  "WORLD DOMINATION",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  43,
-        "SpotifyStreams":  1476189,
         "MediaTieIn":  null
     },
     {
@@ -506,7 +506,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  72,
-        "SpotifyStreams":  1352227,
+        "SpotifyStreams":  1355775,
         "MediaTieIn":  null
     },
     {
@@ -596,7 +596,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
-        "SpotifyStreams":  1182248,
+        "SpotifyStreams":  1184167,
         "MediaTieIn":  null
     },
     {
@@ -606,7 +606,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  69,
-        "SpotifyStreams":  1175705,
+        "SpotifyStreams":  1177438,
         "MediaTieIn":  "Ending theme for anime series Quiz Tokiko-san"
     },
     {
@@ -626,7 +626,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  27,
-        "SpotifyStreams":  1147656,
+        "SpotifyStreams":  1149427,
         "MediaTieIn":  null
     },
     {
@@ -636,7 +636,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  59,
-        "SpotifyStreams":  1099620,
+        "SpotifyStreams":  1100875,
         "MediaTieIn":  null
     },
     {
@@ -646,7 +646,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  37,
-        "SpotifyStreams":  1094874,
+        "SpotifyStreams":  1096298,
         "MediaTieIn":  null
     },
     {
@@ -816,7 +816,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  17,
-        "SpotifyStreams":  833172,
+        "SpotifyStreams":  833915,
         "MediaTieIn":  null
     },
     {
@@ -886,7 +886,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  6,
-        "SpotifyStreams":  776368,
+        "SpotifyStreams":  777589,
         "MediaTieIn":  null
     },
     {
@@ -1036,7 +1036,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  17,
-        "SpotifyStreams":  665648,
+        "SpotifyStreams":  667701,
         "MediaTieIn":  null
     },
     {
@@ -1076,7 +1076,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  1,
-        "SpotifyStreams":  623741,
+        "SpotifyStreams":  624684,
         "MediaTieIn":  null
     },
     {
@@ -1236,7 +1236,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  24,
-        "SpotifyStreams":  202885,
+        "SpotifyStreams":  204163,
         "MediaTieIn":  null
     },
     {
@@ -1266,7 +1266,7 @@
         "Album":  "YOLO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
-        "SpotifyStreams":  181751,
+        "SpotifyStreams":  181956,
         "MediaTieIn":  null
     },
     {
