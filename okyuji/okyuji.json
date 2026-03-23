@@ -1,5 +1,18 @@
 ﻿[
     {
+        "SetDate":  "2026-03-22",
+        "Country":  "TW",
+        "City":  "Kaohsiung City",
+        "Venue":  "Dragon Goddess",
+        "Tour":  "WORLD TOUR 2026",
+        "URL":  "https://www.setlist.fm/setlist/bandmaid/2026/dragon-goddess-kaohsiung-city-taiwan-2348e8cb.html",
+        "NumberOfSongs":  10,
+        "SetlistDelimited":  "What is justice?/Protect You/Ready to Rock/DOMINATION/HATE?/Choose me/Shambles/Sense/Zen/Present Perfect",
+        "Opener":  "What is justice?",
+        "Closer":  "Present Perfect",
+        "LatLon":  "22.6177778,120.3013889"
+    },
+    {
         "SetDate":  "2026-03-20",
         "Country":  "HK",
         "City":  "Hong Kong",
