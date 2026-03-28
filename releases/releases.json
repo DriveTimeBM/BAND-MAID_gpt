@@ -868,7 +868,7 @@
         "BonusDesc":  null,
         "Publisher":  "Pony Canyon",
         "ReleaseDate":  "2025-11-01T00:00:00",
-        "AlbumCoverURL":  ""
+        "AlbumCoverURL":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/album_covers/20%20unleash.png"
     },
     {
         "Name":  "BAND-MAID \"Epic Narratives\" [2 vinyl records]",
@@ -881,7 +881,7 @@
         "BonusDesc":  null,
         "Publisher":  "Pony Canyon",
         "ReleaseDate":  "2025-11-01T00:00:00",
-        "AlbumCoverURL":  ""
+        "AlbumCoverURL":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/album_covers/21%20Epic%20Narratives.png"
     },
     {
         "Name":  "BILLBOARD ACOUSTIC OKYUJI (2025)",
@@ -907,6 +907,6 @@
         "BonusDesc":  null,
         "Publisher":  "Pony Canyon",
         "ReleaseDate":  "2025-12-01T00:00:00",
-        "AlbumCoverURL":  ""
+        "AlbumCoverURL":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/album_covers/15%20unseen_world.png"
     }
 ]
