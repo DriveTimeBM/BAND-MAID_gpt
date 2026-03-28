@@ -24,10 +24,11 @@
         "URL":  "https://youtu.be/Uds7g3M-4lQ",
         "VideoId":  "Uds7g3M-4lQ",
         "Song":  "Thrill",
-        "Views":  23246455,
-        "ViewsDelta":  3205,
+        "Views":  23250067,
+        "ViewsDelta":  3612,
         "Type":  "Official Music Video",
-        "Duration":  "4:11"
+        "Duration":  "4:11",
+        "Image":  "https://img.youtube.com/vi/Uds7g3M-4lQ/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / REAL EXISTENCE (Official Music Video)",
@@ -35,10 +36,11 @@
         "URL":  "https://youtu.be/9TkHpvaO09c",
         "VideoId":  "9TkHpvaO09c",
         "Song":  "REAL EXISTENCE",
-        "Views":  16229295,
-        "ViewsDelta":  1001,
+        "Views":  16230337,
+        "ViewsDelta":  1042,
         "Type":  "Official Music Video",
-        "Duration":  "4:11"
+        "Duration":  "4:11",
+        "Image":  "https://img.youtube.com/vi/9TkHpvaO09c/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Choose me  (Official Music Video)",
@@ -46,10 +48,11 @@
         "URL":  "https://youtu.be/MZIJ2vFxu9Y",
         "VideoId":  "MZIJ2vFxu9Y",
         "Song":  "Choose me",
-        "Views":  15876517,
-        "ViewsDelta":  2969,
+        "Views":  15879555,
+        "ViewsDelta":  3038,
         "Type":  "Official Music Video",
-        "Duration":  "3:47"
+        "Duration":  "3:47",
+        "Image":  "https://img.youtube.com/vi/MZIJ2vFxu9Y/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / DICE (Official Music Video)",
@@ -57,10 +60,11 @@
         "URL":  "https://youtu.be/ZpAYnVJX9CY",
         "VideoId":  "ZpAYnVJX9CY",
         "Song":  "DICE",
-        "Views":  9993911,
-        "ViewsDelta":  1636,
+        "Views":  9995973,
+        "ViewsDelta":  2062,
         "Type":  "Official Music Video",
-        "Duration":  "4:15"
+        "Duration":  "4:15",
+        "Image":  "https://img.youtube.com/vi/ZpAYnVJX9CY/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / alone (Official Music Video)",
@@ -68,10 +72,11 @@
         "URL":  "https://youtu.be/axF56i4spio",
         "VideoId":  "axF56i4spio",
         "Song":  "alone",
-        "Views":  7707810,
-        "ViewsDelta":  765,
+        "Views":  7708595,
+        "ViewsDelta":  785,
         "Type":  "Official Music Video",
-        "Duration":  "3:30"
+        "Duration":  "3:30",
+        "Image":  "https://img.youtube.com/vi/axF56i4spio/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / the non-fiction days (Official Music Video)",
@@ -79,10 +84,11 @@
         "URL":  "https://youtu.be/ItYN-ri1NPs",
         "VideoId":  "ItYN-ri1NPs",
         "Song":  "the non-fiction days",
-        "Views":  7678865,
-        "ViewsDelta":  864,
+        "Views":  7679724,
+        "ViewsDelta":  859,
         "Type":  "Official Music Video",
-        "Duration":  "4:51"
+        "Duration":  "4:51",
+        "Image":  "https://img.youtube.com/vi/ItYN-ri1NPs/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / YOLO (Official Music Video)",
@@ -90,10 +96,11 @@
         "URL":  "https://youtu.be/wKZbzcUdY1g",
         "VideoId":  "wKZbzcUdY1g",
         "Song":  "YOLO",
-        "Views":  5879749,
-        "ViewsDelta":  721,
+        "Views":  5880434,
+        "ViewsDelta":  685,
         "Type":  "Official Music Video",
-        "Duration":  "4:37"
+        "Duration":  "4:37",
+        "Image":  "https://img.youtube.com/vi/wKZbzcUdY1g/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Don\u0027t you tell ME (Official Music Video)",
@@ -101,10 +108,11 @@
         "URL":  "https://youtu.be/tGXzhxXVimY",
         "VideoId":  "tGXzhxXVimY",
         "Song":  "Don\u0027t you tell ME",
-        "Views":  5470669,
-        "ViewsDelta":  350,
+        "Views":  5471103,
+        "ViewsDelta":  434,
         "Type":  "Official Music Video",
-        "Duration":  "3:35"
+        "Duration":  "3:35",
+        "Image":  "https://img.youtube.com/vi/tGXzhxXVimY/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Daydreaming (Official Music Video)",
@@ -112,10 +120,11 @@
         "URL":  "https://youtu.be/RCaeUkrItyY",
         "VideoId":  "RCaeUkrItyY",
         "Song":  "Daydreaming",
-        "Views":  5321434,
-        "ViewsDelta":  628,
+        "Views":  5322047,
+        "ViewsDelta":  613,
         "Type":  "Official Music Video",
-        "Duration":  "4:09"
+        "Duration":  "4:09",
+        "Image":  "https://img.youtube.com/vi/RCaeUkrItyY/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Don’t let me down (Official Music Video)",
@@ -123,10 +132,11 @@
         "URL":  "https://youtu.be/0YGwUhg2XNk",
         "VideoId":  "0YGwUhg2XNk",
         "Song":  "Don\u0027t let me down",
-        "Views":  5146431,
-        "ViewsDelta":  206,
+        "Views":  5146663,
+        "ViewsDelta":  232,
         "Type":  "Official Music Video",
-        "Duration":  "3:24"
+        "Duration":  "3:24",
+        "Image":  "https://img.youtube.com/vi/0YGwUhg2XNk/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Sense (Official Music Video)",
@@ -134,10 +144,11 @@
         "URL":  "https://youtu.be/BWN6iOFjm9U",
         "VideoId":  "BWN6iOFjm9U",
         "Song":  "Sense",
-        "Views":  5021082,
-        "ViewsDelta":  1095,
+        "Views":  5022023,
+        "ViewsDelta":  941,
         "Type":  "Official Music Video",
-        "Duration":  "3:28"
+        "Duration":  "3:28",
+        "Image":  "https://img.youtube.com/vi/BWN6iOFjm9U/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / DOMINATION  (Official Live Video)",
@@ -145,10 +156,11 @@
         "URL":  "https://youtu.be/QbyQCJn6rYg",
         "VideoId":  "QbyQCJn6rYg",
         "Song":  "DOMINATION",
-        "Views":  4945986,
-        "ViewsDelta":  915,
+        "Views":  4947054,
+        "ViewsDelta":  1068,
         "Type":  "Official Live Video",
-        "Duration":  "4:58"
+        "Duration":  "4:58",
+        "Image":  "https://img.youtube.com/vi/QbyQCJn6rYg/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / DOMINATION (Official Music Video)",
@@ -156,10 +168,11 @@
         "URL":  "https://youtu.be/xmxEuQXTHUU",
         "VideoId":  "xmxEuQXTHUU",
         "Song":  "DOMINATION",
-        "Views":  4876038,
-        "ViewsDelta":  469,
+        "Views":  4876559,
+        "ViewsDelta":  521,
         "Type":  "Official Music Video",
-        "Duration":  "3:59"
+        "Duration":  "3:59",
+        "Image":  "https://img.youtube.com/vi/xmxEuQXTHUU/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Ready to Rock (Official Music Video)  TVアニメ「ロックは淑女の嗜みでして」オープニングテーマソング",
@@ -167,10 +180,11 @@
         "URL":  "https://youtu.be/eapNDHKbu0M",
         "VideoId":  "eapNDHKbu0M",
         "Song":  "Ready to Rock",
-        "Views":  4756741,
-        "ViewsDelta":  2812,
+        "Views":  4759768,
+        "ViewsDelta":  3027,
         "Type":  "Official Music Video",
-        "Duration":  "3:40"
+        "Duration":  "3:40",
+        "Image":  "https://img.youtube.com/vi/eapNDHKbu0M/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAIKO / secret MAIKO lips (Official Music Video)",
@@ -178,10 +192,11 @@
         "URL":  "https://youtu.be/NNHGABwme50",
         "VideoId":  "NNHGABwme50",
         "Song":  "secret My lips",
-        "Views":  4711248,
-        "ViewsDelta":  478,
+        "Views":  4711760,
+        "ViewsDelta":  512,
         "Type":  "Official Music Video",
-        "Duration":  "4:55"
+        "Duration":  "4:55",
+        "Image":  "https://img.youtube.com/vi/NNHGABwme50/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Different (Official Music Video)",
@@ -189,10 +204,11 @@
         "URL":  "https://youtu.be/edlLhh8qVxM",
         "VideoId":  "edlLhh8qVxM",
         "Song":  "Different",
-        "Views":  4630017,
-        "ViewsDelta":  763,
+        "Views":  4630903,
+        "ViewsDelta":  886,
         "Type":  "Official Music Video",
-        "Duration":  "3:36"
+        "Duration":  "3:36",
+        "Image":  "https://img.youtube.com/vi/edlLhh8qVxM/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / glory (Official Music Video)",
@@ -200,10 +216,11 @@
         "URL":  "https://youtu.be/TAMiLTiXPpU",
         "VideoId":  "TAMiLTiXPpU",
         "Song":  "glory",
-        "Views":  4100221,
-        "ViewsDelta":  1161,
+        "Views":  4101356,
+        "ViewsDelta":  1135,
         "Type":  "Official Music Video",
-        "Duration":  "4:05"
+        "Duration":  "4:05",
+        "Image":  "https://img.youtube.com/vi/TAMiLTiXPpU/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Unleash!!!!! (Official Music Video)",
@@ -211,10 +228,11 @@
         "URL":  "https://youtu.be/7LB_EPS48HE",
         "VideoId":  "7LB_EPS48HE",
         "Song":  "Unleash!!!!!",
-        "Views":  4023111,
-        "ViewsDelta":  905,
+        "Views":  4024034,
+        "ViewsDelta":  923,
         "Type":  "Official Music Video",
-        "Duration":  "3:10"
+        "Duration":  "3:10",
+        "Image":  "https://img.youtube.com/vi/7LB_EPS48HE/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / FREEDOM (Official Live Video)",
@@ -222,10 +240,11 @@
         "URL":  "https://youtu.be/FHpuEqMAcDg",
         "VideoId":  "FHpuEqMAcDg",
         "Song":  "FREEDOM",
-        "Views":  3977112,
-        "ViewsDelta":  1131,
+        "Views":  3978191,
+        "ViewsDelta":  1079,
         "Type":  "Official Live Video",
-        "Duration":  "4:33"
+        "Duration":  "4:33",
+        "Image":  "https://img.youtube.com/vi/FHpuEqMAcDg/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / onset (Official Live Video)",
@@ -233,10 +252,11 @@
         "URL":  "https://youtu.be/mVrN-j_Uc0U",
         "VideoId":  "mVrN-j_Uc0U",
         "Song":  "onset",
-        "Views":  3817233,
-        "ViewsDelta":  1066,
+        "Views":  3818556,
+        "ViewsDelta":  1323,
         "Type":  "Official Live Video",
-        "Duration":  "3:59"
+        "Duration":  "3:59",
+        "Image":  "https://img.youtube.com/vi/mVrN-j_Uc0U/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Blooming (Official Music Video)",
@@ -244,10 +264,11 @@
         "URL":  "https://youtu.be/uUt_JBMocKM",
         "VideoId":  "uUt_JBMocKM",
         "Song":  "Blooming",
-        "Views":  3717392,
-        "ViewsDelta":  742,
+        "Views":  3718249,
+        "ViewsDelta":  857,
         "Type":  "Official Music Video",
-        "Duration":  "3:57"
+        "Duration":  "3:57",
+        "Image":  "https://img.youtube.com/vi/uUt_JBMocKM/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / secret My lips (Official Music Video)",
@@ -255,10 +276,11 @@
         "URL":  "https://youtu.be/1Vuca7V-5Ec",
         "VideoId":  "1Vuca7V-5Ec",
         "Song":  "secret My lips",
-        "Views":  3511881,
-        "ViewsDelta":  462,
+        "Views":  3512347,
+        "ViewsDelta":  466,
         "Type":  "Official Music Video",
-        "Duration":  "4:24"
+        "Duration":  "4:24",
+        "Image":  "https://img.youtube.com/vi/1Vuca7V-5Ec/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Before Yesterday  (Official Music Video)",
@@ -266,10 +288,11 @@
         "URL":  "https://youtu.be/Zuj_-z5-06w",
         "VideoId":  "Zuj_-z5-06w",
         "Song":  "Before Yesterday",
-        "Views":  3433752,
-        "ViewsDelta":  311,
+        "Views":  3434082,
+        "ViewsDelta":  330,
         "Type":  "Official Music Video",
-        "Duration":  "4:00"
+        "Duration":  "4:00",
+        "Image":  "https://img.youtube.com/vi/Zuj_-z5-06w/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Bubble (Official Music Video)",
@@ -277,10 +300,11 @@
         "URL":  "https://youtu.be/T_PWQtc7zVw",
         "VideoId":  "T_PWQtc7zVw",
         "Song":  "Bubble",
-        "Views":  3140388,
-        "ViewsDelta":  274,
+        "Views":  3140728,
+        "ViewsDelta":  340,
         "Type":  "Official Music Video",
-        "Duration":  "4:12"
+        "Duration":  "4:12",
+        "Image":  "https://img.youtube.com/vi/T_PWQtc7zVw/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / What is justice? (Official Music Video) TVアニメ「桃源暗鬼」エンディング主題歌",
@@ -288,10 +312,11 @@
         "URL":  "https://youtu.be/3kMIh0_Wkpk",
         "VideoId":  "3kMIh0_Wkpk",
         "Song":  "What is justice?",
-        "Views":  3070242,
-        "ViewsDelta":  2485,
+        "Views":  3072820,
+        "ViewsDelta":  2578,
         "Type":  "Official Music Video",
-        "Duration":  "3:28"
+        "Duration":  "3:28",
+        "Image":  "https://img.youtube.com/vi/3kMIh0_Wkpk/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / After Life (Official Music Video)",
@@ -299,10 +324,11 @@
         "URL":  "https://youtu.be/2MOvCkCqz_U",
         "VideoId":  "2MOvCkCqz_U",
         "Song":  "After Life",
-        "Views":  3059546,
-        "ViewsDelta":  512,
+        "Views":  3060027,
+        "ViewsDelta":  481,
         "Type":  "Official Music Video",
-        "Duration":  "3:29"
+        "Duration":  "3:29",
+        "Image":  "https://img.youtube.com/vi/2MOvCkCqz_U/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Warning! (Official Music Video)",
@@ -310,10 +336,11 @@
         "URL":  "https://youtu.be/9yD3IqrLtPk",
         "VideoId":  "9yD3IqrLtPk",
         "Song":  "Warning!",
-        "Views":  2668223,
-        "ViewsDelta":  463,
+        "Views":  2668622,
+        "ViewsDelta":  399,
         "Type":  "Official Music Video",
-        "Duration":  "4:19"
+        "Duration":  "4:19",
+        "Image":  "https://img.youtube.com/vi/9yD3IqrLtPk/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Zen (Official Music Video)　MAPPAアニメ「全修。」オープニングテーマソング",
@@ -321,10 +348,11 @@
         "URL":  "https://youtu.be/GZ9RRiy43j4",
         "VideoId":  "GZ9RRiy43j4",
         "Song":  "Zen",
-        "Views":  2539410,
-        "ViewsDelta":  1272,
+        "Views":  2540678,
+        "ViewsDelta":  1268,
         "Type":  "Official Music Video",
-        "Duration":  "3:38"
+        "Duration":  "3:38",
+        "Image":  "https://img.youtube.com/vi/GZ9RRiy43j4/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / influencer (Official Music Video)",
@@ -332,10 +360,11 @@
         "URL":  "https://youtu.be/e_bEf1C0spY",
         "VideoId":  "e_bEf1C0spY",
         "Song":  "influencer",
-        "Views":  2499088,
-        "ViewsDelta":  546,
+        "Views":  2499620,
+        "ViewsDelta":  532,
         "Type":  "Official Music Video",
-        "Duration":  "3:26"
+        "Duration":  "3:26",
+        "Image":  "https://img.youtube.com/vi/e_bEf1C0spY/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID with The Warning / SHOW THEM (Official Music Video)",
@@ -343,10 +372,11 @@
         "URL":  "https://youtu.be/LVl0mcEu1r8",
         "VideoId":  "LVl0mcEu1r8",
         "Song":  "Show Them",
-        "Views":  2465160,
-        "ViewsDelta":  1158,
+        "Views":  2466278,
+        "ViewsDelta":  1118,
         "Type":  "Official Music Video",
-        "Duration":  "3:22"
+        "Duration":  "3:22",
+        "Image":  "https://img.youtube.com/vi/LVl0mcEu1r8/sddefault.jpg"
     },
     {
         "Title":  "Ready to Rock",
@@ -354,10 +384,11 @@
         "URL":  "https://youtu.be/5uOdE0j4h1E",
         "VideoId":  "5uOdE0j4h1E",
         "Song":  "Ready to Rock",
-        "Views":  2379018,
-        "ViewsDelta":  5095,
+        "Views":  2383656,
+        "ViewsDelta":  4638,
         "Type":  "Audio",
-        "Duration":  "3:27"
+        "Duration":  "3:27",
+        "Image":  "https://img.youtube.com/vi/5uOdE0j4h1E/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / start over (Official Music Video)",
@@ -365,10 +396,11 @@
         "URL":  "https://youtu.be/iL5sRrSECQ0",
         "VideoId":  "iL5sRrSECQ0",
         "Song":  "start over",
-        "Views":  2331355,
-        "ViewsDelta":  165,
+        "Views":  2331522,
+        "ViewsDelta":  167,
         "Type":  "Official Music Video",
-        "Duration":  "3:36"
+        "Duration":  "3:36",
+        "Image":  "https://img.youtube.com/vi/iL5sRrSECQ0/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / 輪廻  \"RINNE\" (Official Music Video)",
@@ -376,10 +408,11 @@
         "URL":  "https://youtu.be/CQ9dbEVgZcA",
         "VideoId":  "CQ9dbEVgZcA",
         "Song":  "Rinne",
-        "Views":  2272055,
-        "ViewsDelta":  308,
+        "Views":  2272314,
+        "ViewsDelta":  259,
         "Type":  "Official Music Video",
-        "Duration":  "3:35"
+        "Duration":  "3:35",
+        "Image":  "https://img.youtube.com/vi/CQ9dbEVgZcA/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Play (Official Live Video)",
@@ -387,10 +420,11 @@
         "URL":  "https://youtu.be/3LxX_t4vg7U",
         "VideoId":  "3LxX_t4vg7U",
         "Song":  "Play",
-        "Views":  2267046,
-        "ViewsDelta":  336,
+        "Views":  2267386,
+        "ViewsDelta":  340,
         "Type":  "Official Live Video",
-        "Duration":  "4:32"
+        "Duration":  "4:32",
+        "Image":  "https://img.youtube.com/vi/3LxX_t4vg7U/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Ready to Rock ×「ロックは淑女の嗜みでして」 Special Music Video (Anime Music Video)",
@@ -398,10 +432,11 @@
         "URL":  "https://youtu.be/JegJ6cSsUgg",
         "VideoId":  "JegJ6cSsUgg",
         "Song":  "Ready to Rock",
-        "Views":  2228794,
-        "ViewsDelta":  4514,
+        "Views":  2233803,
+        "ViewsDelta":  5009,
         "Type":  "Anime Music Video",
-        "Duration":  "3:28"
+        "Duration":  "3:28",
+        "Image":  "https://img.youtube.com/vi/JegJ6cSsUgg/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAIKO / 祇園町 \"Gion-cho\" (Official Music Video)",
@@ -409,10 +444,11 @@
         "URL":  "https://youtu.be/umSt7oMUMcs",
         "VideoId":  "umSt7oMUMcs",
         "Song":  "Gion-Cho",
-        "Views":  2178311,
-        "ViewsDelta":  232,
+        "Views":  2178555,
+        "ViewsDelta":  244,
         "Type":  "Official Music Video",
-        "Duration":  "4:05"
+        "Duration":  "4:05",
+        "Image":  "https://img.youtube.com/vi/umSt7oMUMcs/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / from now on (Official Music Video)",
@@ -420,10 +456,11 @@
         "URL":  "https://youtu.be/a6ZSvmnkS00",
         "VideoId":  "a6ZSvmnkS00",
         "Song":  "from now on",
-        "Views":  2163664,
-        "ViewsDelta":  806,
+        "Views":  2164651,
+        "ViewsDelta":  987,
         "Type":  "Official Music Video",
-        "Duration":  "3:46"
+        "Duration":  "3:46",
+        "Image":  "https://img.youtube.com/vi/a6ZSvmnkS00/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Shambles (Official Music Video)",
@@ -431,10 +468,11 @@
         "URL":  "https://youtu.be/lf0mQOiu8J8",
         "VideoId":  "lf0mQOiu8J8",
         "Song":  "Shambles",
-        "Views":  2133573,
-        "ViewsDelta":  569,
+        "Views":  2134193,
+        "ViewsDelta":  620,
         "Type":  "Official Music Video",
-        "Duration":  "3:31"
+        "Duration":  "3:31",
+        "Image":  "https://img.youtube.com/vi/lf0mQOiu8J8/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / endless Story (Official Music Video)",
@@ -442,10 +480,11 @@
         "URL":  "https://youtu.be/5_S4s8jZQ-A",
         "VideoId":  "5_S4s8jZQ-A",
         "Song":  "endless Story",
-        "Views":  1970809,
-        "ViewsDelta":  271,
+        "Views":  1971114,
+        "ViewsDelta":  305,
         "Type":  "Official Music Video",
-        "Duration":  "4:03"
+        "Duration":  "4:03",
+        "Image":  "https://img.youtube.com/vi/5_S4s8jZQ-A/sddefault.jpg"
     },
     {
         "Title":  "Choose me",
@@ -453,10 +492,11 @@
         "URL":  "https://youtu.be/Imq5n_Cmd4o",
         "VideoId":  "Imq5n_Cmd4o",
         "Song":  "Choose me",
-        "Views":  1923259,
-        "ViewsDelta":  2102,
+        "Views":  1925203,
+        "ViewsDelta":  1944,
         "Type":  "Audio",
-        "Duration":  "3:42"
+        "Duration":  "3:42",
+        "Image":  "https://img.youtube.com/vi/Imq5n_Cmd4o/sddefault.jpg"
     },
     {
         "Title":  "Sense",
@@ -464,10 +504,11 @@
         "URL":  "https://youtu.be/ss11rU97V2I",
         "VideoId":  "ss11rU97V2I",
         "Song":  "Sense",
-        "Views":  1884920,
-        "ViewsDelta":  1101,
+        "Views":  1885990,
+        "ViewsDelta":  1070,
         "Type":  "Audio",
-        "Duration":  "3:25"
+        "Duration":  "3:25",
+        "Image":  "https://img.youtube.com/vi/ss11rU97V2I/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Present Perfect (Official Music Video)",
@@ -475,10 +516,11 @@
         "URL":  "https://youtu.be/yzSdgw-tdr0",
         "VideoId":  "yzSdgw-tdr0",
         "Song":  "Present Perfect",
-        "Views":  1847637,
-        "ViewsDelta":  736,
+        "Views":  1848459,
+        "ViewsDelta":  822,
         "Type":  "Official Music Video",
-        "Duration":  "3:53"
+        "Duration":  "3:53",
+        "Image":  "https://img.youtube.com/vi/yzSdgw-tdr0/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / REAL EXISTENCE (Official Live Video)",
@@ -486,10 +528,11 @@
         "URL":  "https://youtu.be/-qQnKILR5u0",
         "VideoId":  "-qQnKILR5u0",
         "Song":  "REAL EXISTENCE",
-        "Views":  1813455,
-        "ViewsDelta":  324,
+        "Views":  1813760,
+        "ViewsDelta":  305,
         "Type":  "Official Live Video",
-        "Duration":  "4:13"
+        "Duration":  "4:13",
+        "Image":  "https://img.youtube.com/vi/-qQnKILR5u0/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Protect You (Official Music Video)",
@@ -497,10 +540,11 @@
         "URL":  "https://youtu.be/knnw6Mri9gc",
         "VideoId":  "knnw6Mri9gc",
         "Song":  "Protect You",
-        "Views":  1800660,
-        "ViewsDelta":  684,
+        "Views":  1801352,
+        "ViewsDelta":  692,
         "Type":  "Official Music Video",
-        "Duration":  "3:19"
+        "Duration":  "3:19",
+        "Image":  "https://img.youtube.com/vi/knnw6Mri9gc/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Manners (Official Music Video)",
@@ -508,10 +552,11 @@
         "URL":  "https://youtu.be/-FWuMx_pkH4",
         "VideoId":  "-FWuMx_pkH4",
         "Song":  "Manners",
-        "Views":  1719747,
-        "ViewsDelta":  263,
+        "Views":  1720040,
+        "ViewsDelta":  293,
         "Type":  "Official Music Video",
-        "Duration":  "3:56"
+        "Duration":  "3:56",
+        "Image":  "https://img.youtube.com/vi/-FWuMx_pkH4/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Choose me (Official Live Video)",
@@ -519,10 +564,11 @@
         "URL":  "https://youtu.be/HcqitbXgigU",
         "VideoId":  "HcqitbXgigU",
         "Song":  "Choose me",
-        "Views":  1713059,
-        "ViewsDelta":  391,
+        "Views":  1713470,
+        "ViewsDelta":  411,
         "Type":  "Official Live Video",
-        "Duration":  "4:03"
+        "Duration":  "4:03",
+        "Image":  "https://img.youtube.com/vi/HcqitbXgigU/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Manners, BLACK HOLE (Official Live Video) for J-LOD LIVE2",
@@ -530,10 +576,11 @@
         "URL":  "https://youtu.be/iaf94nNSRGE",
         "VideoId":  "iaf94nNSRGE",
         "Song":  "Manners; BLACK HOLE",
-        "Views":  1563355,
-        "ViewsDelta":  293,
+        "Views":  1563621,
+        "ViewsDelta":  266,
         "Type":  "Official Live Video",
-        "Duration":  "7:42"
+        "Duration":  "7:42",
+        "Image":  "https://img.youtube.com/vi/iaf94nNSRGE/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / HATE? (Official Live Video)",
@@ -541,10 +588,11 @@
         "URL":  "https://youtu.be/yfORoQIqB3E",
         "VideoId":  "yfORoQIqB3E",
         "Song":  "HATE?",
-        "Views":  1467668,
-        "ViewsDelta":  1158,
+        "Views":  1468974,
+        "ViewsDelta":  1306,
         "Type":  "Official Live Video",
-        "Duration":  "5:04"
+        "Duration":  "5:04",
+        "Image":  "https://img.youtube.com/vi/yfORoQIqB3E/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / DICE, Different (Official Live Video) for J-LOD LIVE2",
@@ -552,10 +600,11 @@
         "URL":  "https://youtu.be/h_RZwRbI1QI",
         "VideoId":  "h_RZwRbI1QI",
         "Song":  "DICE; Different",
-        "Views":  1467190,
-        "ViewsDelta":  367,
+        "Views":  1467571,
+        "ViewsDelta":  381,
         "Type":  "Official Live Video",
-        "Duration":  "7:43"
+        "Duration":  "7:43",
+        "Image":  "https://img.youtube.com/vi/h_RZwRbI1QI/sddefault.jpg"
     },
     {
         "Title":  "スリル",
@@ -563,10 +612,11 @@
         "URL":  "https://youtu.be/46A5e-KzDOc",
         "VideoId":  "46A5e-KzDOc",
         "Song":  "Thrill",
-        "Views":  1289845,
-        "ViewsDelta":  1313,
+        "Views":  1290983,
+        "ViewsDelta":  1138,
         "Type":  "Audio",
-        "Duration":  "4:06"
+        "Duration":  "4:06",
+        "Image":  "https://img.youtube.com/vi/46A5e-KzDOc/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Forbidden tale (Official Music Video)",
@@ -574,10 +624,11 @@
         "URL":  "https://youtu.be/EiknA3mWivA",
         "VideoId":  "EiknA3mWivA",
         "Song":  "Forbidden tale",
-        "Views":  1253712,
-        "ViewsDelta":  383,
+        "Views":  1254062,
+        "ViewsDelta":  350,
         "Type":  "Official Music Video",
-        "Duration":  "4:36"
+        "Duration":  "4:36",
+        "Image":  "https://img.youtube.com/vi/EiknA3mWivA/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Bestie (Official Music Video)",
@@ -585,10 +636,11 @@
         "URL":  "https://youtu.be/gXjNsTS5bEY",
         "VideoId":  "gXjNsTS5bEY",
         "Song":  "Bestie",
-        "Views":  1214293,
-        "ViewsDelta":  326,
+        "Views":  1214676,
+        "ViewsDelta":  383,
         "Type":  "Official Music Video",
-        "Duration":  "3:44"
+        "Duration":  "3:44",
+        "Image":  "https://img.youtube.com/vi/gXjNsTS5bEY/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Puzzle (Official Live Video)",
@@ -596,10 +648,11 @@
         "URL":  "https://youtu.be/zvuqmSQEnaA",
         "VideoId":  "zvuqmSQEnaA",
         "Song":  "Puzzle",
-        "Views":  1206161,
-        "ViewsDelta":  431,
+        "Views":  1206642,
+        "ViewsDelta":  481,
         "Type":  "Official Live Video",
-        "Duration":  "4:49"
+        "Duration":  "4:49",
+        "Image":  "https://img.youtube.com/vi/zvuqmSQEnaA/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / about Us (Official Live Video)",
@@ -607,10 +660,11 @@
         "URL":  "https://youtu.be/qicgVAxCYV8",
         "VideoId":  "qicgVAxCYV8",
         "Song":  "about Us",
-        "Views":  1190075,
-        "ViewsDelta":  149,
+        "Views":  1190247,
+        "ViewsDelta":  172,
         "Type":  "Official Live Video",
-        "Duration":  "4:44"
+        "Duration":  "4:44",
+        "Image":  "https://img.youtube.com/vi/qicgVAxCYV8/sddefault.jpg"
     },
     {
         "Title":  "DICE",
@@ -618,10 +672,11 @@
         "URL":  "https://youtu.be/HsvWNhIt6RY",
         "VideoId":  "HsvWNhIt6RY",
         "Song":  "DICE",
-        "Views":  1053468,
-        "ViewsDelta":  1058,
+        "Views":  1054290,
+        "ViewsDelta":  822,
         "Type":  "Audio",
-        "Duration":  "4:03"
+        "Duration":  "4:03",
+        "Image":  "https://img.youtube.com/vi/HsvWNhIt6RY/sddefault.jpg"
     },
     {
         "Title":  "What is justice?",
@@ -629,10 +684,11 @@
         "URL":  "https://youtu.be/vu2D3lzH7Y0",
         "VideoId":  "vu2D3lzH7Y0",
         "Song":  "What is justice?",
-        "Views":  1016989,
-        "ViewsDelta":  2573,
+        "Views":  1019447,
+        "ViewsDelta":  2458,
         "Type":  "Audio",
-        "Duration":  "3:23"
+        "Duration":  "3:23",
+        "Image":  "https://img.youtube.com/vi/vu2D3lzH7Y0/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / CROSS (Official Live Video)",
@@ -640,10 +696,11 @@
         "URL":  "https://youtu.be/yQn4IMr56zY",
         "VideoId":  "yQn4IMr56zY",
         "Song":  "CROSS",
-        "Views":  996984,
-        "ViewsDelta":  359,
+        "Views":  997379,
+        "ViewsDelta":  395,
         "Type":  "Official Live Video",
-        "Duration":  "3:45"
+        "Duration":  "3:45",
+        "Image":  "https://img.youtube.com/vi/yQn4IMr56zY/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Memorable (Official Music Video)",
@@ -651,10 +708,11 @@
         "URL":  "https://youtu.be/DQX8BTTsHHU",
         "VideoId":  "DQX8BTTsHHU",
         "Song":  "Memorable",
-        "Views":  964309,
-        "ViewsDelta":  174,
+        "Views":  964500,
+        "ViewsDelta":  191,
         "Type":  "Official Music Video",
-        "Duration":  "3:35"
+        "Duration":  "3:35",
+        "Image":  "https://img.youtube.com/vi/DQX8BTTsHHU/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Wonderland  (Official Live Video)",
@@ -662,10 +720,11 @@
         "URL":  "https://youtu.be/x4hxLeHbqZo",
         "VideoId":  "x4hxLeHbqZo",
         "Song":  "Wonderland",
-        "Views":  947132,
-        "ViewsDelta":  98,
+        "Views":  947250,
+        "ViewsDelta":  118,
         "Type":  "Official Live Video",
-        "Duration":  "3:55"
+        "Duration":  "3:55",
+        "Image":  "https://img.youtube.com/vi/x4hxLeHbqZo/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Thrill (スリル)  (Official Live Video)",
@@ -673,10 +732,11 @@
         "URL":  "https://youtu.be/XwRrpaSbaGk",
         "VideoId":  "XwRrpaSbaGk",
         "Song":  "Thrill",
-        "Views":  921191,
+        "Views":  921413,
         "ViewsDelta":  222,
         "Type":  "Official Live Video",
-        "Duration":  "4:10"
+        "Duration":  "4:10",
+        "Image":  "https://img.youtube.com/vi/XwRrpaSbaGk/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / NO GOD (Official Live Video)",
@@ -684,10 +744,11 @@
         "URL":  "https://youtu.be/nAdWnIRjGak",
         "VideoId":  "nAdWnIRjGak",
         "Song":  "NO GOD",
-        "Views":  913263,
-        "ViewsDelta":  180,
+        "Views":  913444,
+        "ViewsDelta":  181,
         "Type":  "Official Live Video",
-        "Duration":  "4:15"
+        "Duration":  "4:15",
+        "Image":  "https://img.youtube.com/vi/nAdWnIRjGak/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / サヨナキドリ \"Sayonakidori\"  Acoustic Ver.  (Official Live Video)",
@@ -695,10 +756,11 @@
         "URL":  "https://youtu.be/sGzAQigaL14",
         "VideoId":  "sGzAQigaL14",
         "Song":  "SAYONAKIDORI",
-        "Views":  904230,
-        "ViewsDelta":  347,
+        "Views":  904628,
+        "ViewsDelta":  398,
         "Type":  "Official Live Video",
-        "Duration":  "5:15"
+        "Duration":  "5:15",
+        "Image":  "https://img.youtube.com/vi/sGzAQigaL14/sddefault.jpg"
     },
     {
         "Title":  "Zen",
@@ -706,10 +768,11 @@
         "URL":  "https://youtu.be/XHuBR4nAjrE",
         "VideoId":  "XHuBR4nAjrE",
         "Song":  "Zen",
-        "Views":  875601,
-        "ViewsDelta":  1517,
+        "Views":  877023,
+        "ViewsDelta":  1422,
         "Type":  "Audio",
-        "Duration":  "3:35"
+        "Duration":  "3:35",
+        "Image":  "https://img.youtube.com/vi/XHuBR4nAjrE/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / The Dragon Cries (Official Music Video)",
@@ -717,10 +780,11 @@
         "URL":  "https://youtu.be/skEkpogsmE0",
         "VideoId":  "skEkpogsmE0",
         "Song":  "The Dragon Cries",
-        "Views":  863789,
-        "ViewsDelta":  78,
+        "Views":  863868,
+        "ViewsDelta":  79,
         "Type":  "Official Music Video",
-        "Duration":  "4:17"
+        "Duration":  "4:17",
+        "Image":  "https://img.youtube.com/vi/skEkpogsmE0/sddefault.jpg"
     },
     {
         "Title":  "Unleash!!!!!",
@@ -728,10 +792,11 @@
         "URL":  "https://youtu.be/g8aEQ2XR2UI",
         "VideoId":  "g8aEQ2XR2UI",
         "Song":  "Unleash!!!!!",
-        "Views":  857536,
-        "ViewsDelta":  861,
+        "Views":  858250,
+        "ViewsDelta":  714,
         "Type":  "Audio",
-        "Duration":  "3:10"
+        "Duration":  "3:10",
+        "Image":  "https://img.youtube.com/vi/g8aEQ2XR2UI/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Warning! (Official Live Video)",
@@ -739,21 +804,11 @@
         "URL":  "https://youtu.be/Kojg8ULibeY",
         "VideoId":  "Kojg8ULibeY",
         "Song":  "Warning!",
-        "Views":  795892,
-        "ViewsDelta":  278,
+        "Views":  796165,
+        "ViewsDelta":  273,
         "Type":  "Official Live Video",
-        "Duration":  "4:25"
-    },
-    {
-        "Title":  "BAND-MAID / endless Story (Official Live Video)",
-        "Date":  "2024-03-20T07:30:07",
-        "URL":  "https://youtu.be/Za1y-RRVd70",
-        "VideoId":  "Za1y-RRVd70",
-        "Song":  "endless Story",
-        "Views":  791236,
-        "ViewsDelta":  245,
-        "Type":  "Official Live Video",
-        "Duration":  "7:00"
+        "Duration":  "4:25",
+        "Image":  "https://img.youtube.com/vi/Kojg8ULibeY/sddefault.jpg"
     },
     {
         "Title":  "Different",
@@ -761,10 +816,23 @@
         "URL":  "https://youtu.be/yJIQKRywEY8",
         "VideoId":  "yJIQKRywEY8",
         "Song":  "Different",
-        "Views":  791000,
-        "ViewsDelta":  748,
+        "Views":  791651,
+        "ViewsDelta":  651,
         "Type":  "Audio",
-        "Duration":  "3:34"
+        "Duration":  "3:34",
+        "Image":  "https://img.youtube.com/vi/yJIQKRywEY8/sddefault.jpg"
+    },
+    {
+        "Title":  "BAND-MAID / endless Story (Official Live Video)",
+        "Date":  "2024-03-20T07:30:07",
+        "URL":  "https://youtu.be/Za1y-RRVd70",
+        "VideoId":  "Za1y-RRVd70",
+        "Song":  "endless Story",
+        "Views":  791499,
+        "ViewsDelta":  263,
+        "Type":  "Official Live Video",
+        "Duration":  "7:00",
+        "Image":  "https://img.youtube.com/vi/Za1y-RRVd70/sddefault.jpg"
     },
     {
         "Title":  "REAL EXISTENCE",
@@ -772,10 +840,11 @@
         "URL":  "https://youtu.be/F0B-h1qWt2E",
         "VideoId":  "F0B-h1qWt2E",
         "Song":  "REAL EXISTENCE",
-        "Views":  790056,
-        "ViewsDelta":  651,
+        "Views":  790728,
+        "ViewsDelta":  672,
         "Type":  "Audio",
-        "Duration":  "4:13"
+        "Duration":  "4:13",
+        "Image":  "https://img.youtube.com/vi/F0B-h1qWt2E/sddefault.jpg"
     },
     {
         "Title":  "After Life",
@@ -783,10 +852,11 @@
         "URL":  "https://youtu.be/kkFIoq1TeA0",
         "VideoId":  "kkFIoq1TeA0",
         "Song":  "After Life",
-        "Views":  771707,
-        "ViewsDelta":  341,
+        "Views":  772022,
+        "ViewsDelta":  315,
         "Type":  "Audio",
-        "Duration":  "3:24"
+        "Duration":  "3:24",
+        "Image":  "https://img.youtube.com/vi/kkFIoq1TeA0/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / カタルシス \"Catharsis\"  Acoustic Ver.  (Official Live Video)",
@@ -794,10 +864,11 @@
         "URL":  "https://youtu.be/tx9h41gaNo0",
         "VideoId":  "tx9h41gaNo0",
         "Song":  "Catharsis",
-        "Views":  758956,
-        "ViewsDelta":  169,
+        "Views":  759141,
+        "ViewsDelta":  185,
         "Type":  "Official Live Video",
-        "Duration":  "3:41"
+        "Duration":  "3:41",
+        "Image":  "https://img.youtube.com/vi/tx9h41gaNo0/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Don\u0027t you tell ME (Official Live Video)",
@@ -805,10 +876,11 @@
         "URL":  "https://youtu.be/SOj3qXBhiP4",
         "VideoId":  "SOj3qXBhiP4",
         "Song":  "Don\u0027t you tell ME",
-        "Views":  752033,
-        "ViewsDelta":  406,
+        "Views":  752512,
+        "ViewsDelta":  479,
         "Type":  "Official Live Video",
-        "Duration":  "4:27"
+        "Duration":  "4:27",
+        "Image":  "https://img.youtube.com/vi/SOj3qXBhiP4/sddefault.jpg"
     },
     {
         "Title":  "influencer",
@@ -816,10 +888,11 @@
         "URL":  "https://youtu.be/Ly62PczTrZM",
         "VideoId":  "Ly62PczTrZM",
         "Song":  "influencer",
-        "Views":  721830,
-        "ViewsDelta":  585,
+        "Views":  722258,
+        "ViewsDelta":  428,
         "Type":  "Audio",
-        "Duration":  "3:24"
+        "Duration":  "3:24",
+        "Image":  "https://img.youtube.com/vi/Ly62PczTrZM/sddefault.jpg"
     },
     {
         "Title":  "DOMINATION",
@@ -827,10 +900,11 @@
         "URL":  "https://youtu.be/yo9ZFz4v6Dk",
         "VideoId":  "yo9ZFz4v6Dk",
         "Song":  "DOMINATION",
-        "Views":  713821,
-        "ViewsDelta":  746,
+        "Views":  714431,
+        "ViewsDelta":  610,
         "Type":  "Audio",
-        "Duration":  "3:52"
+        "Duration":  "3:52",
+        "Image":  "https://img.youtube.com/vi/yo9ZFz4v6Dk/sddefault.jpg"
     },
     {
         "Title":  "Corallium",
@@ -838,10 +912,11 @@
         "URL":  "https://youtu.be/aK9KruOd_Bw",
         "VideoId":  "aK9KruOd_Bw",
         "Song":  "Corallium",
-        "Views":  697439,
-        "ViewsDelta":  254,
+        "Views":  697665,
+        "ViewsDelta":  226,
         "Type":  "Audio",
-        "Duration":  "3:56"
+        "Duration":  "3:56",
+        "Image":  "https://img.youtube.com/vi/aK9KruOd_Bw/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / What is justice? ×『桃源暗鬼』 Special Music Video (Anime Music Video) - Side of Momotaro -",
@@ -849,10 +924,11 @@
         "URL":  "https://youtu.be/zbleEG_5e_4",
         "VideoId":  "zbleEG_5e_4",
         "Song":  "What is justice?",
-        "Views":  687601,
-        "ViewsDelta":  782,
+        "Views":  688313,
+        "ViewsDelta":  712,
         "Type":  "Anime Music Video",
-        "Duration":  "3:22"
+        "Duration":  "3:22",
+        "Image":  "https://img.youtube.com/vi/zbleEG_5e_4/sddefault.jpg"
     },
     {
         "Title":  "Warning!",
@@ -860,10 +936,11 @@
         "URL":  "https://youtu.be/swHdFvBN3yI",
         "VideoId":  "swHdFvBN3yI",
         "Song":  "Warning!",
-        "Views":  684796,
-        "ViewsDelta":  452,
+        "Views":  685091,
+        "ViewsDelta":  295,
         "Type":  "Audio",
-        "Duration":  "4:20"
+        "Duration":  "4:20",
+        "Image":  "https://img.youtube.com/vi/swHdFvBN3yI/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Ready to Rock (Official Live Video) TVアニメ「ロックは淑女の嗜みでして」オープニングテーマソング",
@@ -871,10 +948,11 @@
         "URL":  "https://youtu.be/5I6VV4HYnW8",
         "VideoId":  "5I6VV4HYnW8",
         "Song":  "Ready to Rock",
-        "Views":  672667,
-        "ViewsDelta":  1244,
+        "Views":  673949,
+        "ViewsDelta":  1282,
         "Type":  "Official Live Video",
-        "Duration":  "4:10"
+        "Duration":  "4:10",
+        "Image":  "https://img.youtube.com/vi/5I6VV4HYnW8/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Shambles (Official Live Video)",
@@ -882,10 +960,11 @@
         "URL":  "https://youtu.be/RmFYjTJRrQM",
         "VideoId":  "RmFYjTJRrQM",
         "Song":  "Shambles",
-        "Views":  636728,
-        "ViewsDelta":  425,
+        "Views":  637332,
+        "ViewsDelta":  604,
         "Type":  "Official Live Video",
-        "Duration":  "5:15"
+        "Duration":  "5:15",
+        "Image":  "https://img.youtube.com/vi/RmFYjTJRrQM/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / NO GOD (Official Live Video)",
@@ -893,10 +972,11 @@
         "URL":  "https://youtu.be/iLF5zd0yl64",
         "VideoId":  "iLF5zd0yl64",
         "Song":  "NO GOD",
-        "Views":  620721,
-        "ViewsDelta":  182,
+        "Views":  620932,
+        "ViewsDelta":  211,
         "Type":  "Official Live Video",
-        "Duration":  "4:34"
+        "Duration":  "4:34",
+        "Image":  "https://img.youtube.com/vi/iLF5zd0yl64/sddefault.jpg"
     },
     {
         "Title":  "サヨナキドリ",
@@ -904,10 +984,11 @@
         "URL":  "https://youtu.be/6mVaehjAo2k",
         "VideoId":  "6mVaehjAo2k",
         "Song":  "SAYONAKIDORI",
-        "Views":  603717,
-        "ViewsDelta":  238,
+        "Views":  603935,
+        "ViewsDelta":  218,
         "Type":  "Audio",
-        "Duration":  "4:34"
+        "Duration":  "4:34",
+        "Image":  "https://img.youtube.com/vi/6mVaehjAo2k/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Ready to Rock (Official Cover #RtR弾いてみた by KANAMI)  TVアニメ「ロックは淑女の嗜みでして」オープニングテーマソング",
@@ -915,10 +996,11 @@
         "URL":  "https://youtu.be/YEFugw_-jwo",
         "VideoId":  "YEFugw_-jwo",
         "Song":  "Ready to Rock",
-        "Views":  574421,
-        "ViewsDelta":  365,
+        "Views":  574661,
+        "ViewsDelta":  240,
         "Type":  "Official Cover",
-        "Duration":  "0:21"
+        "Duration":  "0:21",
+        "Image":  "https://img.youtube.com/vi/YEFugw_-jwo/sddefault.jpg"
     },
     {
         "Title":  "from now on",
@@ -926,10 +1008,11 @@
         "URL":  "https://youtu.be/MK0auns521Q",
         "VideoId":  "MK0auns521Q",
         "Song":  "from now on",
-        "Views":  560696,
-        "ViewsDelta":  448,
+        "Views":  561177,
+        "ViewsDelta":  481,
         "Type":  "Audio",
-        "Duration":  "3:47"
+        "Duration":  "3:47",
+        "Image":  "https://img.youtube.com/vi/MK0auns521Q/sddefault.jpg"
     },
     {
         "Title":  "Blooming",
@@ -937,10 +1020,11 @@
         "URL":  "https://youtu.be/3NJf8CSiUZs",
         "VideoId":  "3NJf8CSiUZs",
         "Song":  "Blooming",
-        "Views":  545995,
-        "ViewsDelta":  609,
+        "Views":  546572,
+        "ViewsDelta":  577,
         "Type":  "Audio",
-        "Duration":  "3:50"
+        "Duration":  "3:50",
+        "Image":  "https://img.youtube.com/vi/3NJf8CSiUZs/sddefault.jpg"
     },
     {
         "Title":  "NO GOD",
@@ -948,10 +1032,11 @@
         "URL":  "https://youtu.be/-ZEF3shvlsU",
         "VideoId":  "-ZEF3shvlsU",
         "Song":  "NO GOD",
-        "Views":  542868,
-        "ViewsDelta":  226,
+        "Views":  543050,
+        "ViewsDelta":  182,
         "Type":  "Audio",
-        "Duration":  "4:11"
+        "Duration":  "4:11",
+        "Image":  "https://img.youtube.com/vi/-ZEF3shvlsU/sddefault.jpg"
     },
     {
         "Title":  "alone",
@@ -959,10 +1044,11 @@
         "URL":  "https://youtu.be/mY0ZusGd-Fo",
         "VideoId":  "mY0ZusGd-Fo",
         "Song":  "alone",
-        "Views":  539206,
-        "ViewsDelta":  497,
+        "Views":  539752,
+        "ViewsDelta":  546,
         "Type":  "Audio",
-        "Duration":  "3:29"
+        "Duration":  "3:29",
+        "Image":  "https://img.youtube.com/vi/mY0ZusGd-Fo/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Present Perfect (Official Live Teaser 1)",
@@ -970,10 +1056,11 @@
         "URL":  "https://youtu.be/o_NTQ7T7HA0",
         "VideoId":  "o_NTQ7T7HA0",
         "Song":  "Present Perfect",
-        "Views":  524216,
-        "ViewsDelta":  50,
+        "Views":  524281,
+        "ViewsDelta":  65,
         "Type":  "Official Live Short",
-        "Duration":  "0:33"
+        "Duration":  "0:33",
+        "Image":  "https://img.youtube.com/vi/o_NTQ7T7HA0/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Present Perfect (Official Live Video)",
@@ -981,10 +1068,11 @@
         "URL":  "https://youtu.be/2U9AP21jXuk",
         "VideoId":  "2U9AP21jXuk",
         "Song":  "Present Perfect",
-        "Views":  520508,
-        "ViewsDelta":  798,
+        "Views":  521549,
+        "ViewsDelta":  1041,
         "Type":  "Official Live Video",
-        "Duration":  "4:34"
+        "Duration":  "4:34",
+        "Image":  "https://img.youtube.com/vi/2U9AP21jXuk/sddefault.jpg"
     },
     {
         "Title":  "BLACK HOLE",
@@ -992,10 +1080,11 @@
         "URL":  "https://youtu.be/17M5oBuccOY",
         "VideoId":  "17M5oBuccOY",
         "Song":  "BLACK HOLE",
-        "Views":  515507,
-        "ViewsDelta":  234,
+        "Views":  515697,
+        "ViewsDelta":  190,
         "Type":  "Audio",
-        "Duration":  "3:06"
+        "Duration":  "3:06",
+        "Image":  "https://img.youtube.com/vi/17M5oBuccOY/sddefault.jpg"
     },
     {
         "Title":  "火花",
@@ -1003,10 +1092,11 @@
         "URL":  "https://youtu.be/uMQicabwqus",
         "VideoId":  "uMQicabwqus",
         "Song":  "Hibana",
-        "Views":  496713,
-        "ViewsDelta":  162,
+        "Views":  496850,
+        "ViewsDelta":  137,
         "Type":  "Audio",
-        "Duration":  "3:40"
+        "Duration":  "3:40",
+        "Image":  "https://img.youtube.com/vi/uMQicabwqus/sddefault.jpg"
     },
     {
         "Title":  "Don\u0027t you tell ME",
@@ -1014,10 +1104,11 @@
         "URL":  "https://youtu.be/RnyseN3hrKM",
         "VideoId":  "RnyseN3hrKM",
         "Song":  "Don\u0027t you tell ME",
-        "Views":  494716,
-        "ViewsDelta":  439,
+        "Views":  495113,
+        "ViewsDelta":  397,
         "Type":  "Audio",
-        "Duration":  "3:11"
+        "Duration":  "3:11",
+        "Image":  "https://img.youtube.com/vi/RnyseN3hrKM/sddefault.jpg"
     },
     {
         "Title":  "Shambles",
@@ -1025,10 +1116,11 @@
         "URL":  "https://youtu.be/_UgN3Tb8Chc",
         "VideoId":  "_UgN3Tb8Chc",
         "Song":  "Shambles",
-        "Views":  489782,
-        "ViewsDelta":  97,
+        "Views":  489865,
+        "ViewsDelta":  83,
         "Type":  "Audio",
-        "Duration":  "3:22"
+        "Duration":  "3:22",
+        "Image":  "https://img.youtube.com/vi/_UgN3Tb8Chc/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Unleash!!!!! (Official Live Video)",
@@ -1036,10 +1128,11 @@
         "URL":  "https://youtu.be/-i3N-WbZnJM",
         "VideoId":  "-i3N-WbZnJM",
         "Song":  "Unleash!!!!!",
-        "Views":  489255,
-        "ViewsDelta":  260,
+        "Views":  489513,
+        "ViewsDelta":  258,
         "Type":  "Official Live Video",
-        "Duration":  "3:34"
+        "Duration":  "3:34",
+        "Image":  "https://img.youtube.com/vi/-i3N-WbZnJM/sddefault.jpg"
     },
     {
         "Title":  "the non-fiction days",
@@ -1047,10 +1140,11 @@
         "URL":  "https://youtu.be/5N4ymEJu5Vc",
         "VideoId":  "5N4ymEJu5Vc",
         "Song":  "the non-fiction days",
-        "Views":  481026,
-        "ViewsDelta":  401,
+        "Views":  481443,
+        "ViewsDelta":  417,
         "Type":  "Audio",
-        "Duration":  "4:42"
+        "Duration":  "4:42",
+        "Image":  "https://img.youtube.com/vi/5N4ymEJu5Vc/sddefault.jpg"
     },
     {
         "Title":  "Don\u0027t Let Me Down",
@@ -1058,10 +1152,11 @@
         "URL":  "https://youtu.be/kMF7sECmoP8",
         "VideoId":  "kMF7sECmoP8",
         "Song":  "Don\u0027t let me down",
-        "Views":  475401,
-        "ViewsDelta":  464,
+        "Views":  475834,
+        "ViewsDelta":  433,
         "Type":  "Audio",
-        "Duration":  "3:20"
+        "Duration":  "3:20",
+        "Image":  "https://img.youtube.com/vi/kMF7sECmoP8/sddefault.jpg"
     },
     {
         "Title":  "本懐",
@@ -1069,10 +1164,11 @@
         "URL":  "https://youtu.be/ND5EeINq3F0",
         "VideoId":  "ND5EeINq3F0",
         "Song":  "HONKAI",
-        "Views":  473295,
-        "ViewsDelta":  206,
+        "Views":  473455,
+        "ViewsDelta":  160,
         "Type":  "Audio",
-        "Duration":  "3:17"
+        "Duration":  "3:17",
+        "Image":  "https://img.youtube.com/vi/ND5EeINq3F0/sddefault.jpg"
     },
     {
         "Title":  "H-G-K",
@@ -1080,10 +1176,11 @@
         "URL":  "https://youtu.be/VAFq8-Xnf_8",
         "VideoId":  "VAFq8-Xnf_8",
         "Song":  "H-G-K",
-        "Views":  451167,
-        "ViewsDelta":  217,
+        "Views":  451336,
+        "ViewsDelta":  169,
         "Type":  "Audio",
-        "Duration":  "3:08"
+        "Duration":  "3:08",
+        "Image":  "https://img.youtube.com/vi/VAFq8-Xnf_8/sddefault.jpg"
     },
     {
         "Title":  "Puzzle",
@@ -1091,10 +1188,11 @@
         "URL":  "https://youtu.be/tMyNS4YKS6A",
         "VideoId":  "tMyNS4YKS6A",
         "Song":  "Puzzle",
-        "Views":  450873,
-        "ViewsDelta":  351,
+        "Views":  451199,
+        "ViewsDelta":  326,
         "Type":  "Audio",
-        "Duration":  "4:20"
+        "Duration":  "4:20",
+        "Image":  "https://img.youtube.com/vi/tMyNS4YKS6A/sddefault.jpg"
     },
     {
         "Title":  "HATE?",
@@ -1102,10 +1200,11 @@
         "URL":  "https://youtu.be/OJnKhVPDe4Q",
         "VideoId":  "OJnKhVPDe4Q",
         "Song":  "HATE?",
-        "Views":  438770,
-        "ViewsDelta":  344,
+        "Views":  439081,
+        "ViewsDelta":  311,
         "Type":  "Audio",
-        "Duration":  "3:38"
+        "Duration":  "3:38",
+        "Image":  "https://img.youtube.com/vi/OJnKhVPDe4Q/sddefault.jpg"
     },
     {
         "Title":  "I still seek revenge.",
@@ -1113,10 +1212,11 @@
         "URL":  "https://youtu.be/H0xsEwtKUkQ",
         "VideoId":  "H0xsEwtKUkQ",
         "Song":  "I still seek revenge.",
-        "Views":  428386,
-        "ViewsDelta":  146,
+        "Views":  428501,
+        "ViewsDelta":  115,
         "Type":  "Audio",
-        "Duration":  "3:03"
+        "Duration":  "3:03",
+        "Image":  "https://img.youtube.com/vi/H0xsEwtKUkQ/sddefault.jpg"
     },
     {
         "Title":  "glory",
@@ -1124,10 +1224,11 @@
         "URL":  "https://youtu.be/9TwXsbGFYnU",
         "VideoId":  "9TwXsbGFYnU",
         "Song":  "glory",
-        "Views":  425608,
-        "ViewsDelta":  661,
+        "Views":  426274,
+        "ViewsDelta":  666,
         "Type":  "Audio",
-        "Duration":  "3:37"
+        "Duration":  "3:37",
+        "Image":  "https://img.youtube.com/vi/9TwXsbGFYnU/sddefault.jpg"
     },
     {
         "Title":  "Manners",
@@ -1135,10 +1236,11 @@
         "URL":  "https://youtu.be/axYjQAMEZrs",
         "VideoId":  "axYjQAMEZrs",
         "Song":  "Manners",
-        "Views":  413591,
-        "ViewsDelta":  229,
+        "Views":  413806,
+        "ViewsDelta":  215,
         "Type":  "Audio",
-        "Duration":  "3:51"
+        "Duration":  "3:51",
+        "Image":  "https://img.youtube.com/vi/axYjQAMEZrs/sddefault.jpg"
     },
     {
         "Title":  "I\u0027ll",
@@ -1146,10 +1248,11 @@
         "URL":  "https://youtu.be/S2kocC6yMik",
         "VideoId":  "S2kocC6yMik",
         "Song":  "I\u0027ll",
-        "Views":  394125,
-        "ViewsDelta":  227,
+        "Views":  394298,
+        "ViewsDelta":  173,
         "Type":  "Audio",
-        "Duration":  "4:08"
+        "Duration":  "4:08",
+        "Image":  "https://img.youtube.com/vi/S2kocC6yMik/sddefault.jpg"
     },
     {
         "Title":  "I can\u0027t live without you.",
@@ -1157,10 +1260,11 @@
         "URL":  "https://youtu.be/3C7hDUB0lgk",
         "VideoId":  "3C7hDUB0lgk",
         "Song":  "I can\u0027t live without you.",
-        "Views":  390845,
-        "ViewsDelta":  281,
+        "Views":  391106,
+        "ViewsDelta":  261,
         "Type":  "Audio",
-        "Duration":  "3:50"
+        "Duration":  "3:50",
+        "Image":  "https://img.youtube.com/vi/3C7hDUB0lgk/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Sense (Official Live Video)",
@@ -1168,10 +1272,11 @@
         "URL":  "https://youtu.be/p5Lo7t9Yzxw",
         "VideoId":  "p5Lo7t9Yzxw",
         "Song":  "Sense",
-        "Views":  378733,
-        "ViewsDelta":  96,
+        "Views":  378824,
+        "ViewsDelta":  91,
         "Type":  "Official Live Video",
-        "Duration":  "3:34"
+        "Duration":  "3:34",
+        "Image":  "https://img.youtube.com/vi/p5Lo7t9Yzxw/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Ready to Rock (Official Live Video #shorts )  TVアニメ「ロックは淑女の嗜みでして」オープニングテーマソング",
@@ -1179,10 +1284,11 @@
         "URL":  "https://youtu.be/bQDrcpN6B-U",
         "VideoId":  "bQDrcpN6B-U",
         "Song":  "Ready to Rock",
-        "Views":  376877,
-        "ViewsDelta":  55,
+        "Views":  376949,
+        "ViewsDelta":  72,
         "Type":  "Official Live Short",
-        "Duration":  "0:27"
+        "Duration":  "0:27",
+        "Image":  "https://img.youtube.com/vi/bQDrcpN6B-U/sddefault.jpg"
     },
     {
         "Title":  "Daydreaming",
@@ -1190,10 +1296,11 @@
         "URL":  "https://youtu.be/dw4mb6eWHu0",
         "VideoId":  "dw4mb6eWHu0",
         "Song":  "Daydreaming",
-        "Views":  374297,
-        "ViewsDelta":  325,
+        "Views":  374608,
+        "ViewsDelta":  311,
         "Type":  "Audio",
-        "Duration":  "4:02"
+        "Duration":  "4:02",
+        "Image":  "https://img.youtube.com/vi/dw4mb6eWHu0/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Don\u0027t you tell ME (Live at TREASURE05X 2024)",
@@ -1201,10 +1308,11 @@
         "URL":  "https://youtu.be/vE7qTycXp3A",
         "VideoId":  "vE7qTycXp3A",
         "Song":  "Don\u0027t you tell ME",
-        "Views":  364080,
-        "ViewsDelta":  428,
+        "Views":  364466,
+        "ViewsDelta":  386,
         "Type":  "Official Live Short",
-        "Duration":  "0:43"
+        "Duration":  "0:43",
+        "Image":  "https://img.youtube.com/vi/vE7qTycXp3A/sddefault.jpg"
     },
     {
         "Title":  "Giovanni",
@@ -1212,10 +1320,11 @@
         "URL":  "https://youtu.be/0JZkjDhxohM",
         "VideoId":  "0JZkjDhxohM",
         "Song":  "Giovanni",
-        "Views":  363052,
-        "ViewsDelta":  112,
+        "Views":  363153,
+        "ViewsDelta":  101,
         "Type":  "Audio",
-        "Duration":  "4:18"
+        "Duration":  "4:18",
+        "Image":  "https://img.youtube.com/vi/0JZkjDhxohM/sddefault.jpg"
     },
     {
         "Title":  "DICE",
@@ -1223,10 +1332,11 @@
         "URL":  "https://youtu.be/kJhR3YwIRyc",
         "VideoId":  "kJhR3YwIRyc",
         "Song":  "DICE",
-        "Views":  360442,
-        "ViewsDelta":  3,
+        "Views":  360444,
+        "ViewsDelta":  2,
         "Type":  "Audio",
-        "Duration":  "4:07"
+        "Duration":  "4:07",
+        "Image":  "https://img.youtube.com/vi/kJhR3YwIRyc/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Magie (Official Live Video)",
@@ -1234,10 +1344,11 @@
         "URL":  "https://youtu.be/obXVrwIwk2k",
         "VideoId":  "obXVrwIwk2k",
         "Song":  "Magie",
-        "Views":  355817,
-        "ViewsDelta":  146,
+        "Views":  355930,
+        "ViewsDelta":  113,
         "Type":  "Official Live Video",
-        "Duration":  "3:10"
+        "Duration":  "3:10",
+        "Image":  "https://img.youtube.com/vi/obXVrwIwk2k/sddefault.jpg"
     },
     {
         "Title":  "YOLO",
@@ -1245,10 +1356,11 @@
         "URL":  "https://youtu.be/34MAbWeVE64",
         "VideoId":  "34MAbWeVE64",
         "Song":  "YOLO",
-        "Views":  352695,
-        "ViewsDelta":  267,
+        "Views":  353016,
+        "ViewsDelta":  321,
         "Type":  "Audio",
-        "Duration":  "4:27"
+        "Duration":  "4:27",
+        "Image":  "https://img.youtube.com/vi/34MAbWeVE64/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Ready to Rock (Official Teaser Video)  TVアニメ「ロックは淑女の嗜みでして」オープニングテーマソング",
@@ -1256,10 +1368,11 @@
         "URL":  "https://youtu.be/_jb5rtSUEik",
         "VideoId":  "_jb5rtSUEik",
         "Song":  "Ready to Rock",
-        "Views":  345340,
-        "ViewsDelta":  29,
+        "Views":  345351,
+        "ViewsDelta":  11,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:19"
+        "Duration":  "0:19",
+        "Image":  "https://img.youtube.com/vi/_jb5rtSUEik/sddefault.jpg"
     },
     {
         "Title":  "Balance",
@@ -1267,10 +1380,11 @@
         "URL":  "https://youtu.be/TwrvDCcYuRE",
         "VideoId":  "TwrvDCcYuRE",
         "Song":  "Balance",
-        "Views":  344140,
-        "ViewsDelta":  200,
+        "Views":  344296,
+        "ViewsDelta":  156,
         "Type":  "Audio",
-        "Duration":  "3:10"
+        "Duration":  "3:10",
+        "Image":  "https://img.youtube.com/vi/TwrvDCcYuRE/sddefault.jpg"
     },
     {
         "Title":  "SHOW THEM",
@@ -1278,10 +1392,11 @@
         "URL":  "https://youtu.be/OPNcauboxkg",
         "VideoId":  "OPNcauboxkg",
         "Song":  "Show Them",
-        "Views":  340278,
-        "ViewsDelta":  88,
+        "Views":  340382,
+        "ViewsDelta":  104,
         "Type":  "Audio",
-        "Duration":  "3:15"
+        "Duration":  "3:15",
+        "Image":  "https://img.youtube.com/vi/OPNcauboxkg/sddefault.jpg"
     },
     {
         "Title":  "Rock in me",
@@ -1289,10 +1404,11 @@
         "URL":  "https://youtu.be/f0etXeLBvBw",
         "VideoId":  "f0etXeLBvBw",
         "Song":  "Rock in me",
-        "Views":  332122,
-        "ViewsDelta":  170,
+        "Views":  332323,
+        "ViewsDelta":  201,
         "Type":  "Audio",
-        "Duration":  "3:22"
+        "Duration":  "3:22",
+        "Image":  "https://img.youtube.com/vi/f0etXeLBvBw/sddefault.jpg"
     },
     {
         "Title":  "Why Why Why",
@@ -1300,10 +1416,11 @@
         "URL":  "https://youtu.be/bCHjyiie7MQ",
         "VideoId":  "bCHjyiie7MQ",
         "Song":  "Why Why Why",
-        "Views":  330179,
-        "ViewsDelta":  116,
+        "Views":  330265,
+        "ViewsDelta":  86,
         "Type":  "Audio",
-        "Duration":  "3:38"
+        "Duration":  "3:38",
+        "Image":  "https://img.youtube.com/vi/bCHjyiie7MQ/sddefault.jpg"
     },
     {
         "Title":  "Protect You",
@@ -1311,10 +1428,11 @@
         "URL":  "https://youtu.be/ww7G7Vlm8hQ",
         "VideoId":  "ww7G7Vlm8hQ",
         "Song":  "Protect You",
-        "Views":  329653,
-        "ViewsDelta":  98,
+        "Views":  329747,
+        "ViewsDelta":  94,
         "Type":  "Audio",
-        "Duration":  "3:13"
+        "Duration":  "3:13",
+        "Image":  "https://img.youtube.com/vi/ww7G7Vlm8hQ/sddefault.jpg"
     },
     {
         "Title":  "CROSS",
@@ -1322,10 +1440,11 @@
         "URL":  "https://youtu.be/W6odZxUQ84s",
         "VideoId":  "W6odZxUQ84s",
         "Song":  "CROSS",
-        "Views":  327325,
-        "ViewsDelta":  235,
+        "Views":  327518,
+        "ViewsDelta":  193,
         "Type":  "Audio",
-        "Duration":  "3:46"
+        "Duration":  "3:46",
+        "Image":  "https://img.youtube.com/vi/W6odZxUQ84s/sddefault.jpg"
     },
     {
         "Title":  "輪廻",
@@ -1333,10 +1452,11 @@
         "URL":  "https://youtu.be/lWLEvPPYdS4",
         "VideoId":  "lWLEvPPYdS4",
         "Song":  "Rinne",
-        "Views":  320670,
-        "ViewsDelta":  331,
+        "Views":  320997,
+        "ViewsDelta":  327,
         "Type":  "Audio",
-        "Duration":  "3:28"
+        "Duration":  "3:28",
+        "Image":  "https://img.youtube.com/vi/lWLEvPPYdS4/sddefault.jpg"
     },
     {
         "Title":  "about Us",
@@ -1344,10 +1464,11 @@
         "URL":  "https://youtu.be/AmjOY0lIwhI",
         "VideoId":  "AmjOY0lIwhI",
         "Song":  "about Us",
-        "Views":  313222,
-        "ViewsDelta":  105,
+        "Views":  313309,
+        "ViewsDelta":  87,
         "Type":  "Audio",
-        "Duration":  "4:39"
+        "Duration":  "4:39",
+        "Image":  "https://img.youtube.com/vi/AmjOY0lIwhI/sddefault.jpg"
     },
     {
         "Title":  "you.",
@@ -1355,21 +1476,11 @@
         "URL":  "https://youtu.be/vHOBRzjHLMo",
         "VideoId":  "vHOBRzjHLMo",
         "Song":  "you.",
-        "Views":  304835,
-        "ViewsDelta":  241,
+        "Views":  305078,
+        "ViewsDelta":  243,
         "Type":  "Audio",
-        "Duration":  "3:44"
-    },
-    {
-        "Title":  "Bestie",
-        "Date":  "2024-04-16T06:00:16",
-        "URL":  "https://youtu.be/OvoR_Xt8mzM",
-        "VideoId":  "OvoR_Xt8mzM",
-        "Song":  "Bestie",
-        "Views":  304059,
-        "ViewsDelta":  25,
-        "Type":  "Audio",
-        "Duration":  "3:36"
+        "Duration":  "3:44",
+        "Image":  "https://img.youtube.com/vi/vHOBRzjHLMo/sddefault.jpg"
     },
     {
         "Title":  "Shambles",
@@ -1377,10 +1488,23 @@
         "URL":  "https://youtu.be/8eu3BQgB9OQ",
         "VideoId":  "8eu3BQgB9OQ",
         "Song":  "Shambles",
-        "Views":  303884,
-        "ViewsDelta":  843,
+        "Views":  304781,
+        "ViewsDelta":  897,
         "Type":  "Audio",
-        "Duration":  "3:22"
+        "Duration":  "3:22",
+        "Image":  "https://img.youtube.com/vi/8eu3BQgB9OQ/sddefault.jpg"
+    },
+    {
+        "Title":  "Bestie",
+        "Date":  "2024-04-16T06:00:16",
+        "URL":  "https://youtu.be/OvoR_Xt8mzM",
+        "VideoId":  "OvoR_Xt8mzM",
+        "Song":  "Bestie",
+        "Views":  304102,
+        "ViewsDelta":  43,
+        "Type":  "Audio",
+        "Duration":  "3:36",
+        "Image":  "https://img.youtube.com/vi/OvoR_Xt8mzM/sddefault.jpg"
     },
     {
         "Title":  "FREEDOM",
@@ -1388,10 +1512,11 @@
         "URL":  "https://youtu.be/hSV25w66G7A",
         "VideoId":  "hSV25w66G7A",
         "Song":  "FREEDOM",
-        "Views":  301281,
-        "ViewsDelta":  193,
+        "Views":  301439,
+        "ViewsDelta":  158,
         "Type":  "Audio",
-        "Duration":  "3:44"
+        "Duration":  "3:44",
+        "Image":  "https://img.youtube.com/vi/hSV25w66G7A/sddefault.jpg"
     },
     {
         "Title":  "CHEMICAL REACTION",
@@ -1399,10 +1524,11 @@
         "URL":  "https://youtu.be/42uOmIhh2Vs",
         "VideoId":  "42uOmIhh2Vs",
         "Song":  "CHEMICAL REACTION",
-        "Views":  297954,
-        "ViewsDelta":  111,
+        "Views":  298059,
+        "ViewsDelta":  105,
         "Type":  "Audio",
-        "Duration":  "4:10"
+        "Duration":  "4:10",
+        "Image":  "https://img.youtube.com/vi/42uOmIhh2Vs/sddefault.jpg"
     },
     {
         "Title":  "secret My lips",
@@ -1410,10 +1536,11 @@
         "URL":  "https://youtu.be/gr7JL2C4zHQ",
         "VideoId":  "gr7JL2C4zHQ",
         "Song":  "secret My lips",
-        "Views":  290997,
-        "ViewsDelta":  253,
+        "Views":  291230,
+        "ViewsDelta":  233,
         "Type":  "Audio",
-        "Duration":  "4:12"
+        "Duration":  "4:12",
+        "Image":  "https://img.youtube.com/vi/gr7JL2C4zHQ/sddefault.jpg"
     },
     {
         "Title":  "endless Story",
@@ -1421,10 +1548,11 @@
         "URL":  "https://youtu.be/72RuhiJznsI",
         "VideoId":  "72RuhiJznsI",
         "Song":  "endless Story",
-        "Views":  285459,
-        "ViewsDelta":  249,
+        "Views":  285650,
+        "ViewsDelta":  191,
         "Type":  "Audio",
-        "Duration":  "3:45"
+        "Duration":  "3:45",
+        "Image":  "https://img.youtube.com/vi/72RuhiJznsI/sddefault.jpg"
     },
     {
         "Title":  "SION",
@@ -1432,10 +1560,11 @@
         "URL":  "https://youtu.be/u9TrM7r9yOc",
         "VideoId":  "u9TrM7r9yOc",
         "Song":  "SION",
-        "Views":  284705,
-        "ViewsDelta":  311,
+        "Views":  284999,
+        "ViewsDelta":  294,
         "Type":  "Audio",
-        "Duration":  "4:15"
+        "Duration":  "4:15",
+        "Image":  "https://img.youtube.com/vi/u9TrM7r9yOc/sddefault.jpg"
     },
     {
         "Title":  "I can\u0027t live without you",
@@ -1443,10 +1572,11 @@
         "URL":  "https://youtu.be/EuTmlA2DHis",
         "VideoId":  "EuTmlA2DHis",
         "Song":  "I can\u0027t live without you.",
-        "Views":  280117,
-        "ViewsDelta":  5,
+        "Views":  280124,
+        "ViewsDelta":  7,
         "Type":  "Audio",
-        "Duration":  "3:54"
+        "Duration":  "3:54",
+        "Image":  "https://img.youtube.com/vi/EuTmlA2DHis/sddefault.jpg"
     },
     {
         "Title":  "anemone",
@@ -1454,10 +1584,11 @@
         "URL":  "https://youtu.be/7RDR_gMAZok",
         "VideoId":  "7RDR_gMAZok",
         "Song":  "anemone",
-        "Views":  275201,
-        "ViewsDelta":  143,
+        "Views":  275373,
+        "ViewsDelta":  172,
         "Type":  "Audio",
-        "Duration":  "4:23"
+        "Duration":  "4:23",
+        "Image":  "https://img.youtube.com/vi/7RDR_gMAZok/sddefault.jpg"
     },
     {
         "Title":  "DOMINATION",
@@ -1468,7 +1599,8 @@
         "Views":  272155,
         "ViewsDelta":  0,
         "Type":  "Audio",
-        "Duration":  "3:54"
+        "Duration":  "3:54",
+        "Image":  "https://img.youtube.com/vi/CWdo_Mn5Wo8/sddefault.jpg"
     },
     {
         "Title":  "Alive-or-Dead",
@@ -1476,10 +1608,11 @@
         "URL":  "https://youtu.be/rZ1mpH8iXQc",
         "VideoId":  "rZ1mpH8iXQc",
         "Song":  "Alive-or-Dead",
-        "Views":  261023,
-        "ViewsDelta":  485,
+        "Views":  261395,
+        "ViewsDelta":  372,
         "Type":  "Audio",
-        "Duration":  "3:45"
+        "Duration":  "3:45",
+        "Image":  "https://img.youtube.com/vi/rZ1mpH8iXQc/sddefault.jpg"
     },
     {
         "Title":  "CLANG",
@@ -1487,10 +1620,11 @@
         "URL":  "https://youtu.be/RNJxKL5Ylf4",
         "VideoId":  "RNJxKL5Ylf4",
         "Song":  "CLANG",
-        "Views":  259583,
-        "ViewsDelta":  177,
+        "Views":  259745,
+        "ViewsDelta":  162,
         "Type":  "Audio",
-        "Duration":  "4:11"
+        "Duration":  "4:11",
+        "Image":  "https://img.youtube.com/vi/RNJxKL5Ylf4/sddefault.jpg"
     },
     {
         "Title":  "モラトリアム",
@@ -1498,10 +1632,11 @@
         "URL":  "https://youtu.be/WFrVI2eXlko",
         "VideoId":  "WFrVI2eXlko",
         "Song":  "Moratorium",
-        "Views":  259301,
-        "ViewsDelta":  165,
+        "Views":  259469,
+        "ViewsDelta":  168,
         "Type":  "Audio",
-        "Duration":  "4:16"
+        "Duration":  "4:16",
+        "Image":  "https://img.youtube.com/vi/WFrVI2eXlko/sddefault.jpg"
     },
     {
         "Title":  "FREEZER",
@@ -1509,10 +1644,11 @@
         "URL":  "https://youtu.be/x7G0VEpWd_A",
         "VideoId":  "x7G0VEpWd_A",
         "Song":  "FREEZER",
-        "Views":  258440,
-        "ViewsDelta":  180,
+        "Views":  258634,
+        "ViewsDelta":  194,
         "Type":  "Audio",
-        "Duration":  "3:18"
+        "Duration":  "3:18",
+        "Image":  "https://img.youtube.com/vi/x7G0VEpWd_A/sddefault.jpg"
     },
     {
         "Title":  "One and only",
@@ -1520,10 +1656,11 @@
         "URL":  "https://youtu.be/f7_VMSupSlA",
         "VideoId":  "f7_VMSupSlA",
         "Song":  "One and only",
-        "Views":  250708,
-        "ViewsDelta":  165,
+        "Views":  250868,
+        "ViewsDelta":  160,
         "Type":  "Audio",
-        "Duration":  "3:23"
+        "Duration":  "3:23",
+        "Image":  "https://img.youtube.com/vi/f7_VMSupSlA/sddefault.jpg"
     },
     {
         "Title":  "Forbidden tale",
@@ -1531,10 +1668,11 @@
         "URL":  "https://youtu.be/l29qDqsgORA",
         "VideoId":  "l29qDqsgORA",
         "Song":  "Forbidden tale",
-        "Views":  247624,
-        "ViewsDelta":  293,
+        "Views":  247897,
+        "ViewsDelta":  273,
         "Type":  "Audio",
-        "Duration":  "4:35"
+        "Duration":  "4:35",
+        "Image":  "https://img.youtube.com/vi/l29qDqsgORA/sddefault.jpg"
     },
     {
         "Title":  "Shake That",
@@ -1542,10 +1680,11 @@
         "URL":  "https://youtu.be/zZcZdQgs-ws",
         "VideoId":  "zZcZdQgs-ws",
         "Song":  "Shake That!!",
-        "Views":  244266,
-        "ViewsDelta":  142,
+        "Views":  244393,
+        "ViewsDelta":  127,
         "Type":  "Audio",
-        "Duration":  "4:06"
+        "Duration":  "4:06",
+        "Image":  "https://img.youtube.com/vi/zZcZdQgs-ws/sddefault.jpg"
     },
     {
         "Title":  "FATE",
@@ -1553,21 +1692,11 @@
         "URL":  "https://youtu.be/ifUSCn9l61M",
         "VideoId":  "ifUSCn9l61M",
         "Song":  "FATE",
-        "Views":  243192,
-        "ViewsDelta":  192,
+        "Views":  243349,
+        "ViewsDelta":  157,
         "Type":  "Audio",
-        "Duration":  "4:32"
-    },
-    {
-        "Title":  "Play",
-        "Date":  "2018-02-13T07:01:48",
-        "URL":  "https://youtu.be/oZWc7jk4GNs",
-        "VideoId":  "oZWc7jk4GNs",
-        "Song":  "Play",
-        "Views":  242657,
-        "ViewsDelta":  5,
-        "Type":  "Audio",
-        "Duration":  "3:24"
+        "Duration":  "4:32",
+        "Image":  "https://img.youtube.com/vi/ifUSCn9l61M/sddefault.jpg"
     },
     {
         "Title":  "Protect You",
@@ -1575,21 +1704,23 @@
         "URL":  "https://youtu.be/PDaRbNVVdCE",
         "VideoId":  "PDaRbNVVdCE",
         "Song":  "Protect You",
-        "Views":  242179,
-        "ViewsDelta":  894,
+        "Views":  243055,
+        "ViewsDelta":  876,
         "Type":  "Audio",
-        "Duration":  "3:14"
+        "Duration":  "3:14",
+        "Image":  "https://img.youtube.com/vi/PDaRbNVVdCE/sddefault.jpg"
     },
     {
-        "Title":  "Turn me on",
-        "Date":  "2018-10-02T11:55:45",
-        "URL":  "https://youtu.be/6RVy5UEhz4s",
-        "VideoId":  "6RVy5UEhz4s",
-        "Song":  "Turn me on",
-        "Views":  240591,
-        "ViewsDelta":  166,
+        "Title":  "Play",
+        "Date":  "2018-02-13T07:01:48",
+        "URL":  "https://youtu.be/oZWc7jk4GNs",
+        "VideoId":  "oZWc7jk4GNs",
+        "Song":  "Play",
+        "Views":  242660,
+        "ViewsDelta":  3,
         "Type":  "Audio",
-        "Duration":  "4:16"
+        "Duration":  "3:24",
+        "Image":  "https://img.youtube.com/vi/oZWc7jk4GNs/sddefault.jpg"
     },
     {
         "Title":  "Play",
@@ -1597,10 +1728,23 @@
         "URL":  "https://youtu.be/A1h37zkAXck",
         "VideoId":  "A1h37zkAXck",
         "Song":  "Play",
-        "Views":  240477,
-        "ViewsDelta":  239,
+        "Views":  240739,
+        "ViewsDelta":  262,
         "Type":  "Audio",
-        "Duration":  "3:20"
+        "Duration":  "3:20",
+        "Image":  "https://img.youtube.com/vi/A1h37zkAXck/sddefault.jpg"
+    },
+    {
+        "Title":  "Turn me on",
+        "Date":  "2018-10-02T11:55:45",
+        "URL":  "https://youtu.be/6RVy5UEhz4s",
+        "VideoId":  "6RVy5UEhz4s",
+        "Song":  "Turn me on",
+        "Views":  240730,
+        "ViewsDelta":  139,
+        "Type":  "Audio",
+        "Duration":  "4:16",
+        "Image":  "https://img.youtube.com/vi/6RVy5UEhz4s/sddefault.jpg"
     },
     {
         "Title":  "Play",
@@ -1608,10 +1752,11 @@
         "URL":  "https://youtu.be/iH-EnjSUi3k",
         "VideoId":  "iH-EnjSUi3k",
         "Song":  "Play",
-        "Views":  238267,
-        "ViewsDelta":  103,
+        "Views":  238375,
+        "ViewsDelta":  108,
         "Type":  "Audio",
-        "Duration":  "3:22"
+        "Duration":  "3:22",
+        "Image":  "https://img.youtube.com/vi/iH-EnjSUi3k/sddefault.jpg"
     },
     {
         "Title":  "secret MAIKO lips",
@@ -1619,10 +1764,11 @@
         "URL":  "https://youtu.be/V-1HH3saWX4",
         "VideoId":  "V-1HH3saWX4",
         "Song":  "secret My lips",
-        "Views":  235375,
-        "ViewsDelta":  236,
+        "Views":  235556,
+        "ViewsDelta":  181,
         "Type":  "Audio",
-        "Duration":  "4:25"
+        "Duration":  "4:25",
+        "Image":  "https://img.youtube.com/vi/V-1HH3saWX4/sddefault.jpg"
     },
     {
         "Title":  "The one",
@@ -1630,10 +1776,11 @@
         "URL":  "https://youtu.be/FORNyqfjSmM",
         "VideoId":  "FORNyqfjSmM",
         "Song":  "The one",
-        "Views":  234284,
-        "ViewsDelta":  170,
+        "Views":  234418,
+        "ViewsDelta":  134,
         "Type":  "Audio",
-        "Duration":  "4:11"
+        "Duration":  "4:11",
+        "Image":  "https://img.youtube.com/vi/FORNyqfjSmM/sddefault.jpg"
     },
     {
         "Title":  "SUPER SUNSHINE",
@@ -1641,10 +1788,11 @@
         "URL":  "https://youtu.be/J_dd47xa31E",
         "VideoId":  "J_dd47xa31E",
         "Song":  "SUPER SUNSHINE",
-        "Views":  231103,
-        "ViewsDelta":  608,
+        "Views":  231629,
+        "ViewsDelta":  526,
         "Type":  "Audio",
-        "Duration":  "3:52"
+        "Duration":  "3:52",
+        "Image":  "https://img.youtube.com/vi/J_dd47xa31E/sddefault.jpg"
     },
     {
         "Title":  "Magie",
@@ -1652,10 +1800,11 @@
         "URL":  "https://youtu.be/p0OxjDTf_2A",
         "VideoId":  "p0OxjDTf_2A",
         "Song":  "Magie",
-        "Views":  230989,
-        "ViewsDelta":  279,
+        "Views":  231263,
+        "ViewsDelta":  274,
         "Type":  "Audio",
-        "Duration":  "3:05"
+        "Duration":  "3:05",
+        "Image":  "https://img.youtube.com/vi/p0OxjDTf_2A/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Ready to Rock (Official Live Video ver. 2 #shorts )  TVアニメ「ロックは淑女の嗜みでして」オープニングテーマソング",
@@ -1663,10 +1812,11 @@
         "URL":  "https://youtu.be/nbFF1513ptw",
         "VideoId":  "nbFF1513ptw",
         "Song":  "Ready to Rock",
-        "Views":  223490,
-        "ViewsDelta":  25,
+        "Views":  223520,
+        "ViewsDelta":  30,
         "Type":  "Official Live Short",
-        "Duration":  "0:34"
+        "Duration":  "0:34",
+        "Image":  "https://img.youtube.com/vi/nbFF1513ptw/sddefault.jpg"
     },
     {
         "Title":  "Bubble",
@@ -1674,10 +1824,11 @@
         "URL":  "https://youtu.be/3vHHv_dmhM8",
         "VideoId":  "3vHHv_dmhM8",
         "Song":  "Bubble",
-        "Views":  221088,
-        "ViewsDelta":  192,
+        "Views":  221269,
+        "ViewsDelta":  181,
         "Type":  "Audio",
-        "Duration":  "3:47"
+        "Duration":  "3:47",
+        "Image":  "https://img.youtube.com/vi/3vHHv_dmhM8/sddefault.jpg"
     },
     {
         "Title":  "SHOW THEM",
@@ -1685,10 +1836,11 @@
         "URL":  "https://youtu.be/42AfEN1SGZ4",
         "VideoId":  "42AfEN1SGZ4",
         "Song":  "Show Them",
-        "Views":  218632,
-        "ViewsDelta":  812,
+        "Views":  219426,
+        "ViewsDelta":  794,
         "Type":  "Audio",
-        "Duration":  "3:15"
+        "Duration":  "3:15",
+        "Image":  "https://img.youtube.com/vi/42AfEN1SGZ4/sddefault.jpg"
     },
     {
         "Title":  "Screaming",
@@ -1696,10 +1848,11 @@
         "URL":  "https://youtu.be/JBgNx7OXtao",
         "VideoId":  "JBgNx7OXtao",
         "Song":  "Screaming",
-        "Views":  218018,
-        "ViewsDelta":  193,
+        "Views":  218164,
+        "ViewsDelta":  146,
         "Type":  "Audio",
-        "Duration":  "3:50"
+        "Duration":  "3:50",
+        "Image":  "https://img.youtube.com/vi/JBgNx7OXtao/sddefault.jpg"
     },
     {
         "Title":  "Dilemma",
@@ -1707,10 +1860,11 @@
         "URL":  "https://youtu.be/aYet_nevCGs",
         "VideoId":  "aYet_nevCGs",
         "Song":  "Dilemma",
-        "Views":  216760,
-        "ViewsDelta":  129,
+        "Views":  216877,
+        "ViewsDelta":  117,
         "Type":  "Audio",
-        "Duration":  "3:37"
+        "Duration":  "3:37",
+        "Image":  "https://img.youtube.com/vi/aYet_nevCGs/sddefault.jpg"
     },
     {
         "Title":  "azure",
@@ -1718,10 +1872,11 @@
         "URL":  "https://youtu.be/QZqKqAIdxak",
         "VideoId":  "QZqKqAIdxak",
         "Song":  "azure",
-        "Views":  213556,
-        "ViewsDelta":  168,
+        "Views":  213710,
+        "ViewsDelta":  154,
         "Type":  "Audio",
-        "Duration":  "2:50"
+        "Duration":  "2:50",
+        "Image":  "https://img.youtube.com/vi/QZqKqAIdxak/sddefault.jpg"
     },
     {
         "Title":  "Letters to you",
@@ -1729,10 +1884,11 @@
         "URL":  "https://youtu.be/T7lS8NkIapQ",
         "VideoId":  "T7lS8NkIapQ",
         "Song":  "Letters to you",
-        "Views":  212873,
-        "ViewsDelta":  186,
+        "Views":  213008,
+        "ViewsDelta":  135,
         "Type":  "Audio",
-        "Duration":  "3:09"
+        "Duration":  "3:09",
+        "Image":  "https://img.youtube.com/vi/T7lS8NkIapQ/sddefault.jpg"
     },
     {
         "Title":  "Present Perfect",
@@ -1740,10 +1896,11 @@
         "URL":  "https://youtu.be/IvDzDMJ5cL4",
         "VideoId":  "IvDzDMJ5cL4",
         "Song":  "Present Perfect",
-        "Views":  204569,
-        "ViewsDelta":  911,
+        "Views":  205333,
+        "ViewsDelta":  764,
         "Type":  "Audio",
-        "Duration":  "3:52"
+        "Duration":  "3:52",
+        "Image":  "https://img.youtube.com/vi/IvDzDMJ5cL4/sddefault.jpg"
     },
     {
         "Title":  "Carry on living",
@@ -1751,10 +1908,11 @@
         "URL":  "https://youtu.be/Rylf8-NaJuk",
         "VideoId":  "Rylf8-NaJuk",
         "Song":  "Carry on living",
-        "Views":  203807,
-        "ViewsDelta":  141,
+        "Views":  203914,
+        "ViewsDelta":  107,
         "Type":  "Audio",
-        "Duration":  "3:33"
+        "Duration":  "3:33",
+        "Image":  "https://img.youtube.com/vi/Rylf8-NaJuk/sddefault.jpg"
     },
     {
         "Title":  "TAMAYA!",
@@ -1762,10 +1920,11 @@
         "URL":  "https://youtu.be/vvpswsFRawM",
         "VideoId":  "vvpswsFRawM",
         "Song":  "TAMAYA!",
-        "Views":  201968,
-        "ViewsDelta":  154,
+        "Views":  202113,
+        "ViewsDelta":  145,
         "Type":  "Audio",
-        "Duration":  "3:16"
+        "Duration":  "3:16",
+        "Image":  "https://img.youtube.com/vi/vvpswsFRawM/sddefault.jpg"
     },
     {
         "Title":  "Take me higher ! !",
@@ -1773,10 +1932,11 @@
         "URL":  "https://youtu.be/SDrfTXRVpw4",
         "VideoId":  "SDrfTXRVpw4",
         "Song":  "Take me higher!!",
-        "Views":  201586,
-        "ViewsDelta":  139,
+        "Views":  201715,
+        "ViewsDelta":  129,
         "Type":  "Audio",
-        "Duration":  "3:19"
+        "Duration":  "3:19",
+        "Image":  "https://img.youtube.com/vi/SDrfTXRVpw4/sddefault.jpg"
     },
     {
         "Title":  "Wonderland",
@@ -1784,10 +1944,11 @@
         "URL":  "https://youtu.be/CewPL6F9XhM",
         "VideoId":  "CewPL6F9XhM",
         "Song":  "Wonderland",
-        "Views":  200373,
-        "ViewsDelta":  239,
+        "Views":  200524,
+        "ViewsDelta":  151,
         "Type":  "Audio",
-        "Duration":  "3:56"
+        "Duration":  "3:56",
+        "Image":  "https://img.youtube.com/vi/CewPL6F9XhM/sddefault.jpg"
     },
     {
         "Title":  "Liberal",
@@ -1795,10 +1956,11 @@
         "URL":  "https://youtu.be/YwLqiLlCoKE",
         "VideoId":  "YwLqiLlCoKE",
         "Song":  "Liberal",
-        "Views":  200360,
-        "ViewsDelta":  175,
+        "Views":  200508,
+        "ViewsDelta":  148,
         "Type":  "Audio",
-        "Duration":  "3:15"
+        "Duration":  "3:15",
+        "Image":  "https://img.youtube.com/vi/YwLqiLlCoKE/sddefault.jpg"
     },
     {
         "Title":  "Spirit!!",
@@ -1806,21 +1968,11 @@
         "URL":  "https://youtu.be/fxeDfNl1IfU",
         "VideoId":  "fxeDfNl1IfU",
         "Song":  "Spirit!!",
-        "Views":  199224,
-        "ViewsDelta":  123,
+        "Views":  199333,
+        "ViewsDelta":  109,
         "Type":  "Audio",
-        "Duration":  "3:42"
-    },
-    {
-        "Title":  "カタルシス",
-        "Date":  "2019-12-05T00:27:12",
-        "URL":  "https://youtu.be/N5zqCsBjfTU",
-        "VideoId":  "N5zqCsBjfTU",
-        "Song":  "Catharsis",
-        "Views":  197525,
-        "ViewsDelta":  100,
-        "Type":  "Audio",
-        "Duration":  "3:19"
+        "Duration":  "3:42",
+        "Image":  "https://img.youtube.com/vi/fxeDfNl1IfU/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / without holding back (Official Live Video)",
@@ -1828,10 +1980,23 @@
         "URL":  "https://youtu.be/oWQpbAmfZLE",
         "VideoId":  "oWQpbAmfZLE",
         "Song":  "without holding back",
-        "Views":  197515,
-        "ViewsDelta":  478,
+        "Views":  198094,
+        "ViewsDelta":  579,
         "Type":  "Official Live Video",
-        "Duration":  "3:57"
+        "Duration":  "3:57",
+        "Image":  "https://img.youtube.com/vi/oWQpbAmfZLE/sddefault.jpg"
+    },
+    {
+        "Title":  "カタルシス",
+        "Date":  "2019-12-05T00:27:12",
+        "URL":  "https://youtu.be/N5zqCsBjfTU",
+        "VideoId":  "N5zqCsBjfTU",
+        "Song":  "Catharsis",
+        "Views":  197631,
+        "ViewsDelta":  106,
+        "Type":  "Audio",
+        "Duration":  "3:19",
+        "Image":  "https://img.youtube.com/vi/N5zqCsBjfTU/sddefault.jpg"
     },
     {
         "Title":  "Before Yesterday",
@@ -1839,10 +2004,11 @@
         "URL":  "https://youtu.be/xlUYvGjmOas",
         "VideoId":  "xlUYvGjmOas",
         "Song":  "Before Yesterday",
-        "Views":  196645,
-        "ViewsDelta":  130,
+        "Views":  196777,
+        "ViewsDelta":  132,
         "Type":  "Audio",
-        "Duration":  "3:45"
+        "Duration":  "3:45",
+        "Image":  "https://img.youtube.com/vi/xlUYvGjmOas/sddefault.jpg"
     },
     {
         "Title":  "Sense (TV Size Ver.)",
@@ -1850,10 +2016,11 @@
         "URL":  "https://youtu.be/1kv3cfGlMQQ",
         "VideoId":  "1kv3cfGlMQQ",
         "Song":  "Sense",
-        "Views":  196292,
-        "ViewsDelta":  46,
+        "Views":  196329,
+        "ViewsDelta":  37,
         "Type":  "Audio",
-        "Duration":  "1:30"
+        "Duration":  "1:30",
+        "Image":  "https://img.youtube.com/vi/1kv3cfGlMQQ/sddefault.jpg"
     },
     {
         "Title":  "Rock in me",
@@ -1861,10 +2028,11 @@
         "URL":  "https://youtu.be/TuWzx67ow3E",
         "VideoId":  "TuWzx67ow3E",
         "Song":  "Rock in me",
-        "Views":  191952,
-        "ViewsDelta":  2,
+        "Views":  191962,
+        "ViewsDelta":  10,
         "Type":  "Audio",
-        "Duration":  "3:25"
+        "Duration":  "3:25",
+        "Image":  "https://img.youtube.com/vi/TuWzx67ow3E/sddefault.jpg"
     },
     {
         "Title":  "Mirage",
@@ -1872,10 +2040,11 @@
         "URL":  "https://youtu.be/UBLKqA51hZs",
         "VideoId":  "UBLKqA51hZs",
         "Song":  "Mirage",
-        "Views":  191006,
-        "ViewsDelta":  139,
+        "Views":  191113,
+        "ViewsDelta":  107,
         "Type":  "Audio",
-        "Duration":  "3:58"
+        "Duration":  "3:58",
+        "Image":  "https://img.youtube.com/vi/UBLKqA51hZs/sddefault.jpg"
     },
     {
         "Title":  "FATE",
@@ -1883,10 +2052,11 @@
         "URL":  "https://youtu.be/-ooj0u845AY",
         "VideoId":  "-ooj0u845AY",
         "Song":  "FATE",
-        "Views":  190547,
+        "Views":  190550,
         "ViewsDelta":  3,
         "Type":  "Audio",
-        "Duration":  "4:35"
+        "Duration":  "4:35",
+        "Image":  "https://img.youtube.com/vi/-ooj0u845AY/sddefault.jpg"
     },
     {
         "Title":  "Turn me on",
@@ -1894,10 +2064,11 @@
         "URL":  "https://youtu.be/IWVtcPssnok",
         "VideoId":  "IWVtcPssnok",
         "Song":  "Turn me on",
-        "Views":  185108,
-        "ViewsDelta":  3,
+        "Views":  185107,
+        "ViewsDelta":  -1,
         "Type":  "Audio",
-        "Duration":  "4:18"
+        "Duration":  "4:18",
+        "Image":  "https://img.youtube.com/vi/IWVtcPssnok/sddefault.jpg"
     },
     {
         "Title":  "PAGE",
@@ -1905,10 +2076,11 @@
         "URL":  "https://youtu.be/nxCjEu4_7rU",
         "VideoId":  "nxCjEu4_7rU",
         "Song":  "PAGE",
-        "Views":  181872,
-        "ViewsDelta":  104,
+        "Views":  181946,
+        "ViewsDelta":  74,
         "Type":  "Audio",
-        "Duration":  "4:18"
+        "Duration":  "4:18",
+        "Image":  "https://img.youtube.com/vi/nxCjEu4_7rU/sddefault.jpg"
     },
     {
         "Title":  "CLANG",
@@ -1916,10 +2088,11 @@
         "URL":  "https://youtu.be/4mSEQ4Qae4Y",
         "VideoId":  "4mSEQ4Qae4Y",
         "Song":  "CLANG",
-        "Views":  181068,
+        "Views":  181070,
         "ViewsDelta":  2,
         "Type":  "Audio",
-        "Duration":  "4:13"
+        "Duration":  "4:13",
+        "Image":  "https://img.youtube.com/vi/4mSEQ4Qae4Y/sddefault.jpg"
     },
     {
         "Title":  "祇園町",
@@ -1927,10 +2100,11 @@
         "URL":  "https://youtu.be/aJmR2e_RtWQ",
         "VideoId":  "aJmR2e_RtWQ",
         "Song":  "Gion-Cho",
-        "Views":  180580,
-        "ViewsDelta":  202,
+        "Views":  180752,
+        "ViewsDelta":  172,
         "Type":  "Audio",
-        "Duration":  "3:36"
+        "Duration":  "3:36",
+        "Image":  "https://img.youtube.com/vi/aJmR2e_RtWQ/sddefault.jpg"
     },
     {
         "Title":  "Brightest star",
@@ -1938,10 +2112,11 @@
         "URL":  "https://youtu.be/70uZ87dY2z0",
         "VideoId":  "70uZ87dY2z0",
         "Song":  "Brightest Star",
-        "Views":  180209,
-        "ViewsDelta":  165,
+        "Views":  180363,
+        "ViewsDelta":  154,
         "Type":  "Audio",
-        "Duration":  "3:18"
+        "Duration":  "3:18",
+        "Image":  "https://img.youtube.com/vi/70uZ87dY2z0/sddefault.jpg"
     },
     {
         "Title":  "Awkward",
@@ -1949,10 +2124,11 @@
         "URL":  "https://youtu.be/9tf-bzo9bI0",
         "VideoId":  "9tf-bzo9bI0",
         "Song":  "Awkward",
-        "Views":  179804,
-        "ViewsDelta":  113,
+        "Views":  179910,
+        "ViewsDelta":  106,
         "Type":  "Audio",
-        "Duration":  "3:33"
+        "Duration":  "3:33",
+        "Image":  "https://img.youtube.com/vi/9tf-bzo9bI0/sddefault.jpg"
     },
     {
         "Title":  "Daydreaming",
@@ -1960,10 +2136,11 @@
         "URL":  "https://youtu.be/XyWA2xfDtyM",
         "VideoId":  "XyWA2xfDtyM",
         "Song":  "Daydreaming",
-        "Views":  178751,
-        "ViewsDelta":  0,
+        "Views":  178752,
+        "ViewsDelta":  1,
         "Type":  "Audio",
-        "Duration":  "4:00"
+        "Duration":  "4:00",
+        "Image":  "https://img.youtube.com/vi/XyWA2xfDtyM/sddefault.jpg"
     },
     {
         "Title":  "anemone",
@@ -1971,10 +2148,11 @@
         "URL":  "https://youtu.be/uh0JDdCgZcs",
         "VideoId":  "uh0JDdCgZcs",
         "Song":  "anemone",
-        "Views":  178074,
-        "ViewsDelta":  4,
+        "Views":  178082,
+        "ViewsDelta":  8,
         "Type":  "Audio",
-        "Duration":  "4:28"
+        "Duration":  "4:28",
+        "Image":  "https://img.youtube.com/vi/uh0JDdCgZcs/sddefault.jpg"
     },
     {
         "Title":  "Go easy",
@@ -1982,10 +2160,11 @@
         "URL":  "https://youtu.be/ZBbvy6Qx4wE",
         "VideoId":  "ZBbvy6Qx4wE",
         "Song":  "Go easy",
-        "Views":  176306,
-        "ViewsDelta":  146,
+        "Views":  176448,
+        "ViewsDelta":  142,
         "Type":  "Audio",
-        "Duration":  "3:01"
+        "Duration":  "3:01",
+        "Image":  "https://img.youtube.com/vi/ZBbvy6Qx4wE/sddefault.jpg"
     },
     {
         "Title":  "start over",
@@ -1993,10 +2172,11 @@
         "URL":  "https://youtu.be/HoXEk8Rcsyg",
         "VideoId":  "HoXEk8Rcsyg",
         "Song":  "start over",
-        "Views":  175816,
-        "ViewsDelta":  133,
+        "Views":  175935,
+        "ViewsDelta":  119,
         "Type":  "Audio",
-        "Duration":  "3:12"
+        "Duration":  "3:12",
+        "Image":  "https://img.youtube.com/vi/HoXEk8Rcsyg/sddefault.jpg"
     },
     {
         "Title":  "decided by myself",
@@ -2004,10 +2184,11 @@
         "URL":  "https://youtu.be/aLYJuZT37i4",
         "VideoId":  "aLYJuZT37i4",
         "Song":  "decided by myself",
-        "Views":  174805,
-        "ViewsDelta":  126,
+        "Views":  174904,
+        "ViewsDelta":  99,
         "Type":  "Audio",
-        "Duration":  "3:55"
+        "Duration":  "3:55",
+        "Image":  "https://img.youtube.com/vi/aLYJuZT37i4/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Ready to Rock ×「ロックは淑女の嗜みでして」 Special Music Video short ver.2",
@@ -2015,10 +2196,11 @@
         "URL":  "https://youtu.be/snND6wFvgx8",
         "VideoId":  "snND6wFvgx8",
         "Song":  "Ready to Rock",
-        "Views":  172784,
-        "ViewsDelta":  56,
+        "Views":  172826,
+        "ViewsDelta":  42,
         "Type":  "Anime Music Video Short",
-        "Duration":  "0:37"
+        "Duration":  "0:37",
+        "Image":  "https://img.youtube.com/vi/snND6wFvgx8/sddefault.jpg"
     },
     {
         "Title":  "So,What?",
@@ -2026,10 +2208,11 @@
         "URL":  "https://youtu.be/di1PjUakkLw",
         "VideoId":  "di1PjUakkLw",
         "Song":  "So,What?",
-        "Views":  171700,
-        "ViewsDelta":  116,
+        "Views":  171800,
+        "ViewsDelta":  100,
         "Type":  "Audio",
-        "Duration":  "3:49"
+        "Duration":  "3:49",
+        "Image":  "https://img.youtube.com/vi/di1PjUakkLw/sddefault.jpg"
     },
     {
         "Title":  "flying high",
@@ -2037,10 +2220,11 @@
         "URL":  "https://youtu.be/Q_qA4BtEV6c",
         "VideoId":  "Q_qA4BtEV6c",
         "Song":  "flying high",
-        "Views":  170180,
-        "ViewsDelta":  119,
+        "Views":  170267,
+        "ViewsDelta":  87,
         "Type":  "Audio",
-        "Duration":  "3:43"
+        "Duration":  "3:43",
+        "Image":  "https://img.youtube.com/vi/Q_qA4BtEV6c/sddefault.jpg"
     },
     {
         "Title":  "Smile",
@@ -2048,10 +2232,11 @@
         "URL":  "https://youtu.be/KzCUAJIMtu0",
         "VideoId":  "KzCUAJIMtu0",
         "Song":  "Smile",
-        "Views":  168734,
-        "ViewsDelta":  127,
+        "Views":  168871,
+        "ViewsDelta":  137,
         "Type":  "Audio",
-        "Duration":  "3:58"
+        "Duration":  "3:58",
+        "Image":  "https://img.youtube.com/vi/KzCUAJIMtu0/sddefault.jpg"
     },
     {
         "Title":  "One and only",
@@ -2062,7 +2247,8 @@
         "Views":  166534,
         "ViewsDelta":  0,
         "Type":  "Audio",
-        "Duration":  "3:23"
+        "Duration":  "3:23",
+        "Image":  "https://img.youtube.com/vi/FkbKXUGMLvA/sddefault.jpg"
     },
     {
         "Title":  "Memorable",
@@ -2070,10 +2256,11 @@
         "URL":  "https://youtu.be/UZvceYLB75c",
         "VideoId":  "UZvceYLB75c",
         "Song":  "Memorable",
-        "Views":  163754,
-        "ViewsDelta":  26,
+        "Views":  163779,
+        "ViewsDelta":  25,
         "Type":  "Audio",
-        "Duration":  "3:14"
+        "Duration":  "3:14",
+        "Image":  "https://img.youtube.com/vi/UZvceYLB75c/sddefault.jpg"
     },
     {
         "Title":  "Toi et moi",
@@ -2081,10 +2268,11 @@
         "URL":  "https://youtu.be/V9VDAoYf0A0",
         "VideoId":  "V9VDAoYf0A0",
         "Song":  "Toi et moi",
-        "Views":  161339,
-        "ViewsDelta":  139,
+        "Views":  161473,
+        "ViewsDelta":  134,
         "Type":  "Audio",
-        "Duration":  "2:57"
+        "Duration":  "2:57",
+        "Image":  "https://img.youtube.com/vi/V9VDAoYf0A0/sddefault.jpg"
     },
     {
         "Title":  "Corallium",
@@ -2092,10 +2280,11 @@
         "URL":  "https://youtu.be/FywmRdKKSjg",
         "VideoId":  "FywmRdKKSjg",
         "Song":  "Corallium",
-        "Views":  161246,
-        "ViewsDelta":  68,
+        "Views":  161297,
+        "ViewsDelta":  51,
         "Type":  "Audio",
-        "Duration":  "3:55"
+        "Duration":  "3:55",
+        "Image":  "https://img.youtube.com/vi/FywmRdKKSjg/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Ready to Rock (Official Teaser Video MIKU KOBATO ver.)  TVアニメ「ロックは淑女の嗜みでして」オープニングテーマソング",
@@ -2103,10 +2292,11 @@
         "URL":  "https://youtu.be/bOjubutSnXo",
         "VideoId":  "bOjubutSnXo",
         "Song":  "Ready to Rock",
-        "Views":  155653,
-        "ViewsDelta":  26,
+        "Views":  155672,
+        "ViewsDelta":  19,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:24"
+        "Duration":  "0:24",
+        "Image":  "https://img.youtube.com/vi/bOjubutSnXo/sddefault.jpg"
     },
     {
         "Title":  "Don\u0027t Apply The Brake",
@@ -2114,10 +2304,11 @@
         "URL":  "https://youtu.be/vY6eYTG315A",
         "VideoId":  "vY6eYTG315A",
         "Song":  "Don\u0027t apply the brake",
-        "Views":  152813,
-        "ViewsDelta":  128,
+        "Views":  152965,
+        "ViewsDelta":  152,
         "Type":  "Audio",
-        "Duration":  "3:21"
+        "Duration":  "3:21",
+        "Image":  "https://img.youtube.com/vi/vY6eYTG315A/sddefault.jpg"
     },
     {
         "Title":  "Price of Pride",
@@ -2125,10 +2316,11 @@
         "URL":  "https://youtu.be/wkzVmMRcC0U",
         "VideoId":  "wkzVmMRcC0U",
         "Song":  "Price of Pride",
-        "Views":  149942,
-        "ViewsDelta":  99,
+        "Views":  150019,
+        "ViewsDelta":  77,
         "Type":  "Audio",
-        "Duration":  "3:28"
+        "Duration":  "3:28",
+        "Image":  "https://img.youtube.com/vi/wkzVmMRcC0U/sddefault.jpg"
     },
     {
         "Title":  "At the drop of a hat",
@@ -2136,10 +2328,11 @@
         "URL":  "https://youtu.be/pa-zUO820-0",
         "VideoId":  "pa-zUO820-0",
         "Song":  "At the drop of a hat",
-        "Views":  148376,
-        "ViewsDelta":  75,
+        "Views":  148457,
+        "ViewsDelta":  81,
         "Type":  "Audio",
-        "Duration":  "4:20"
+        "Duration":  "4:20",
+        "Image":  "https://img.youtube.com/vi/pa-zUO820-0/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Ready to Rock (Official Live #Shorts 2) TVアニメ「ロックは淑女の嗜みでして」オープニングテーマソング",
@@ -2147,10 +2340,11 @@
         "URL":  "https://youtu.be/QWKfL5C7oRg",
         "VideoId":  "QWKfL5C7oRg",
         "Song":  "Ready to Rock",
-        "Views":  148153,
-        "ViewsDelta":  8,
+        "Views":  148174,
+        "ViewsDelta":  21,
         "Type":  "Official Live Short",
-        "Duration":  "0:23"
+        "Duration":  "0:23",
+        "Image":  "https://img.youtube.com/vi/QWKfL5C7oRg/sddefault.jpg"
     },
     {
         "Title":  "TIME",
@@ -2158,10 +2352,11 @@
         "URL":  "https://youtu.be/GEvS_V9bLDE",
         "VideoId":  "GEvS_V9bLDE",
         "Song":  "TIME",
-        "Views":  146388,
-        "ViewsDelta":  96,
+        "Views":  146489,
+        "ViewsDelta":  101,
         "Type":  "Audio",
-        "Duration":  "3:30"
+        "Duration":  "3:30",
+        "Image":  "https://img.youtube.com/vi/GEvS_V9bLDE/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Ready to Rock (Official Teaser Video AKANE ver.)  TVアニメ「ロックは淑女の嗜みでして」オープニングテーマソング",
@@ -2169,10 +2364,11 @@
         "URL":  "https://youtu.be/50H_hmPh4dI",
         "VideoId":  "50H_hmPh4dI",
         "Song":  "Ready to Rock",
-        "Views":  145050,
-        "ViewsDelta":  24,
+        "Views":  145082,
+        "ViewsDelta":  32,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:24"
+        "Duration":  "0:24",
+        "Image":  "https://img.youtube.com/vi/50H_hmPh4dI/sddefault.jpg"
     },
     {
         "Title":  "ハニー",
@@ -2180,10 +2376,11 @@
         "URL":  "https://youtu.be/_I70qgGN-6I",
         "VideoId":  "_I70qgGN-6I",
         "Song":  "Honey",
-        "Views":  142879,
-        "ViewsDelta":  98,
+        "Views":  142978,
+        "ViewsDelta":  99,
         "Type":  "Audio",
-        "Duration":  "3:25"
+        "Duration":  "3:25",
+        "Image":  "https://img.youtube.com/vi/_I70qgGN-6I/sddefault.jpg"
     },
     {
         "Title":  "Dilly-Dally",
@@ -2191,21 +2388,11 @@
         "URL":  "https://youtu.be/7gE2cJFw_xg",
         "VideoId":  "7gE2cJFw_xg",
         "Song":  "Dilly-Dally",
-        "Views":  142367,
-        "ViewsDelta":  304,
+        "Views":  142727,
+        "ViewsDelta":  360,
         "Type":  "Audio",
-        "Duration":  "2:49"
-    },
-    {
-        "Title":  "Spirit!!",
-        "Date":  "2018-02-13T07:01:52",
-        "URL":  "https://youtu.be/2XR0CmgB1pI",
-        "VideoId":  "2XR0CmgB1pI",
-        "Song":  "Spirit!!",
-        "Views":  139833,
-        "ViewsDelta":  2,
-        "Type":  "Audio",
-        "Duration":  "3:44"
+        "Duration":  "2:49",
+        "Image":  "https://img.youtube.com/vi/7gE2cJFw_xg/sddefault.jpg"
     },
     {
         "Title":  "Lock and Load",
@@ -2213,10 +2400,23 @@
         "URL":  "https://youtu.be/yBx52tnrqZw",
         "VideoId":  "yBx52tnrqZw",
         "Song":  "Lock and Load",
-        "Views":  139800,
-        "ViewsDelta":  268,
+        "Views":  140057,
+        "ViewsDelta":  257,
         "Type":  "Audio",
-        "Duration":  "3:21"
+        "Duration":  "3:21",
+        "Image":  "https://img.youtube.com/vi/yBx52tnrqZw/sddefault.jpg"
+    },
+    {
+        "Title":  "Spirit!!",
+        "Date":  "2018-02-13T07:01:52",
+        "URL":  "https://youtu.be/2XR0CmgB1pI",
+        "VideoId":  "2XR0CmgB1pI",
+        "Song":  "Spirit!!",
+        "Views":  139836,
+        "ViewsDelta":  3,
+        "Type":  "Audio",
+        "Duration":  "3:44",
+        "Image":  "https://img.youtube.com/vi/2XR0CmgB1pI/sddefault.jpg"
     },
     {
         "Title":  "Arcadia Girl",
@@ -2224,10 +2424,11 @@
         "URL":  "https://youtu.be/TwMx4bJ30Tk",
         "VideoId":  "TwMx4bJ30Tk",
         "Song":  "Arcadia Girl",
-        "Views":  138247,
-        "ViewsDelta":  93,
+        "Views":  138323,
+        "ViewsDelta":  76,
         "Type":  "Audio",
-        "Duration":  "4:06"
+        "Duration":  "4:06",
+        "Image":  "https://img.youtube.com/vi/TwMx4bJ30Tk/sddefault.jpg"
     },
     {
         "Title":  "Get to the top",
@@ -2235,10 +2436,11 @@
         "URL":  "https://youtu.be/z0KTMEXJ1RE",
         "VideoId":  "z0KTMEXJ1RE",
         "Song":  "Get to the top",
-        "Views":  129137,
-        "ViewsDelta":  96,
+        "Views":  129244,
+        "ViewsDelta":  107,
         "Type":  "Audio",
-        "Duration":  "3:08"
+        "Duration":  "3:08",
+        "Image":  "https://img.youtube.com/vi/z0KTMEXJ1RE/sddefault.jpg"
     },
     {
         "Title":  "OOPARTS",
@@ -2246,10 +2448,11 @@
         "URL":  "https://youtu.be/YFLsVQ4iPxw",
         "VideoId":  "YFLsVQ4iPxw",
         "Song":  "OOPARTS",
-        "Views":  126873,
-        "ViewsDelta":  89,
+        "Views":  126963,
+        "ViewsDelta":  90,
         "Type":  "Audio",
-        "Duration":  "4:07"
+        "Duration":  "4:07",
+        "Image":  "https://img.youtube.com/vi/YFLsVQ4iPxw/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Ready to Rock (Official Live #Shorts) TVアニメ「ロックは淑女の嗜みでして」オープニングテーマソング",
@@ -2257,10 +2460,11 @@
         "URL":  "https://youtu.be/0q8L_YvNZn0",
         "VideoId":  "0q8L_YvNZn0",
         "Song":  "Ready to Rock",
-        "Views":  126689,
-        "ViewsDelta":  3,
+        "Views":  126705,
+        "ViewsDelta":  16,
         "Type":  "Official Live Short",
-        "Duration":  "0:25"
+        "Duration":  "0:25",
+        "Image":  "https://img.youtube.com/vi/0q8L_YvNZn0/sddefault.jpg"
     },
     {
         "Title":  "ORDER",
@@ -2268,10 +2472,11 @@
         "URL":  "https://youtu.be/3J-TWdHqjoQ",
         "VideoId":  "3J-TWdHqjoQ",
         "Song":  "ORDER",
-        "Views":  126268,
-        "ViewsDelta":  86,
+        "Views":  126352,
+        "ViewsDelta":  84,
         "Type":  "Audio",
-        "Duration":  "3:23"
+        "Duration":  "3:23",
+        "Image":  "https://img.youtube.com/vi/3J-TWdHqjoQ/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Ready to Rock (Official Live Video ver. 3 #shorts )  TVアニメ「ロックは淑女の嗜みでして」オープニングテーマソング",
@@ -2279,10 +2484,11 @@
         "URL":  "https://youtu.be/lBkdxHmvyAA",
         "VideoId":  "lBkdxHmvyAA",
         "Song":  "Ready to Rock",
-        "Views":  124180,
-        "ViewsDelta":  7,
+        "Views":  124201,
+        "ViewsDelta":  21,
         "Type":  "Official Live Short",
-        "Duration":  "0:44"
+        "Duration":  "0:44",
+        "Image":  "https://img.youtube.com/vi/lBkdxHmvyAA/sddefault.jpg"
     },
     {
         "Title":  "Carry on living",
@@ -2290,10 +2496,11 @@
         "URL":  "https://youtu.be/pKFBa8urc60",
         "VideoId":  "pKFBa8urc60",
         "Song":  "Carry on living",
-        "Views":  123972,
+        "Views":  123973,
         "ViewsDelta":  1,
         "Type":  "Audio",
-        "Duration":  "3:35"
+        "Duration":  "3:35",
+        "Image":  "https://img.youtube.com/vi/pKFBa8urc60/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Forbidden tale (Official Teaser Video) MIKU KOBATO",
@@ -2301,10 +2508,11 @@
         "URL":  "https://youtu.be/08dX4S0DWfg",
         "VideoId":  "08dX4S0DWfg",
         "Song":  "Forbidden tale",
-        "Views":  123659,
-        "ViewsDelta":  63,
+        "Views":  123708,
+        "ViewsDelta":  49,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:32"
+        "Duration":  "0:32",
+        "Image":  "https://img.youtube.com/vi/08dX4S0DWfg/sddefault.jpg"
     },
     {
         "Title":  "The Dragon Cries",
@@ -2312,10 +2520,11 @@
         "URL":  "https://youtu.be/uHBnf1pXC2E",
         "VideoId":  "uHBnf1pXC2E",
         "Song":  "The Dragon Cries",
-        "Views":  113219,
-        "ViewsDelta":  87,
+        "Views":  113284,
+        "ViewsDelta":  65,
         "Type":  "Audio",
-        "Duration":  "3:56"
+        "Duration":  "3:56",
+        "Image":  "https://img.youtube.com/vi/uHBnf1pXC2E/sddefault.jpg"
     },
     {
         "Title":  "matchless GUM",
@@ -2323,10 +2532,11 @@
         "URL":  "https://youtu.be/ljt_YGfHQr4",
         "VideoId":  "ljt_YGfHQr4",
         "Song":  "matchless GUM",
-        "Views":  112472,
+        "Views":  112545,
         "ViewsDelta":  73,
         "Type":  "Audio",
-        "Duration":  "3:12"
+        "Duration":  "3:12",
+        "Image":  "https://img.youtube.com/vi/ljt_YGfHQr4/sddefault.jpg"
     },
     {
         "Title":  "Unleash!!!!!",
@@ -2334,10 +2544,11 @@
         "URL":  "https://youtu.be/uLTBtjZEGv0",
         "VideoId":  "uLTBtjZEGv0",
         "Song":  "Unleash!!!!!",
-        "Views":  111300,
-        "ViewsDelta":  50,
+        "Views":  111336,
+        "ViewsDelta":  36,
         "Type":  "Audio",
-        "Duration":  "3:11"
+        "Duration":  "3:11",
+        "Image":  "https://img.youtube.com/vi/uLTBtjZEGv0/sddefault.jpg"
     },
     {
         "Title":  "ハニー",
@@ -2345,10 +2556,11 @@
         "URL":  "https://youtu.be/0ozhb_hN9JY",
         "VideoId":  "0ozhb_hN9JY",
         "Song":  "Honey",
-        "Views":  109633,
-        "ViewsDelta":  0,
+        "Views":  109635,
+        "ViewsDelta":  2,
         "Type":  "Audio",
-        "Duration":  "3:25"
+        "Duration":  "3:25",
+        "Image":  "https://img.youtube.com/vi/0ozhb_hN9JY/sddefault.jpg"
     },
     {
         "Title":  "Alive-or-Dead",
@@ -2356,10 +2568,11 @@
         "URL":  "https://youtu.be/aNM9ovsfshc",
         "VideoId":  "aNM9ovsfshc",
         "Song":  "Alive-or-Dead",
-        "Views":  106877,
+        "Views":  106878,
         "ViewsDelta":  1,
         "Type":  "Audio",
-        "Duration":  "3:48"
+        "Duration":  "3:48",
+        "Image":  "https://img.youtube.com/vi/aNM9ovsfshc/sddefault.jpg"
     },
     {
         "Title":  "虎 and 虎",
@@ -2367,10 +2580,11 @@
         "URL":  "https://youtu.be/-Z7S8Y_Eb4Q",
         "VideoId":  "-Z7S8Y_Eb4Q",
         "Song":  "One and only",
-        "Views":  105660,
-        "ViewsDelta":  77,
+        "Views":  105727,
+        "ViewsDelta":  67,
         "Type":  "Audio",
-        "Duration":  "3:27"
+        "Duration":  "3:27",
+        "Image":  "https://img.youtube.com/vi/-Z7S8Y_Eb4Q/sddefault.jpg"
     },
     {
         "Title":  "YURAGU",
@@ -2378,10 +2592,11 @@
         "URL":  "https://youtu.be/v2ZFMzL0QPA",
         "VideoId":  "v2ZFMzL0QPA",
         "Song":  "YURAGU",
-        "Views":  103895,
-        "ViewsDelta":  77,
+        "Views":  103962,
+        "ViewsDelta":  67,
         "Type":  "Audio",
-        "Duration":  "4:02"
+        "Duration":  "4:02",
+        "Image":  "https://img.youtube.com/vi/v2ZFMzL0QPA/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Zen (Official Teaser Video)  MIKU KOBATO Ver.  MAPPAアニメ「全修。」オープニングテーマソング",
@@ -2389,10 +2604,11 @@
         "URL":  "https://youtu.be/A1vhzIBfTGQ",
         "VideoId":  "A1vhzIBfTGQ",
         "Song":  "Zen",
-        "Views":  103531,
-        "ViewsDelta":  107,
+        "Views":  103635,
+        "ViewsDelta":  104,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:27"
+        "Duration":  "0:27",
+        "Image":  "https://img.youtube.com/vi/A1vhzIBfTGQ/sddefault.jpg"
     },
     {
         "Title":  "Beauty and the Beast",
@@ -2400,10 +2616,11 @@
         "URL":  "https://youtu.be/u4L-I041jis",
         "VideoId":  "u4L-I041jis",
         "Song":  "Beauty and the beast",
-        "Views":  103501,
-        "ViewsDelta":  90,
+        "Views":  103566,
+        "ViewsDelta":  65,
         "Type":  "Audio",
-        "Duration":  "4:01"
+        "Duration":  "4:01",
+        "Image":  "https://img.youtube.com/vi/u4L-I041jis/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / What is justice? (Official Teaser Video) TVアニメ「桃源暗鬼」エンディング主題歌",
@@ -2411,10 +2628,11 @@
         "URL":  "https://youtu.be/1kbZ5NsrdX4",
         "VideoId":  "1kbZ5NsrdX4",
         "Song":  "What is justice?",
-        "Views":  97338,
-        "ViewsDelta":  4,
+        "Views":  97347,
+        "ViewsDelta":  9,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:10"
+        "Duration":  "0:10",
+        "Image":  "https://img.youtube.com/vi/1kbZ5NsrdX4/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Ready to Rock ×「ロックは淑女の嗜みでして」 Special Music Video short ver.1",
@@ -2422,10 +2640,11 @@
         "URL":  "https://youtu.be/anA8iIVMTHw",
         "VideoId":  "anA8iIVMTHw",
         "Song":  "Ready to Rock",
-        "Views":  93055,
-        "ViewsDelta":  6,
+        "Views":  93075,
+        "ViewsDelta":  20,
         "Type":  "Anime Music Video Short",
-        "Duration":  "0:25"
+        "Duration":  "0:25",
+        "Image":  "https://img.youtube.com/vi/anA8iIVMTHw/sddefault.jpg"
     },
     {
         "Title":  "hide-and-seek",
@@ -2433,21 +2652,11 @@
         "URL":  "https://youtu.be/VQgMoXzcgaM",
         "VideoId":  "VQgMoXzcgaM",
         "Song":  "hide-and-seek",
-        "Views":  92877,
-        "ViewsDelta":  108,
+        "Views":  92970,
+        "ViewsDelta":  93,
         "Type":  "Audio",
-        "Duration":  "3:01"
-    },
-    {
-        "Title":  "LOOK AT ME",
-        "Date":  "2018-10-02T11:26:01",
-        "URL":  "https://youtu.be/xOqnN00feSc",
-        "VideoId":  "xOqnN00feSc",
-        "Song":  "LOOK AT ME",
-        "Views":  92709,
-        "ViewsDelta":  65,
-        "Type":  "Audio",
-        "Duration":  "3:59"
+        "Duration":  "3:01",
+        "Image":  "https://img.youtube.com/vi/VQgMoXzcgaM/sddefault.jpg"
     },
     {
         "Title":  "Bestie",
@@ -2455,10 +2664,23 @@
         "URL":  "https://youtu.be/eLQCEiBUthE",
         "VideoId":  "eLQCEiBUthE",
         "Song":  "Bestie",
-        "Views":  92700,
-        "ViewsDelta":  156,
+        "Views":  92858,
+        "ViewsDelta":  158,
         "Type":  "Audio",
-        "Duration":  "3:36"
+        "Duration":  "3:36",
+        "Image":  "https://img.youtube.com/vi/eLQCEiBUthE/sddefault.jpg"
+    },
+    {
+        "Title":  "LOOK AT ME",
+        "Date":  "2018-10-02T11:26:01",
+        "URL":  "https://youtu.be/xOqnN00feSc",
+        "VideoId":  "xOqnN00feSc",
+        "Song":  "LOOK AT ME",
+        "Views":  92778,
+        "ViewsDelta":  69,
+        "Type":  "Audio",
+        "Duration":  "3:59",
+        "Image":  "https://img.youtube.com/vi/xOqnN00feSc/sddefault.jpg"
     },
     {
         "Title":  "Unfair game",
@@ -2466,10 +2688,11 @@
         "URL":  "https://youtu.be/wlDCBVsRi2g",
         "VideoId":  "wlDCBVsRi2g",
         "Song":  "Unfair game",
-        "Views":  91062,
-        "ViewsDelta":  99,
+        "Views":  91126,
+        "ViewsDelta":  64,
         "Type":  "Audio",
-        "Duration":  "3:31"
+        "Duration":  "3:31",
+        "Image":  "https://img.youtube.com/vi/wlDCBVsRi2g/sddefault.jpg"
     },
     {
         "Title":  "Sense",
@@ -2477,10 +2700,11 @@
         "URL":  "https://youtu.be/eAX5_kypXp4",
         "VideoId":  "eAX5_kypXp4",
         "Song":  "Sense",
-        "Views":  87584,
-        "ViewsDelta":  55,
+        "Views":  87627,
+        "ViewsDelta":  43,
         "Type":  "Audio",
-        "Duration":  "3:25"
+        "Duration":  "3:25",
+        "Image":  "https://img.youtube.com/vi/eAX5_kypXp4/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Zen (Official Teaser Video)  KANAMI Ver.  MAPPAアニメ「全修。」オープニングテーマソング",
@@ -2488,10 +2712,11 @@
         "URL":  "https://youtu.be/owIg4MUVG8M",
         "VideoId":  "owIg4MUVG8M",
         "Song":  "Zen",
-        "Views":  86406,
-        "ViewsDelta":  22,
+        "Views":  86425,
+        "ViewsDelta":  19,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:27"
+        "Duration":  "0:27",
+        "Image":  "https://img.youtube.com/vi/owIg4MUVG8M/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Ready to Rock (Official Teaser Video KANAMI ver.)  TVアニメ「ロックは淑女の嗜みでして」オープニングテーマソング",
@@ -2499,21 +2724,11 @@
         "URL":  "https://youtu.be/ua-_klKlbdY",
         "VideoId":  "ua-_klKlbdY",
         "Song":  "Ready to Rock",
-        "Views":  85957,
-        "ViewsDelta":  9,
+        "Views":  85965,
+        "ViewsDelta":  8,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:24"
-    },
-    {
-        "Title":  "BAND-MAID / What is justice? (Official Teaser Video MIKU KOBATO ver.) TVアニメ「桃源暗鬼」エンディング主題歌",
-        "Date":  "2025-07-18T23:00:29",
-        "URL":  "https://youtu.be/KN5arIuiRp8",
-        "VideoId":  "KN5arIuiRp8",
-        "Song":  "What is justice?",
-        "Views":  79271,
-        "ViewsDelta":  6,
-        "Type":  "Official Teaser Video",
-        "Duration":  "0:27"
+        "Duration":  "0:24",
+        "Image":  "https://img.youtube.com/vi/ua-_klKlbdY/sddefault.jpg"
     },
     {
         "Title":  "YOLOSIOSU",
@@ -2521,10 +2736,23 @@
         "URL":  "https://youtu.be/4TniI0IJEkk",
         "VideoId":  "4TniI0IJEkk",
         "Song":  "YOLO",
-        "Views":  79252,
-        "ViewsDelta":  63,
+        "Views":  79302,
+        "ViewsDelta":  50,
         "Type":  "Audio",
-        "Duration":  "4:22"
+        "Duration":  "4:22",
+        "Image":  "https://img.youtube.com/vi/4TniI0IJEkk/sddefault.jpg"
+    },
+    {
+        "Title":  "BAND-MAID / What is justice? (Official Teaser Video MIKU KOBATO ver.) TVアニメ「桃源暗鬼」エンディング主題歌",
+        "Date":  "2025-07-18T23:00:29",
+        "URL":  "https://youtu.be/KN5arIuiRp8",
+        "VideoId":  "KN5arIuiRp8",
+        "Song":  "What is justice?",
+        "Views":  79287,
+        "ViewsDelta":  16,
+        "Type":  "Official Teaser Video",
+        "Duration":  "0:27",
+        "Image":  "https://img.youtube.com/vi/KN5arIuiRp8/sddefault.jpg"
     },
     {
         "Title":  "Don\u0027t be long",
@@ -2532,10 +2760,11 @@
         "URL":  "https://youtu.be/XDZYylY1IHE",
         "VideoId":  "XDZYylY1IHE",
         "Song":  "Don\u0027t be long",
-        "Views":  78821,
-        "ViewsDelta":  70,
+        "Views":  78894,
+        "ViewsDelta":  73,
         "Type":  "Audio",
-        "Duration":  "3:20"
+        "Duration":  "3:20",
+        "Image":  "https://img.youtube.com/vi/XDZYylY1IHE/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Ready to Rock (Official Teaser Video KANAMI ver.2)  TVアニメ「ロックは淑女の嗜みでして」オープニングテーマソング",
@@ -2543,10 +2772,11 @@
         "URL":  "https://youtu.be/XqGukTfP8n8",
         "VideoId":  "XqGukTfP8n8",
         "Song":  "Ready to Rock",
-        "Views":  77863,
-        "ViewsDelta":  11,
+        "Views":  77872,
+        "ViewsDelta":  9,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:12"
+        "Duration":  "0:12",
+        "Image":  "https://img.youtube.com/vi/XqGukTfP8n8/sddefault.jpg"
     },
     {
         "Title":  "Brand-New Road",
@@ -2554,10 +2784,11 @@
         "URL":  "https://youtu.be/_KVaSaQmb0k",
         "VideoId":  "_KVaSaQmb0k",
         "Song":  "Brand-New Road",
-        "Views":  77459,
-        "ViewsDelta":  51,
+        "Views":  77519,
+        "ViewsDelta":  60,
         "Type":  "Audio",
-        "Duration":  "3:50"
+        "Duration":  "3:50",
+        "Image":  "https://img.youtube.com/vi/_KVaSaQmb0k/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / What is justice? (Official Live Video #shorts )  TVアニメ「桃源暗鬼」エンディング主題歌",
@@ -2565,10 +2796,11 @@
         "URL":  "https://youtu.be/rG8cfEJeNMw",
         "VideoId":  "rG8cfEJeNMw",
         "Song":  "What is justice?",
-        "Views":  77239,
-        "ViewsDelta":  7,
+        "Views":  77278,
+        "ViewsDelta":  39,
         "Type":  "Official Live Short",
-        "Duration":  "0:34"
+        "Duration":  "0:34",
+        "Image":  "https://img.youtube.com/vi/rG8cfEJeNMw/sddefault.jpg"
     },
     {
         "Title":  "すくりーみんぐ",
@@ -2576,10 +2808,11 @@
         "URL":  "https://youtu.be/VACaI2GRUVE",
         "VideoId":  "VACaI2GRUVE",
         "Song":  "Screaming",
-        "Views":  76158,
-        "ViewsDelta":  68,
+        "Views":  76229,
+        "ViewsDelta":  71,
         "Type":  "Audio",
-        "Duration":  "3:55"
+        "Duration":  "3:55",
+        "Image":  "https://img.youtube.com/vi/VACaI2GRUVE/sddefault.jpg"
     },
     {
         "Title":  "Shake That!!",
@@ -2587,10 +2820,11 @@
         "URL":  "https://youtu.be/CqFkNqdPnK8",
         "VideoId":  "CqFkNqdPnK8",
         "Song":  "Shake That!!",
-        "Views":  72268,
-        "ViewsDelta":  51,
+        "Views":  72314,
+        "ViewsDelta":  46,
         "Type":  "Audio",
-        "Duration":  "4:05"
+        "Duration":  "4:05",
+        "Image":  "https://img.youtube.com/vi/CqFkNqdPnK8/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / What is justice? (Official Live Video 2 #shorts )  TVアニメ「桃源暗鬼」エンディング主題歌",
@@ -2598,10 +2832,11 @@
         "URL":  "https://youtu.be/UHZDVE5Ea6c",
         "VideoId":  "UHZDVE5Ea6c",
         "Song":  "What is justice?",
-        "Views":  69582,
-        "ViewsDelta":  10,
+        "Views":  69637,
+        "ViewsDelta":  55,
         "Type":  "Official Live Short",
-        "Duration":  "0:33"
+        "Duration":  "0:33",
+        "Image":  "https://img.youtube.com/vi/UHZDVE5Ea6c/sddefault.jpg"
     },
     {
         "Title":  "Memorable",
@@ -2609,10 +2844,11 @@
         "URL":  "https://youtu.be/o8p3rYAKFys",
         "VideoId":  "o8p3rYAKFys",
         "Song":  "Memorable",
-        "Views":  68677,
-        "ViewsDelta":  104,
+        "Views":  68788,
+        "ViewsDelta":  111,
         "Type":  "Audio",
-        "Duration":  "3:14"
+        "Duration":  "3:14",
+        "Image":  "https://img.youtube.com/vi/o8p3rYAKFys/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / without holding back (Official Live Teaser 1)",
@@ -2620,21 +2856,11 @@
         "URL":  "https://youtu.be/sAt4wANOaqA",
         "VideoId":  "sAt4wANOaqA",
         "Song":  "without holding back",
-        "Views":  68260,
-        "ViewsDelta":  53,
+        "Views":  68310,
+        "ViewsDelta":  50,
         "Type":  "Official Live Short",
-        "Duration":  "0:36"
-    },
-    {
-        "Title":  "BAND-MAID / Ready to Rock (Official Dance Video Ver.2)  TVアニメ「ロックは淑女の嗜みでして」オープニングテーマソング",
-        "Date":  "2025-04-19T22:00:44",
-        "URL":  "https://youtu.be/jxhdmtaXg9A",
-        "VideoId":  "jxhdmtaXg9A",
-        "Song":  "Ready to Rock",
-        "Views":  67878,
-        "ViewsDelta":  3,
-        "Type":  "Official Dance Video",
-        "Duration":  "0:26"
+        "Duration":  "0:36",
+        "Image":  "https://img.youtube.com/vi/sAt4wANOaqA/sddefault.jpg"
     },
     {
         "Title":  "glory",
@@ -2642,10 +2868,23 @@
         "URL":  "https://youtu.be/uZJNer5jBm8",
         "VideoId":  "uZJNer5jBm8",
         "Song":  "glory",
-        "Views":  67868,
-        "ViewsDelta":  30,
+        "Views":  67897,
+        "ViewsDelta":  29,
         "Type":  "Audio",
-        "Duration":  "3:40"
+        "Duration":  "3:40",
+        "Image":  "https://img.youtube.com/vi/uZJNer5jBm8/sddefault.jpg"
+    },
+    {
+        "Title":  "BAND-MAID / Ready to Rock (Official Dance Video Ver.2)  TVアニメ「ロックは淑女の嗜みでして」オープニングテーマソング",
+        "Date":  "2025-04-19T22:00:44",
+        "URL":  "https://youtu.be/jxhdmtaXg9A",
+        "VideoId":  "jxhdmtaXg9A",
+        "Song":  "Ready to Rock",
+        "Views":  67883,
+        "ViewsDelta":  5,
+        "Type":  "Official Dance Video",
+        "Duration":  "0:26",
+        "Image":  "https://img.youtube.com/vi/jxhdmtaXg9A/sddefault.jpg"
     },
     {
         "Title":  "Puzzle",
@@ -2653,10 +2892,11 @@
         "URL":  "https://youtu.be/gbopW5vHlio",
         "VideoId":  "gbopW5vHlio",
         "Song":  "Puzzle",
-        "Views":  65246,
-        "ViewsDelta":  34,
+        "Views":  65282,
+        "ViewsDelta":  36,
         "Type":  "Audio",
-        "Duration":  "4:21"
+        "Duration":  "4:21",
+        "Image":  "https://img.youtube.com/vi/gbopW5vHlio/sddefault.jpg"
     },
     {
         "Title":  "ansan",
@@ -2664,10 +2904,11 @@
         "URL":  "https://youtu.be/EqV2Bnzj9Bo",
         "VideoId":  "EqV2Bnzj9Bo",
         "Song":  "anemone",
-        "Views":  63674,
-        "ViewsDelta":  54,
+        "Views":  63732,
+        "ViewsDelta":  58,
         "Type":  "Audio",
-        "Duration":  "4:29"
+        "Duration":  "4:29",
+        "Image":  "https://img.youtube.com/vi/EqV2Bnzj9Bo/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Ready to Rock (Official Live #Shorts 3) TVアニメ「ロックは淑女の嗜みでして」オープニングテーマソング",
@@ -2675,10 +2916,11 @@
         "URL":  "https://youtu.be/wi1SwV0vWzs",
         "VideoId":  "wi1SwV0vWzs",
         "Song":  "Ready to Rock",
-        "Views":  63506,
-        "ViewsDelta":  5,
+        "Views":  63519,
+        "ViewsDelta":  13,
         "Type":  "Official Live Short",
-        "Duration":  "0:37"
+        "Duration":  "0:37",
+        "Image":  "https://img.youtube.com/vi/wi1SwV0vWzs/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Present Perfect (Official Teaser Video)",
@@ -2686,10 +2928,11 @@
         "URL":  "https://youtu.be/M_YlnotO7sM",
         "VideoId":  "M_YlnotO7sM",
         "Song":  "Present Perfect",
-        "Views":  62344,
-        "ViewsDelta":  18,
+        "Views":  62355,
+        "ViewsDelta":  11,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:23"
+        "Duration":  "0:23",
+        "Image":  "https://img.youtube.com/vi/M_YlnotO7sM/sddefault.jpg"
     },
     {
         "Title":  "Daydreaming",
@@ -2697,10 +2940,11 @@
         "URL":  "https://youtu.be/-7D6FuWUpsk",
         "VideoId":  "-7D6FuWUpsk",
         "Song":  "Daydreaming",
-        "Views":  60773,
-        "ViewsDelta":  42,
+        "Views":  60817,
+        "ViewsDelta":  44,
         "Type":  "Audio",
-        "Duration":  "3:58"
+        "Duration":  "3:58",
+        "Image":  "https://img.youtube.com/vi/-7D6FuWUpsk/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / without holding back (Official Live Teaser 2)",
@@ -2708,10 +2952,11 @@
         "URL":  "https://youtu.be/5H2X1aq94NI",
         "VideoId":  "5H2X1aq94NI",
         "Song":  "without holding back",
-        "Views":  59629,
-        "ViewsDelta":  49,
+        "Views":  59694,
+        "ViewsDelta":  65,
         "Type":  "Official Live Short",
-        "Duration":  "0:44"
+        "Duration":  "0:44",
+        "Image":  "https://img.youtube.com/vi/5H2X1aq94NI/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Protect You (Official Teaser Video)",
@@ -2719,10 +2964,11 @@
         "URL":  "https://youtu.be/aGjPAPnf_-A",
         "VideoId":  "aGjPAPnf_-A",
         "Song":  "Protect You",
-        "Views":  59157,
-        "ViewsDelta":  8,
+        "Views":  59164,
+        "ViewsDelta":  7,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:26"
+        "Duration":  "0:26",
+        "Image":  "https://img.youtube.com/vi/aGjPAPnf_-A/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID with The Warning / SHOW THEM (Official Teaser Video)  AKANE vs Pau",
@@ -2730,10 +2976,11 @@
         "URL":  "https://youtu.be/N5uWg7wPvZA",
         "VideoId":  "N5uWg7wPvZA",
         "Song":  "Show Them",
-        "Views":  57715,
-        "ViewsDelta":  26,
+        "Views":  57724,
+        "ViewsDelta":  9,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:29"
+        "Duration":  "0:29",
+        "Image":  "https://img.youtube.com/vi/N5uWg7wPvZA/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Ready to Rock (Official Teaser Video)  TVアニメ「ロックは淑女の嗜みでして」オープニングテーマソング",
@@ -2741,10 +2988,11 @@
         "URL":  "https://youtu.be/NFS8hO3BgTA",
         "VideoId":  "NFS8hO3BgTA",
         "Song":  "Ready to Rock",
-        "Views":  57601,
-        "ViewsDelta":  3,
+        "Views":  57607,
+        "ViewsDelta":  6,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:15"
+        "Duration":  "0:15",
+        "Image":  "https://img.youtube.com/vi/NFS8hO3BgTA/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Ready to Rock (Official Dance Video)  TVアニメ「ロックは淑女の嗜みでして」オープニングテーマソング",
@@ -2752,10 +3000,11 @@
         "URL":  "https://youtu.be/MPYm3Y6yVkM",
         "VideoId":  "MPYm3Y6yVkM",
         "Song":  "Ready to Rock",
-        "Views":  57181,
-        "ViewsDelta":  6,
+        "Views":  57193,
+        "ViewsDelta":  12,
         "Type":  "Official Dance Video",
-        "Duration":  "0:26"
+        "Duration":  "0:26",
+        "Image":  "https://img.youtube.com/vi/MPYm3Y6yVkM/sddefault.jpg"
     },
     {
         "Title":  "YOLO",
@@ -2763,10 +3012,11 @@
         "URL":  "https://youtu.be/T_BxRz7-ncw",
         "VideoId":  "T_BxRz7-ncw",
         "Song":  "YOLO",
-        "Views":  56630,
-        "ViewsDelta":  32,
+        "Views":  56671,
+        "ViewsDelta":  41,
         "Type":  "Audio",
-        "Duration":  "4:26"
+        "Duration":  "4:26",
+        "Image":  "https://img.youtube.com/vi/T_BxRz7-ncw/sddefault.jpg"
     },
     {
         "Title":  "Akasimahen",
@@ -2774,10 +3024,11 @@
         "URL":  "https://youtu.be/hHrnhXfJhL8",
         "VideoId":  "hHrnhXfJhL8",
         "Song":  "Awkward",
-        "Views":  56080,
-        "ViewsDelta":  40,
+        "Views":  56105,
+        "ViewsDelta":  25,
         "Type":  "Audio",
-        "Duration":  "3:20"
+        "Duration":  "3:20",
+        "Image":  "https://img.youtube.com/vi/hHrnhXfJhL8/sddefault.jpg"
     },
     {
         "Title":  "Thrill",
@@ -2785,10 +3036,11 @@
         "URL":  "https://youtu.be/Nld9hWfIfjE",
         "VideoId":  "Nld9hWfIfjE",
         "Song":  "Thrill",
-        "Views":  55254,
-        "ViewsDelta":  32,
+        "Views":  55293,
+        "ViewsDelta":  39,
         "Type":  "Audio",
-        "Duration":  "4:03"
+        "Duration":  "4:03",
+        "Image":  "https://img.youtube.com/vi/Nld9hWfIfjE/sddefault.jpg"
     },
     {
         "Title":  "DICE",
@@ -2796,10 +3048,11 @@
         "URL":  "https://youtu.be/bKCcDI5-Oa0",
         "VideoId":  "bKCcDI5-Oa0",
         "Song":  "DICE",
-        "Views":  53493,
-        "ViewsDelta":  30,
+        "Views":  53543,
+        "ViewsDelta":  50,
         "Type":  "Audio",
-        "Duration":  "4:03"
+        "Duration":  "4:03",
+        "Image":  "https://img.youtube.com/vi/bKCcDI5-Oa0/sddefault.jpg"
     },
     {
         "Title":  "DOMINATION",
@@ -2807,10 +3060,11 @@
         "URL":  "https://youtu.be/uc6ILmIBTMA",
         "VideoId":  "uc6ILmIBTMA",
         "Song":  "DOMINATION",
-        "Views":  53285,
-        "ViewsDelta":  51,
+        "Views":  53318,
+        "ViewsDelta":  33,
         "Type":  "Audio",
-        "Duration":  "3:51"
+        "Duration":  "3:51",
+        "Image":  "https://img.youtube.com/vi/uc6ILmIBTMA/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Present Perfect (Official Teaser Video AKANE)",
@@ -2818,10 +3072,11 @@
         "URL":  "https://youtu.be/y_P3bYEjsbE",
         "VideoId":  "y_P3bYEjsbE",
         "Song":  "Present Perfect",
-        "Views":  51900,
-        "ViewsDelta":  27,
+        "Views":  51953,
+        "ViewsDelta":  53,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:23"
+        "Duration":  "0:23",
+        "Image":  "https://img.youtube.com/vi/y_P3bYEjsbE/sddefault.jpg"
     },
     {
         "Title":  "Bubble",
@@ -2829,10 +3084,11 @@
         "URL":  "https://youtu.be/VMswJMSWKDw",
         "VideoId":  "VMswJMSWKDw",
         "Song":  "Bubble",
-        "Views":  51876,
-        "ViewsDelta":  34,
+        "Views":  51899,
+        "ViewsDelta":  23,
         "Type":  "Audio",
-        "Duration":  "3:47"
+        "Duration":  "3:47",
+        "Image":  "https://img.youtube.com/vi/VMswJMSWKDw/sddefault.jpg"
     },
     {
         "Title":  "I can\u0027t live without you.",
@@ -2840,10 +3096,11 @@
         "URL":  "https://youtu.be/fbiSk3eczBc",
         "VideoId":  "fbiSk3eczBc",
         "Song":  "I can\u0027t live without you.",
-        "Views":  49959,
-        "ViewsDelta":  43,
+        "Views":  49988,
+        "ViewsDelta":  29,
         "Type":  "Audio",
-        "Duration":  "3:50"
+        "Duration":  "3:50",
+        "Image":  "https://img.youtube.com/vi/fbiSk3eczBc/sddefault.jpg"
     },
     {
         "Title":  "Play",
@@ -2851,10 +3108,11 @@
         "URL":  "https://youtu.be/5kjW4huHKNo",
         "VideoId":  "5kjW4huHKNo",
         "Song":  "Play",
-        "Views":  49900,
-        "ViewsDelta":  46,
+        "Views":  49937,
+        "ViewsDelta":  37,
         "Type":  "Audio",
-        "Duration":  "3:20"
+        "Duration":  "3:20",
+        "Image":  "https://img.youtube.com/vi/5kjW4huHKNo/sddefault.jpg"
     },
     {
         "Title":  "FREEDOM",
@@ -2862,10 +3120,11 @@
         "URL":  "https://youtu.be/VMZxl3h3IPc",
         "VideoId":  "VMZxl3h3IPc",
         "Song":  "FREEDOM",
-        "Views":  49314,
-        "ViewsDelta":  41,
+        "Views":  49342,
+        "ViewsDelta":  28,
         "Type":  "Audio",
-        "Duration":  "3:45"
+        "Duration":  "3:45",
+        "Image":  "https://img.youtube.com/vi/VMZxl3h3IPc/sddefault.jpg"
     },
     {
         "Title":  "Choose me",
@@ -2873,10 +3132,11 @@
         "URL":  "https://youtu.be/I3icx12V-KU",
         "VideoId":  "I3icx12V-KU",
         "Song":  "Choose me",
-        "Views":  49120,
-        "ViewsDelta":  47,
+        "Views":  49189,
+        "ViewsDelta":  69,
         "Type":  "Audio",
-        "Duration":  "3:39"
+        "Duration":  "3:39",
+        "Image":  "https://img.youtube.com/vi/I3icx12V-KU/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID with The Warning / SHOW THEM (Official Teaser Video)  KANAMI vs Dany",
@@ -2884,10 +3144,11 @@
         "URL":  "https://youtu.be/YN9Mv3C0WE4",
         "VideoId":  "YN9Mv3C0WE4",
         "Song":  "Show Them",
-        "Views":  49117,
-        "ViewsDelta":  13,
+        "Views":  49138,
+        "ViewsDelta":  21,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:29"
+        "Duration":  "0:29",
+        "Image":  "https://img.youtube.com/vi/YN9Mv3C0WE4/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / What is justice? (Official Teaser Video SAIKI ver.) TVアニメ「桃源暗鬼」エンディング主題歌",
@@ -2895,10 +3156,11 @@
         "URL":  "https://youtu.be/TSb_aKt6KtI",
         "VideoId":  "TSb_aKt6KtI",
         "Song":  "What is justice?",
-        "Views":  49088,
-        "ViewsDelta":  25,
+        "Views":  49111,
+        "ViewsDelta":  23,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:27"
+        "Duration":  "0:27",
+        "Image":  "https://img.youtube.com/vi/TSb_aKt6KtI/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID with The Warning / SHOW THEM (Official Teaser Video)  MISA vs Ale",
@@ -2906,10 +3168,11 @@
         "URL":  "https://youtu.be/enNgR1c9ZEo",
         "VideoId":  "enNgR1c9ZEo",
         "Song":  "Show Them",
-        "Views":  48837,
-        "ViewsDelta":  4,
+        "Views":  48842,
+        "ViewsDelta":  5,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:29"
+        "Duration":  "0:29",
+        "Image":  "https://img.youtube.com/vi/enNgR1c9ZEo/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Ready to Rock (Official Teaser Video SAIKI ver.)  TVアニメ「ロックは淑女の嗜みでして」オープニングテーマソング",
@@ -2917,10 +3180,11 @@
         "URL":  "https://youtu.be/RcoQoHORdek",
         "VideoId":  "RcoQoHORdek",
         "Song":  "Ready to Rock",
-        "Views":  48345,
-        "ViewsDelta":  3,
+        "Views":  48350,
+        "ViewsDelta":  5,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:24"
+        "Duration":  "0:24",
+        "Image":  "https://img.youtube.com/vi/RcoQoHORdek/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / What is justice? (Official Teaser Video 2) TVアニメ「桃源暗鬼」エンディング主題歌",
@@ -2928,10 +3192,11 @@
         "URL":  "https://youtu.be/WVpuhXbZuR0",
         "VideoId":  "WVpuhXbZuR0",
         "Song":  "What is justice?",
-        "Views":  48298,
-        "ViewsDelta":  5,
+        "Views":  48302,
+        "ViewsDelta":  4,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:30"
+        "Duration":  "0:30",
+        "Image":  "https://img.youtube.com/vi/WVpuhXbZuR0/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Present Perfect (Official Teaser Video MIKU KOBATO)",
@@ -2939,10 +3204,11 @@
         "URL":  "https://youtu.be/s9xuG5xq0jo",
         "VideoId":  "s9xuG5xq0jo",
         "Song":  "Present Perfect",
-        "Views":  47993,
-        "ViewsDelta":  13,
+        "Views":  48010,
+        "ViewsDelta":  17,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:23"
+        "Duration":  "0:23",
+        "Image":  "https://img.youtube.com/vi/s9xuG5xq0jo/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Ready to Rock (Official Teaser Video MISA ver.)  TVアニメ「ロックは淑女の嗜みでして」オープニングテーマソング",
@@ -2950,10 +3216,11 @@
         "URL":  "https://youtu.be/h9t2zJe-JIY",
         "VideoId":  "h9t2zJe-JIY",
         "Song":  "Ready to Rock",
-        "Views":  47894,
-        "ViewsDelta":  8,
+        "Views":  47908,
+        "ViewsDelta":  14,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:24"
+        "Duration":  "0:24",
+        "Image":  "https://img.youtube.com/vi/h9t2zJe-JIY/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Ready to Rock (Official Teaser Video)  TVアニメ「ロックは淑女の嗜みでして」オープニングテーマソング",
@@ -2961,10 +3228,11 @@
         "URL":  "https://youtu.be/gKsEHgTRD84",
         "VideoId":  "gKsEHgTRD84",
         "Song":  "Ready to Rock",
-        "Views":  47769,
-        "ViewsDelta":  4,
+        "Views":  47774,
+        "ViewsDelta":  5,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:32"
+        "Duration":  "0:32",
+        "Image":  "https://img.youtube.com/vi/gKsEHgTRD84/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Present Perfect (Official Teaser Video 2)",
@@ -2972,10 +3240,11 @@
         "URL":  "https://youtu.be/KYqudoBNACU",
         "VideoId":  "KYqudoBNACU",
         "Song":  "Present Perfect",
-        "Views":  47004,
-        "ViewsDelta":  22,
+        "Views":  47014,
+        "ViewsDelta":  10,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:26"
+        "Duration":  "0:26",
+        "Image":  "https://img.youtube.com/vi/KYqudoBNACU/sddefault.jpg"
     },
     {
         "Title":  "REAL EXISTENCE",
@@ -2983,10 +3252,11 @@
         "URL":  "https://youtu.be/KARLb_qDCpg",
         "VideoId":  "KARLb_qDCpg",
         "Song":  "REAL EXISTENCE",
-        "Views":  46578,
-        "ViewsDelta":  30,
+        "Views":  46623,
+        "ViewsDelta":  45,
         "Type":  "Audio",
-        "Duration":  "4:10"
+        "Duration":  "4:10",
+        "Image":  "https://img.youtube.com/vi/KARLb_qDCpg/sddefault.jpg"
     },
     {
         "Title":  "alone",
@@ -2994,10 +3264,11 @@
         "URL":  "https://youtu.be/2UPXHfkrh-0",
         "VideoId":  "2UPXHfkrh-0",
         "Song":  "alone",
-        "Views":  46248,
-        "ViewsDelta":  24,
+        "Views":  46291,
+        "ViewsDelta":  43,
         "Type":  "Audio",
-        "Duration":  "3:28"
+        "Duration":  "3:28",
+        "Image":  "https://img.youtube.com/vi/2UPXHfkrh-0/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Present Perfect (Official Live Teaser 2)",
@@ -3005,10 +3276,11 @@
         "URL":  "https://youtu.be/ia1bjN1tjq4",
         "VideoId":  "ia1bjN1tjq4",
         "Song":  "Present Perfect",
-        "Views":  45731,
-        "ViewsDelta":  137,
+        "Views":  45830,
+        "ViewsDelta":  99,
         "Type":  "Other",
-        "Duration":  "1:00"
+        "Duration":  "1:00",
+        "Image":  "https://img.youtube.com/vi/ia1bjN1tjq4/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID with The Warning / SHOW THEM (Official Teaser Video)  MIKU KOBATO",
@@ -3016,10 +3288,11 @@
         "URL":  "https://youtu.be/L1prF8ArZb8",
         "VideoId":  "L1prF8ArZb8",
         "Song":  "Show Them",
-        "Views":  45616,
-        "ViewsDelta":  8,
+        "Views":  45618,
+        "ViewsDelta":  2,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:29"
+        "Duration":  "0:29",
+        "Image":  "https://img.youtube.com/vi/L1prF8ArZb8/sddefault.jpg"
     },
     {
         "Title":  "Ready to Rock",
@@ -3027,10 +3300,11 @@
         "URL":  "https://youtu.be/sYuZanAQ2Os",
         "VideoId":  "sYuZanAQ2Os",
         "Song":  "Ready to Rock",
-        "Views":  45424,
-        "ViewsDelta":  112,
+        "Views":  45546,
+        "ViewsDelta":  122,
         "Type":  "Audio",
-        "Duration":  "3:34"
+        "Duration":  "3:34",
+        "Image":  "https://img.youtube.com/vi/sYuZanAQ2Os/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / What is justice? (Official Teaser Video KANAMI ver.) TVアニメ「桃源暗鬼」エンディング主題歌",
@@ -3038,10 +3312,11 @@
         "URL":  "https://youtu.be/RjdMcfqLzhk",
         "VideoId":  "RjdMcfqLzhk",
         "Song":  "What is justice?",
-        "Views":  45152,
-        "ViewsDelta":  18,
+        "Views":  45173,
+        "ViewsDelta":  21,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:27"
+        "Duration":  "0:27",
+        "Image":  "https://img.youtube.com/vi/RjdMcfqLzhk/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID with The Warning / SHOW THEM (Official Teaser Video)  SAIKI vs Dany",
@@ -3049,10 +3324,11 @@
         "URL":  "https://youtu.be/_wA3a3op4I4",
         "VideoId":  "_wA3a3op4I4",
         "Song":  "Show Them",
-        "Views":  44569,
-        "ViewsDelta":  13,
+        "Views":  44579,
+        "ViewsDelta":  10,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:29"
+        "Duration":  "0:29",
+        "Image":  "https://img.youtube.com/vi/_wA3a3op4I4/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / New Album \"Epic Narratives\" (Official Teaser Video)",
@@ -3060,10 +3336,11 @@
         "URL":  "https://youtu.be/kobDkT-NMkU",
         "VideoId":  "kobDkT-NMkU",
         "Song":  "",
-        "Views":  44424,
-        "ViewsDelta":  9,
+        "Views":  44429,
+        "ViewsDelta":  5,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:53"
+        "Duration":  "0:53",
+        "Image":  "https://img.youtube.com/vi/kobDkT-NMkU/sddefault.jpg"
     },
     {
         "Title":  "Screaming",
@@ -3071,10 +3348,11 @@
         "URL":  "https://youtu.be/yiwuTda0E8s",
         "VideoId":  "yiwuTda0E8s",
         "Song":  "Screaming",
-        "Views":  44194,
-        "ViewsDelta":  38,
+        "Views":  44223,
+        "ViewsDelta":  29,
         "Type":  "Audio",
-        "Duration":  "3:50"
+        "Duration":  "3:50",
+        "Image":  "https://img.youtube.com/vi/yiwuTda0E8s/sddefault.jpg"
     },
     {
         "Title":  "What is justice?",
@@ -3082,10 +3360,11 @@
         "URL":  "https://youtu.be/2gKVQrp1IB4",
         "VideoId":  "2gKVQrp1IB4",
         "Song":  "What is justice?",
-        "Views":  43339,
-        "ViewsDelta":  113,
+        "Views":  43467,
+        "ViewsDelta":  128,
         "Type":  "Audio",
-        "Duration":  "3:25"
+        "Duration":  "3:25",
+        "Image":  "https://img.youtube.com/vi/2gKVQrp1IB4/sddefault.jpg"
     },
     {
         "Title":  "Rock in me",
@@ -3093,10 +3372,11 @@
         "URL":  "https://youtu.be/_i2Knq68730",
         "VideoId":  "_i2Knq68730",
         "Song":  "Rock in me",
-        "Views":  42893,
-        "ViewsDelta":  46,
+        "Views":  42933,
+        "ViewsDelta":  40,
         "Type":  "Audio",
-        "Duration":  "3:22"
+        "Duration":  "3:22",
+        "Image":  "https://img.youtube.com/vi/_i2Knq68730/sddefault.jpg"
     },
     {
         "Title":  "Daydreaming",
@@ -3104,10 +3384,11 @@
         "URL":  "https://youtu.be/Msr-nKTQcao",
         "VideoId":  "Msr-nKTQcao",
         "Song":  "Daydreaming",
-        "Views":  42469,
-        "ViewsDelta":  26,
+        "Views":  42510,
+        "ViewsDelta":  41,
         "Type":  "Audio",
-        "Duration":  "3:59"
+        "Duration":  "3:59",
+        "Image":  "https://img.youtube.com/vi/Msr-nKTQcao/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Zen (Official Teaser Video)  AKANE Ver.  MAPPAアニメ「全修。」オープニングテーマソング",
@@ -3115,10 +3396,11 @@
         "URL":  "https://youtu.be/Hn_D-xpYaXY",
         "VideoId":  "Hn_D-xpYaXY",
         "Song":  "Zen",
-        "Views":  42025,
-        "ViewsDelta":  2,
+        "Views":  42035,
+        "ViewsDelta":  10,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:27"
+        "Duration":  "0:27",
+        "Image":  "https://img.youtube.com/vi/Hn_D-xpYaXY/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / What is justice? (Official Teaser Video AKANE ver.) TVアニメ「桃源暗鬼」エンディング主題歌",
@@ -3126,10 +3408,11 @@
         "URL":  "https://youtu.be/byPQCySUe0M",
         "VideoId":  "byPQCySUe0M",
         "Song":  "What is justice?",
-        "Views":  41997,
-        "ViewsDelta":  5,
+        "Views":  42014,
+        "ViewsDelta":  17,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:27"
+        "Duration":  "0:27",
+        "Image":  "https://img.youtube.com/vi/byPQCySUe0M/sddefault.jpg"
     },
     {
         "Title":  "YOLO",
@@ -3137,10 +3420,11 @@
         "URL":  "https://youtu.be/hoOUddgdUXk",
         "VideoId":  "hoOUddgdUXk",
         "Song":  "YOLO",
-        "Views":  41949,
-        "ViewsDelta":  26,
+        "Views":  41984,
+        "ViewsDelta":  35,
         "Type":  "Audio",
-        "Duration":  "4:26"
+        "Duration":  "4:26",
+        "Image":  "https://img.youtube.com/vi/hoOUddgdUXk/sddefault.jpg"
     },
     {
         "Title":  "Don\u0027t you tell ME",
@@ -3148,10 +3432,11 @@
         "URL":  "https://youtu.be/83axQdf0gE8",
         "VideoId":  "83axQdf0gE8",
         "Song":  "Don\u0027t you tell ME",
-        "Views":  40697,
-        "ViewsDelta":  26,
+        "Views":  40737,
+        "ViewsDelta":  40,
         "Type":  "Audio",
-        "Duration":  "3:10"
+        "Duration":  "3:10",
+        "Image":  "https://img.youtube.com/vi/83axQdf0gE8/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Ready to Rock (Official Teaser Video)  TVアニメ「ロックは淑女の嗜みでして」オープニングテーマソング",
@@ -3159,10 +3444,11 @@
         "URL":  "https://youtu.be/Ii3dVgCB3_Q",
         "VideoId":  "Ii3dVgCB3_Q",
         "Song":  "Ready to Rock",
-        "Views":  39908,
-        "ViewsDelta":  3,
+        "Views":  39913,
+        "ViewsDelta":  5,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:26"
+        "Duration":  "0:26",
+        "Image":  "https://img.youtube.com/vi/Ii3dVgCB3_Q/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Present Perfect (Official Teaser Video KANAMI)",
@@ -3170,10 +3456,11 @@
         "URL":  "https://youtu.be/V8qZKlfgoFg",
         "VideoId":  "V8qZKlfgoFg",
         "Song":  "Present Perfect",
-        "Views":  38925,
+        "Views":  38946,
         "ViewsDelta":  21,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:23"
+        "Duration":  "0:23",
+        "Image":  "https://img.youtube.com/vi/V8qZKlfgoFg/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID in SUMMER SONIC 2024 #サマソニ #SUMMERSONIC #bandmaid",
@@ -3181,10 +3468,11 @@
         "URL":  "https://youtu.be/8ofX0GW1mHc",
         "VideoId":  "8ofX0GW1mHc",
         "Song":  "",
-        "Views":  38010,
-        "ViewsDelta":  5,
+        "Views":  38014,
+        "ViewsDelta":  4,
         "Type":  "Official Live Short",
-        "Duration":  "0:38"
+        "Duration":  "0:38",
+        "Image":  "https://img.youtube.com/vi/8ofX0GW1mHc/sddefault.jpg"
     },
     {
         "Title":  "Zen",
@@ -3192,10 +3480,11 @@
         "URL":  "https://youtu.be/azlZWEGgLQc",
         "VideoId":  "azlZWEGgLQc",
         "Song":  "Zen",
-        "Views":  36728,
-        "ViewsDelta":  85,
+        "Views":  36814,
+        "ViewsDelta":  86,
         "Type":  "Audio",
-        "Duration":  "3:41"
+        "Duration":  "3:41",
+        "Image":  "https://img.youtube.com/vi/azlZWEGgLQc/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Zen (Official Teaser Video)  SAIKI Ver.  MAPPAアニメ「全修。」オープニングテーマソング",
@@ -3203,10 +3492,11 @@
         "URL":  "https://youtu.be/D-mKCUY2UmI",
         "VideoId":  "D-mKCUY2UmI",
         "Song":  "Zen",
-        "Views":  36680,
-        "ViewsDelta":  2,
+        "Views":  36688,
+        "ViewsDelta":  8,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:27"
+        "Duration":  "0:27",
+        "Image":  "https://img.youtube.com/vi/D-mKCUY2UmI/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / What is justice? (Official Teaser Video MISA ver.) TVアニメ「桃源暗鬼」エンディング主題歌",
@@ -3214,10 +3504,11 @@
         "URL":  "https://youtu.be/_xflJi4BvWo",
         "VideoId":  "_xflJi4BvWo",
         "Song":  "What is justice?",
-        "Views":  36279,
-        "ViewsDelta":  2,
+        "Views":  36295,
+        "ViewsDelta":  16,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:27"
+        "Duration":  "0:27",
+        "Image":  "https://img.youtube.com/vi/_xflJi4BvWo/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Zen (Official Teaser Video) Lyric Video  MAPPAアニメ「全修。」オープニングテーマソング",
@@ -3225,10 +3516,11 @@
         "URL":  "https://youtu.be/ir0wriDMxns",
         "VideoId":  "ir0wriDMxns",
         "Song":  "Zen",
-        "Views":  35922,
-        "ViewsDelta":  3,
+        "Views":  35927,
+        "ViewsDelta":  5,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:28"
+        "Duration":  "0:28",
+        "Image":  "https://img.youtube.com/vi/ir0wriDMxns/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Zen (Official Teaser Video)  MISA Ver.  MAPPAアニメ「全修。」オープニングテーマソング",
@@ -3236,10 +3528,11 @@
         "URL":  "https://youtu.be/kgIMz3ibHiU",
         "VideoId":  "kgIMz3ibHiU",
         "Song":  "Zen",
-        "Views":  35391,
-        "ViewsDelta":  6,
+        "Views":  35398,
+        "ViewsDelta":  7,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:27"
+        "Duration":  "0:27",
+        "Image":  "https://img.youtube.com/vi/kgIMz3ibHiU/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Present Perfect (Official Teaser Video SAIKI)",
@@ -3247,10 +3540,11 @@
         "URL":  "https://youtu.be/LApK4w7OpJ8",
         "VideoId":  "LApK4w7OpJ8",
         "Song":  "Present Perfect",
-        "Views":  34365,
+        "Views":  34380,
         "ViewsDelta":  15,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:23"
+        "Duration":  "0:23",
+        "Image":  "https://img.youtube.com/vi/LApK4w7OpJ8/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID 2025",
@@ -3258,10 +3552,11 @@
         "URL":  "https://youtu.be/vwX8-HPivqg",
         "VideoId":  "vwX8-HPivqg",
         "Song":  "Zen",
-        "Views":  33280,
-        "ViewsDelta":  1,
+        "Views":  33282,
+        "ViewsDelta":  2,
         "Type":  "Other",
-        "Duration":  "0:57"
+        "Duration":  "0:57",
+        "Image":  "https://img.youtube.com/vi/vwX8-HPivqg/sddefault.jpg"
     },
     {
         "Title":  "glory",
@@ -3269,10 +3564,11 @@
         "URL":  "https://youtu.be/wvEFTlgYIAc",
         "VideoId":  "wvEFTlgYIAc",
         "Song":  "glory",
-        "Views":  33256,
-        "ViewsDelta":  27,
+        "Views":  33275,
+        "ViewsDelta":  19,
         "Type":  "Audio",
-        "Duration":  "3:35"
+        "Duration":  "3:35",
+        "Image":  "https://img.youtube.com/vi/wvEFTlgYIAc/sddefault.jpg"
     },
     {
         "Title":  "secret My lips",
@@ -3280,10 +3576,11 @@
         "URL":  "https://youtu.be/85QjGCRd5j0",
         "VideoId":  "85QjGCRd5j0",
         "Song":  "secret My lips",
-        "Views":  33122,
-        "ViewsDelta":  33,
+        "Views":  33143,
+        "ViewsDelta":  21,
         "Type":  "Audio",
-        "Duration":  "4:12"
+        "Duration":  "4:12",
+        "Image":  "https://img.youtube.com/vi/85QjGCRd5j0/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / What is justice? (Official Teaser Video 3) TVアニメ「桃源暗鬼」エンディング主題歌",
@@ -3291,10 +3588,11 @@
         "URL":  "https://youtu.be/AoIdy16pje8",
         "VideoId":  "AoIdy16pje8",
         "Song":  "What is justice?",
-        "Views":  32893,
-        "ViewsDelta":  8,
+        "Views":  32906,
+        "ViewsDelta":  13,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:32"
+        "Duration":  "0:32",
+        "Image":  "https://img.youtube.com/vi/AoIdy16pje8/sddefault.jpg"
     },
     {
         "Title":  "the non-fiction days",
@@ -3302,10 +3600,11 @@
         "URL":  "https://youtu.be/5rhwRHIF_EM",
         "VideoId":  "5rhwRHIF_EM",
         "Song":  "the non-fiction days",
-        "Views":  32448,
-        "ViewsDelta":  28,
+        "Views":  32473,
+        "ViewsDelta":  25,
         "Type":  "Audio",
-        "Duration":  "4:43"
+        "Duration":  "4:43",
+        "Image":  "https://img.youtube.com/vi/5rhwRHIF_EM/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Zen (Official Teaser Video)　MAPPAアニメ「全修。」オープニングテーマソング",
@@ -3313,10 +3612,11 @@
         "URL":  "https://youtu.be/CXQeSVxdSw4",
         "VideoId":  "CXQeSVxdSw4",
         "Song":  "Zen",
-        "Views":  32383,
-        "ViewsDelta":  1,
+        "Views":  32388,
+        "ViewsDelta":  5,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:30"
+        "Duration":  "0:30",
+        "Image":  "https://img.youtube.com/vi/CXQeSVxdSw4/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Present Perfect (Official Teaser Video MISA)",
@@ -3324,10 +3624,11 @@
         "URL":  "https://youtu.be/3ZvAceQG1Zw",
         "VideoId":  "3ZvAceQG1Zw",
         "Song":  "Present Perfect",
-        "Views":  31997,
-        "ViewsDelta":  23,
+        "Views":  32032,
+        "ViewsDelta":  35,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:23"
+        "Duration":  "0:23",
+        "Image":  "https://img.youtube.com/vi/3ZvAceQG1Zw/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Forbidden tale (Official Teaser Video) AKANE",
@@ -3335,10 +3636,11 @@
         "URL":  "https://youtu.be/fwKbV3B7pg4",
         "VideoId":  "fwKbV3B7pg4",
         "Song":  "Forbidden tale",
-        "Views":  31114,
-        "ViewsDelta":  1,
+        "Views":  31125,
+        "ViewsDelta":  11,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:30"
+        "Duration":  "0:30",
+        "Image":  "https://img.youtube.com/vi/fwKbV3B7pg4/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Forbidden tale (Official Teaser Video) KANAMI",
@@ -3346,10 +3648,11 @@
         "URL":  "https://youtu.be/X4IQwPJN7E0",
         "VideoId":  "X4IQwPJN7E0",
         "Song":  "Forbidden tale",
-        "Views":  31105,
-        "ViewsDelta":  4,
+        "Views":  31111,
+        "ViewsDelta":  6,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:32"
+        "Duration":  "0:32",
+        "Image":  "https://img.youtube.com/vi/X4IQwPJN7E0/sddefault.jpg"
     },
     {
         "Title":  "start over",
@@ -3357,10 +3660,11 @@
         "URL":  "https://youtu.be/a3QswEhUsy4",
         "VideoId":  "a3QswEhUsy4",
         "Song":  "start over",
-        "Views":  31007,
-        "ViewsDelta":  22,
+        "Views":  31043,
+        "ViewsDelta":  36,
         "Type":  "Audio",
-        "Duration":  "3:12"
+        "Duration":  "3:12",
+        "Image":  "https://img.youtube.com/vi/a3QswEhUsy4/sddefault.jpg"
     },
     {
         "Title":  "Different",
@@ -3368,10 +3672,11 @@
         "URL":  "https://youtu.be/91oVKMsHpYI",
         "VideoId":  "91oVKMsHpYI",
         "Song":  "Different",
-        "Views":  30958,
-        "ViewsDelta":  20,
+        "Views":  30991,
+        "ViewsDelta":  33,
         "Type":  "Audio",
-        "Duration":  "3:30"
+        "Duration":  "3:30",
+        "Image":  "https://img.youtube.com/vi/91oVKMsHpYI/sddefault.jpg"
     },
     {
         "Title":  "Bubble",
@@ -3379,10 +3684,11 @@
         "URL":  "https://youtu.be/viKp4mkdAzk",
         "VideoId":  "viKp4mkdAzk",
         "Song":  "Bubble",
-        "Views":  30909,
-        "ViewsDelta":  17,
+        "Views":  30939,
+        "ViewsDelta":  30,
         "Type":  "Audio",
-        "Duration":  "3:45"
+        "Duration":  "3:45",
+        "Image":  "https://img.youtube.com/vi/viKp4mkdAzk/sddefault.jpg"
     },
     {
         "Title":  "endless Story",
@@ -3390,10 +3696,11 @@
         "URL":  "https://youtu.be/cKG44jAk1Y8",
         "VideoId":  "cKG44jAk1Y8",
         "Song":  "endless Story",
-        "Views":  30405,
+        "Views":  30432,
         "ViewsDelta":  27,
         "Type":  "Audio",
-        "Duration":  "3:42"
+        "Duration":  "3:42",
+        "Image":  "https://img.youtube.com/vi/cKG44jAk1Y8/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID with The Warning / SHOW THEM (Official Teaser Video) KANAMI",
@@ -3401,10 +3708,11 @@
         "URL":  "https://youtu.be/2uVT3sr8QAs",
         "VideoId":  "2uVT3sr8QAs",
         "Song":  "Show Them",
-        "Views":  29066,
-        "ViewsDelta":  17,
+        "Views":  29073,
+        "ViewsDelta":  7,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:29"
+        "Duration":  "0:29",
+        "Image":  "https://img.youtube.com/vi/2uVT3sr8QAs/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / What is justice? (Official Talk Video  浦和希さん× 小鳩ミク Kazuki Ura × Miku Kobato)",
@@ -3412,10 +3720,11 @@
         "URL":  "https://youtu.be/zBOqFbyTgkI",
         "VideoId":  "zBOqFbyTgkI",
         "Song":  "What is justice?",
-        "Views":  28456,
-        "ViewsDelta":  6,
+        "Views":  28464,
+        "ViewsDelta":  8,
         "Type":  "Official Talk Video",
-        "Duration":  "1:00"
+        "Duration":  "1:00",
+        "Image":  "https://img.youtube.com/vi/zBOqFbyTgkI/sddefault.jpg"
     },
     {
         "Title":  "Blooming",
@@ -3423,10 +3732,11 @@
         "URL":  "https://youtu.be/-XFwab31HfY",
         "VideoId":  "-XFwab31HfY",
         "Song":  "Blooming",
-        "Views":  28190,
-        "ViewsDelta":  30,
+        "Views":  28210,
+        "ViewsDelta":  20,
         "Type":  "Audio",
-        "Duration":  "3:47"
+        "Duration":  "3:47",
+        "Image":  "https://img.youtube.com/vi/-XFwab31HfY/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Magie  #ジャイガ #bandmaid #夏フェス",
@@ -3434,10 +3744,11 @@
         "URL":  "https://youtu.be/B2N2xiinQzI",
         "VideoId":  "B2N2xiinQzI",
         "Song":  "Magie",
-        "Views":  27914,
-        "ViewsDelta":  3,
+        "Views":  27918,
+        "ViewsDelta":  4,
         "Type":  "Official Live Short",
-        "Duration":  "0:24"
+        "Duration":  "0:24",
+        "Image":  "https://img.youtube.com/vi/B2N2xiinQzI/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Forbidden tale (Official Teaser Video) SAIKI",
@@ -3445,10 +3756,11 @@
         "URL":  "https://youtu.be/woI6ILUBWaI",
         "VideoId":  "woI6ILUBWaI",
         "Song":  "Forbidden tale",
-        "Views":  27786,
+        "Views":  27788,
         "ViewsDelta":  2,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:32"
+        "Duration":  "0:32",
+        "Image":  "https://img.youtube.com/vi/woI6ILUBWaI/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / New Album \"Epic Narratives\" (Official Teaser Video)",
@@ -3456,10 +3768,11 @@
         "URL":  "https://youtu.be/8dawxG_v7Fc",
         "VideoId":  "8dawxG_v7Fc",
         "Song":  "",
-        "Views":  26315,
-        "ViewsDelta":  1,
+        "Views":  26318,
+        "ViewsDelta":  3,
         "Type":  "Official Teaser Video",
-        "Duration":  "1:00"
+        "Duration":  "1:00",
+        "Image":  "https://img.youtube.com/vi/8dawxG_v7Fc/sddefault.jpg"
     },
     {
         "Title":  "輪廻",
@@ -3467,10 +3780,11 @@
         "URL":  "https://youtu.be/CUteeAnG5Y4",
         "VideoId":  "CUteeAnG5Y4",
         "Song":  "Rinne",
-        "Views":  26239,
-        "ViewsDelta":  25,
+        "Views":  26256,
+        "ViewsDelta":  17,
         "Type":  "Audio",
-        "Duration":  "3:26"
+        "Duration":  "3:26",
+        "Image":  "https://img.youtube.com/vi/CUteeAnG5Y4/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Forbidden tale (Official Teaser Video)",
@@ -3478,10 +3792,11 @@
         "URL":  "https://youtu.be/D0Lj5un6Ul0",
         "VideoId":  "D0Lj5un6Ul0",
         "Song":  "Forbidden tale",
-        "Views":  25738,
-        "ViewsDelta":  1,
+        "Views":  25741,
+        "ViewsDelta":  3,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:49"
+        "Duration":  "0:49",
+        "Image":  "https://img.youtube.com/vi/D0Lj5un6Ul0/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / Forbidden tale (Official Teaser Video) MISA",
@@ -3489,10 +3804,11 @@
         "URL":  "https://youtu.be/PDhRae9X-w4",
         "VideoId":  "PDhRae9X-w4",
         "Song":  "Forbidden tale",
-        "Views":  25582,
-        "ViewsDelta":  4,
+        "Views":  25589,
+        "ViewsDelta":  7,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:32"
+        "Duration":  "0:32",
+        "Image":  "https://img.youtube.com/vi/PDhRae9X-w4/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID with The Warning / SHOW THEM (Official Teaser Video)",
@@ -3500,10 +3816,11 @@
         "URL":  "https://youtu.be/e3Q0GuBX3rk",
         "VideoId":  "e3Q0GuBX3rk",
         "Song":  "Show Them",
-        "Views":  25108,
+        "Views":  25114,
         "ViewsDelta":  6,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:37"
+        "Duration":  "0:37",
+        "Image":  "https://img.youtube.com/vi/e3Q0GuBX3rk/sddefault.jpg"
     },
     {
         "Title":  "2024.09.25 Release / BAND-MAID New Album \"Epic Narratives\" (Official Teaser Video)",
@@ -3511,10 +3828,11 @@
         "URL":  "https://youtu.be/PfMQkYxaVWE",
         "VideoId":  "PfMQkYxaVWE",
         "Song":  "",
-        "Views":  24042,
-        "ViewsDelta":  5,
+        "Views":  24045,
+        "ViewsDelta":  3,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:31"
+        "Duration":  "0:31",
+        "Image":  "https://img.youtube.com/vi/PfMQkYxaVWE/sddefault.jpg"
     },
     {
         "Title":  "YOLO (instrumental)",
@@ -3522,10 +3840,11 @@
         "URL":  "https://youtu.be/_iU7a_GnZXo",
         "VideoId":  "_iU7a_GnZXo",
         "Song":  "YOLO",
-        "Views":  22791,
-        "ViewsDelta":  26,
+        "Views":  22822,
+        "ViewsDelta":  31,
         "Type":  "Audio",
-        "Duration":  "4:26"
+        "Duration":  "4:26",
+        "Image":  "https://img.youtube.com/vi/_iU7a_GnZXo/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / What is justice? ×『桃源暗鬼』  Special Music Video #shorts (Anime Music Video Shorts)",
@@ -3533,10 +3852,11 @@
         "URL":  "https://youtu.be/sts6c_ZTwUM",
         "VideoId":  "sts6c_ZTwUM",
         "Song":  "What is justice?",
-        "Views":  20960,
+        "Views":  20967,
         "ViewsDelta":  7,
         "Type":  "Anime Music Video Short",
-        "Duration":  "0:31"
+        "Duration":  "0:31",
+        "Image":  "https://img.youtube.com/vi/sts6c_ZTwUM/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID with The Warning / SHOW THEM (Official Teaser Video) AKANE",
@@ -3544,10 +3864,11 @@
         "URL":  "https://youtu.be/TXj5Y4VfVkU",
         "VideoId":  "TXj5Y4VfVkU",
         "Song":  "Show Them",
-        "Views":  20478,
-        "ViewsDelta":  3,
+        "Views":  20482,
+        "ViewsDelta":  4,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:29"
+        "Duration":  "0:29",
+        "Image":  "https://img.youtube.com/vi/TXj5Y4VfVkU/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID with The Warning / SHOW THEM (Official Teaser Video) MISA vs Ale part 2",
@@ -3555,10 +3876,11 @@
         "URL":  "https://youtu.be/-NsV_51FYVE",
         "VideoId":  "-NsV_51FYVE",
         "Song":  "Show Them",
-        "Views":  19859,
-        "ViewsDelta":  12,
+        "Views":  19864,
+        "ViewsDelta":  5,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:29"
+        "Duration":  "0:29",
+        "Image":  "https://img.youtube.com/vi/-NsV_51FYVE/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID / What is justice? ×『桃源暗鬼』  Special Music Video #shorts 2 (Anime Music Video Shorts 2)",
@@ -3566,10 +3888,11 @@
         "URL":  "https://youtu.be/YltgGeE57LU",
         "VideoId":  "YltgGeE57LU",
         "Song":  "What is justice?",
-        "Views":  17017,
-        "ViewsDelta":  9,
+        "Views":  17034,
+        "ViewsDelta":  17,
         "Type":  "Anime Music Video Short",
-        "Duration":  "0:41"
+        "Duration":  "0:41",
+        "Image":  "https://img.youtube.com/vi/YltgGeE57LU/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID with The Warning / SHOW THEM (Official Teaser Video) AKANE vs Pau part 2",
@@ -3577,10 +3900,11 @@
         "URL":  "https://youtu.be/XDu4B75zz18",
         "VideoId":  "XDu4B75zz18",
         "Song":  "Show Them",
-        "Views":  16075,
-        "ViewsDelta":  2,
+        "Views":  16082,
+        "ViewsDelta":  7,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:29"
+        "Duration":  "0:29",
+        "Image":  "https://img.youtube.com/vi/XDu4B75zz18/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID with The Warning / SHOW THEM (Official Teaser Video) MISA",
@@ -3588,10 +3912,11 @@
         "URL":  "https://youtu.be/KKJUY7g1UaU",
         "VideoId":  "KKJUY7g1UaU",
         "Song":  "Show Them",
-        "Views":  15302,
-        "ViewsDelta":  2,
+        "Views":  15308,
+        "ViewsDelta":  6,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:29"
+        "Duration":  "0:29",
+        "Image":  "https://img.youtube.com/vi/KKJUY7g1UaU/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID with The Warning / SHOW THEM (Official Teaser Video) KANAMI vs Dany  part 2",
@@ -3599,10 +3924,11 @@
         "URL":  "https://youtu.be/QtdLS9CLkj8",
         "VideoId":  "QtdLS9CLkj8",
         "Song":  "Show Them",
-        "Views":  14779,
-        "ViewsDelta":  3,
+        "Views":  14786,
+        "ViewsDelta":  7,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:29"
+        "Duration":  "0:29",
+        "Image":  "https://img.youtube.com/vi/QtdLS9CLkj8/sddefault.jpg"
     },
     {
         "Title":  "Different (89sec Ver.)",
@@ -3610,10 +3936,11 @@
         "URL":  "https://youtu.be/zjYoCChnNjw",
         "VideoId":  "zjYoCChnNjw",
         "Song":  "Different",
-        "Views":  12910,
-        "ViewsDelta":  7,
+        "Views":  12919,
+        "ViewsDelta":  9,
         "Type":  "Audio",
-        "Duration":  "1:31"
+        "Duration":  "1:31",
+        "Image":  "https://img.youtube.com/vi/zjYoCChnNjw/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID with The Warning / SHOW THEM (Official Teaser Video) SAIKI vs Dany  part 2",
@@ -3621,10 +3948,11 @@
         "URL":  "https://youtu.be/Cc30aTM0DVo",
         "VideoId":  "Cc30aTM0DVo",
         "Song":  "Show Them",
-        "Views":  11430,
-        "ViewsDelta":  3,
+        "Views":  11435,
+        "ViewsDelta":  5,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:29"
+        "Duration":  "0:29",
+        "Image":  "https://img.youtube.com/vi/Cc30aTM0DVo/sddefault.jpg"
     },
     {
         "Title":  "BAND-MAID with The Warning / SHOW THEM (Official Teaser Video) SAIKI",
@@ -3632,10 +3960,11 @@
         "URL":  "https://youtu.be/ccfzCEO2RC8",
         "VideoId":  "ccfzCEO2RC8",
         "Song":  "Show Them",
-        "Views":  10028,
-        "ViewsDelta":  3,
+        "Views":  10032,
+        "ViewsDelta":  4,
         "Type":  "Official Teaser Video",
-        "Duration":  "0:29"
+        "Duration":  "0:29",
+        "Image":  "https://img.youtube.com/vi/ccfzCEO2RC8/sddefault.jpg"
     },
     {
         "Title":  "endless Story",
@@ -3643,10 +3972,11 @@
         "URL":  "https://youtu.be/MmhcEkgr_kY",
         "VideoId":  "MmhcEkgr_kY",
         "Song":  "endless Story",
-        "Views":  10008,
-        "ViewsDelta":  1,
+        "Views":  10014,
+        "ViewsDelta":  6,
         "Type":  "Audio",
-        "Duration":  "3:45"
+        "Duration":  "3:45",
+        "Image":  "https://img.youtube.com/vi/MmhcEkgr_kY/sddefault.jpg"
     },
     {
         "Title":  "Protect You (TVサイズ)",
@@ -3654,10 +3984,11 @@
         "URL":  "https://youtu.be/JQTMWroS3So",
         "VideoId":  "JQTMWroS3So",
         "Song":  "Protect You",
-        "Views":  9063,
-        "ViewsDelta":  13,
+        "Views":  9088,
+        "ViewsDelta":  25,
         "Type":  "Audio",
-        "Duration":  "1:37"
+        "Duration":  "1:37",
+        "Image":  "https://img.youtube.com/vi/JQTMWroS3So/sddefault.jpg"
     },
     {
         "Title":  "glory",
@@ -3665,10 +3996,11 @@
         "URL":  "https://youtu.be/-ZalwXFqleQ",
         "VideoId":  "-ZalwXFqleQ",
         "Song":  "glory",
-        "Views":  6016,
-        "ViewsDelta":  3,
+        "Views":  6017,
+        "ViewsDelta":  1,
         "Type":  "Audio",
-        "Duration":  "3:36"
+        "Duration":  "3:36",
+        "Image":  "https://img.youtube.com/vi/-ZalwXFqleQ/sddefault.jpg"
     },
     {
         "Title":  "secret MAIKO lips",
@@ -3676,10 +4008,11 @@
         "URL":  "https://youtu.be/jjLrlvuPVqY",
         "VideoId":  "jjLrlvuPVqY",
         "Song":  "secret My lips",
-        "Views":  5217,
-        "ViewsDelta":  3,
+        "Views":  5223,
+        "ViewsDelta":  6,
         "Type":  "Audio",
-        "Duration":  "4:28"
+        "Duration":  "4:28",
+        "Image":  "https://img.youtube.com/vi/jjLrlvuPVqY/sddefault.jpg"
     }
 
     ];
