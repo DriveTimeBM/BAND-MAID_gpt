@@ -3,84 +3,91 @@
       "Group": "Projects",
       "Order": 1,
       "Item": "Daily Reports",
+      "Description": "Over 200 BAND-MAID related reports. Most are updated daily.",
       "URL": "https://drivetimebm.github.io/BAND-MAID_reports/index.html"
     },
     {
       "Group": "Projects",
       "Order": 2,
       "Item": "BAND-MAID GPT",
+      "Description": "Customized version of ChatGPT with extensive knowledge of BAND-MAID and the specific vocabulary used by the band. Good for translations.",
       "URL": "https://chatgpt.com/g/g-68db200d63cc819190a84f2ff7cbf58f-unofficial-band-maid-gpt"
     },
     {
       "Group": "Projects",
       "Order": 3,
       "Item": "BAND-MAID GIFs",
+      "Description": "Over 450 BAND-MAID GIFs optimized to load quickly.",
       "URL": "https://drivetimebm.github.io/BAND-MAID_gifs/BAND-MAID-GIFs.html"
     },
     {
       "Group": "Projects",
       "Order": 4,
       "Item": "Searchable Songs",
+      "Description": "Complete searchable BAND-MAID songs list. Song details, member quotes, streaming stats updated daily",
       "URL": "https://drivetimebm.github.io/BAND-MAID_songs/index.html"
     },
     {
       "Group": "Projects",
       "Order": 5,
       "Item": "Searchable Setlists",
+      "Description": "All known BAND-MAID setlists easily searchable by song, venue, etc. with links to setlist.fm",
       "URL": "https://drivetimebm.github.io/BAND-MAID_okyuji/index.html"
     },
     {
       "Group": "Projects",
       "Order": 6,
       "Item": "Translated Tweets",
+      "Description": "All BAND-MAID and member tweets from 2013 through September 2025 translated to English",
       "URL": "https://drivetimebm.github.io/BAND-MAID_tweets/index.html"
     },
     {
       "Group": "Projects",
       "Order": 7,
       "Item": "Song Sorter",
+      "Description": "BAND-MAID song sorter with built-in completion estimation",
       "URL": "https://drivetimebm.github.io/BAND-MAID_song_sorter/bandmaid_song_sorter.html"
     },
     {
       "Group": "Projects",
       "Order": 8,
       "Item": "Creations",
-      "URL": "https://drivetimebm.github.io/BAND-MAID_creations/index.html"
-    },
-    {
-      "Group": "Projects",
-      "Order": 9,
-      "Item": "Creations",
+      "Description": "Collection of BAND-MAID image effects, logos, etc. in a known place which enables reliable, public links to the images.",
       "URL": "https://drivetimebm.github.io/BAND-MAID_creations/index.html"
     },
     {
       "Group": "Projects",
       "Order": 10,
       "Item": "Github",
+      "Description": "My github page where all of these various projects are hosted including this one",
       "URL": "https://github.com/DriveTimeBM"
     },
     {
       "Group": "BAND-MAID",
       "Order": 1,
       "Item": "Website",
+      "Description": "The main BAND-MAID website.",
       "URL": "https://bandmaid.tokyo/"
     },
     {
       "Group": "BAND-MAID",
       "Order": 2,
       "Item": "Prime",
+      "Description": "BAND-MAID premium content website. ",
       "URL": "https://bandmaidprime.tokyo/"
     },
     {
       "Group": "BAND-MAID",
       "Order": 3,
       "Item": "Fan Club",
+      "Description": "OMEISYUSAMA-NO-KAI. The official BAND-MAID fan club website which is a subsection of their main page.",
       "URL": "https://bandmaid.tokyo/#fanclub"
     },
     {
       "Group": "BAND-MAID",
       "Order": 4,
       "Item": "MAIDIT",
+      "Description": "The website for MAIDIT. Seems to be a placeholder at present, but messages can be sent to band management.",
       "URL": "https://maidit.co.jp/"
     }
   ]
