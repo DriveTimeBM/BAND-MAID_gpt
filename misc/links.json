@@ -89,5 +89,19 @@
       "Item": "MAIDIT",
       "Description": "The website for MAIDIT. Seems to be a placeholder at present, but messages can be sent to band management.",
       "URL": "https://maidit.co.jp/"
+    },
+    {
+      "Group": "BAND-MAID",
+      "Order": 5,
+      "Item": "YouTube",
+      "Description": "The official BAND-MAID YouTube channel",
+      "URL": "https://www.youtube.com/c/BANDMAID"
+    },
+    {
+      "Group": "BAND-MAID",
+      "Order": 6,
+      "Item": "Spotify",
+      "Description": "The official BAND-MAID Spotify channel",
+      "URL": "https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH"
     }
   ]
