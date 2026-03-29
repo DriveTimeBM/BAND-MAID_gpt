@@ -7,6 +7,7 @@
         "InstagramHandle":  "bandmaid",
         "InstagramUrl":  "https://www.instagram.com/bandmaid.jp",
         "InstagramFollowers":  165644,
+        "ImageUrl":  "#https://drivetimebm.github.io/BAND-MAID_creations/ribbon/band-maid-bow-logo-256x256.png#",
         "TikTokHandle":  "bandmaid_int",
         "TikTokUrl":  "https://www.tiktok.com/@bandmaid_int",
         "FacebookHandle":  "bandmaid",
@@ -15,8 +16,8 @@
         "YouTubeFollowers":  794000,
         "SpotifyFollowers":  371243,
         "redditFollowers":  15230,
-        "BilliBilliFollowers":  37320,
-        "DeezerFollowers":  11722,
+        "BilliBilliFollowers":  37322,
+        "DeezerFollowers":  11724,
         "TikTokFollowers":  18600
     },
     {
@@ -26,7 +27,8 @@
         "TwitterFollowers":  50899,
         "InstagramHandle":  "achi_bandmaid",
         "InstagramUrl":  "https://www.instagram.com/akane_bandmaid",
-        "InstagramFollowers":  73770
+        "InstagramFollowers":  73770,
+        "ImageUrl":  "#https://drivetimebm.github.io/BAND-MAID_creations/8-bit/akane-sharp.png#"
     },
     {
         "Member":  "Kanami",
@@ -35,7 +37,8 @@
         "TwitterFollowers":  52957,
         "InstagramHandle":  "kanami_bandmaid",
         "InstagramUrl":  "https://www.instagram.com/kanami_bandmaid",
-        "InstagramFollowers":  77433
+        "InstagramFollowers":  77433,
+        "ImageUrl":  "#https://drivetimebm.github.io/BAND-MAID_creations/8-bit/kanami-sharp.png#"
     },
     {
         "Member":  "Miku",
@@ -45,6 +48,7 @@
         "InstagramHandle":  "miku_bandmaid",
         "InstagramUrl":  "https://www.instagram.com/kobatomiku",
         "InstagramFollowers":  97201,
+        "ImageUrl":  "#https://drivetimebm.github.io/BAND-MAID_creations/8-bit/miku-8-bit-colorized.png#",
         "TikTokHandle":  "kobatomikucluppo",
         "TikTokFollowers":  113410,
         "TikTokUrl":  "https://www.tiktok.com/@kobatomikucluppo"
@@ -56,7 +60,8 @@
         "TwitterFollowers":  37596,
         "InstagramHandle":  "misa_bandmaid",
         "InstagramUrl":  "https://www.instagram.com/misa_bandmaid",
-        "InstagramFollowers":  84074
+        "InstagramFollowers":  84074,
+        "ImageUrl":  "#https://drivetimebm.github.io/BAND-MAID_creations/8-bit/misa-sharp.png#"
     },
     {
         "Member":  "Saiki",
@@ -65,6 +70,7 @@
         "TwitterFollowers":  53917,
         "InstagramHandle":  "saiki_bandmaid",
         "InstagramUrl":  "https://www.instagram.com/saiki_bandmaid",
-        "InstagramFollowers":  79928
+        "InstagramFollowers":  79928,
+        "ImageUrl":  "#https://drivetimebm.github.io/BAND-MAID_creations/8-bit/saiki-8-bit-colorized.png#"
     }
 ]
