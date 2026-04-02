@@ -6,7 +6,7 @@
         "Album":  "Daydreaming / Choose me",
         "KobatoLead":  "no",
         "PlayedLiveCount":  235,
-        "SpotifyStreams":  15295006,
+        "SpotifyStreams":  15329258,
         "MediaTieIn":  "Used in Netflix movie Kate. Used in S01E03 of TV show Peacemaker."
     },
     {
@@ -86,7 +86,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  164,
-        "SpotifyStreams":  3829637,
+        "SpotifyStreams":  3836260,
         "MediaTieIn":  null
     },
     {
@@ -126,7 +126,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  35,
-        "SpotifyStreams":  3278784,
+        "SpotifyStreams":  3284257,
         "MediaTieIn":  "Used in TV show World Pro-Wrestling (TV Asahi)"
     },
     {
@@ -146,7 +146,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  53,
-        "SpotifyStreams":  3168076,
+        "SpotifyStreams":  3171971,
         "MediaTieIn":  null
     },
     {
@@ -196,7 +196,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  48,
-        "SpotifyStreams":  2514123,
+        "SpotifyStreams":  2518343,
         "MediaTieIn":  null
     },
     {
@@ -256,7 +256,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  2,
-        "SpotifyStreams":  2138928,
+        "SpotifyStreams":  2142132,
         "MediaTieIn":  null
     },
     {
@@ -336,7 +336,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  45,
-        "SpotifyStreams":  1853283,
+        "SpotifyStreams":  1857861,
         "MediaTieIn":  null
     },
     {
@@ -436,7 +436,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  18,
-        "SpotifyStreams":  1550700,
+        "SpotifyStreams":  1554957,
         "MediaTieIn":  null
     },
     {
@@ -556,7 +556,7 @@
         "Album":  "Love, Passion, Matador (愛と情熱のマタドール)",
         "KobatoLead":  "no",
         "PlayedLiveCount":  36,
-        "SpotifyStreams":  1230862,
+        "SpotifyStreams":  1231677,
         "MediaTieIn":  null
     },
     {
@@ -586,7 +586,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  43,
-        "SpotifyStreams":  1204853,
+        "SpotifyStreams":  1206662,
         "MediaTieIn":  null
     },
     {
@@ -596,7 +596,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
-        "SpotifyStreams":  1187168,
+        "SpotifyStreams":  1189029,
         "MediaTieIn":  null
     },
     {
@@ -686,7 +686,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  36,
-        "SpotifyStreams":  1030245,
+        "SpotifyStreams":  1031271,
         "MediaTieIn":  null
     },
     {
@@ -936,7 +936,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  13,
-        "SpotifyStreams":  739700,
+        "SpotifyStreams":  740744,
         "MediaTieIn":  null
     },
     {
@@ -956,7 +956,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  9,
-        "SpotifyStreams":  728607,
+        "SpotifyStreams":  729217,
         "MediaTieIn":  null
     },
     {
@@ -1026,7 +1026,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
-        "SpotifyStreams":  683638,
+        "SpotifyStreams":  684516,
         "MediaTieIn":  null
     },
     {
@@ -1116,7 +1116,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  567423,
+        "SpotifyStreams":  568282,
         "MediaTieIn":  null
     },
     {
@@ -1136,7 +1136,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  41,
-        "SpotifyStreams":  498348,
+        "SpotifyStreams":  503992,
         "MediaTieIn":  null
     },
     {
@@ -1236,7 +1236,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  24,
-        "SpotifyStreams":  206119,
+        "SpotifyStreams":  207313,
         "MediaTieIn":  null
     },
     {
@@ -1270,6 +1270,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "SION",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2025-10-22T00:00:00",
+        "Album":  "SCOOOOOP",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  4,
+        "SpotifyStreams":  184899,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "YOLO (instrumental)",
         "AlternativeName":  "",
         "ReleaseDate":  "2016-11-16T00:00:00",
@@ -1277,16 +1287,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
         "SpotifyStreams":  182374,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "SION",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2025-10-22T00:00:00",
-        "Album":  "SCOOOOOP",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  4,
-        "SpotifyStreams":  181004,
         "MediaTieIn":  null
     },
     {

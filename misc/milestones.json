@@ -1,12 +1,27 @@
 ﻿[
     {
         "Categoty":  "YouTube",
-        "Item":  "① Ready to Rock https://youtu.be/5uOdE0j4h1E",
-        "Milestone":  "  👀 Surpassed **2,400,000** views!"
+        "Item":  "① BAND-MAID / without holding back (Official Live Video) https://youtu.be/oWQpbAmfZLE",
+        "Milestone":  "  👀 Surpassed **200,000** views!"
     },
     {
         "Categoty":  "Spotify",
-        "Item":  "① Thrill ",
-        "Milestone":  "🤩 Surpassed **7,400,000** streams!"
+        "Item":  "① Choose me ",
+        "Milestone":  "🗳️ Surpassed **15,300,000** streams!"
+    },
+    {
+        "Categoty":  "Spotify",
+        "Item":  "② Brightest Star ",
+        "Milestone":  "🌟 Surpassed **500,000** streams!"
+    },
+    {
+        "Categoty":  "Total Streams",
+        "Item":  "YouTube Total Streams",
+        "Milestone":  "  👀 Surpassed **284** MILLION views!"
+    },
+    {
+        "Categoty":  "Total Streams",
+        "Item":  "Spotify Total Streams",
+        "Milestone":  "  🎧 Surpassed **216** MILLION streams!"
     }
 ]

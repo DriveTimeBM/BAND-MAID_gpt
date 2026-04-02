@@ -10,10 +10,10 @@
     {
         "Summary":  "Kanagawa - KT Zepp Yokohama",
         "Start_Local":  "2026-04-11T08:30:00",
-        "Description":  "Open 16:30",
+        "Description":  "\u003ca href=\"https://bandmaid.tokyo/contents/1041130\"\u003ehttps://bandmaid.tokyo/contents/1041130\u003c/a\u003e",
         "Location":  "KT Zepp Yokohama, 4-chōme-3-6 Minatomirai, Nishi Ward, Yokohama, Kanagawa 220-0012, Japan",
         "Start_Japan":  "2026-04-11T17:30:00",
-        "URL":  null
+        "URL":  "https://bandmaid.tokyo/contents/1041130"
     },
     {
         "Summary":  "Sendai - Gigs",
@@ -134,6 +134,14 @@
         "Location":  "Maishima Sports Island, 2-chōme-1-128 Hokkōryokuchi, Konohana Ward, Osaka, 554-0042, Japan",
         "Start_Japan":  "2026-08-02T15:00:00",
         "URL":  "https://giga-osaka.com/"
+    },
+    {
+        "Summary":  "Tokyo - Summer Sonic",
+        "Start_Local":  "2026-08-16T07:00:00",
+        "Description":  "\u003ca href=\"https://www.summersonic.com/\"\u003ehttps://www.summersonic.com/\u003c/a\u003e",
+        "Location":  "ZOZO Marine Stadium, 1 Mihama, Mihama Ward, Chiba, 261-0022, Japan",
+        "Start_Japan":  "2026-08-16T16:00:00",
+        "URL":  "https://www.summersonic.com/"
     },
     {
         "Summary":  "AICHI - COMTEC PORTBASE",
