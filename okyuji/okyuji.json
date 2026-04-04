@@ -1,5 +1,18 @@
 ﻿[
     {
+        "SetDate":  "2026-04-04",
+        "Country":  "JP",
+        "City":  "Yokohama",
+        "Venue":  "KT Zepp Yokohama",
+        "Tour":  "",
+        "URL":  "https://www.setlist.fm/setlist/bandmaid/2026/kt-zepp-yokohama-yokohama-japan-4b4befc6.html",
+        "NumberOfSongs":  10,
+        "SetlistDelimited":  "What is justice?/glory/Choose me/SUPER SUNSHINE/Protect You/Shambles/Dilly-Dally/Present Perfect/Ready to Rock/NO GOD",
+        "Opener":  "What is justice?",
+        "Closer":  "NO GOD",
+        "LatLon":  "35.45,139.65"
+    },
+    {
         "SetDate":  "2026-03-22",
         "Country":  "TW",
         "City":  "Kaohsiung City",
@@ -434,9 +447,9 @@
         "City":  "Osaka",
         "Venue":  "Billboard Live OSAKA",
         "Tour":  "BAND-MAID Billboard Live Acoustic Tour",
-        "URL":  "https://www.setlist.fm/setlist/bandmaid/2025/billboard-live-osaka-osaka-japan-735faadd.html",
+        "URL":  "https://www.setlist.fm/setlist/bandmaid/2025/billboard-live-osaka-osaka-japan-5358c3dd.html",
         "NumberOfSongs":  12,
-        "SetlistDelimited":  "Choose me/Sense/Mirage/Bestie/Daydreaming/Corallium/Forbidden tale/Sayonakidori/Bubble/Letters to you/Memorable/alone",
+        "SetlistDelimited":  "Choose me/Shambles/Wonderland/Bestie/Daydreaming/Corallium/Forbidden tale/Sayonakidori/Bubble/Letters to you/Memorable/alone",
         "Opener":  "Choose me",
         "Closer":  "alone",
         "LatLon":  "34.694,135.502"
@@ -447,9 +460,9 @@
         "City":  "Osaka",
         "Venue":  "Billboard Live OSAKA",
         "Tour":  "BAND-MAID Billboard Live Acoustic Tour",
-        "URL":  "https://www.setlist.fm/setlist/bandmaid/2025/billboard-live-osaka-osaka-japan-5358c3dd.html",
+        "URL":  "https://www.setlist.fm/setlist/bandmaid/2025/billboard-live-osaka-osaka-japan-735faadd.html",
         "NumberOfSongs":  12,
-        "SetlistDelimited":  "Choose me/Shambles/Wonderland/Bestie/Daydreaming/Corallium/Forbidden tale/Sayonakidori/Bubble/Letters to you/Memorable/alone",
+        "SetlistDelimited":  "Choose me/Sense/Mirage/Bestie/Daydreaming/Corallium/Forbidden tale/Sayonakidori/Bubble/Letters to you/Memorable/alone",
         "Opener":  "Choose me",
         "Closer":  "alone",
         "LatLon":  "34.694,135.502"
