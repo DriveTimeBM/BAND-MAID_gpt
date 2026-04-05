@@ -7,13 +7,6 @@
     "URL": "https://discord.gg/tfpJ6xBWEN"
   },
   {
-    "Group": "Projects",
-    "Order": 2,
-    "Item": "Daily Reports",
-    "Description": "Over 200 BAND-MAID related reports. Most are updated daily.",
-    "URL": "https://drivetimebm.github.io/BAND-MAID_reports/index.html"
-  },
-  {
       "Group": "Projects",
       "Order": 3,
       "Item": "BAND-MAID GPT",
@@ -22,38 +15,10 @@
     },
     {
       "Group": "Projects",
-      "Order": 4,
-      "Item": "BAND-MAID GIFs",
-      "Description": "Over 450 BAND-MAID GIFs optimized to load quickly.",
-      "URL": "https://drivetimebm.github.io/BAND-MAID_gifs/BAND-MAID-GIFs.html"
-    },
-    {
-      "Group": "Projects",
       "Order": 5,
       "Item": "Searchable Songs",
       "Description": "Complete searchable BAND-MAID songs list. Song details, member quotes, streaming stats updated daily",
       "URL": "https://drivetimebm.github.io/BAND-MAID_songs/index.html"
-    },
-    {
-      "Group": "Projects",
-      "Order": 6,
-      "Item": "Searchable Setlists",
-      "Description": "All known BAND-MAID setlists easily searchable by song, venue, etc. with links to setlist.fm",
-      "URL": "https://drivetimebm.github.io/BAND-MAID_okyuji/index.html"
-    },
-    {
-      "Group": "Projects",
-      "Order": 7,
-      "Item": "Translated Tweets",
-      "Description": "All BAND-MAID and member tweets from 2013 through September 2025 translated to English",
-      "URL": "https://drivetimebm.github.io/BAND-MAID_tweets/index.html"
-    },
-    {
-      "Group": "Projects",
-      "Order": 8,
-      "Item": "Song Sorter",
-      "Description": "BAND-MAID song sorter with built-in completion estimation",
-      "URL": "https://drivetimebm.github.io/BAND-MAID_song_sorter/bandmaid_song_sorter.html"
     },
     {
       "Group": "Projects",
