@@ -10,11 +10,6 @@
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Views%20Per%20Day.pdf"
     },
     {
-        "File":  "YouTube Viewers by City.pdf",
-        "Description":  "Top cities for YT video views",
-        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Viewers%20by%20City.pdf"
-    },
-    {
         "File":  "YouTube Videos by Type.pdf",
         "Description":  "Breakdown of YT videos by type (OMV,OLV,Audio, etc.)",
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Videos%20by%20Type.pdf"
@@ -98,6 +93,11 @@
         "File":  "YouTube Milestones.pdf",
         "Description":  "All YT milestones for today. (Surpassing the next 100K mark)",
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Milestones.pdf"
+    },
+    {
+        "File":  "YouTube Locations.pdf",
+        "Description":  "YouTube 7 and 28 day City and Country data obtained daily.",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/YouTube%20Locations.pdf"
     },
     {
         "File":  "YouTube Language Breakdown.pdf",
@@ -1020,6 +1020,16 @@
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/Albums%20On%20Report.pdf"
     },
     {
+        "File":  "yTAQ5dCpuiM.pdf",
+        "Description":  "Daily YT stats for the Dilly-Dally OLV (benefitted from ad campaign)",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/yTAQ5dCpuiM.pdf"
+    },
+    {
+        "File":  "2U9AP21jXuk.pdf",
+        "Description":  "Daily YT stats for the Present Perfect OLV (benefitted from ad campaign)",
+        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/2U9AP21jXuk.pdf"
+    },
+    {
         "File":  "XHuBR4nAjrE.pdf",
         "Description":  "Day by day views for the Zen audio track",
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/XHuBR4nAjrE.pdf"
@@ -1058,11 +1068,6 @@
         "File":  "yzSdgw-tdr0.pdf",
         "Description":  "Daily YT stats for the Present Perfect OMV",
         "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/yzSdgw-tdr0.pdf"
-    },
-    {
-        "File":  "2U9AP21jXuk.pdf",
-        "Description":  "Daily YT stats for the Present Perfect OLV (benefitted from ad campaign)",
-        "Link":  "https://drivetimebm.github.io/BAND-MAID_reports/Reports/2U9AP21jXuk.pdf"
     },
     {
         "File":  "JohnPJohnson YouTube Comments.pdf",
