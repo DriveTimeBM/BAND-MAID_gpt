@@ -9,7 +9,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "04/01/2026 to 04/08/2026",
     "RegionTimeFrame": "City-7day",
-    "RegionName": "Osaka"
+    "RegionName": " Osaka"
   },
   {
     "DataType": "City",
@@ -21,7 +21,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "04/01/2026 to 04/08/2026",
     "RegionTimeFrame": "City-7day",
-    "RegionName": "Mexico City"
+    "RegionName": " Mexico City"
   },
   {
     "DataType": "City",
@@ -33,7 +33,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "04/01/2026 to 04/08/2026",
     "RegionTimeFrame": "City-7day",
-    "RegionName": "Sapporo"
+    "RegionName": " Sapporo"
   },
   {
     "DataType": "City",
@@ -45,7 +45,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "04/01/2026 to 04/08/2026",
     "RegionTimeFrame": "City-7day",
-    "RegionName": "Yokohama"
+    "RegionName": " Yokohama"
   },
   {
     "DataType": "City",
@@ -57,7 +57,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "04/01/2026 to 04/08/2026",
     "RegionTimeFrame": "City-7day",
-    "RegionName": "Nagoya"
+    "RegionName": " Nagoya"
   },
   {
     "DataType": "City",
@@ -69,7 +69,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "04/01/2026 to 04/08/2026",
     "RegionTimeFrame": "City-7day",
-    "RegionName": "Fukuoka"
+    "RegionName": " Fukuoka"
   },
   {
     "DataType": "City",
@@ -81,7 +81,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "04/01/2026 to 04/08/2026",
     "RegionTimeFrame": "City-7day",
-    "RegionName": "Bangkok"
+    "RegionName": " Bangkok"
   },
   {
     "DataType": "City",
@@ -93,7 +93,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "04/01/2026 to 04/08/2026",
     "RegionTimeFrame": "City-7day",
-    "RegionName": "Shibuya"
+    "RegionName": " Shibuya"
   },
   {
     "DataType": "City",
@@ -105,7 +105,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "04/01/2026 to 04/08/2026",
     "RegionTimeFrame": "City-7day",
-    "RegionName": "Shinjuku City"
+    "RegionName": " Shinjuku City"
   },
   {
     "DataType": "City",
@@ -117,7 +117,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "04/01/2026 to 04/08/2026",
     "RegionTimeFrame": "City-7day",
-    "RegionName": "Seoul"
+    "RegionName": " Seoul"
   },
   {
     "DataType": "City",
@@ -129,7 +129,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "04/01/2026 to 04/08/2026",
     "RegionTimeFrame": "City-7day",
-    "RegionName": "Kawasaki"
+    "RegionName": " Kawasaki"
   },
   {
     "DataType": "City",
@@ -141,7 +141,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "04/01/2026 to 04/08/2026",
     "RegionTimeFrame": "City-7day",
-    "RegionName": "Hong Kong"
+    "RegionName": " Hong Kong"
   },
   {
     "DataType": "City",
@@ -153,7 +153,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "04/01/2026 to 04/08/2026",
     "RegionTimeFrame": "City-7day",
-    "RegionName": "Tijuana"
+    "RegionName": " Tijuana"
   },
   {
     "DataType": "City",
@@ -165,7 +165,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "04/01/2026 to 04/08/2026",
     "RegionTimeFrame": "City-7day",
-    "RegionName": "Kyoto"
+    "RegionName": " Kyoto"
   },
   {
     "DataType": "City",
@@ -177,7 +177,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "04/01/2026 to 04/08/2026",
     "RegionTimeFrame": "City-7day",
-    "RegionName": "Hiroshima"
+    "RegionName": " Hiroshima"
   },
   {
     "DataType": "Country",
@@ -189,7 +189,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "04/01/2026 to 04/08/2026",
     "RegionTimeFrame": "Country-7day",
-    "RegionName": "🇯🇵Japan"
+    "RegionName": "🇯🇵 Japan"
   },
   {
     "DataType": "Country",
@@ -201,7 +201,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "04/01/2026 to 04/08/2026",
     "RegionTimeFrame": "Country-7day",
-    "RegionName": "🇲🇽Mexico"
+    "RegionName": "🇲🇽 Mexico"
   },
   {
     "DataType": "Country",
@@ -213,7 +213,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "04/01/2026 to 04/08/2026",
     "RegionTimeFrame": "Country-7day",
-    "RegionName": "🇺🇸United States"
+    "RegionName": "🇺🇸 United States"
   },
   {
     "DataType": "Country",
@@ -225,7 +225,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "04/01/2026 to 04/08/2026",
     "RegionTimeFrame": "Country-7day",
-    "RegionName": "🇹🇼Taiwan"
+    "RegionName": "🇹🇼 Taiwan"
   },
   {
     "DataType": "Country",
@@ -237,7 +237,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "04/01/2026 to 04/08/2026",
     "RegionTimeFrame": "Country-7day",
-    "RegionName": "🇩🇪Germany"
+    "RegionName": "🇩🇪 Germany"
   },
   {
     "DataType": "Country",
@@ -249,7 +249,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "04/01/2026 to 04/08/2026",
     "RegionTimeFrame": "Country-7day",
-    "RegionName": "🇹🇭Thailand"
+    "RegionName": "🇹🇭 Thailand"
   },
   {
     "DataType": "Country",
@@ -261,7 +261,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "04/01/2026 to 04/08/2026",
     "RegionTimeFrame": "Country-7day",
-    "RegionName": "🇧🇷Brazil"
+    "RegionName": "🇧🇷 Brazil"
   },
   {
     "DataType": "Country",
@@ -273,7 +273,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "04/01/2026 to 04/08/2026",
     "RegionTimeFrame": "Country-7day",
-    "RegionName": "🇫🇷France"
+    "RegionName": "🇫🇷 France"
   },
   {
     "DataType": "Country",
@@ -285,7 +285,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "04/01/2026 to 04/08/2026",
     "RegionTimeFrame": "Country-7day",
-    "RegionName": "🇬🇧United Kingdom"
+    "RegionName": "🇬🇧 United Kingdom"
   },
   {
     "DataType": "Country",
@@ -297,7 +297,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "04/01/2026 to 04/08/2026",
     "RegionTimeFrame": "Country-7day",
-    "RegionName": "🇰🇷South Korea"
+    "RegionName": "🇰🇷 South Korea"
   },
   {
     "DataType": "Country",
@@ -309,7 +309,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "04/01/2026 to 04/08/2026",
     "RegionTimeFrame": "Country-7day",
-    "RegionName": "🇮🇩Indonesia"
+    "RegionName": "🇮🇩 Indonesia"
   },
   {
     "DataType": "Country",
@@ -321,7 +321,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "04/01/2026 to 04/08/2026",
     "RegionTimeFrame": "Country-7day",
-    "RegionName": "🇨🇦Canada"
+    "RegionName": "🇨🇦 Canada"
   },
   {
     "DataType": "Country",
@@ -333,7 +333,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "04/01/2026 to 04/08/2026",
     "RegionTimeFrame": "Country-7day",
-    "RegionName": "🇷🇺Russia"
+    "RegionName": "🇷🇺 Russia"
   },
   {
     "DataType": "Country",
@@ -345,7 +345,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "04/01/2026 to 04/08/2026",
     "RegionTimeFrame": "Country-7day",
-    "RegionName": "🇦🇷Argentina"
+    "RegionName": "🇦🇷 Argentina"
   },
   {
     "DataType": "Country",
@@ -357,7 +357,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "04/01/2026 to 04/08/2026",
     "RegionTimeFrame": "Country-7day",
-    "RegionName": "🇵🇭Philippines"
+    "RegionName": "🇵🇭 Philippines"
   },
   {
     "DataType": "City",
@@ -369,7 +369,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "03/11/2026 to 04/08/2026",
     "RegionTimeFrame": "City-28day",
-    "RegionName": "Osaka"
+    "RegionName": " Osaka"
   },
   {
     "DataType": "City",
@@ -381,7 +381,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "03/11/2026 to 04/08/2026",
     "RegionTimeFrame": "City-28day",
-    "RegionName": "Sapporo"
+    "RegionName": " Sapporo"
   },
   {
     "DataType": "City",
@@ -393,7 +393,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "03/11/2026 to 04/08/2026",
     "RegionTimeFrame": "City-28day",
-    "RegionName": "Yokohama"
+    "RegionName": " Yokohama"
   },
   {
     "DataType": "City",
@@ -405,7 +405,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "03/11/2026 to 04/08/2026",
     "RegionTimeFrame": "City-28day",
-    "RegionName": "Nagoya"
+    "RegionName": " Nagoya"
   },
   {
     "DataType": "City",
@@ -417,7 +417,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "03/11/2026 to 04/08/2026",
     "RegionTimeFrame": "City-28day",
-    "RegionName": "Bangkok"
+    "RegionName": " Bangkok"
   },
   {
     "DataType": "City",
@@ -429,7 +429,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "03/11/2026 to 04/08/2026",
     "RegionTimeFrame": "City-28day",
-    "RegionName": "Fukuoka"
+    "RegionName": " Fukuoka"
   },
   {
     "DataType": "City",
@@ -441,7 +441,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "03/11/2026 to 04/08/2026",
     "RegionTimeFrame": "City-28day",
-    "RegionName": "Mexico City"
+    "RegionName": " Mexico City"
   },
   {
     "DataType": "City",
@@ -453,7 +453,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "03/11/2026 to 04/08/2026",
     "RegionTimeFrame": "City-28day",
-    "RegionName": "Hong Kong"
+    "RegionName": " Hong Kong"
   },
   {
     "DataType": "City",
@@ -465,7 +465,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "03/11/2026 to 04/08/2026",
     "RegionTimeFrame": "City-28day",
-    "RegionName": "Seoul"
+    "RegionName": " Seoul"
   },
   {
     "DataType": "City",
@@ -477,7 +477,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "03/11/2026 to 04/08/2026",
     "RegionTimeFrame": "City-28day",
-    "RegionName": "Shinjuku City"
+    "RegionName": " Shinjuku City"
   },
   {
     "DataType": "City",
@@ -489,7 +489,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "03/11/2026 to 04/08/2026",
     "RegionTimeFrame": "City-28day",
-    "RegionName": "Shibuya"
+    "RegionName": " Shibuya"
   },
   {
     "DataType": "City",
@@ -501,7 +501,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "03/11/2026 to 04/08/2026",
     "RegionTimeFrame": "City-28day",
-    "RegionName": "Santiago"
+    "RegionName": " Santiago"
   },
   {
     "DataType": "City",
@@ -513,7 +513,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "03/11/2026 to 04/08/2026",
     "RegionTimeFrame": "City-28day",
-    "RegionName": "Hiroshima"
+    "RegionName": " Hiroshima"
   },
   {
     "DataType": "City",
@@ -525,7 +525,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "03/11/2026 to 04/08/2026",
     "RegionTimeFrame": "City-28day",
-    "RegionName": "Kawasaki"
+    "RegionName": " Kawasaki"
   },
   {
     "DataType": "City",
@@ -537,7 +537,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "03/11/2026 to 04/08/2026",
     "RegionTimeFrame": "City-28day",
-    "RegionName": "Chiyoda City"
+    "RegionName": " Chiyoda City"
   },
   {
     "DataType": "Country",
@@ -549,7 +549,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "03/11/2026 to 04/08/2026",
     "RegionTimeFrame": "Country-28day",
-    "RegionName": "🇯🇵Japan"
+    "RegionName": "🇯🇵 Japan"
   },
   {
     "DataType": "Country",
@@ -561,7 +561,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "03/11/2026 to 04/08/2026",
     "RegionTimeFrame": "Country-28day",
-    "RegionName": "🇺🇸United States"
+    "RegionName": "🇺🇸 United States"
   },
   {
     "DataType": "Country",
@@ -573,7 +573,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "03/11/2026 to 04/08/2026",
     "RegionTimeFrame": "Country-28day",
-    "RegionName": "🇲🇽Mexico"
+    "RegionName": "🇲🇽 Mexico"
   },
   {
     "DataType": "Country",
@@ -585,7 +585,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "03/11/2026 to 04/08/2026",
     "RegionTimeFrame": "Country-28day",
-    "RegionName": "🇹🇼Taiwan"
+    "RegionName": "🇹🇼 Taiwan"
   },
   {
     "DataType": "Country",
@@ -597,7 +597,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "03/11/2026 to 04/08/2026",
     "RegionTimeFrame": "Country-28day",
-    "RegionName": "🇹🇭Thailand"
+    "RegionName": "🇹🇭 Thailand"
   },
   {
     "DataType": "Country",
@@ -609,7 +609,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "03/11/2026 to 04/08/2026",
     "RegionTimeFrame": "Country-28day",
-    "RegionName": "🇩🇪Germany"
+    "RegionName": "🇩🇪 Germany"
   },
   {
     "DataType": "Country",
@@ -621,7 +621,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "03/11/2026 to 04/08/2026",
     "RegionTimeFrame": "Country-28day",
-    "RegionName": "🇧🇷Brazil"
+    "RegionName": "🇧🇷 Brazil"
   },
   {
     "DataType": "Country",
@@ -633,7 +633,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "03/11/2026 to 04/08/2026",
     "RegionTimeFrame": "Country-28day",
-    "RegionName": "🇰🇷South Korea"
+    "RegionName": "🇰🇷 South Korea"
   },
   {
     "DataType": "Country",
@@ -645,7 +645,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "03/11/2026 to 04/08/2026",
     "RegionTimeFrame": "Country-28day",
-    "RegionName": "🇫🇷France"
+    "RegionName": "🇫🇷 France"
   },
   {
     "DataType": "Country",
@@ -657,7 +657,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "03/11/2026 to 04/08/2026",
     "RegionTimeFrame": "Country-28day",
-    "RegionName": "🇬🇧United Kingdom"
+    "RegionName": "🇬🇧 United Kingdom"
   },
   {
     "DataType": "Country",
@@ -669,7 +669,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "03/11/2026 to 04/08/2026",
     "RegionTimeFrame": "Country-28day",
-    "RegionName": "🇮🇩Indonesia"
+    "RegionName": "🇮🇩 Indonesia"
   },
   {
     "DataType": "Country",
@@ -681,7 +681,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "03/11/2026 to 04/08/2026",
     "RegionTimeFrame": "Country-28day",
-    "RegionName": "🇨🇦Canada"
+    "RegionName": "🇨🇦 Canada"
   },
   {
     "DataType": "Country",
@@ -693,7 +693,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "03/11/2026 to 04/08/2026",
     "RegionTimeFrame": "Country-28day",
-    "RegionName": "🇭🇰Hong Kong"
+    "RegionName": "🇭🇰 Hong Kong"
   },
   {
     "DataType": "Country",
@@ -705,7 +705,7 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "03/11/2026 to 04/08/2026",
     "RegionTimeFrame": "Country-28day",
-    "RegionName": "🇦🇷Argentina"
+    "RegionName": "🇦🇷 Argentina"
   },
   {
     "DataType": "Country",
@@ -717,6 +717,6 @@
     "EndDate": "2026-04-08T00:00:00",
     "DateRange": "03/11/2026 to 04/08/2026",
     "RegionTimeFrame": "Country-28day",
-    "RegionName": "🇵🇭Philippines"
+    "RegionName": "🇵🇭 Philippines"
   }
 ]
