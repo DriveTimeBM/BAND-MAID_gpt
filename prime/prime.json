@@ -41,7 +41,7 @@
     },
     {
         "Title":  "\"SCOOOOOP\" Self-Liner Notes part 4",
-        "Category":  "MISC",
+        "Category":  "Self-Liner Notes",
         "URL":  "https://bandmaidprime.tokyo/movies/123702",
         "Members":  "",
         "Song":  "",
@@ -65,7 +65,7 @@
     },
     {
         "Title":  "\"SCOOOOOP\" Self-Liner Notes part 3",
-        "Category":  "MISC",
+        "Category":  "Self-Liner Notes",
         "URL":  "https://bandmaidprime.tokyo/movies/123334",
         "Members":  "",
         "Song":  "",
@@ -105,7 +105,7 @@
     },
     {
         "Title":  "\"SCOOOOOP\" Self-Liner Notes part 2",
-        "Category":  "MISC",
+        "Category":  "Self-Liner Notes",
         "URL":  "https://bandmaidprime.tokyo/movies/122525",
         "Members":  "",
         "Song":  "",
@@ -129,11 +129,155 @@
     },
     {
         "Title":  "\"SCOOOOOP\" Self-Liner Notes part 1",
-        "Category":  "MISC",
+        "Category":  "Self-Liner Notes",
         "URL":  "https://bandmaidprime.tokyo/movies/122523",
         "Members":  "",
         "Song":  "",
         "Image":  "https://dj8b9lmjd3uu7.cloudfront.net/5855990841147/20251217204859_3dfaa10be493aae6e16889461ddc136585c6cbc00108f55b78b99a13df0997ee_8.jpg"
+    },
+    {
+        "Title":  "AKANE \"DICE\" (Head Angle ver.)",
+        "Category":  "Self-cover",
+        "URL":  "https://bandmaidprime.tokyo/movies/66601",
+        "Members":  "AKANE",
+        "Song":  "DICE",
+        "Image":  "https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5855990841147/bacfc7e7-6c3d-4fb6-aab8-f6259699d8ee-1744043387346.jpg"
+    },
+    {
+        "Title":  "MIKU KOBATO \"Play\" (Pull Angle ver.)",
+        "Category":  "Self-cover",
+        "URL":  "https://bandmaidprime.tokyo/movies/66527",
+        "Members":  "MIKU KOBATO",
+        "Song":  "Play",
+        "Image":  "https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5855990841147/0a31d118-6c85-40e2-9798-abda16fe3bdd-1744043387695.jpg"
+    },
+    {
+        "Title":  "MISA \"Blooming\" (Head Angle ver.)",
+        "Category":  "Self-cover",
+        "URL":  "https://bandmaidprime.tokyo/movies/66063",
+        "Members":  "MISA",
+        "Song":  "Blooming",
+        "Image":  "https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5855990841147/1f601163-97b4-481b-a87e-6ee3c528950c-1744043387730.jpg"
+    },
+    {
+        "Title":  "KANAMI \"Play\" (Head Angle ver.)",
+        "Category":  "Self-cover",
+        "URL":  "https://bandmaidprime.tokyo/movies/65985",
+        "Members":  "KANAMI",
+        "Song":  "Play",
+        "Image":  "https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5855990841147/5b01e759-25bf-4648-b5cd-561f3c66d96a-1744043387858.jpg"
+    },
+    {
+        "Title":  "MIKU KOBATO \"DOMINATION\" (Head Angle ver.)",
+        "Category":  "Self-cover",
+        "URL":  "https://bandmaidprime.tokyo/movies/65788",
+        "Members":  "MIKU KOBATO",
+        "Song":  "DOMINATION",
+        "Image":  "https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5855990841147/a1973be2-963c-4a10-b3be-42b347a666be-1744043387931.jpg"
+    },
+    {
+        "Title":  "AKANE \"本懐\" (Pull Angle ver)",
+        "Category":  "Self-cover",
+        "URL":  "https://bandmaidprime.tokyo/movies/65619",
+        "Members":  "AKANE",
+        "Song":  "本懐",
+        "Image":  "https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5855990841147/eeb20450-f9a0-4749-9ca2-09b4f4ff83f0-1744043387940.jpg"
+    },
+    {
+        "Title":  "KANAMI \"Blooming\" (Head Angle ver.)",
+        "Category":  "Self-cover",
+        "URL":  "https://bandmaidprime.tokyo/movies/65343",
+        "Members":  "KANAMI",
+        "Song":  "Blooming",
+        "Image":  "https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5855990841147/901168d8-938c-4399-a1da-5ec267f94c93-1744043388380.jpg"
+    },
+    {
+        "Title":  "MISA \"DICE\" (Head Angle ver.)",
+        "Category":  "Self-cover",
+        "URL":  "https://bandmaidprime.tokyo/movies/65234",
+        "Members":  "MISA",
+        "Song":  "DICE",
+        "Image":  "https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5855990841147/bbcbc6e3-50bb-4a3d-80dc-00246bf7f1c2-1744043388406.jpg"
+    },
+    {
+        "Title":  "AKANE \"本懐\" (Head Angle ver.)",
+        "Category":  "Self-cover",
+        "URL":  "https://bandmaidprime.tokyo/movies/64880",
+        "Members":  "AKANE",
+        "Song":  "本懐",
+        "Image":  "https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5855990841147/aab51fbf-1dab-445a-94ed-5e67f9990fee-1744043388456.jpg"
+    },
+    {
+        "Title":  "\"Sense\" Making Movie",
+        "Category":  "BTS",
+        "URL":  "https://bandmaidprime.tokyo/movies/64750",
+        "Members":  "",
+        "Song":  "",
+        "Image":  "https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5855990841147/9364354a-7b42-4595-9b78-5c8115d20f5b-1744043388804.jpg"
+    },
+    {
+        "Title":  "SAIKI \"Warning!\"",
+        "Category":  "Self-cover",
+        "URL":  "https://bandmaidprime.tokyo/movies/64638",
+        "Members":  "SAIKI",
+        "Song":  "Warning!",
+        "Image":  "https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5855990841147/4e2f5881-05a6-4d20-a94e-22b2471460e5-1744043388654.jpg"
+    },
+    {
+        "Title":  "MIKU KOBATO \"Wonderland\" (Pull Angle ver.)",
+        "Category":  "Self-cover",
+        "URL":  "https://bandmaidprime.tokyo/movies/64536",
+        "Members":  "MIKU KOBATO",
+        "Song":  "Wonderland",
+        "Image":  "https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5855990841147/3392fe45-cdb3-4346-b4c2-4e3a3d50da9f-1744043388926.jpg"
+    },
+    {
+        "Title":  "Unboxing ceremony of \"Sense\"",
+        "Category":  "MISC",
+        "URL":  "https://bandmaidprime.tokyo/movies/64456",
+        "Members":  "",
+        "Song":  "",
+        "Image":  "https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5855990841147/651bb405-fa2e-4d02-ba41-3ed8f0ded000-1744043388811.jpg"
+    },
+    {
+        "Title":  "MISA \"本懐\" (Pull Angle ver.)",
+        "Category":  "Self-cover",
+        "URL":  "https://bandmaidprime.tokyo/movies/64339",
+        "Members":  "MISA",
+        "Song":  "本懐",
+        "Image":  "https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5855990841147/3ae65e90-b416-4f3b-a4a5-7b451ac3f4a6-1744043389279.jpg"
+    },
+    {
+        "Title":  "One-on-one talk vol.3 \"AKANE×SAIKI\"",
+        "Category":  "TALKS",
+        "URL":  "https://bandmaidprime.tokyo/movies/64273",
+        "Members":  "AKANE, SAIKI",
+        "Song":  "",
+        "Image":  "https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5855990841147/05fab070-ca72-43a0-b3b6-b04bb596ea37-1744043389443.jpg"
+    },
+    {
+        "Title":  "KANAMI \"DOMINATION\" (Pull Angle ver.)",
+        "Category":  "Self-cover",
+        "URL":  "https://bandmaidprime.tokyo/movies/64003",
+        "Members":  "KANAMI",
+        "Song":  "DOMINATION",
+        "Image":  "https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5855990841147/6487748c-0908-4ef3-8e60-859da3fa42e3-1744043389468.jpg"
+    },
+    {
+        "Title":  "AKANE \"Play\" (Pull Angle ver.)",
+        "Category":  "Self-cover",
+        "URL":  "https://bandmaidprime.tokyo/movies/63901",
+        "Members":  "AKANE",
+        "Song":  "Play",
+        "Image":  "https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5855990841147/67f6a00d-5990-4aa6-96df-2023cf8d1578-1744043389546.jpg"
+    },
+    {
+        "Title":  "MIKU KOBATO \"Different\" (Head Angle ver.)",
+        "Category":  "Self-cover",
+        "URL":  "https://bandmaidprime.tokyo/movies/63742",
+        "Members":  "MIKU KOBATO",
+        "Song":  "Different",
+        "Image":  "https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5855990841147/0984f4bb-b98f-4eea-82d2-e9173e18b880-1744043389765.jpg"
     },
     {
         "Title":  "[BTS] \"BAND-MAID TOUR 2025 FINAL\" Behind The Scenes",
@@ -145,7 +289,7 @@
     },
     {
         "Title":  "Stationhead Arcive (Dec.5, 2025)",
-        "Category":  "MISC",
+        "Category":  "Stationhead",
         "URL":  "https://bandmaidprime.tokyo/movies/122028",
         "Members":  "",
         "Song":  "",
@@ -185,7 +329,7 @@
     },
     {
         "Title":  "Stationhead Live Stream Archive (Sep. 12, 2025)",
-        "Category":  "MISC",
+        "Category":  "Stationhead",
         "URL":  "https://bandmaidprime.tokyo/movies/120826",
         "Members":  "",
         "Song":  "",
@@ -193,7 +337,7 @@
     },
     {
         "Title":  "Stationhead Live Stream Archive (Aug. 29, 2025)",
-        "Category":  "MISC",
+        "Category":  "Stationhead",
         "URL":  "https://bandmaidprime.tokyo/movies/120825",
         "Members":  "",
         "Song":  "",
@@ -201,7 +345,7 @@
     },
     {
         "Title":  "Stationhead Live Stream Archive (Aug. 15, 2025)",
-        "Category":  "MISC",
+        "Category":  "Stationhead",
         "URL":  "https://bandmaidprime.tokyo/movies/120824",
         "Members":  "",
         "Song":  "",
@@ -209,7 +353,7 @@
     },
     {
         "Title":  "Stationhead Live Stream Archive (Aug. 1, 2025)",
-        "Category":  "MISC",
+        "Category":  "Stationhead",
         "URL":  "https://bandmaidprime.tokyo/movies/120823",
         "Members":  "",
         "Song":  "",
@@ -313,7 +457,7 @@
     },
     {
         "Title":  "\"BAND-MAID U.S. TOUR 2022 BEHIND-THE SCENES”   part 1 from  \"BAND-MAID TOKYO GARDEN THEATER OKYUJI (Jan.09,2023)\" first press limited edition",
-        "Category":  "MISC",
+        "Category":  "BTS",
         "URL":  "https://bandmaidprime.tokyo/movies/111974",
         "Members":  "",
         "Song":  "",
@@ -345,7 +489,7 @@
     },
     {
         "Title":  "Unleash!!!!!  (Instrumental Music Video) from  \"Unleash\" first press limited edition",
-        "Category":  "MISC",
+        "Category":  "Instrumental Music Video",
         "URL":  "https://bandmaidprime.tokyo/movies/111568",
         "Members":  "",
         "Song":  "",
@@ -353,7 +497,7 @@
     },
     {
         "Title":  "Sense (Instrumental Music Video) from  \"Unleash\" first press limited edition",
-        "Category":  "MISC",
+        "Category":  "Instrumental Music Video",
         "URL":  "https://bandmaidprime.tokyo/movies/111567",
         "Members":  "",
         "Song":  "",
@@ -361,7 +505,7 @@
     },
     {
         "Title":  "Stationhead Live Stream Archive (April 10, 2025)",
-        "Category":  "MISC",
+        "Category":  "Stationhead",
         "URL":  "https://bandmaidprime.tokyo/movies/111700",
         "Members":  "",
         "Song":  "",
@@ -1097,7 +1241,7 @@
     },
     {
         "Title":  "\"influencer\" Making Movie",
-        "Category":  "MISC",
+        "Category":  "BTS",
         "URL":  "https://bandmaidprime.tokyo/movies/78288",
         "Members":  "",
         "Song":  "",
@@ -1488,150 +1632,6 @@
         "Image":  "https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5855990841147/059d0add-666c-4be6-891d-950f48f57d7b-1744043387561.jpg"
     },
     {
-        "Title":  "AKANE \"DICE\" (Head Angle ver.)",
-        "Category":  "Self-cover",
-        "URL":  "https://bandmaidprime.tokyo/movies/66601",
-        "Members":  "AKANE",
-        "Song":  "DICE",
-        "Image":  "https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5855990841147/bacfc7e7-6c3d-4fb6-aab8-f6259699d8ee-1744043387346.jpg"
-    },
-    {
-        "Title":  "MIKU KOBATO \"Play\" (Pull Angle ver.)",
-        "Category":  "Self-cover",
-        "URL":  "https://bandmaidprime.tokyo/movies/66527",
-        "Members":  "MIKU KOBATO",
-        "Song":  "Play",
-        "Image":  "https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5855990841147/0a31d118-6c85-40e2-9798-abda16fe3bdd-1744043387695.jpg"
-    },
-    {
-        "Title":  "MISA \"Blooming\" (Head Angle ver.)",
-        "Category":  "Self-cover",
-        "URL":  "https://bandmaidprime.tokyo/movies/66063",
-        "Members":  "MISA",
-        "Song":  "Blooming",
-        "Image":  "https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5855990841147/1f601163-97b4-481b-a87e-6ee3c528950c-1744043387730.jpg"
-    },
-    {
-        "Title":  "KANAMI \"Play\" (Head Angle ver.)",
-        "Category":  "Self-cover",
-        "URL":  "https://bandmaidprime.tokyo/movies/65985",
-        "Members":  "KANAMI",
-        "Song":  "Play",
-        "Image":  "https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5855990841147/5b01e759-25bf-4648-b5cd-561f3c66d96a-1744043387858.jpg"
-    },
-    {
-        "Title":  "MIKU KOBATO \"DOMINATION\" (Head Angle ver.)",
-        "Category":  "Self-cover",
-        "URL":  "https://bandmaidprime.tokyo/movies/65788",
-        "Members":  "MIKU KOBATO",
-        "Song":  "DOMINATION",
-        "Image":  "https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5855990841147/a1973be2-963c-4a10-b3be-42b347a666be-1744043387931.jpg"
-    },
-    {
-        "Title":  "AKANE \"本懐\" (Pull Angle ver)",
-        "Category":  "Self-cover",
-        "URL":  "https://bandmaidprime.tokyo/movies/65619",
-        "Members":  "AKANE",
-        "Song":  "本懐",
-        "Image":  "https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5855990841147/eeb20450-f9a0-4749-9ca2-09b4f4ff83f0-1744043387940.jpg"
-    },
-    {
-        "Title":  "KANAMI \"Blooming\" (Head Angle ver.)",
-        "Category":  "Self-cover",
-        "URL":  "https://bandmaidprime.tokyo/movies/65343",
-        "Members":  "KANAMI",
-        "Song":  "Blooming",
-        "Image":  "https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5855990841147/901168d8-938c-4399-a1da-5ec267f94c93-1744043388380.jpg"
-    },
-    {
-        "Title":  "MISA \"DICE\" (Head Angle ver.)",
-        "Category":  "Self-cover",
-        "URL":  "https://bandmaidprime.tokyo/movies/65234",
-        "Members":  "MISA",
-        "Song":  "DICE",
-        "Image":  "https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5855990841147/bbcbc6e3-50bb-4a3d-80dc-00246bf7f1c2-1744043388406.jpg"
-    },
-    {
-        "Title":  "AKANE \"本懐\" (Head Angle ver.)",
-        "Category":  "Self-cover",
-        "URL":  "https://bandmaidprime.tokyo/movies/64880",
-        "Members":  "AKANE",
-        "Song":  "本懐",
-        "Image":  "https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5855990841147/aab51fbf-1dab-445a-94ed-5e67f9990fee-1744043388456.jpg"
-    },
-    {
-        "Title":  "\"Sense\" Making Movie",
-        "Category":  "MISC",
-        "URL":  "https://bandmaidprime.tokyo/movies/64750",
-        "Members":  "",
-        "Song":  "",
-        "Image":  "https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5855990841147/9364354a-7b42-4595-9b78-5c8115d20f5b-1744043388804.jpg"
-    },
-    {
-        "Title":  "SAIKI \"Warning!\"",
-        "Category":  "Self-cover",
-        "URL":  "https://bandmaidprime.tokyo/movies/64638",
-        "Members":  "SAIKI",
-        "Song":  "Warning!",
-        "Image":  "https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5855990841147/4e2f5881-05a6-4d20-a94e-22b2471460e5-1744043388654.jpg"
-    },
-    {
-        "Title":  "MIKU KOBATO \"Wonderland\" (Pull Angle ver.)",
-        "Category":  "Self-cover",
-        "URL":  "https://bandmaidprime.tokyo/movies/64536",
-        "Members":  "MIKU KOBATO",
-        "Song":  "Wonderland",
-        "Image":  "https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5855990841147/3392fe45-cdb3-4346-b4c2-4e3a3d50da9f-1744043388926.jpg"
-    },
-    {
-        "Title":  "Unboxing ceremony of \"Sense\"",
-        "Category":  "MISC",
-        "URL":  "https://bandmaidprime.tokyo/movies/64456",
-        "Members":  "",
-        "Song":  "",
-        "Image":  "https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5855990841147/651bb405-fa2e-4d02-ba41-3ed8f0ded000-1744043388811.jpg"
-    },
-    {
-        "Title":  "MISA \"本懐\" (Pull Angle ver.)",
-        "Category":  "Self-cover",
-        "URL":  "https://bandmaidprime.tokyo/movies/64339",
-        "Members":  "MISA",
-        "Song":  "本懐",
-        "Image":  "https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5855990841147/3ae65e90-b416-4f3b-a4a5-7b451ac3f4a6-1744043389279.jpg"
-    },
-    {
-        "Title":  "One-on-one talk vol.3 \"AKANE×SAIKI\"",
-        "Category":  "TALKS",
-        "URL":  "https://bandmaidprime.tokyo/movies/64273",
-        "Members":  "AKANE, SAIKI",
-        "Song":  "",
-        "Image":  "https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5855990841147/05fab070-ca72-43a0-b3b6-b04bb596ea37-1744043389443.jpg"
-    },
-    {
-        "Title":  "KANAMI \"DOMINATION\" (Pull Angle ver.)",
-        "Category":  "Self-cover",
-        "URL":  "https://bandmaidprime.tokyo/movies/64003",
-        "Members":  "KANAMI",
-        "Song":  "DOMINATION",
-        "Image":  "https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5855990841147/6487748c-0908-4ef3-8e60-859da3fa42e3-1744043389468.jpg"
-    },
-    {
-        "Title":  "AKANE \"Play\" (Pull Angle ver.)",
-        "Category":  "Self-cover",
-        "URL":  "https://bandmaidprime.tokyo/movies/63901",
-        "Members":  "AKANE",
-        "Song":  "Play",
-        "Image":  "https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5855990841147/67f6a00d-5990-4aa6-96df-2023cf8d1578-1744043389546.jpg"
-    },
-    {
-        "Title":  "MIKU KOBATO \"Different\" (Head Angle ver.)",
-        "Category":  "Self-cover",
-        "URL":  "https://bandmaidprime.tokyo/movies/63742",
-        "Members":  "MIKU KOBATO",
-        "Song":  "Different",
-        "Image":  "https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5855990841147/0984f4bb-b98f-4eea-82d2-e9173e18b880-1744043389765.jpg"
-    },
-    {
         "Title":  "AKANE \"Blooming\" (Head Angle ver.)",
         "Category":  "Self-cover",
         "URL":  "https://bandmaidprime.tokyo/movies/63513",
@@ -2017,7 +2017,7 @@
     },
     {
         "Title":  "BAND-MAID \"THE DAY OF MAID (May 10, 2021)\" Making Movie",
-        "Category":  "MISC",
+        "Category":  "BTS",
         "URL":  "https://bandmaidprime.tokyo/movies/57915",
         "Members":  "",
         "Song":  "",
