@@ -2,51 +2,61 @@
   {
     "Event": "2026-06-03 Berlin",
     "Venue": "Columbia Theater",
-    "URL": "https://www.ticketmaster.de/event/band-maid-band-maid-world-tour-2026-tickets/811492423?language=en-us"
+    "URL": "https://www.ticketmaster.de/event/band-maid-band-maid-world-tour-2026-tickets/811492423?language=en-us",
+    "Image": "https://drivetimebm.github.io/BAND-MAID_gpt/misc/Z698xZC2ZaAul.png"
   },
   {
     "Event": "2026-06-03 Berlin",
     "Venue": "Columbia Theater",
-    "URL": "https://www.ticketmaster.de/event/band-maid-band-maid-world-tour-2026-%7C-vip-package-tickets/1461263136?language=en-us"
+    "URL": "https://www.ticketmaster.de/event/band-maid-band-maid-world-tour-2026-%7C-vip-package-tickets/1461263136?language=en-us",
+    "Image": "https://drivetimebm.github.io/BAND-MAID_gpt/misc/Z698xZC2ZaAul.png"
   },
   {
     "Event": "2026-06-05 Frankfurt am Main",
-    "Venue": " ",
-    "URL": "https://www.ticketmaster.de/event/band-maid-band-maid-world-tour-2026-tickets/1608757579?language=en-us"
+    "Venue": "Batschkapp",
+    "URL": "https://www.ticketmaster.de/event/band-maid-band-maid-world-tour-2026-tickets/1608757579?language=en-us",
+    "Image": "https://drivetimebm.github.io/BAND-MAID_gpt/misc/Z698xZC2Za7I_.png"
   },
   {
     "Event": "2026-06-05 Frankfurt am Main",
-    "Venue": " ",
-    "URL": "https://www.ticketmaster.de/event/band-maid-band-maid-world-tour-2026-%7C-vip-package-tickets/587023759?language=en-us"
+    "Venue": "Batschkapp",
+    "URL": "https://www.ticketmaster.de/event/band-maid-band-maid-world-tour-2026-%7C-vip-package-tickets/587023759?language=en-us",
+    "Image": "https://drivetimebm.github.io/BAND-MAID_gpt/misc/Z698xZC2Za7I_.png"
   },
   {
     "Event": "2026-06-06 Munich",
-    "Venue": " ",
-    "URL": "https://www.ticketmaster.de/event/band-maid-band-maid-world-tour-2026-tickets/1710528619?language=en-us"
+    "Venue": "Technikum",
+    "URL": "https://www.ticketmaster.de/event/band-maid-band-maid-world-tour-2026-tickets/1710528619?language=en-us",
+    "Image": "https://drivetimebm.github.io/BAND-MAID_gpt/misc/Z698xZC2ZaAFW.png"
   },
   {
     "Event": "2026-06-06 Munich",
-    "Venue": " ",
-    "URL": "https://www.ticketmaster.de/event/band-maid-band-maid-world-tour-2026-%7C-vip-package-tickets/30148469?language=en-us"
+    "Venue": "Technikum",
+    "URL": "https://www.ticketmaster.de/event/band-maid-band-maid-world-tour-2026-%7C-vip-package-tickets/30148469?language=en-us",
+    "Image": "https://drivetimebm.github.io/BAND-MAID_gpt/misc/Z698xZC2ZaAFW.png"
   },
   {
     "Event": "2026-06-09 Paris",
     "Venue": "Le Bataclan",
-    "URL": "https://www.ticketmaster.fr/fr/manifestation/band-maid-billet/idmanif/649294/idtier/18864121"
+    "URL": "https://www.ticketmaster.fr/fr/manifestation/band-maid-billet/idmanif/649294/idtier/18864121",
+    "Image": "https://drivetimebm.github.io/BAND-MAID_gpt/misc/LeBataclan.png"
   },
   {
     "Event": "2026-06-11 London",
     "Venue": "Electric Brixton",
-    "URL": "https://www.ticketmaster.co.uk/bandmaid-london-11-06-2026/event/1F00644BEF9F9A4F"
+    "URL": "https://www.ticketmaster.co.uk/bandmaid-london-11-06-2026/event/1F00644BEF9F9A4F",
+    "Image": "https://drivetimebm.github.io/BAND-MAID_gpt/misc/KovZ91777RV.png"
   },
   {
     "Event": "2026-06-11 London",
     "Venue": "Electric Brixton",
-    "URL": "https://www.universe.com/events/band-maid-tickets-8JLZ9H?ref=ticketmaster"
+    "URL": "https://www.universe.com/events/band-maid-tickets-8JLZ9H?ref=ticketmaster",
+    "Image": "https://drivetimebm.github.io/BAND-MAID_gpt/misc/KovZ91777RV.png"
   },
   {
     "Event": "2026-06-12 Derby",
     "Venue": "Donington Park",
-    "URL": "https://www.ticketmaster.co.uk/download-2026-friday-arena-only-derby-12-06-2026/event/3600643395902B94"
+    "URL": "https://www.ticketmaster.co.uk/download-2026-friday-arena-only-derby-12-06-2026/event/3600643395902B94",
+    "Image": "https://drivetimebm.github.io/BAND-MAID_gpt/misc/KovZ9177cI0.png"
   }
 ]
