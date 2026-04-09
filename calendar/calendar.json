@@ -131,7 +131,7 @@
         "Summary":  "Tokyo - Summer Sonic",
         "Location":  "ZOZO Marine Stadium, 1 Mihama, Mihama Ward, Chiba, 261-0022, Japan",
         "URL":  "https://www.summersonic.com/",
-        "Image":  null,
+        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/summersonic.jpg",
         "Start_Local":  "2026-08-16T03:00:00",
         "Start_Japan":  "2026-08-16T16:00:00"
     },
@@ -139,7 +139,7 @@
         "Summary":  "AICHI - COMTEC PORTBASE",
         "Location":  "Comtec Portbase, 3-3-5 Kanekawachō, Minato Ward, Nagoya, Aichi 455-0017, Japan",
         "URL":  "https://bandmaid.tokyo/contents/1041130",
-        "Image":  null,
+        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/AICHI.jpg",
         "Start_Local":  "2026-11-01T03:30:00",
         "Start_Japan":  "2026-11-01T17:30:00"
     },
@@ -147,7 +147,7 @@
         "Summary":  "Osaka - NAMBA HATCH ",
         "Location":  "Namba Hatch, 1-chōme-3-1 Minatomachi, Naniwa Ward, Osaka, 556-0017, Japan",
         "URL":  "https://bandmaid.tokyo/contents/1041130",
-        "Image":  null,
+        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/nambahatch.jpg",
         "Start_Local":  "2026-11-03T03:30:00",
         "Start_Japan":  "2026-11-03T17:30:00"
     },
@@ -155,7 +155,7 @@
         "Summary":  "BUDOKAN",
         "Location":  "Nippon Budokan, 2-3 Kitanomarukōen, Chiyoda City, Tokyo 102-8321, Japan",
         "URL":  "https://bandmaid.tokyo/contents/1041130",
-        "Image":  null,
+        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/500px-Nippon_Budokan_2010.jpg",
         "Start_Local":  "2026-11-13T04:00:00",
         "Start_Japan":  "2026-11-13T18:00:00"
     },
