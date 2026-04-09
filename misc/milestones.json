@@ -1,17 +1,5 @@
-﻿[
-    {
-        "Categoty":  "YouTube",
-        "Item":  "① BAND-MAID / What is justice? (Official Music Video) TVアニメ「桃源暗鬼」エンディング主題歌 https://youtu.be/3kMIh0_Wkpk",
-        "Milestone":  "  👀 Surpassed **3,100,000** views!"
-    },
-    {
-        "Categoty":  "YouTube",
-        "Item":  "② BAND-MAID / Dilly-Dally (Official Live Video) https://youtu.be/yTAQ5dCpuiM",
-        "Milestone":  "  👀 Surpassed **500,000** views!"
-    },
-    {
-        "Categoty":  "Total Streams",
-        "Item":  "YouTube Total Streams",
-        "Milestone":  "  👀 Surpassed **285** MILLION views!"
-    }
-]
+﻿{
+    "Categoty":  "YouTube",
+    "Item":  "① BAND-MAID / Dilly-Dally (Official Live Video) https://youtu.be/yTAQ5dCpuiM",
+    "Milestone":  "  👀 Surpassed **700,000** views!"
+}
