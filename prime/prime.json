@@ -864,8 +864,8 @@
         "Image":  "https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5855990841147/8ea0705a-9e29-477e-aa23-37e8c0e2b44b-1744043375548.jpg"
     },
     {
-        "Title":  "Happy New Year!",
-        "Category":  "MOVIE",
+        "Title":  "[MOVIE] Happy New Year!",
+        "Category":  "MISC",
         "URL":  "https://bandmaidprime.tokyo/movies/95201",
         "Members":  "",
         "Song":  "",
@@ -1056,8 +1056,8 @@
         "Image":  "https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5855990841147/7c1675f5-e96e-4761-b7e1-a0f8d716d3ee-1744043377993.jpg"
     },
     {
-        "Title":  "BAND-MAID \"THE DAY OF MAID 2022\"",
-        "Category":  "SPECIAL TALK",
+        "Title":  "[SPECIAL TALK] BAND-MAID \"THE DAY OF MAID 2022\"",
+        "Category":  "SPECIAL MOVIE",
         "URL":  "https://bandmaidprime.tokyo/movies/86512",
         "Members":  "",
         "Song":  "",
@@ -1304,7 +1304,7 @@
         "Image":  "https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5855990841147/372c4378-2051-462e-ad29-45c9b2791d99-1744043382427.jpg"
     },
     {
-        "Title":  "\"Daydreaming\"",
+        "Title":  "[Spirited First Take] \"Daydreaming\"",
         "Category":  "Spirited First Take",
         "URL":  "https://bandmaidprime.tokyo/movies/76052",
         "Members":  "",
@@ -1320,7 +1320,7 @@
         "Image":  "https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5855990841147/0fdf6092-0548-48bd-b7ea-5b2e9e0307ce-1744043382812.jpg"
     },
     {
-        "Title":  "\"FORWARD\"",
+        "Title":  "[Spirited First Take] \"FORWARD\"",
         "Category":  "Spirited First Take",
         "URL":  "https://bandmaidprime.tokyo/movies/75585",
         "Members":  "",
@@ -1328,8 +1328,8 @@
         "Image":  "https://dj8b9lmjd3uu7.cloudfront.net/Thumbnails/5855990841147/770043ff-6752-42bf-b7bb-992e49017378-1744043383085.jpg"
     },
     {
-        "Title":  "MIKU KOBATO and SAIKI",
-        "Category":  "\"Spirited First Take\" Announcement Video",
+        "Title":  "[\"Spirited First Take\" Announcement Video] MIKU KOBATO and SAIKI",
+        "Category":  "Spirited First Take",
         "URL":  "https://bandmaidprime.tokyo/movies/75584",
         "Members":  "MIKU KOBATO, SAIKI",
         "Song":  "",
