@@ -1,5 +1,27 @@
-﻿{
-    "Categoty":  "YouTube",
-    "Item":  "① BAND-MAID / Dilly-Dally (Official Live Video) https://youtu.be/yTAQ5dCpuiM",
-    "Milestone":  "  👀 Surpassed **700,000** views!"
-}
+﻿[
+    {
+        "Categoty":  "YouTube AGGREGATE Views",
+        "Item":  "① Dilly-Dally ",
+        "Milestone":  "🐌 aggregate views surpassed **1** million!"
+    },
+    {
+        "Categoty":  "YouTube AGGREGATE AUDIO stream Milestones",
+        "Item":  "① Choose me ",
+        "Milestone":  "🗳️  aggregate AUDIO streams surpassed **2,000,000**!"
+    },
+    {
+        "Categoty":  "YouTube",
+        "Item":  "① Corallium https://youtu.be/aK9KruOd_Bw",
+        "Milestone":  "  👀 Surpassed **700,000** views!"
+    },
+    {
+        "Categoty":  "YouTube",
+        "Item":  "② BAND-MAID / Dilly-Dally (Official Live Video) https://youtu.be/yTAQ5dCpuiM",
+        "Milestone":  "  👀 Surpassed **900,000** views!"
+    },
+    {
+        "Categoty":  "Spotify",
+        "Item":  "① Zen ",
+        "Milestone":  "🧘‍♀️ Surpassed **2,100,000** streams!"
+    }
+]
