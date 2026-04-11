@@ -1,5 +1,18 @@
 ﻿[
     {
+        "SetDate":  "2026-04-11",
+        "Country":  "JP",
+        "City":  "Yokohama",
+        "Venue":  "KT Zepp Yokohama",
+        "Tour":  "WORLD TOUR 2026",
+        "URL":  "https://www.setlist.fm/setlist/bandmaid/2026/kt-zepp-yokohama-yokohama-japan-6b4bb67e.html",
+        "NumberOfSongs":  19,
+        "SetlistDelimited":  "Unleash!!!!!/Magie/Zen/glory/Toi et moi/DOMINATION/SUPER SUNSHINE/Choose me/Present Perfect/HATE?/Lock and Load/DICE/What is justice?/Brightest Star/Days/Ready to Rock/Shambles/Dilly-Dally/NO GOD",
+        "Opener":  "Unleash!!!!!",
+        "Closer":  "NO GOD",
+        "LatLon":  "35.45,139.65"
+    },
+    {
         "SetDate":  "2026-04-04",
         "Country":  "JP",
         "City":  "Yokohama",
@@ -2928,19 +2941,6 @@
         "SetDate":  "2018-06-29",
         "Country":  "MX",
         "City":  "Mexico City",
-        "Venue":  "Foro Indie Rocks!",
-        "Tour":  "WORLD DOMINATION TOUR 2018 [SENKOKU]",
-        "URL":  "https://www.setlist.fm/setlist/bandmaid/2018/foro-indie-rocks-mexico-city-mexico-2bea7c12.html",
-        "NumberOfSongs":  20,
-        "SetlistDelimited":  "DOMINATION/Play/the non-fiction days/Moratorium/CROSS/Aliveâ€orâ€Dead/Turn me on/Don\u0027t you tell ME/secret My lips/DICE/Daydreaming/onset/Carry on living/CLANG/alone/I can\u0027t live without you./you./FREEDOM/REAL EXISTENCE/Choose me",
-        "Opener":  "DOMINATION",
-        "Closer":  "Choose me",
-        "LatLon":  "19.434,-99.139"
-    },
-    {
-        "SetDate":  "2018-06-29",
-        "Country":  "MX",
-        "City":  "Mexico City",
         "Venue":  "Foros TV Azteca",
         "Tour":  "",
         "URL":  "https://www.setlist.fm/setlist/bandmaid/2018/foros-tv-azteca-mexico-city-mexico-6bb0d2ca.html",
@@ -2948,6 +2948,19 @@
         "SetlistDelimited":  "Choose me",
         "Opener":  "",
         "Closer":  null,
+        "LatLon":  "19.434,-99.139"
+    },
+    {
+        "SetDate":  "2018-06-29",
+        "Country":  "MX",
+        "City":  "Mexico City",
+        "Venue":  "Foro Indie Rocks!",
+        "Tour":  "WORLD DOMINATION TOUR 2018 [SENKOKU]",
+        "URL":  "https://www.setlist.fm/setlist/bandmaid/2018/foro-indie-rocks-mexico-city-mexico-2bea7c12.html",
+        "NumberOfSongs":  20,
+        "SetlistDelimited":  "DOMINATION/Play/the non-fiction days/Moratorium/CROSS/Aliveâ€orâ€Dead/Turn me on/Don\u0027t you tell ME/secret My lips/DICE/Daydreaming/onset/Carry on living/CLANG/alone/I can\u0027t live without you./you./FREEDOM/REAL EXISTENCE/Choose me",
+        "Opener":  "DOMINATION",
+        "Closer":  "Choose me",
         "LatLon":  "19.434,-99.139"
     },
     {
