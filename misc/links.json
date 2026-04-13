@@ -4,97 +4,111 @@
     "Order": 1,
     "Item": "BAND-MAID Dashboard Discord server",
     "Description": "Continuous updates of BAND-MAID from various sources",
-    "URL": "https://discord.gg/tfpJ6xBWEN"
+    "URL": "https://discord.gg/tfpJ6xBWEN",
+    "Image": "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/logo/other/BM_circular_saw.png"
   },
   {
       "Group": "Projects",
       "Order": 3,
       "Item": "BAND-MAID GPT",
       "Description": "Customized version of ChatGPT with extensive knowledge of BAND-MAID and the specific vocabulary used by the band. Good for translations.",
-      "URL": "https://chatgpt.com/g/g-68db200d63cc819190a84f2ff7cbf58f-unofficial-band-maid-gpt"
+      "URL": "https://chatgpt.com/g/g-68db200d63cc819190a84f2ff7cbf58f-unofficial-band-maid-gpt",
+      "Image": "https://drivetimebm.github.io/BAND-MAID_gpt/misc/bandmaid_gpt.png"
     },
     {
       "Group": "Projects",
       "Order": 5,
       "Item": "Searchable Songs",
       "Description": "Complete searchable BAND-MAID songs list. Song details, member quotes, streaming stats updated daily",
-      "URL": "https://drivetimebm.github.io/BAND-MAID_songs/index.html"
+      "URL": "https://drivetimebm.github.io/BAND-MAID_songs/index.html",
+      "Image": "https://avatars.githubusercontent.com/drivetimebm"
     },
     {
       "Group": "Projects",
       "Order": 9,
       "Item": "Creations",
       "Description": "Collection of BAND-MAID image effects, logos, etc. in a known place which enables reliable, public links to the images.",
-      "URL": "https://drivetimebm.github.io/BAND-MAID_creations/index.html"
+      "URL": "https://drivetimebm.github.io/BAND-MAID_creations/index.html",
+      "Image": "https://avatars.githubusercontent.com/drivetimebm"
     },
     {
       "Group": "Projects",
       "Order": 10,
       "Item": "Github",
       "Description": "My github page where all of these various projects are hosted including this one",
-      "URL": "https://github.com/DriveTimeBM"
+      "URL": "https://github.com/DriveTimeBM",
+      "Image": "https://avatars.githubusercontent.com/drivetimebm"
     },
     {
       "Group": "BAND-MAID",
       "Order": 1,
       "Item": "Website",
       "Description": "The main BAND-MAID website.",
-      "URL": "https://bandmaid.tokyo/"
+      "URL": "https://bandmaid.tokyo/",
+      "Image": "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/ribbon/band-maid-bow-logo-256x256.png"
     },
     {
       "Group": "BAND-MAID",
       "Order": 2,
       "Item": "Prime",
       "Description": "BAND-MAID premium content website. ",
-      "URL": "https://bandmaidprime.tokyo/"
+      "URL": "https://bandmaidprime.tokyo/",
+      "Image": "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/BAND-MAID%20Prime.png"
     },
     {
       "Group": "BAND-MAID",
       "Order": 3,
       "Item": "Fan Club",
       "Description": "OMEISYUSAMA-NO-KAI. The official BAND-MAID fan club website which is a subsection of their main page.",
-      "URL": "https://bandmaid.tokyo/#fanclub"
+      "URL": "https://bandmaid.tokyo/#fanclub",
+      "Image": "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/OMEISYUSAMA.png"
     },
     {
       "Group": "BAND-MAID",
       "Order": 4,
       "Item": "Official BAND-MAID merch",
       "Description": "The only internet source for official BAND-MAID merchandise.",
-      "URL": "https://bandmaid.store/en/"
+      "URL": "https://bandmaid.store/en/",
+      "Image": "https://styles.redditmedia.com/t5_38wtb/styles/communityIcon_8jqx5n58du671.jpg?width=256&s=10f527efd7bb1d7624f53043b3407eb04d3c3ddf"
     },
     {
       "Group": "BAND-MAID",
       "Order": 5,
       "Item": "MAIDIT",
       "Description": "The website for MAIDIT. Seems to be a placeholder at present, but messages can be sent to band management.",
-      "URL": "https://maidit.co.jp/"
+      "URL": "https://maidit.co.jp/",
+      "Image": "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/logo/other/MAIDIT_OGP.png"
     },
     {
       "Group": "BAND-MAID",
       "Order": 6,
       "Item": "YouTube",
       "Description": "The official BAND-MAID YouTube channel",
-      "URL": "https://www.youtube.com/c/BANDMAID"
+      "URL": "https://www.youtube.com/c/BANDMAID",
+      "Image": "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.png"
     },
     {
       "Group": "BAND-MAID",
       "Order": 7,
       "Item": "Spotify",
       "Description": "The official BAND-MAID Spotify channel",
-      "URL": "https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH"
+      "URL": "https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH",
+      "Image": "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.png"
     },
     {
       "Group": "Social Media",
       "Order": 1,
       "Item": "r/BANDMAID on reddit",
       "Description": "fan-driven social media site",
-      "URL": "https://www.reddit.com/r/BandMaid/new/"
+      "URL": "https://www.reddit.com/r/BandMaid/new/",
+      "Image": "https://styles.redditmedia.com/t5_38wtb/styles/communityIcon_8jqx5n58du671.jpg?width=256&s=10f527efd7bb1d7624f53043b3407eb04d3c3ddf"
     },
     {
       "Group": "Social Media",
       "Order": 1,
       "Item": "#bandmaid on X/Twitter",
       "Description": "BAND-MAID discussion on X (formerly Twitter)",
-      "URL": "https://x.com/search?q=%23bandmaid&f=live"
+      "URL": "https://x.com/search?q=%23bandmaid&f=live",
+      "Image": "https://styles.redditmedia.com/t5_38wtb/styles/communityIcon_8jqx5n58du671.jpg?width=256&s=10f527efd7bb1d7624f53043b3407eb04d3c3ddf"
     }
   ]
