@@ -12,7 +12,7 @@
       "Detail": "Daily views for all YouTube videos since February 2025. Filter by video, song, or video type."
     },
     {
-      "Description": "YouTube Comment Timeline",
+      "Description": "YouTube Comment Timeline ",
       "URL": "https://lookerstudio.google.com/reporting/70dd7c26-e13d-41c3-a708-53f5c34d666b",
       "Thumbnail": "https://drivetimebm.github.io/BAND-MAID_gpt/misc/YouTubeCommentTimeline.png",
       "Detail": "Timeline of all existing top level comments on YouTube by date of the comment."
