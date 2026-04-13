@@ -1,5 +1,17 @@
-﻿{
-    "Category":  "Okyuji",
-    "Item":  "① 10 years ago 🗾",
-    "Detail":  "  🇯🇵 Shinjuku ANTIKNOCK - Tokyo,JP [5 songs]"
-}
+﻿[
+    {
+        "Category":  "Okyuji",
+        "Item":  "① 8 years ago 🗾",
+        "Detail":  "  🇯🇵 Zepp Tokyo - Tokyo,JP [27 songs]"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "② 1 year ago 🗾",
+        "Detail":  "  🇯🇵 Billboard Live TOKYO - Tokyo,JP [12 songs]"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "③ 1 year ago 🗾",
+        "Detail":  "  🇯🇵 Billboard Live TOKYO - Tokyo,JP [12 songs]"
+    }
+]
