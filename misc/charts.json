@@ -2,22 +2,26 @@
     {
       "Description": "Daily Spotify Streams",
       "URL": "https://lookerstudio.google.com/reporting/eb7a93d9-8bae-44e9-9431-3e33f850e16b",
-      "Thumbnail": "https://drivetimebm.github.io/BAND-MAID_gpt/misc/DailySpotifyStreams.png"
+      "Thumbnail": "https://drivetimebm.github.io/BAND-MAID_gpt/misc/DailySpotifyStreams.png",
+      "Detail": "Weekly stream counts of all songs on Spotify since July 2025. Filter by song or date. (Each song is updated once per week in a rolling fashion. Approximately 20 per day)"
     },
     {
       "Description": "Daily YouTube Views",
       "URL": "https://lookerstudio.google.com/reporting/1e345bab-6f43-4c1c-a3d3-260b62657fde",
-      "Thumbnail": "https://drivetimebm.github.io/BAND-MAID_gpt/misc/DailyYouTubeViews.png"
+      "Thumbnail": "https://drivetimebm.github.io/BAND-MAID_gpt/misc/DailyYouTubeViews.png",
+      "Detail": "Daily views for all YouTube videos since February 2025. Filter by video, song, or video type."
     },
     {
       "Description": "YouTube Comment Timeline",
       "URL": "https://lookerstudio.google.com/reporting/70dd7c26-e13d-41c3-a708-53f5c34d666b",
-      "Thumbnail": "https://drivetimebm.github.io/BAND-MAID_gpt/misc/YouTubeCommentTimeline.png"
+      "Thumbnail": "https://drivetimebm.github.io/BAND-MAID_gpt/misc/YouTubeCommentTimeline.png",
+      "Detail": "Timeline of all existing top level comments on YouTube by date of the comment."
     },
     {
       "Description": "Spotify Songs",
       "URL": "https://lookerstudio.google.com/s/twbdNKVrnr8",
-      "Thumbnail": "https://drivetimebm.github.io/BAND-MAID_gpt/misc/SpotifySongs.png"
+      "Thumbnail": "https://drivetimebm.github.io/BAND-MAID_gpt/misc/SpotifySongs.png",
+      "Detail": "Stream counts of all songs on Spotify. Filter by album."
     }
 
   ]
