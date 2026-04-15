@@ -1,6 +1,44 @@
-﻿{
-    "Categoty":  "YouTube AGGREGATE AUDIO stream Milestones",
-    "Item":  "① Ready to Rock ",
-    "Milestone":  "🪨  aggregate AUDIO streams surpassed **2,500,000**!",
-    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/ytmusic.png"
-}
+﻿[
+    {
+        "Categoty":  "YouTube AGGREGATE AUDIO stream Milestones",
+        "Item":  "① Bestie ",
+        "Milestone":  "🫂  aggregate AUDIO streams surpassed **400,000**!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/ytmusic.png"
+    },
+    {
+        "Categoty":  "YouTube AGGREGATE AUDIO stream Milestones",
+        "Item":  "② CHEMICAL REACTION ",
+        "Milestone":  "🧪  aggregate AUDIO streams surpassed **300,000**!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/ytmusic.png"
+    },
+    {
+        "Categoty":  "YouTube",
+        "Item":  "① CHEMICAL REACTION https://youtu.be/42uOmIhh2Vs",
+        "Milestone":  "  👀 Surpassed **300,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.png"
+    },
+    {
+        "Categoty":  "Spotify",
+        "Item":  "① Show Them ",
+        "Milestone":  "⚠️ Surpassed **2,600,000** streams!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.png"
+    },
+    {
+        "Categoty":  "Spotify",
+        "Item":  "② endless Story ",
+        "Milestone":  "♾️ Surpassed **1,600,000** streams!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.png"
+    },
+    {
+        "Categoty":  "Spotify",
+        "Item":  "③ Mirage ",
+        "Milestone":  "🌦️ Surpassed **700,000** streams!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.png"
+    },
+    {
+        "Categoty":  "Spotify",
+        "Item":  "④ Different ",
+        "Milestone":  "≠ Surpassed **7,200,000** streams!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.png"
+    }
+]

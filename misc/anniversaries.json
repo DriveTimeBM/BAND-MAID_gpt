@@ -1,6 +1,20 @@
-﻿{
-    "Category":  "Okyuji",
-    "Item":  "① 12 years ago 🗾",
-    "Detail":  "  🇯🇵 Shibuya Milkyway - Tokyo,JP [6 songs]",
-    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
-}
+﻿[
+    {
+        "Category":  "Okyuji",
+        "Item":  "① 10 years ago 🗾",
+        "Detail":  "  🇯🇵 HEAVEN\u0027S ROCK UTSUNOMIYA VJ-2 - Utsunomiya,JP [5 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "② 9 years ago 🗾",
+        "Detail":  "  🇯🇵 TSUTAYA O-WEST - Tokyo,JP [7 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Other",
+        "Item":  "① 6 years ago",
+        "Detail":  "🔴r/BANDMAID on reddit reached 5,000 subscribers ",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Band-Maid%20color%20pop%204.png"
+    }
+]

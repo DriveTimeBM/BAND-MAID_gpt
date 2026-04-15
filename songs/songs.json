@@ -36,7 +36,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  132,
-        "SpotifyStreams":  7420440,
+        "SpotifyStreams":  7431691,
         "MediaTieIn":  null
     },
     {
@@ -46,7 +46,7 @@
         "Album":  "Different",
         "KobatoLead":  "no",
         "PlayedLiveCount":  38,
-        "SpotifyStreams":  7195091,
+        "SpotifyStreams":  7208198,
         "MediaTieIn":  "Opening theme for S3 of anime series Log Horizon"
     },
     {
@@ -156,8 +156,18 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  39,
-        "SpotifyStreams":  2655997,
+        "SpotifyStreams":  2658791,
         "MediaTieIn":  "Theme song for TV show Perfect Crime"
+    },
+    {
+        "Name":  "Show Them",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2024-08-07T00:00:00",
+        "Album":  "Epic Narratives",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  10,
+        "SpotifyStreams":  2615654,
+        "MediaTieIn":  null
     },
     {
         "Name":  "REAL EXISTENCE",
@@ -167,16 +177,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  242,
         "SpotifyStreams":  2607619,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Show Them",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2024-08-07T00:00:00",
-        "Album":  "Epic Narratives",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  10,
-        "SpotifyStreams":  2597566,
         "MediaTieIn":  null
     },
     {
@@ -226,7 +226,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  143,
-        "SpotifyStreams":  2327737,
+        "SpotifyStreams":  2331276,
         "MediaTieIn":  null
     },
     {
@@ -356,7 +356,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  122,
-        "SpotifyStreams":  1789947,
+        "SpotifyStreams":  1793031,
         "MediaTieIn":  null
     },
     {
@@ -406,7 +406,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  112,
-        "SpotifyStreams":  1597984,
+        "SpotifyStreams":  1601080,
         "MediaTieIn":  null
     },
     {
@@ -496,7 +496,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  62,
-        "SpotifyStreams":  1406935,
+        "SpotifyStreams":  1409092,
         "MediaTieIn":  null
     },
     {
@@ -606,7 +606,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  69,
-        "SpotifyStreams":  1182941,
+        "SpotifyStreams":  1184607,
         "MediaTieIn":  "Ending theme for anime series Quiz Tokiko-san"
     },
     {
@@ -616,7 +616,7 @@
         "Album":  "Sense",
         "KobatoLead":  "no",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  1177669,
+        "SpotifyStreams":  1179005,
         "MediaTieIn":  "Battle theme for e-sports All-Japan University e-Sports Competition"
     },
     {
@@ -766,7 +766,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  4,
-        "SpotifyStreams":  873998,
+        "SpotifyStreams":  875838,
         "MediaTieIn":  null
     },
     {
@@ -786,7 +786,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  2,
-        "SpotifyStreams":  854711,
+        "SpotifyStreams":  856084,
         "MediaTieIn":  null
     },
     {
@@ -806,7 +806,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  40,
-        "SpotifyStreams":  842711,
+        "SpotifyStreams":  843420,
         "MediaTieIn":  null
     },
     {
@@ -966,7 +966,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  50,
-        "SpotifyStreams":  723383,
+        "SpotifyStreams":  724384,
         "MediaTieIn":  null
     },
     {
@@ -986,7 +986,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  31,
-        "SpotifyStreams":  699778,
+        "SpotifyStreams":  700920,
         "MediaTieIn":  null
     },
     {
@@ -1106,7 +1106,7 @@
         "Album":  "YOLO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  50,
-        "SpotifyStreams":  584437,
+        "SpotifyStreams":  585122,
         "MediaTieIn":  null
     },
     {
@@ -1156,7 +1156,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  31,
-        "SpotifyStreams":  488963,
+        "SpotifyStreams":  489603,
         "MediaTieIn":  null
     },
     {
@@ -1206,7 +1206,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  8,
-        "SpotifyStreams":  325677,
+        "SpotifyStreams":  327168,
         "MediaTieIn":  null
     },
     {
@@ -1226,7 +1226,7 @@
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
         "PlayedLiveCount":  8,
-        "SpotifyStreams":  228416,
+        "SpotifyStreams":  234141,
         "MediaTieIn":  "Featured in a series of 2026 commercials “Make Life Interesting.” by Takahashi Shuzo Co., Ltd. for Hakutake Shiro."
     },
     {
@@ -1312,7 +1312,7 @@
     {
         "Name":  "Days",
         "AlternativeName":  null,
-        "ReleaseDate":  "",
+        "ReleaseDate":  "2099-04-13T00:00:00",
         "Album":  "",
         "KobatoLead":  "no",
         "PlayedLiveCount":  1,
