@@ -22,6 +22,12 @@
       "URL": "https://lookerstudio.google.com/s/twbdNKVrnr8",
       "Thumbnail": "https://drivetimebm.github.io/BAND-MAID_gpt/misc/SpotifySongs.png",
       "Detail": "Stream counts of all songs on Spotify. Filter by album."
+    },
+    {
+      "Description": "Song Releases by Year",
+      "URL": "https://datastudio.google.com/reporting/1c824baa-96e5-4306-b58f-26553ac1a7e0",
+      "Thumbnail": "https://drivetimebm.github.io/BAND-MAID_gpt/misc/SongsByYear.png",
+      "Detail": "BAND-MAID Song releases by year."
     }
 
   ]
