@@ -9,7 +9,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "04/09/2026 to 04/16/2026",
     "RegionTimeFrame": "City-7day",
-    "RegionName": " Osaka"
+    "RegionName": " Osaka",
+    "FlagUrl": ""
   },
   {
     "DataType": "City",
@@ -21,7 +22,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "04/09/2026 to 04/16/2026",
     "RegionTimeFrame": "City-7day",
-    "RegionName": " Mexico City"
+    "RegionName": " Mexico City",
+    "FlagUrl": ""
   },
   {
     "DataType": "City",
@@ -33,7 +35,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "04/09/2026 to 04/16/2026",
     "RegionTimeFrame": "City-7day",
-    "RegionName": " Sapporo"
+    "RegionName": " Sapporo",
+    "FlagUrl": ""
   },
   {
     "DataType": "City",
@@ -45,7 +48,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "04/09/2026 to 04/16/2026",
     "RegionTimeFrame": "City-7day",
-    "RegionName": " Yokohama"
+    "RegionName": " Yokohama",
+    "FlagUrl": ""
   },
   {
     "DataType": "City",
@@ -57,7 +61,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "04/09/2026 to 04/16/2026",
     "RegionTimeFrame": "City-7day",
-    "RegionName": " Nagoya"
+    "RegionName": " Nagoya",
+    "FlagUrl": ""
   },
   {
     "DataType": "City",
@@ -69,7 +74,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "04/09/2026 to 04/16/2026",
     "RegionTimeFrame": "City-7day",
-    "RegionName": " Shinjuku City"
+    "RegionName": " Shinjuku City",
+    "FlagUrl": ""
   },
   {
     "DataType": "City",
@@ -81,7 +87,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "04/09/2026 to 04/16/2026",
     "RegionTimeFrame": "City-7day",
-    "RegionName": " Fukuoka"
+    "RegionName": " Fukuoka",
+    "FlagUrl": ""
   },
   {
     "DataType": "City",
@@ -93,7 +100,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "04/09/2026 to 04/16/2026",
     "RegionTimeFrame": "City-7day",
-    "RegionName": " Bangkok"
+    "RegionName": " Bangkok",
+    "FlagUrl": ""
   },
   {
     "DataType": "City",
@@ -105,7 +113,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "04/09/2026 to 04/16/2026",
     "RegionTimeFrame": "City-7day",
-    "RegionName": " Seoul"
+    "RegionName": " Seoul",
+    "FlagUrl": ""
   },
   {
     "DataType": "City",
@@ -117,7 +126,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "04/09/2026 to 04/16/2026",
     "RegionTimeFrame": "City-7day",
-    "RegionName": " Hong Kong"
+    "RegionName": " Hong Kong",
+    "FlagUrl": ""
   },
   {
     "DataType": "City",
@@ -129,7 +139,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "04/09/2026 to 04/16/2026",
     "RegionTimeFrame": "City-7day",
-    "RegionName": " Kawasaki"
+    "RegionName": " Kawasaki",
+    "FlagUrl": ""
   },
   {
     "DataType": "City",
@@ -141,7 +152,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "04/09/2026 to 04/16/2026",
     "RegionTimeFrame": "City-7day",
-    "RegionName": " Tijuana"
+    "RegionName": " Tijuana",
+    "FlagUrl": ""
   },
   {
     "DataType": "City",
@@ -153,7 +165,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "04/09/2026 to 04/16/2026",
     "RegionTimeFrame": "City-7day",
-    "RegionName": " Chiyoda City"
+    "RegionName": " Chiyoda City",
+    "FlagUrl": ""
   },
   {
     "DataType": "City",
@@ -165,7 +178,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "04/09/2026 to 04/16/2026",
     "RegionTimeFrame": "City-7day",
-    "RegionName": " Sendai"
+    "RegionName": " Sendai",
+    "FlagUrl": ""
   },
   {
     "DataType": "City",
@@ -177,7 +191,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "04/09/2026 to 04/16/2026",
     "RegionTimeFrame": "City-7day",
-    "RegionName": " Santiago"
+    "RegionName": " Santiago",
+    "FlagUrl": ""
   },
   {
     "DataType": "Country",
@@ -189,7 +204,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "04/09/2026 to 04/16/2026",
     "RegionTimeFrame": "Country-7day",
-    "RegionName": "🇯🇵 Japan"
+    "RegionName": "🇯🇵 Japan",
+    "FlagUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f1ef-1f1f5.png"
   },
   {
     "DataType": "Country",
@@ -201,7 +217,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "04/09/2026 to 04/16/2026",
     "RegionTimeFrame": "Country-7day",
-    "RegionName": "🇲🇽 Mexico"
+    "RegionName": "🇲🇽 Mexico",
+    "FlagUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f1f2-1f1fd.png"
   },
   {
     "DataType": "Country",
@@ -213,7 +230,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "04/09/2026 to 04/16/2026",
     "RegionTimeFrame": "Country-7day",
-    "RegionName": "🇺🇸 United States"
+    "RegionName": "🇺🇸 United States",
+    "FlagUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f1fa-1f1f8.png"
   },
   {
     "DataType": "Country",
@@ -225,7 +243,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "04/09/2026 to 04/16/2026",
     "RegionTimeFrame": "Country-7day",
-    "RegionName": "🇹🇼 Taiwan"
+    "RegionName": "🇹🇼 Taiwan",
+    "FlagUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f1f9-1f1fc.png"
   },
   {
     "DataType": "Country",
@@ -237,7 +256,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "04/09/2026 to 04/16/2026",
     "RegionTimeFrame": "Country-7day",
-    "RegionName": "🇩🇪 Germany"
+    "RegionName": "🇩🇪 Germany",
+    "FlagUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f1e9-1f1ea.png"
   },
   {
     "DataType": "Country",
@@ -249,7 +269,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "04/09/2026 to 04/16/2026",
     "RegionTimeFrame": "Country-7day",
-    "RegionName": "🇹🇭 Thailand"
+    "RegionName": "🇹🇭 Thailand",
+    "FlagUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f1f9-1f1ed.png"
   },
   {
     "DataType": "Country",
@@ -261,7 +282,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "04/09/2026 to 04/16/2026",
     "RegionTimeFrame": "Country-7day",
-    "RegionName": "🇧🇷 Brazil"
+    "RegionName": "🇧🇷 Brazil",
+    "FlagUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f1e7-1f1f7.png"
   },
   {
     "DataType": "Country",
@@ -273,7 +295,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "04/09/2026 to 04/16/2026",
     "RegionTimeFrame": "Country-7day",
-    "RegionName": "🇬🇧 United Kingdom"
+    "RegionName": "🇬🇧 United Kingdom",
+    "FlagUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f1ec-1f1e7.png"
   },
   {
     "DataType": "Country",
@@ -285,7 +308,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "04/09/2026 to 04/16/2026",
     "RegionTimeFrame": "Country-7day",
-    "RegionName": "🇰🇷 South Korea"
+    "RegionName": "🇰🇷 South Korea",
+    "FlagUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f1f0-1f1f7.png"
   },
   {
     "DataType": "Country",
@@ -297,7 +321,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "04/09/2026 to 04/16/2026",
     "RegionTimeFrame": "Country-7day",
-    "RegionName": "🇮🇩 Indonesia"
+    "RegionName": "🇮🇩 Indonesia",
+    "FlagUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f1ee-1f1e9.png"
   },
   {
     "DataType": "Country",
@@ -309,7 +334,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "04/09/2026 to 04/16/2026",
     "RegionTimeFrame": "Country-7day",
-    "RegionName": "🇫🇷 France"
+    "RegionName": "🇫🇷 France",
+    "FlagUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f1eb-1f1f7.png"
   },
   {
     "DataType": "Country",
@@ -321,7 +347,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "04/09/2026 to 04/16/2026",
     "RegionTimeFrame": "Country-7day",
-    "RegionName": "🇨🇦 Canada"
+    "RegionName": "🇨🇦 Canada",
+    "FlagUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f1e8-1f1e6.png"
   },
   {
     "DataType": "Country",
@@ -333,7 +360,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "04/09/2026 to 04/16/2026",
     "RegionTimeFrame": "Country-7day",
-    "RegionName": "🇵🇭 Philippines"
+    "RegionName": "🇵🇭 Philippines",
+    "FlagUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f1f5-1f1ed.png"
   },
   {
     "DataType": "Country",
@@ -345,7 +373,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "04/09/2026 to 04/16/2026",
     "RegionTimeFrame": "Country-7day",
-    "RegionName": "🇷🇺 Russia"
+    "RegionName": "🇷🇺 Russia",
+    "FlagUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f1f7-1f1fa.png"
   },
   {
     "DataType": "Country",
@@ -357,7 +386,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "04/09/2026 to 04/16/2026",
     "RegionTimeFrame": "Country-7day",
-    "RegionName": "🇦🇷 Argentina"
+    "RegionName": "🇦🇷 Argentina",
+    "FlagUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f1e6-1f1f7.png"
   },
   {
     "DataType": "City",
@@ -369,7 +399,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "03/19/2026 to 04/16/2026",
     "RegionTimeFrame": "City-28day",
-    "RegionName": " Osaka"
+    "RegionName": " Osaka",
+    "FlagUrl": ""
   },
   {
     "DataType": "City",
@@ -381,7 +412,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "03/19/2026 to 04/16/2026",
     "RegionTimeFrame": "City-28day",
-    "RegionName": " Sapporo"
+    "RegionName": " Sapporo",
+    "FlagUrl": ""
   },
   {
     "DataType": "City",
@@ -393,7 +425,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "03/19/2026 to 04/16/2026",
     "RegionTimeFrame": "City-28day",
-    "RegionName": " Mexico City"
+    "RegionName": " Mexico City",
+    "FlagUrl": ""
   },
   {
     "DataType": "City",
@@ -405,7 +438,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "03/19/2026 to 04/16/2026",
     "RegionTimeFrame": "City-28day",
-    "RegionName": " Yokohama"
+    "RegionName": " Yokohama",
+    "FlagUrl": ""
   },
   {
     "DataType": "City",
@@ -417,7 +451,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "03/19/2026 to 04/16/2026",
     "RegionTimeFrame": "City-28day",
-    "RegionName": " Nagoya"
+    "RegionName": " Nagoya",
+    "FlagUrl": ""
   },
   {
     "DataType": "City",
@@ -429,7 +464,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "03/19/2026 to 04/16/2026",
     "RegionTimeFrame": "City-28day",
-    "RegionName": " Bangkok"
+    "RegionName": " Bangkok",
+    "FlagUrl": ""
   },
   {
     "DataType": "City",
@@ -441,7 +477,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "03/19/2026 to 04/16/2026",
     "RegionTimeFrame": "City-28day",
-    "RegionName": " Fukuoka"
+    "RegionName": " Fukuoka",
+    "FlagUrl": ""
   },
   {
     "DataType": "City",
@@ -453,7 +490,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "03/19/2026 to 04/16/2026",
     "RegionTimeFrame": "City-28day",
-    "RegionName": " Shinjuku City"
+    "RegionName": " Shinjuku City",
+    "FlagUrl": ""
   },
   {
     "DataType": "City",
@@ -465,7 +503,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "03/19/2026 to 04/16/2026",
     "RegionTimeFrame": "City-28day",
-    "RegionName": " Hong Kong"
+    "RegionName": " Hong Kong",
+    "FlagUrl": ""
   },
   {
     "DataType": "City",
@@ -477,7 +516,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "03/19/2026 to 04/16/2026",
     "RegionTimeFrame": "City-28day",
-    "RegionName": " Seoul"
+    "RegionName": " Seoul",
+    "FlagUrl": ""
   },
   {
     "DataType": "City",
@@ -489,7 +529,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "03/19/2026 to 04/16/2026",
     "RegionTimeFrame": "City-28day",
-    "RegionName": " Shibuya"
+    "RegionName": " Shibuya",
+    "FlagUrl": ""
   },
   {
     "DataType": "City",
@@ -501,7 +542,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "03/19/2026 to 04/16/2026",
     "RegionTimeFrame": "City-28day",
-    "RegionName": " Santiago"
+    "RegionName": " Santiago",
+    "FlagUrl": ""
   },
   {
     "DataType": "City",
@@ -513,7 +555,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "03/19/2026 to 04/16/2026",
     "RegionTimeFrame": "City-28day",
-    "RegionName": " Kawasaki"
+    "RegionName": " Kawasaki",
+    "FlagUrl": ""
   },
   {
     "DataType": "City",
@@ -525,7 +568,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "03/19/2026 to 04/16/2026",
     "RegionTimeFrame": "City-28day",
-    "RegionName": " Chiyoda City"
+    "RegionName": " Chiyoda City",
+    "FlagUrl": ""
   },
   {
     "DataType": "City",
@@ -537,7 +581,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "03/19/2026 to 04/16/2026",
     "RegionTimeFrame": "City-28day",
-    "RegionName": " Tijuana"
+    "RegionName": " Tijuana",
+    "FlagUrl": ""
   },
   {
     "DataType": "Country",
@@ -549,7 +594,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "03/19/2026 to 04/16/2026",
     "RegionTimeFrame": "Country-28day",
-    "RegionName": "🇯🇵 Japan"
+    "RegionName": "🇯🇵 Japan",
+    "FlagUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f1ef-1f1f5.png"
   },
   {
     "DataType": "Country",
@@ -561,7 +607,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "03/19/2026 to 04/16/2026",
     "RegionTimeFrame": "Country-28day",
-    "RegionName": "🇲🇽 Mexico"
+    "RegionName": "🇲🇽 Mexico",
+    "FlagUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f1f2-1f1fd.png"
   },
   {
     "DataType": "Country",
@@ -573,7 +620,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "03/19/2026 to 04/16/2026",
     "RegionTimeFrame": "Country-28day",
-    "RegionName": "🇺🇸 United States"
+    "RegionName": "🇺🇸 United States",
+    "FlagUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f1fa-1f1f8.png"
   },
   {
     "DataType": "Country",
@@ -585,7 +633,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "03/19/2026 to 04/16/2026",
     "RegionTimeFrame": "Country-28day",
-    "RegionName": "🇹🇼 Taiwan"
+    "RegionName": "🇹🇼 Taiwan",
+    "FlagUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f1f9-1f1fc.png"
   },
   {
     "DataType": "Country",
@@ -597,7 +646,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "03/19/2026 to 04/16/2026",
     "RegionTimeFrame": "Country-28day",
-    "RegionName": "🇹🇭 Thailand"
+    "RegionName": "🇹🇭 Thailand",
+    "FlagUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f1f9-1f1ed.png"
   },
   {
     "DataType": "Country",
@@ -609,7 +659,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "03/19/2026 to 04/16/2026",
     "RegionTimeFrame": "Country-28day",
-    "RegionName": "🇩🇪 Germany"
+    "RegionName": "🇩🇪 Germany",
+    "FlagUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f1e9-1f1ea.png"
   },
   {
     "DataType": "Country",
@@ -621,7 +672,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "03/19/2026 to 04/16/2026",
     "RegionTimeFrame": "Country-28day",
-    "RegionName": "🇧🇷 Brazil"
+    "RegionName": "🇧🇷 Brazil",
+    "FlagUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f1e7-1f1f7.png"
   },
   {
     "DataType": "Country",
@@ -633,7 +685,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "03/19/2026 to 04/16/2026",
     "RegionTimeFrame": "Country-28day",
-    "RegionName": "🇰🇷 South Korea"
+    "RegionName": "🇰🇷 South Korea",
+    "FlagUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f1f0-1f1f7.png"
   },
   {
     "DataType": "Country",
@@ -645,7 +698,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "03/19/2026 to 04/16/2026",
     "RegionTimeFrame": "Country-28day",
-    "RegionName": "🇫🇷 France"
+    "RegionName": "🇫🇷 France",
+    "FlagUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f1eb-1f1f7.png"
   },
   {
     "DataType": "Country",
@@ -657,7 +711,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "03/19/2026 to 04/16/2026",
     "RegionTimeFrame": "Country-28day",
-    "RegionName": "🇬🇧 United Kingdom"
+    "RegionName": "🇬🇧 United Kingdom",
+    "FlagUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f1ec-1f1e7.png"
   },
   {
     "DataType": "Country",
@@ -669,7 +724,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "03/19/2026 to 04/16/2026",
     "RegionTimeFrame": "Country-28day",
-    "RegionName": "🇮🇩 Indonesia"
+    "RegionName": "🇮🇩 Indonesia",
+    "FlagUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f1ee-1f1e9.png"
   },
   {
     "DataType": "Country",
@@ -681,7 +737,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "03/19/2026 to 04/16/2026",
     "RegionTimeFrame": "Country-28day",
-    "RegionName": "🇨🇦 Canada"
+    "RegionName": "🇨🇦 Canada",
+    "FlagUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f1e8-1f1e6.png"
   },
   {
     "DataType": "Country",
@@ -693,7 +750,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "03/19/2026 to 04/16/2026",
     "RegionTimeFrame": "Country-28day",
-    "RegionName": "🇷🇺 Russia"
+    "RegionName": "🇷🇺 Russia",
+    "FlagUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f1f7-1f1fa.png"
   },
   {
     "DataType": "Country",
@@ -705,7 +763,8 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "03/19/2026 to 04/16/2026",
     "RegionTimeFrame": "Country-28day",
-    "RegionName": "🇵🇭 Philippines"
+    "RegionName": "🇵🇭 Philippines",
+    "FlagUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f1f5-1f1ed.png"
   },
   {
     "DataType": "Country",
@@ -717,6 +776,7 @@
     "EndDate": "2026-04-16T00:00:00",
     "DateRange": "03/19/2026 to 04/16/2026",
     "RegionTimeFrame": "Country-28day",
-    "RegionName": "🇦🇷 Argentina"
+    "RegionName": "🇦🇷 Argentina",
+    "FlagUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f1e6-1f1f7.png"
   }
 ]
