@@ -1,6 +1,26 @@
-﻿{
-    "Category":  "YouTube Release",
-    "Item":  "① Bestie",
-    "Detail":  "  ▶️ was released 2 years ago. https://youtu.be/OvoR_Xt8mzM",
-    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.png"
-}
+﻿[
+    {
+        "Category":  "YouTube Release",
+        "Item":  "① BAND-MAID / Ready to Rock (Official Teaser Video KANAMI ver.2)  TVアニメ「ロックは淑女の嗜みでして」オープニングテーマソング",
+        "Detail":  "  ▶️ was released 1 year ago. https://youtu.be/XqGukTfP8n8",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.png"
+    },
+    {
+        "Category":  "Song Release",
+        "Item":  "① Bestie ",
+        "Detail":  "🫂 was released 2 years ago.",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/UW_quilt.png"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "① 12 years ago 🗾",
+        "Detail":  "  🇯🇵 morph - Tokyo,JP [0 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "② 10 years ago 🗾",
+        "Detail":  "  🇯🇵 Longwood Station - Nagara,JP [7 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    }
+]

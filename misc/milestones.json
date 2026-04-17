@@ -1,20 +1,26 @@
 ﻿[
     {
         "Categoty":  "YouTube AGGREGATE AUDIO stream Milestones",
-        "Item":  "① Hibana ",
-        "Milestone":  "💥  aggregate AUDIO streams surpassed **500,000**!",
+        "Item":  "① Catharsis ",
+        "Milestone":  "🏊‍♀️  aggregate AUDIO streams surpassed **200,000**!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/ytmusic.png"
     },
     {
         "Categoty":  "YouTube",
-        "Item":  "① Zen https://youtu.be/XHuBR4nAjrE",
-        "Milestone":  "  👀 Surpassed **900,000** views!",
+        "Item":  "① カタルシス https://youtu.be/N5zqCsBjfTU",
+        "Milestone":  "  👀 Surpassed **200,000** views!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.png"
     },
     {
-        "Categoty":  "YouTube",
-        "Item":  "② 火花 https://youtu.be/uMQicabwqus",
-        "Milestone":  "  👀 Surpassed **500,000** views!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.png"
+        "Categoty":  "Spotify",
+        "Item":  "① Dilly-Dally ",
+        "Milestone":  "🐌 Surpassed **200,000** streams!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.png"
+    },
+    {
+        "Categoty":  "Total Streams",
+        "Item":  "Spotify Total Streams",
+        "Milestone":  "  🎧 Surpassed **217** MILLION streams!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.png"
     }
 ]
