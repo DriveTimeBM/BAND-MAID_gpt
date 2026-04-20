@@ -166,5 +166,13 @@
         "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/taipei.png",
         "Start_Local":  "2026-09-20 06:00:00",
         "Start_Japan":  "2026-09-20 19:00:00"
+    },
+    {
+        "Summary":  "FUKUOKA - w/ Journey and Night Ranger",
+        "Location":  "Mizuho PayPay Dome FUKUOKA, 2-chōme-2-2 Jigyōhama, Chuo Ward, Fukuoka, 810-8660, Japan",
+        "URL":  "https://fukurock.com/",
+        "Image":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/839530/content_260410_bm_worldtour_2026_X.jpg",
+        "Start_Local":  "2026-08-29 03:00:00",
+        "Start_Japan":  "2026-08-29 16:00:00"
     }
 ]
