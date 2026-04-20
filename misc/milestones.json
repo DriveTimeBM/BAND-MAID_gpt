@@ -1,14 +1,44 @@
 ﻿[
     {
-        "Categoty":  "YouTube AGGREGATE Views",
-        "Item":  "① Daydreaming ",
-        "Milestone":  "😴 aggregate views surpassed **6** million!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.png"
+        "Categoty":  "Spotify",
+        "Item":  "① DICE ",
+        "Milestone":  "🎲 Surpassed **6,100,000** streams!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.png"
     },
     {
-        "Categoty":  "Total Streams",
-        "Item":  "YouTube Total Streams",
-        "Milestone":  "  👀 Surpassed **287** MILLION views!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.png"
+        "Categoty":  "Twitter/X Followers",
+        "Item":  "① X/Twitter milestone.",
+        "Milestone":  "ⓍBAND-MAID followers surpassed **90,000**!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/twitterlogo.jpg"
+    },
+    {
+        "Categoty":  "Twitter/X Followers",
+        "Item":  "② X/Twitter milestone.",
+        "Milestone":  "ⓍAkane followers surpassed **51,000**!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/twitterlogo.jpg"
+    },
+    {
+        "Categoty":  "Twitter/X Followers",
+        "Item":  "③ X/Twitter milestone.",
+        "Milestone":  "ⓍKanami followers surpassed **53,000**!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/twitterlogo.jpg"
+    },
+    {
+        "Categoty":  "Instagram Followers",
+        "Item":  "④ Instagram milestone",
+        "Milestone":  "📸Miku followers surpassed **98,000**!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/ig.png"
+    },
+    {
+        "Categoty":  "Instagram Followers",
+        "Item":  "⑤ Instagram milestone",
+        "Milestone":  "📸MISA followers surpassed **85,000**!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/ig.png"
+    },
+    {
+        "Categoty":  "Twitter/X Followers",
+        "Item":  "⑥ X/Twitter milestone.",
+        "Milestone":  "ⓍSaiki followers surpassed **54,000**!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/twitterlogo.jpg"
     }
 ]

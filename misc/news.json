@@ -1,5 +1,13 @@
 ﻿[
     {
+        "ContentId":  "181177",
+        "Date":  "2018-06-06",
+        "Category":  "NEWS",
+        "Title":  "【夏フェス】BAND-MAID、ROCK IN JAPAN FESTIVAL 2018に出演決定！",
+        "Url":  "https://bandmaid.tokyo/contents/181177",
+        "Thumbnail":  "https://bandmaid.tokyo/assets/bandmaid/ogp.png"
+    },
+    {
         "ContentId":  "181178",
         "Date":  "2018-06-06",
         "Category":  "NEWS",
@@ -13,14 +21,6 @@
         "Category":  "INFO",
         "Title":  "【NEWS】3rd Single「start over」7/25(水)リリース！",
         "Url":  "https://bandmaid.tokyo/contents/181182",
-        "Thumbnail":  "https://bandmaid.tokyo/assets/bandmaid/ogp.png"
-    },
-    {
-        "ContentId":  "181177",
-        "Date":  "2018-06-06",
-        "Category":  "NEWS",
-        "Title":  "【夏フェス】BAND-MAID、ROCK IN JAPAN FESTIVAL 2018に出演決定！",
-        "Url":  "https://bandmaid.tokyo/contents/181177",
         "Thumbnail":  "https://bandmaid.tokyo/assets/bandmaid/ogp.png"
     },
     {
@@ -176,14 +176,6 @@
         "Thumbnail":  "https://bandmaid.tokyo/assets/bandmaid/ogp.png"
     },
     {
-        "ContentId":  "221040",
-        "Date":  "2019-01-29",
-        "Category":  "INFO",
-        "Title":  "Interview by Natalie part 2  (For International)",
-        "Url":  "https://bandmaid.tokyo/contents/221040",
-        "Thumbnail":  "https://cdnx.natalie.mu/media/pp/static/music/bandmaid05/photo10s.jpg"
-    },
-    {
         "ContentId":  "220871",
         "Date":  "2019-01-29",
         "Category":  "INFO",
@@ -192,12 +184,12 @@
         "Thumbnail":  "https://cdnx.natalie.mu/media/pp/static/music/bandmaid05/photo02s.jpg"
     },
     {
-        "ContentId":  "222344",
-        "Date":  "2019-02-05",
-        "Category":  "NEWS",
-        "Title":  "Interview by UTATEN part1 (For International)",
-        "Url":  "https://bandmaid.tokyo/contents/222344",
-        "Thumbnail":  "https://cdn.utaten.com/uploads/images/specialArticle/3119/thumbnail/0x800/cc1152c98e24fab05eca062a35c726a53ac5c20c.jpeg"
+        "ContentId":  "221040",
+        "Date":  "2019-01-29",
+        "Category":  "INFO",
+        "Title":  "Interview by Natalie part 2  (For International)",
+        "Url":  "https://bandmaid.tokyo/contents/221040",
+        "Thumbnail":  "https://cdnx.natalie.mu/media/pp/static/music/bandmaid05/photo10s.jpg"
     },
     {
         "ContentId":  "222346",
@@ -206,6 +198,14 @@
         "Title":  "Interview by UTATEN part２ (For International)",
         "Url":  "https://bandmaid.tokyo/contents/222346",
         "Thumbnail":  "https://cdn.utaten.com/uploads/images/specialArticle/3119/14/ab13910cc1833e7bfa7d4ba2cc964b1c2875bfba_l.jpeg"
+    },
+    {
+        "ContentId":  "222344",
+        "Date":  "2019-02-05",
+        "Category":  "NEWS",
+        "Title":  "Interview by UTATEN part1 (For International)",
+        "Url":  "https://bandmaid.tokyo/contents/222344",
+        "Thumbnail":  "https://cdn.utaten.com/uploads/images/specialArticle/3119/thumbnail/0x800/cc1152c98e24fab05eca062a35c726a53ac5c20c.jpeg"
     },
     {
         "ContentId":  "229102",
@@ -384,14 +384,6 @@
         "Thumbnail":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/241164/content_JK%E5%86%99_BM_CONQUEROR__%E5%88%9D%E5%9B%9E%E7%94%9F%E7%94%A3%E9%99%90%E5%AE%9A%E7%9B%A4A_CRCP40590_.jpg"
     },
     {
-        "ContentId":  "276478",
-        "Date":  "2019-10-29",
-        "Category":  "NEWS",
-        "Title":  "[English Version Series⑥] BAND-MAID Road to “WORLD DOMINATION” New York①",
-        "Url":  "https://bandmaid.tokyo/contents/276478",
-        "Thumbnail":  "https://img.barks.jp/image/review/1000172299/0.jpg"
-    },
-    {
         "ContentId":  "252229",
         "Date":  "2019-10-29",
         "Category":  "NEWS",
@@ -408,19 +400,27 @@
         "Thumbnail":  "https://img.barks.jp/image/review/1000172299/0.jpg"
     },
     {
-        "ContentId":  "276481",
-        "Date":  "2019-10-29",
-        "Category":  "NEWS",
-        "Title":  "[English Version Series⑦] BAND-MAID Road to “WORLD DOMINATION” New York②",
-        "Url":  "https://bandmaid.tokyo/contents/276481",
-        "Thumbnail":  "https://img.barks.jp/image/review/1000172299/0.jpg"
-    },
-    {
         "ContentId":  "276482",
         "Date":  "2019-10-29",
         "Category":  "NEWS",
         "Title":  "[English Version Series⑧] BAND-MAID Road to “WORLD DOMINATION” Dallas",
         "Url":  "https://bandmaid.tokyo/contents/276482",
+        "Thumbnail":  "https://img.barks.jp/image/review/1000172299/0.jpg"
+    },
+    {
+        "ContentId":  "276478",
+        "Date":  "2019-10-29",
+        "Category":  "NEWS",
+        "Title":  "[English Version Series⑥] BAND-MAID Road to “WORLD DOMINATION” New York①",
+        "Url":  "https://bandmaid.tokyo/contents/276478",
+        "Thumbnail":  "https://img.barks.jp/image/review/1000172299/0.jpg"
+    },
+    {
+        "ContentId":  "276481",
+        "Date":  "2019-10-29",
+        "Category":  "NEWS",
+        "Title":  "[English Version Series⑦] BAND-MAID Road to “WORLD DOMINATION” New York②",
+        "Url":  "https://bandmaid.tokyo/contents/276481",
         "Thumbnail":  "https://img.barks.jp/image/review/1000172299/0.jpg"
     },
     {
@@ -512,19 +512,19 @@
         "Thumbnail":  "https://bandmaid.tokyo/assets/bandmaid/ogp.png"
     },
     {
-        "ContentId":  "292985",
-        "Date":  "2020-01-28",
-        "Category":  "NEWS",
-        "Title":  "【NEWS】「百万石音楽祭2020〜ミリオンロックフェスティバル〜」にBAND-MAID出演決定！",
-        "Url":  "https://bandmaid.tokyo/contents/292985",
-        "Thumbnail":  "https://bandmaid.tokyo/assets/bandmaid/ogp.png"
-    },
-    {
         "ContentId":  "193585",
         "Date":  "2020-01-28",
         "Category":  "INFO",
         "Title":  "【NEWS】Things to know when visiting a BAND-MAID live performance",
         "Url":  "https://bandmaid.tokyo/contents/193585",
+        "Thumbnail":  "https://bandmaid.tokyo/assets/bandmaid/ogp.png"
+    },
+    {
+        "ContentId":  "292985",
+        "Date":  "2020-01-28",
+        "Category":  "NEWS",
+        "Title":  "【NEWS】「百万石音楽祭2020〜ミリオンロックフェスティバル〜」にBAND-MAID出演決定！",
+        "Url":  "https://bandmaid.tokyo/contents/292985",
         "Thumbnail":  "https://bandmaid.tokyo/assets/bandmaid/ogp.png"
     },
     {
@@ -632,19 +632,19 @@
         "Thumbnail":  "https://bandmaid.tokyo/assets/bandmaid/ogp.png"
     },
     {
-        "ContentId":  "326349",
-        "Date":  "2020-06-24",
-        "Category":  "NEWS",
-        "Title":  "【NEWS】Important notification from BAND-MAID",
-        "Url":  "https://bandmaid.tokyo/contents/326349",
-        "Thumbnail":  "https://bandmaid.tokyo/assets/bandmaid/ogp.png"
-    },
-    {
         "ContentId":  "326412",
         "Date":  "2020-06-24",
         "Category":  "NEWS",
         "Title":  "Important: Information About Refunds Following Cancellation of BAND-MAID ZEPP TOUR",
         "Url":  "https://bandmaid.tokyo/contents/326412",
+        "Thumbnail":  "https://bandmaid.tokyo/assets/bandmaid/ogp.png"
+    },
+    {
+        "ContentId":  "326349",
+        "Date":  "2020-06-24",
+        "Category":  "NEWS",
+        "Title":  "【NEWS】Important notification from BAND-MAID",
+        "Url":  "https://bandmaid.tokyo/contents/326349",
         "Thumbnail":  "https://bandmaid.tokyo/assets/bandmaid/ogp.png"
     },
     {
@@ -840,14 +840,6 @@
         "Thumbnail":  "https://bandmaid.tokyo/assets/bandmaid/ogp.png"
     },
     {
-        "ContentId":  "398719",
-        "Date":  "2021-01-19",
-        "Category":  "NEWS",
-        "Title":  "[NEWS] Announcement of BAND-MAID ONLINE SHOP update schedule",
-        "Url":  "https://bandmaid.tokyo/contents/398719",
-        "Thumbnail":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/319711/content_kokuchi.jpg"
-    },
-    {
         "ContentId":  "398717",
         "Date":  "2021-01-19",
         "Category":  "INFO",
@@ -856,12 +848,12 @@
         "Thumbnail":  "https://bandmaid.tokyo/assets/bandmaid/ogp.png"
     },
     {
-        "ContentId":  "398821",
-        "Date":  "2021-01-20",
+        "ContentId":  "398719",
+        "Date":  "2021-01-19",
         "Category":  "NEWS",
-        "Title":  "[NEWS] \"without holding back\" will be the official anthem of the All-Japan University e-Sports Competition!",
-        "Url":  "https://bandmaid.tokyo/contents/398821",
-        "Thumbnail":  "https://bandmaid.tokyo/assets/bandmaid/ogp.png"
+        "Title":  "[NEWS] Announcement of BAND-MAID ONLINE SHOP update schedule",
+        "Url":  "https://bandmaid.tokyo/contents/398719",
+        "Thumbnail":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/319711/content_kokuchi.jpg"
     },
     {
         "ContentId":  "394712",
@@ -869,6 +861,14 @@
         "Category":  "NEWS",
         "Title":  "[NEWS] \"Unseen World\" online listening party is set to happen! Youtube premiere is held.",
         "Url":  "https://bandmaid.tokyo/contents/394712",
+        "Thumbnail":  "https://bandmaid.tokyo/assets/bandmaid/ogp.png"
+    },
+    {
+        "ContentId":  "398821",
+        "Date":  "2021-01-20",
+        "Category":  "NEWS",
+        "Title":  "[NEWS] \"without holding back\" will be the official anthem of the All-Japan University e-Sports Competition!",
+        "Url":  "https://bandmaid.tokyo/contents/398821",
         "Thumbnail":  "https://bandmaid.tokyo/assets/bandmaid/ogp.png"
     },
     {
@@ -976,20 +976,20 @@
         "Thumbnail":  "https://bandmaid.tokyo/assets/bandmaid/ogp.png"
     },
     {
-        "ContentId":  "425188",
-        "Date":  "2021-05-01",
-        "Category":  "NEWS",
-        "Title":  "【NEWS】BAND-MAID “THE DAY OF MAID” online spot sale",
-        "Url":  "https://bandmaid.tokyo/contents/425188",
-        "Thumbnail":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/347677/content_BM_POP_A4_Jpn_S.jpg"
-    },
-    {
         "ContentId":  "425109",
         "Date":  "2021-05-01",
         "Category":  "NEWS",
         "Title":  "【重要】「BAND-MAID \"THE DAY OF MAID\"」来場チケット払い戻し詳細のご案内",
         "Url":  "https://bandmaid.tokyo/contents/425109",
         "Thumbnail":  "https://bandmaid.tokyo/assets/bandmaid/ogp.png"
+    },
+    {
+        "ContentId":  "425188",
+        "Date":  "2021-05-01",
+        "Category":  "NEWS",
+        "Title":  "【NEWS】BAND-MAID “THE DAY OF MAID” online spot sale",
+        "Url":  "https://bandmaid.tokyo/contents/425188",
+        "Thumbnail":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/347677/content_BM_POP_A4_Jpn_S.jpg"
     },
     {
         "ContentId":  "426671",
@@ -1040,19 +1040,19 @@
         "Thumbnail":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/355220/content_jkt.jpg"
     },
     {
-        "ContentId":  "431691",
-        "Date":  "2021-07-26",
-        "Category":  "NEWS",
-        "Title":  "[NEWS]July 25, BAND-MAID will perform at \"Splendour XR\" !!",
-        "Url":  "https://bandmaid.tokyo/contents/431691",
-        "Thumbnail":  "https://bandmaid.tokyo/assets/bandmaid/ogp.png"
-    },
-    {
         "ContentId":  "444228",
         "Date":  "2021-07-26",
         "Category":  "NEWS",
         "Title":  "[NEWS]\"Manners\" and \"BLACK HOLE\"  on YouTube!",
         "Url":  "https://bandmaid.tokyo/contents/444228",
+        "Thumbnail":  "https://bandmaid.tokyo/assets/bandmaid/ogp.png"
+    },
+    {
+        "ContentId":  "431691",
+        "Date":  "2021-07-26",
+        "Category":  "NEWS",
+        "Title":  "[NEWS]July 25, BAND-MAID will perform at \"Splendour XR\" !!",
+        "Url":  "https://bandmaid.tokyo/contents/431691",
         "Thumbnail":  "https://bandmaid.tokyo/assets/bandmaid/ogp.png"
     },
     {
@@ -1168,20 +1168,20 @@
         "Thumbnail":  "https://bandmaid.tokyo/assets/bandmaid/ogp.png"
     },
     {
-        "ContentId":  "476943",
-        "Date":  "2021-12-20",
-        "Category":  "NEWS",
-        "Title":  "[NEWS] Official score for BAND-MAID’s Unseen World comprehensively supervised by the band members to be released!",
-        "Url":  "https://bandmaid.tokyo/contents/476943",
-        "Thumbnail":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/391434/content_02_scorebook-cd.jpg"
-    },
-    {
         "ContentId":  "484728",
         "Date":  "2021-12-20",
         "Category":  "NEWS",
         "Title":  "[NEWS] \"BAND-MAID Official Score for Unseen World\" release campaign",
         "Url":  "https://bandmaid.tokyo/contents/484728",
         "Thumbnail":  "https://bandmaid.tokyo/assets/bandmaid/ogp.png"
+    },
+    {
+        "ContentId":  "476943",
+        "Date":  "2021-12-20",
+        "Category":  "NEWS",
+        "Title":  "[NEWS] Official score for BAND-MAID’s Unseen World comprehensively supervised by the band members to be released!",
+        "Url":  "https://bandmaid.tokyo/contents/476943",
+        "Thumbnail":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/391434/content_02_scorebook-cd.jpg"
     },
     {
         "ContentId":  "485590",
@@ -1264,19 +1264,19 @@
         "Thumbnail":  "https://bandmaid.tokyo/assets/bandmaid/ogp.png"
     },
     {
-        "ContentId":  "541493",
-        "Date":  "2022-07-15",
-        "Category":  "NEWS",
-        "Title":  "[NEWS] \"Sayonakidori\" live video from \"BAND-MAID ONLINE ACOUSTIC\" is now available for a limited time only!",
-        "Url":  "https://bandmaid.tokyo/contents/541493",
-        "Thumbnail":  "https://bandmaid.tokyo/assets/bandmaid/ogp.png"
-    },
-    {
         "ContentId":  "541414",
         "Date":  "2022-07-15",
         "Category":  "NEWS",
         "Title":  "[IMPORTANT]  \"BAND-MAID PRE US OKYUJI\" SS Ticket Buyer\u0027s Limited Color T-Shirt Size Survey Notice",
         "Url":  "https://bandmaid.tokyo/contents/541414",
+        "Thumbnail":  "https://bandmaid.tokyo/assets/bandmaid/ogp.png"
+    },
+    {
+        "ContentId":  "541493",
+        "Date":  "2022-07-15",
+        "Category":  "NEWS",
+        "Title":  "[NEWS] \"Sayonakidori\" live video from \"BAND-MAID ONLINE ACOUSTIC\" is now available for a limited time only!",
+        "Url":  "https://bandmaid.tokyo/contents/541493",
         "Thumbnail":  "https://bandmaid.tokyo/assets/bandmaid/ogp.png"
     },
     {
@@ -1328,20 +1328,20 @@
         "Thumbnail":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/446886/content_SS%E7%89%B9%E5%85%B8.jpg"
     },
     {
-        "ContentId":  "548169",
-        "Date":  "2022-09-21",
-        "Category":  "NEWS",
-        "Title":  "BAND-MAID \"Unleash!!!!!\" SPECIAL CAMPAIGN",
-        "Url":  "https://bandmaid.tokyo/contents/548169",
-        "Thumbnail":  "https://bandmaid.tokyo/assets/bandmaid/ogp.png"
-    },
-    {
         "ContentId":  "538574",
         "Date":  "2022-09-21",
         "Category":  "NEWS",
         "Title":  "[NEWS] BAND-MAID NEW EP 「Unleash」RELEASE INFO",
         "Url":  "https://bandmaid.tokyo/contents/538574",
         "Thumbnail":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/447748/content_unleash__jkt_DVD_S.jpg"
+    },
+    {
+        "ContentId":  "548169",
+        "Date":  "2022-09-21",
+        "Category":  "NEWS",
+        "Title":  "BAND-MAID \"Unleash!!!!!\" SPECIAL CAMPAIGN",
+        "Url":  "https://bandmaid.tokyo/contents/548169",
+        "Thumbnail":  "https://bandmaid.tokyo/assets/bandmaid/ogp.png"
     },
     {
         "ContentId":  "567335",
@@ -1992,20 +1992,20 @@
         "Thumbnail":  "https://bandmaid.tokyo/assets/bandmaid/ogp.png"
     },
     {
-        "ContentId":  "1019187",
-        "Date":  "2025-12-07",
-        "Category":  "INFO",
-        "Title":  "[NEWS]  BAND-MAID 2026",
-        "Url":  "https://bandmaid.tokyo/contents/1019187",
-        "Thumbnail":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/800004/content_WT.png"
-    },
-    {
         "ContentId":  "869736",
         "Date":  "2025-12-07",
         "Category":  "NEWS",
         "Title":  "[NEWS] \"BAND-MAID TOUR 2025\"  Ticket Information",
         "Url":  "https://bandmaid.tokyo/contents/869736",
         "Thumbnail":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/759425/content_visual2.jpg"
+    },
+    {
+        "ContentId":  "1019187",
+        "Date":  "2025-12-07",
+        "Category":  "INFO",
+        "Title":  "[NEWS]  BAND-MAID 2026",
+        "Url":  "https://bandmaid.tokyo/contents/1019187",
+        "Thumbnail":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/800004/content_WT.png"
     },
     {
         "ContentId":  "738220",
@@ -2126,5 +2126,13 @@
         "Title":  "[NEWS / TICKET] BAND-MAID WORLD TOUR 2026",
         "Url":  "https://bandmaid.tokyo/contents/1041130",
         "Thumbnail":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/839540/content_260410_bm_worldtour_2026_X.jpg"
+    },
+    {
+        "ContentId":  "1066883",
+        "Date":  "2026-04-20",
+        "Category":  "INFO",
+        "Title":  "[NEWS] BAND-MAID to Perform at “THE GREATEST ROCK FUKUOKA” on Aug. 29 (Sat), 2026 at Mizuho PayPay Dome Fukuoka",
+        "Url":  "https://bandmaid.tokyo/contents/1066883",
+        "Thumbnail":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/841500/content_messageImage_1776243631707.jpg"
     }
 ]
