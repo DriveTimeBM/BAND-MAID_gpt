@@ -1,72 +1,72 @@
-﻿[
-    {
-        "Video":  "① Choose me",
-        "Views":  "1,969,802 views",
-        "Days":  "17 days",
-        "URL":  "https://youtu.be/Imq5n_Cmd4o",
-        "Image":  "https://img.youtube.com/vi/Imq5n_Cmd4o/sddefault.jpg"
-    },
-    {
-        "Video":  "② Choose me  (OMV)",
-        "Views":  "15,940,743 views",
-        "Days":  "24 days",
-        "URL":  "https://youtu.be/MZIJ2vFxu9Y",
-        "Image":  "https://img.youtube.com/vi/MZIJ2vFxu9Y/sddefault.jpg"
-    },
-    {
-        "Video":  "③ DOMINATION  (OLV)",
-        "Views":  "4,969,675 views",
-        "Days":  "33 days",
-        "URL":  "https://youtu.be/QbyQCJn6rYg",
-        "Image":  "https://img.youtube.com/vi/QbyQCJn6rYg/sddefault.jpg"
-    },
-    {
-        "Video":  "④ Ready to Rock (OMV)  TVアニメ「ロックは淑女の嗜みでして」オープニングテーマソング",
-        "Views":  "4,824,403 views",
-        "Days":  "68 days",
-        "URL":  "https://youtu.be/eapNDHKbu0M",
-        "Image":  "https://img.youtube.com/vi/eapNDHKbu0M/sddefault.jpg"
-    },
-    {
-        "Video":  "⑤ endless Story (OMV)",
-        "Views":  "1,978,305 views",
-        "Days":  "69 days",
-        "URL":  "https://youtu.be/5_S4s8jZQ-A",
-        "Image":  "https://img.youtube.com/vi/5_S4s8jZQ-A/sddefault.jpg"
-    },
-    {
-        "Video":  "⑥ Zen",
-        "Views":  "905,954 views",
-        "Days":  "89 days",
-        "URL":  "https://youtu.be/XHuBR4nAjrE",
-        "Image":  "https://img.youtube.com/vi/XHuBR4nAjrE/sddefault.jpg"
-    },
-    {
-        "Video":  "⑦ Sense",
-        "Views":  "1,908,835 views",
-        "Days":  "92 days",
-        "URL":  "https://youtu.be/ss11rU97V2I",
-        "Image":  "https://img.youtube.com/vi/ss11rU97V2I/sddefault.jpg"
-    },
-    {
-        "Video":  "⑧ Ready to Rock",
-        "Views":  "2,481,122 views",
-        "Days":  "133 days",
-        "URL":  "https://youtu.be/5uOdE0j4h1E",
-        "Image":  "https://img.youtube.com/vi/5uOdE0j4h1E/sddefault.jpg"
-    },
-    {
-        "Video":  "⑨ Present Perfect (OMV)",
-        "Views":  "1,866,955 views",
-        "Days":  "151 days",
-        "URL":  "https://youtu.be/yzSdgw-tdr0",
-        "Image":  "https://img.youtube.com/vi/yzSdgw-tdr0/sddefault.jpg"
-    },
-    {
-        "Video":  "⑩ Ready to Rock ×「ロックは淑女の嗜みでして」 Special Music Video (Anime Music Video)",
-        "Views":  "2,344,516 views",
-        "Days":  "158 days",
-        "URL":  "https://youtu.be/JegJ6cSsUgg",
-        "Image":  "https://img.youtube.com/vi/JegJ6cSsUgg/sddefault.jpg"
-    }
+[
+  {
+    "Video": "① Choose me",
+    "Views": "1,969,802 views",
+    "Days": "17 days",
+    "URL": "https://youtu.be/Imq5n_Cmd4o",
+    "Image": "https://img.youtube.com/vi/Imq5n_Cmd4o/sddefault.jpg"
+  },
+  {
+    "Video": "② Choose me  (OMV)",
+    "Views": "15,940,743 views",
+    "Days": "24 days",
+    "URL": "https://youtu.be/MZIJ2vFxu9Y",
+    "Image": "https://img.youtube.com/vi/MZIJ2vFxu9Y/sddefault.jpg"
+  },
+  {
+    "Video": "③ DOMINATION  (OLV)",
+    "Views": "4,969,675 views",
+    "Days": "33 days",
+    "URL": "https://youtu.be/QbyQCJn6rYg",
+    "Image": "https://img.youtube.com/vi/QbyQCJn6rYg/sddefault.jpg"
+  },
+  {
+    "Video": "④ Ready to Rock (OMV)  TVアニメ「ロックは淑女の嗜みでして」オープニングテーマソング",
+    "Views": "4,824,403 views",
+    "Days": "68 days",
+    "URL": "https://youtu.be/eapNDHKbu0M",
+    "Image": "https://img.youtube.com/vi/eapNDHKbu0M/sddefault.jpg"
+  },
+  {
+    "Video": "⑤ endless Story (OMV)",
+    "Views": "1,978,305 views",
+    "Days": "69 days",
+    "URL": "https://youtu.be/5_S4s8jZQ-A",
+    "Image": "https://img.youtube.com/vi/5_S4s8jZQ-A/sddefault.jpg"
+  },
+  {
+    "Video": "⑥ Zen",
+    "Views": "905,954 views",
+    "Days": "89 days",
+    "URL": "https://youtu.be/XHuBR4nAjrE",
+    "Image": "https://img.youtube.com/vi/XHuBR4nAjrE/sddefault.jpg"
+  },
+  {
+    "Video": "⑦ Sense",
+    "Views": "1,908,835 views",
+    "Days": "92 days",
+    "URL": "https://youtu.be/ss11rU97V2I",
+    "Image": "https://img.youtube.com/vi/ss11rU97V2I/sddefault.jpg"
+  },
+  {
+    "Video": "⑧ Ready to Rock",
+    "Views": "2,481,122 views",
+    "Days": "133 days",
+    "URL": "https://youtu.be/5uOdE0j4h1E",
+    "Image": "https://img.youtube.com/vi/5uOdE0j4h1E/sddefault.jpg"
+  },
+  {
+    "Video": "⑨ Present Perfect (OMV)",
+    "Views": "1,866,955 views",
+    "Days": "151 days",
+    "URL": "https://youtu.be/yzSdgw-tdr0",
+    "Image": "https://img.youtube.com/vi/yzSdgw-tdr0/sddefault.jpg"
+  },
+  {
+    "Video": "⑩ Ready to Rock ×「ロックは淑女の嗜みでして」 Special Music Video (Anime Music Video)",
+    "Views": "2,344,516 views",
+    "Days": "158 days",
+    "URL": "https://youtu.be/JegJ6cSsUgg",
+    "Image": "https://img.youtube.com/vi/JegJ6cSsUgg/sddefault.jpg"
+  }
 ]
