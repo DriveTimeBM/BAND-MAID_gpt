@@ -1,6 +1,14 @@
-﻿{
-    "Category":  "Other",
-    "Item":  "① 6 years ago",
-    "Detail":  "Rinne [輪廻] OMV surpassed 1 million views",
-    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Band-Maid%20color%20pop%204.png"
-}
+﻿[
+    {
+        "Category":  "YouTube Release",
+        "Item":  "① BAND-MAID / NO GOD (Official Live Video)",
+        "Detail":  "  ▶️ was released 3 years ago. https://youtu.be/iLF5zd0yl64",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.png"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "① 3 years ago 🗾",
+        "Detail":  "  🇯🇵 Harbor Studio - Kobe,JP [23 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    }
+]
