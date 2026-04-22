@@ -1,14 +1,20 @@
 ﻿[
     {
         "Category":  "YouTube Release",
-        "Item":  "① BAND-MAID / NO GOD (Official Live Video)",
-        "Detail":  "  ▶️ was released 3 years ago. https://youtu.be/iLF5zd0yl64",
+        "Item":  "① BAND-MAID / Choose me (Official Live Video)",
+        "Detail":  "  ▶️ was released 6 years ago. https://youtu.be/HcqitbXgigU",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.png"
     },
     {
         "Category":  "Okyuji",
-        "Item":  "① 3 years ago 🗾",
-        "Detail":  "  🇯🇵 Harbor Studio - Kobe,JP [23 songs]",
+        "Item":  "① 11 years ago 🗾",
+        "Detail":  "  🇯🇵 morph - Tokyo,JP [6 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "② 3 years ago 🗾",
+        "Detail":  "  🇯🇵 KBS Hall - Kyoto,JP [24 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     }
 ]
