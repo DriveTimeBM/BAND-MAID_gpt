@@ -1,6 +1,14 @@
-﻿{
-    "Category":  "YouTube Release",
-    "Item":  "① BAND-MAID / Ready to Rock (Official Teaser Video)  TVアニメ「ロックは淑女の嗜みでして」オープニングテーマソング",
-    "Detail":  "  ▶️ was released 1 year ago. https://youtu.be/gKsEHgTRD84",
-    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.png"
-}
+﻿[
+    {
+        "Category":  "Okyuji",
+        "Item":  "① 10 years ago 🗾",
+        "Detail":  "  🇯🇵 MOSAiC - Tokyo,JP [6 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "② 3 years ago 🗾",
+        "Detail":  "  🇯🇵 BIGCAT - Osaka,JP [23 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    }
+]
