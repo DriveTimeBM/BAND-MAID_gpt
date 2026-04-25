@@ -1,14 +1,6 @@
-﻿[
-    {
-        "Category":  "Okyuji",
-        "Item":  "① 10 years ago 🗾",
-        "Detail":  "  🇯🇵 MOSAiC - Tokyo,JP [6 songs]",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
-    },
-    {
-        "Category":  "Okyuji",
-        "Item":  "② 3 years ago 🗾",
-        "Detail":  "  🇯🇵 BIGCAT - Osaka,JP [23 songs]",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
-    }
-]
+﻿{
+    "Category":  "Okyuji",
+    "Item":  "① 4 years ago 🗾",
+    "Detail":  "  🇯🇵 Sound studio Noah Toritsudai, studio C - Tokyo,JP [1 songs]",
+    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+}

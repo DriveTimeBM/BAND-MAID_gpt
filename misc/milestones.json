@@ -1,26 +1,32 @@
 ﻿[
     {
-        "Categoty":  "YouTube AGGREGATE AUDIO stream Milestones",
-        "Item":  "① Before Yesterday ",
-        "Milestone":  "📆  aggregate AUDIO streams surpassed **200,000**!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/ytmusic.png"
-    },
-    {
         "Categoty":  "YouTube",
-        "Item":  "① BAND-MAID / HATE? (Official Live Video) https://youtu.be/yfORoQIqB3E",
-        "Milestone":  "  👀 Surpassed **1,500,000** views!",
+        "Item":  "① BAND-MAID with The Warning / SHOW THEM (Official Music Video) https://youtu.be/LVl0mcEu1r8",
+        "Milestone":  "  👀 Surpassed **2,500,000** views!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.png"
     },
     {
         "Categoty":  "YouTube",
-        "Item":  "② Before Yesterday https://youtu.be/xlUYvGjmOas",
-        "Milestone":  "  👀 Surpassed **200,000** views!",
+        "Item":  "② BAND-MAID / the non-fiction days (Official Music Video) https://youtu.be/ItYN-ri1NPs",
+        "Milestone":  "  👀 Surpassed **7,700,000** views!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.png"
     },
     {
         "Categoty":  "Spotify",
-        "Item":  "① Sense ",
-        "Milestone":  "👁️ Surpassed **10,600,000** streams!",
+        "Item":  "① secret My lips ",
+        "Milestone":  "💋 Surpassed **1,800,000** streams!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.png"
+    },
+    {
+        "Categoty":  "Spotify",
+        "Item":  "② Unleash!!!!! ",
+        "Milestone":  "‼️‼️❗ Surpassed **3,500,000** streams!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.png"
+    },
+    {
+        "Categoty":  "Spotify",
+        "Item":  "③ Ready to Rock ",
+        "Milestone":  "🪨 Surpassed **3,400,000** streams!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.png"
     }
 ]
