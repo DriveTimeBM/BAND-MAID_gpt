@@ -1,6 +1,14 @@
-﻿{
-    "Category":  "Okyuji",
-    "Item":  "① 4 years ago 🗾",
-    "Detail":  "  🇯🇵 Sound studio Noah Toritsudai, studio C - Tokyo,JP [1 songs]",
-    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
-}
+﻿[
+    {
+        "Category":  "Okyuji",
+        "Item":  "① 12 years ago 🗾",
+        "Detail":  "  🇯🇵 VUENOS - Tokyo,JP [0 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Other",
+        "Item":  "① 2 years ago",
+        "Detail":  "▶️Band-Maid YouTube channel surpassed 200 million views",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Band-Maid%20color%20pop%204.png"
+    }
+]
