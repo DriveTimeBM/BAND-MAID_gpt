@@ -1,14 +1,26 @@
 ﻿[
     {
+        "Category":  "Live Debut",
+        "Item":  "① Ai to Jonetsu no Matador ",
+        "Detail":  " ❤️🐮 was first played live 12 years ago at Shibuya Milkyway, Tokyo, Japan",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
+    },
+    {
+        "Category":  "Live Debut",
+        "Item":  "② Ready to Rock ",
+        "Detail":  " 🪨 was first played live 1 year ago at Ready to Rock, Kawasaki, JP",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
+    },
+    {
         "Category":  "Okyuji",
         "Item":  "① 12 years ago 🗾",
-        "Detail":  "  🇯🇵 VUENOS - Tokyo,JP [0 songs]",
+        "Detail":  "  🇯🇵 Shibuya Milkyway - Tokyo,JP [11 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     },
     {
-        "Category":  "Other",
-        "Item":  "① 2 years ago",
-        "Detail":  "▶️Band-Maid YouTube channel surpassed 200 million views",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Band-Maid%20color%20pop%204.png"
+        "Category":  "Okyuji",
+        "Item":  "② 1 year ago 🗾",
+        "Detail":  "  🇯🇵 Eco Camp Michinoku - Kawasaki,JP [8 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     }
 ]

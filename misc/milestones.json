@@ -1,6 +1,20 @@
-﻿{
-    "Categoty":  "YouTube",
-    "Item":  "① BAND-MAID / Dilly-Dally (Official Live Video) https://youtu.be/yTAQ5dCpuiM",
-    "Milestone":  "  👀 Surpassed **1,200,000** views!",
-    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.png"
-}
+﻿[
+    {
+        "Categoty":  "YouTube AGGREGATE AUDIO stream Milestones",
+        "Item":  "① Sense ",
+        "Milestone":  "👁️  aggregate AUDIO streams surpassed **2,200,000**!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/ytmusic.png"
+    },
+    {
+        "Categoty":  "YouTube",
+        "Item":  "① Ready to Rock https://youtu.be/5uOdE0j4h1E",
+        "Milestone":  "  👀 Surpassed **2,500,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.png"
+    },
+    {
+        "Categoty":  "Instagram Followers",
+        "Item":  "① Instagram milestone",
+        "Milestone":  "📸Saiki followers surpassed **81,000**!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/ig.png"
+    }
+]
