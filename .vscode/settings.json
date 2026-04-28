@@ -1,0 +1,44 @@
+{
+    // Use Markdown All in One TOC generation with GitHub style
+    "markdown.extension.toc.levels": "1..6",
+    "markdown.extension.toc.unorderedList.marker": "-",
+  
+    // Linting rules for markdownlint
+    "markdownlint.config": {
+      "default": true,
+      "MD013": false, // disable line length warnings
+      "MD033": false, // allow inline HTML if needed
+      "MD041": false  // allow documents not starting with a heading
+    },
+  
+    // Spell checker: enable for markdown, add BAND-MAID terms
+    "cSpell.enabled": true,
+    "cSpell.language": "en,ja",
+    "cSpell.words": [
+      "Band-Maid",
+      "Okyuji",
+      "Saiki",
+      "Kanamincho",
+      "Mincho",
+      "OMEISYUSAMA",
+      "Tōno",
+      "Kobato",
+      "Kanami"
+    ],
+  
+    // Enable table formatter
+    "tableformatter.enabled": true,
+  
+    // Preview settings
+    "markdown-preview-enhanced.previewTheme": "github-light.css",
+    "markdown-preview-enhanced.scrollSync": true,
+  
+    // PDF export default options
+    "markdown-pdf.type": "pdf",
+    "markdown-pdf.pdfOptions": {
+      "format": "A4",
+      "margin": "20mm",
+      "printBackground": true
+    }
+  }
+  
