@@ -1,6 +1,20 @@
-﻿{
-    "Categoty":  "YouTube",
-    "Item":  "① I can\u0027t live without you. https://youtu.be/3C7hDUB0lgk",
-    "Milestone":  "  👀 Surpassed **400,000** views!",
-    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.png"
-}
+﻿[
+    {
+        "Categoty":  "Spotify",
+        "Item":  "① Warning! ",
+        "Milestone":  "⚠️ Surpassed **3,300,000** streams!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.png"
+    },
+    {
+        "Categoty":  "Spotify",
+        "Item":  "② SION ",
+        "Milestone":  "🌺 Surpassed **200,000** streams!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.png"
+    },
+    {
+        "Categoty":  "Total Streams",
+        "Item":  "YouTube Total Streams",
+        "Milestone":  "  👀 Surpassed **288** MILLION views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.png"
+    }
+]

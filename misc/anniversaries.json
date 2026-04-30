@@ -1,20 +1,6 @@
-﻿[
-    {
-        "Category":  "Okyuji",
-        "Item":  "① 12 years ago 🗾",
-        "Detail":  "  🇯🇵 Rock-May-Kan - Tokyo,JP [0 songs]",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
-    },
-    {
-        "Category":  "Okyuji",
-        "Item":  "② 9 years ago 🗾",
-        "Detail":  "  🇯🇵 Eco Camp Michinoku - Kawasaki,JP [6 songs]",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
-    },
-    {
-        "Category":  "Okyuji",
-        "Item":  "③ 8 years ago 🗾",
-        "Detail":  "  🇯🇵 Eco Camp Michinoku - Kawasaki,JP [6 songs]",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
-    }
-]
+﻿{
+    "Category":  "Okyuji",
+    "Item":  "① 3 years ago 🗾",
+    "Detail":  "  🇯🇵 Eco Camp Michinoku - Kawasaki,JP [8 songs]",
+    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+}
