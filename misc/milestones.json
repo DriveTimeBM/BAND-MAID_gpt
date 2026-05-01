@@ -1,20 +1,20 @@
 ﻿[
     {
-        "Categoty":  "Spotify",
-        "Item":  "① Warning! ",
-        "Milestone":  "⚠️ Surpassed **3,300,000** streams!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.png"
+        "Categoty":  "YouTube",
+        "Item":  "① BAND-MAID / endless Story (Official Live Video) https://youtu.be/Za1y-RRVd70",
+        "Milestone":  "  👀 Surpassed **800,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.png"
     },
     {
-        "Categoty":  "Spotify",
-        "Item":  "② SION ",
-        "Milestone":  "🌺 Surpassed **200,000** streams!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.png"
+        "Categoty":  "YouTube",
+        "Item":  "② BAND-MAID / SUPER SUNSHINE (Official Live Video)　高橋酒造株式会社「白岳しろ」CMソング https://youtu.be/LwbXcAY0lhU",
+        "Milestone":  "  👀 Surpassed **100,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.png"
     },
     {
         "Categoty":  "Total Streams",
-        "Item":  "YouTube Total Streams",
-        "Milestone":  "  👀 Surpassed **288** MILLION views!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.png"
+        "Item":  "Spotify Total Streams",
+        "Milestone":  "  🎧 Surpassed **218** MILLION streams!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.png"
     }
 ]
