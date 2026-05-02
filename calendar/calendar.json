@@ -1,13 +1,5 @@
 ﻿[
     {
-        "Summary":  "Sendai - Gigs",
-        "Location":  "SENDAI GIGS, 1-chōme-4-1 Araihigashi, Wakabayashi Ward, Sendai, Miyagi 984-0030, Japan",
-        "URL":  "https://bandmaid.tokyo/contents/1041130",
-        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/sendaigigs.jpg",
-        "Start_Local":  "2026-05-02 04:00:00",
-        "Start_Japan":  "2026-05-02 17:00:00"
-    },
-    {
         "Summary":  "Tokyo - Zepp Haneda",
         "Location":  "Zepp Haneda, 1-chōme-1-4 Hanedakūkō, Ota City, Tokyo 144-0041, Japan",
         "URL":  "https://bandmaid.tokyo/contents/1041130",
