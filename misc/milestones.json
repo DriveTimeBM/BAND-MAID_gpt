@@ -1,14 +1,6 @@
-﻿[
-    {
-        "Categoty":  "Spotify",
-        "Item":  "① DOMINATION ",
-        "Milestone":  "🌏 Surpassed **8,300,000** streams!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.png"
-    },
-    {
-        "Categoty":  "Spotify",
-        "Item":  "② anemone ",
-        "Milestone":  "🪷 Surpassed **1,500,000** streams!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.png"
-    }
-]
+﻿{
+    "Categoty":  "YouTube AGGREGATE AUDIO stream Milestones",
+    "Item":  "① DICE ",
+    "Milestone":  "🎲  aggregate AUDIO streams surpassed **1,500,000**!",
+    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/ytmusic.png"
+}
