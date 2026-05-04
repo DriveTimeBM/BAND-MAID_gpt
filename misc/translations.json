@@ -2,7 +2,6 @@
     {
         "Type":  "Article",
         "Interviewer":  "Tetsuya Karasumaru",
-        "Members":  "Kanami",
         "Title":  "The reason why Band-Maid Kanami’s signature PRS is just like a Private Stock",
         "OriginalTitle":  "KANAMI（BAND-MAID）のシグネチャーPRSが、まるでプライベートストックなワケ",
         "Publication":  "Barks",
@@ -19,12 +18,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        "Kanami"
+                    ]
     },
     {
         "Type":  "MC",
         "Interviewer":  null,
-        "Members":  "Kobato Miku;Saiki",
         "Title":  "A quick translation of MC in Kanagawa Kenmin Hall Okyuji",
         "OriginalTitle":  "A quick translation of MC in Kanagawa Kenmin Hall Okyuji",
         "Publication":  "reddit",
@@ -41,12 +42,15 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        "Kobato Miku",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Yuichi Masuda",
-        "Members":  "Akane;Kanami;Kobato Miku;MISA;Saiki",
         "Title":  "Band-Maid just released Zen, a new song created through Epic Narratives: We’re going forward with full force, po!",
         "OriginalTitle":  "BAND-MAID、『Epic Narratives』を経て生まれた新曲「Zen」リリース「ガンガン進んでいきますっぽ！」",
         "Publication":  "Barks",
@@ -63,12 +67,18 @@
                   ],
         "Albums":  [
                        "Epic Narratives"
-                   ]
+                   ],
+        "Members":  [
+                        "Akane",
+                        "Kanami",
+                        "Kobato Miku",
+                        "MISA",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Kotaro Takeda",
-        "Members":  "Akane;Kobato Miku;Saiki",
         "Title":  "Akane × Saiki × Miku Kobato\r\nRoaring beats \u0026 sounds with trials and cohesion that bring out the twin vocals",
         "OriginalTitle":  null,
         "Publication":  "Rhythm \u0026 Drums Magazine",
@@ -85,12 +95,16 @@
                   ],
         "Albums":  [
                        "Epic Narratives"
-                   ]
+                   ],
+        "Members":  [
+                        "Akane",
+                        "Kobato Miku",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Radio",
         "Interviewer":  null,
-        "Members":  "Akane;Kanami;Kobato Miku;MISA;Saiki",
         "Title":  "Radio show (2018.Feb.14): Valentine\u0027s Day episodes",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -107,12 +121,18 @@
                   ],
         "Albums":  [
                        "WORLD DOMINATION"
-                   ]
+                   ],
+        "Members":  [
+                        "Akane",
+                        "Kanami",
+                        "Kobato Miku",
+                        "MISA",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Radio",
         "Interviewer":  null,
-        "Members":  "Kanami;Kobato Miku;Saiki",
         "Title":  "Radio show recap (October 2nd half and November, 2024)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -129,12 +149,16 @@
                   ],
         "Albums":  [
                        "Epic Narratives"
-                   ]
+                   ],
+        "Members":  [
+                        "Kanami",
+                        "Kobato Miku",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "MISA",
         "Title":  "Interview with Band-Maid’s Misa: “It makes me happiest when I’m praised for my bass lines rather than for my bass playing at a serving.”",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -151,12 +175,14 @@
                   ],
         "Albums":  [
                        "Epic Narratives"
-                   ]
+                   ],
+        "Members":  [
+                        "MISA"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Kimiya Mizuo",
-        "Members":  "Kanami;Kobato Miku",
         "Title":  "Band-Maid: hard rock that goes against their cute outfits, and stories told by the Maids with the world on their side",
         "OriginalTitle":  null,
         "Publication":  "Guitar Magazine",
@@ -173,12 +199,15 @@
                   ],
         "Albums":  [
                        "Epic Narratives"
-                   ]
+                   ],
+        "Members":  [
+                        "Kanami",
+                        "Kobato Miku"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Hiroo Nishizawa",
-        "Members":  "MISA",
         "Title":  "Misa: Her artisanal attention to detail and love for the band",
         "OriginalTitle":  null,
         "Publication":  "Rolling Stone Japan",
@@ -195,12 +224,14 @@
                   ],
         "Albums":  [
                        "Epic Narratives"
-                   ]
+                   ],
+        "Members":  [
+                        "MISA"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Hiroo Nishizawa",
-        "Members":  "Akane",
         "Title":  "Akane: Her tackle on double bass drumming",
         "OriginalTitle":  null,
         "Publication":  "Rolling Stone Japan",
@@ -217,12 +248,14 @@
                   ],
         "Albums":  [
                        "Epic Narratives"
-                   ]
+                   ],
+        "Members":  [
+                        "Akane"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Hiroo Nishizawa",
-        "Members":  "Kanami",
         "Title":  "Kanami: Spinning her life with the guitar",
         "OriginalTitle":  null,
         "Publication":  "Rolling Stone Japan",
@@ -239,12 +272,14 @@
                   ],
         "Albums":  [
                        "Epic Narratives"
-                   ]
+                   ],
+        "Members":  [
+                        "Kanami"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Hiroo Nishizawa",
-        "Members":  "Saiki",
         "Title":  "Saiki: Her indomitable spirit",
         "OriginalTitle":  null,
         "Publication":  "Rolling Stone Japan",
@@ -261,12 +296,14 @@
                   ],
         "Albums":  [
                        "Epic Narratives"
-                   ]
+                   ],
+        "Members":  [
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Hiroo Nishizawa",
-        "Members":  "Kobato Miku",
         "Title":  "Miku Kobato: The band’s concept and her natural self",
         "OriginalTitle":  null,
         "Publication":  "Rolling Stone Japan",
@@ -283,12 +320,14 @@
                   ],
         "Albums":  [
                        "Epic Narratives"
-                   ]
+                   ],
+        "Members":  [
+                        "Kobato Miku"
+                    ]
     },
     {
         "Type":  "Radio",
         "Interviewer":  null,
-        "Members":  "Kanami;Kobato Miku;Saiki",
         "Title":  "Radio show recap (October 1st half, 2024)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -305,12 +344,16 @@
                   ],
         "Albums":  [
                        "Epic Narratives"
-                   ]
+                   ],
+        "Members":  [
+                        "Kanami",
+                        "Kobato Miku",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Radio",
         "Interviewer":  null,
-        "Members":  "Akane;Kobato Miku;Saiki",
         "Title":  "Radio show recap (August/September, 2024)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -327,12 +370,16 @@
                   ],
         "Albums":  [
                        "Epic Narratives"
-                   ]
+                   ],
+        "Members":  [
+                        "Akane",
+                        "Kobato Miku",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Hiroo Nishizawa",
-        "Members":  "Akane;Kanami;Kobato Miku;MISA;Saiki",
         "Title":  "Band-Maid Discusses Their First Collaborations With Incubus and The Warning",
         "OriginalTitle":  null,
         "Publication":  "Rolling Stone Japan",
@@ -349,12 +396,18 @@
                   ],
         "Albums":  [
                        "Epic Narratives"
-                   ]
+                   ],
+        "Members":  [
+                        "Akane",
+                        "Kanami",
+                        "Kobato Miku",
+                        "MISA",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Video",
         "Interviewer":  null,
-        "Members":  "Kanami;Saiki",
         "Title":  "Saiki and Kanami on Kansai TV “Otoitachi”",
         "OriginalTitle":  null,
         "Publication":  "Kansai TV",
@@ -371,12 +424,15 @@
                   ],
         "Albums":  [
                        "Epic Narratives"
-                   ]
+                   ],
+        "Members":  [
+                        "Kanami",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Yuichi Masuda",
-        "Members":  "Akane;Kanami;Kobato Miku;MISA;Saiki",
         "Title":  "Band-Maid’s latest song full of their uniqueness, Protect You",
         "OriginalTitle":  "BAND-MAID、らしさが詰まった最新曲「Protect You」",
         "Publication":  "Barks",
@@ -393,12 +449,18 @@
                   ],
         "Albums":  [
                        "Epic Narratives"
-                   ]
+                   ],
+        "Members":  [
+                        "Akane",
+                        "Kanami",
+                        "Kobato Miku",
+                        "MISA",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Social Media",
         "Interviewer":  null,
-        "Members":  "Kanami",
         "Title":  "Introducing the songs on new album “Epic Narratives”",
         "OriginalTitle":  null,
         "Publication":  "X",
@@ -415,12 +477,14 @@
                   ],
         "Albums":  [
                        "Epic Narratives"
-                   ]
+                   ],
+        "Members":  [
+                        "Kanami"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Yuichi Masuda",
-        "Members":  "Akane;Kanami;Kobato Miku;MISA;Saiki",
         "Title":  "Mission: Domination\r\nBAND-MAID × THE WARNING",
         "OriginalTitle":  null,
         "Publication":  "Massive",
@@ -437,12 +501,18 @@
                   ],
         "Albums":  [
                        "Epic Narratives"
-                   ]
+                   ],
+        "Members":  [
+                        "Akane",
+                        "Kanami",
+                        "Kobato Miku",
+                        "MISA",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Radio",
         "Interviewer":  null,
-        "Members":  "Saiki",
         "Title":  "Radio shows recap (June-July)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -459,12 +529,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Radio",
         "Interviewer":  null,
-        "Members":  "Saiki",
         "Title":  "Saiki\u0027s playlist from a radio show(2024.8.5)",
         "OriginalTitle":  null,
         "Publication":  "JFN (a nation wide FM radio network)",
@@ -481,12 +553,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Naoko Takeichi",
-        "Members":  "Akane;Kanami;Kobato Miku;MISA;Saiki",
         "Title":  "BAND-MAID: “We will keep going with the fun of greatly defying prejudice”",
         "OriginalTitle":  null,
         "Publication":  "CD\u0026DL Data",
@@ -503,12 +577,18 @@
                   ],
         "Albums":  [
                        "Brand New MAID"
-                   ]
+                   ],
+        "Members":  [
+                        "Akane",
+                        "Kanami",
+                        "Kobato Miku",
+                        "MISA",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Social Media",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Miku Kobato TikTok live (2024-04-01 JST)",
         "OriginalTitle":  null,
         "Publication":  "TikTok",
@@ -525,12 +605,14 @@
                   ],
         "Albums":  [
                        "BAND-MAID 10TH ANNIVERSARY TOUR FINAL in YOKOHAMA ARENA"
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Radio",
         "Interviewer":  null,
-        "Members":  "Akane;Kanami;Kobato Miku;MISA;Saiki",
         "Title":  "Radio show: WORD DOMINATION self review (2018.Feb.14, Translated)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -547,12 +629,18 @@
                   ],
         "Albums":  [
                        "WORLD DOMINATION"
-                   ]
+                   ],
+        "Members":  [
+                        "Akane",
+                        "Kanami",
+                        "Kobato Miku",
+                        "MISA",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Radio",
         "Interviewer":  null,
-        "Members":  "Saiki",
         "Title":  "Radio shows(May.22-27)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -569,12 +657,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Radio",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Radio shows(May.16-19)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -591,12 +681,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Radio",
         "Interviewer":  null,
-        "Members":  "Saiki",
         "Title":  "Radio shows(May.10-15)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -613,12 +705,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Radio",
         "Interviewer":  null,
-        "Members":  "Kobato Miku;Saiki",
         "Title":  "Radio shows (May.1-8)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -635,12 +729,15 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        "Kobato Miku",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Radio",
         "Interviewer":  null,
-        "Members":  "Kobato Miku;Saiki",
         "Title":  "Pickups from radio appearances (Apr.27-30)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -657,12 +754,15 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        "Kobato Miku",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Video",
         "Interviewer":  null,
-        "Members":  "Kobato Miku;MISA",
         "Title":  "Blu-ray/DVD “Band-Maid 10th Anniv Tour Final” Opening Ceremony",
         "OriginalTitle":  null,
         "Publication":  "Band-Maid Fan Club",
@@ -679,12 +779,15 @@
                   ],
         "Albums":  [
                        "BAND-MAID 10TH ANNIVERSARY TOUR FINAL in YOKOHAMA ARENA"
-                   ]
+                   ],
+        "Members":  [
+                        "Kobato Miku",
+                        "MISA"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "Kobato Miku;Saiki",
         "Title":  "Travel tips for high school students by Miku Kobato and Saiki on Ch Files January 2020 issue (2019-12-20)",
         "OriginalTitle":  null,
         "Publication":  "Ch Files",
@@ -701,12 +804,15 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        "Kobato Miku",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Social Media",
         "Interviewer":  null,
-        "Members":  "Saiki",
         "Title":  "Saiki promotes Band-Maid merch (Saiki’s Instagram stories on 2024-03-13)",
         "OriginalTitle":  null,
         "Publication":  "Instagram",
@@ -723,12 +829,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Tsuboi",
-        "Members":  "Kobato Miku;Saiki",
         "Title":  "Band-Maid’s third album Conqueror",
         "OriginalTitle":  null,
         "Publication":  "Tracks",
@@ -745,12 +853,15 @@
                   ],
         "Albums":  [
                        "CONQUEROR"
-                   ]
+                   ],
+        "Members":  [
+                        "Kobato Miku",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "Akane;Kanami;Kobato Miku;MISA;Saiki",
         "Title":  "Next breakout artists: Interview with Band-Maid on their long-awaited first major-label full-length album Just Bring It !",
         "OriginalTitle":  null,
         "Publication":  "Rakuten Books",
@@ -767,12 +878,18 @@
                   ],
         "Albums":  [
                        "Just Bring It"
-                   ]
+                   ],
+        "Members":  [
+                        "Akane",
+                        "Kanami",
+                        "Kobato Miku",
+                        "MISA",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "Akane;Kanami;Kobato Miku;MISA;Saiki",
         "Title":  "Next breakout artists: Interview with Band-Maid on their third and major-label debut mini-album Brand New MAID !",
         "OriginalTitle":  "彼女たちのメジャーデビュー作となる3rdミニ・アルバム『Brand New MAID』の注目ポイントなどをメンバーにお聞きしました！",
         "Publication":  "Rakuten Books",
@@ -789,12 +906,18 @@
                   ],
         "Albums":  [
                        "Brand New MAID"
-                   ]
+                   ],
+        "Members":  [
+                        "Akane",
+                        "Kanami",
+                        "Kobato Miku",
+                        "MISA",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Tomokazu Nishihiro",
-        "Members":  "Akane;Kanami;Kobato Miku;MISA;Saiki",
         "Title":  "Moving forward non-stop toward the 10th anniversary of their debut, with a new EP that will “unleash” them and kick off the second chapter of their world domination",
         "OriginalTitle":  "Band-Maid「Unleash」インタビュー｜世界征服第2章の幕開け、“解放”を掲げた新作EP完成 - 音楽ナタリー 特集・インタビュ",
         "Publication":  "Natalie",
@@ -811,12 +934,18 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        "Akane",
+                        "Kanami",
+                        "Kobato Miku",
+                        "MISA",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "Kobato Miku",
         "Title":  "F chord × 32 Guitarists",
         "OriginalTitle":  null,
         "Publication":  "GiGS",
@@ -833,12 +962,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        "Kobato Miku"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Yuichi Masuda",
-        "Members":  "Saiki",
         "Title":  "Saiki: The process of a shy and introverted girl who just genuinely loved to sing establishing herself with a sense of objectivity",
         "OriginalTitle":  null,
         "Publication":  "Burrn Japan",
@@ -855,12 +986,14 @@
                   ],
         "Albums":  [
                        "BAND-MAID - 10th Anniversary Best Vol.1 CD"
-                   ]
+                   ],
+        "Members":  [
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Yuichi Masuda",
-        "Members":  "MISA",
         "Title":  "MISA: Her change with the support from her irreplaceable bandmates and her passion hidden under her cool attitude",
         "OriginalTitle":  null,
         "Publication":  "Burrn Japan",
@@ -877,12 +1010,14 @@
                   ],
         "Albums":  [
                        "BAND-MAID - 10th Anniversary Best Vol.1 CD"
-                   ]
+                   ],
+        "Members":  [
+                        "MISA"
+                    ]
     },
     {
         "Type":  "MC",
         "Interviewer":  null,
-        "Members":  "Akane;Kanami;Kobato Miku;MISA;Saiki",
         "Title":  "Translation of MC at YOKOHAMA ARENA - MC 5",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -899,12 +1034,18 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        "Akane",
+                        "Kanami",
+                        "Kobato Miku",
+                        "MISA",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "MC",
         "Interviewer":  null,
-        "Members":  "Akane;Kanami;Kobato Miku;Saiki",
         "Title":  "Translation of the MC at YOKOHAMA ARENA - MC 3 and MC 4",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -921,12 +1062,17 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        "Akane",
+                        "Kanami",
+                        "Kobato Miku",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "MC",
         "Interviewer":  null,
-        "Members":  "Akane;Kanami;Kobato Miku;Saiki",
         "Title":  "Translation of the MC at YOKOHAMA ARENA - MC1 and MC2",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -943,12 +1089,17 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        "Akane",
+                        "Kanami",
+                        "Kobato Miku",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Yuuki Tanabe",
-        "Members":  "Kobato Miku;Saiki",
         "Title":  "Toward world domination, Band-Maid look back on their appearance at the world’s greatest festival Lollapalooza and their activities over the past 10 years",
         "OriginalTitle":  "世界征服の実現へ向け、BAND-MAIDが振り返る世界最高峰のフェス『ロラパルーザ』出演と10年の活動",
         "Publication":  "Spice",
@@ -965,12 +1116,15 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        "Kobato Miku",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Yuichi Masuda",
-        "Members":  "Akane",
         "Title":  "Akane: The natural-born drummer, who has not only sharpened her own beat but also stood in the middle of the band and played the role of a glue, talks about her unremitting passion and never-ending quest.",
         "OriginalTitle":  null,
         "Publication":  "Burrn Japan",
@@ -987,12 +1141,14 @@
                   ],
         "Albums":  [
                        "BAND-MAID - 10th Anniversary Best Vol.1 CD"
-                   ]
+                   ],
+        "Members":  [
+                        "Akane"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Yuichi Masuda",
-        "Members":  "Kanami",
         "Title":  "Kanami: The guitarist, who has established Band-Maid’s unique musical style while always striving to improve her own technique, talks about her twists and turns and the place she has dreamed of.",
         "OriginalTitle":  null,
         "Publication":  "Burrn Japan",
@@ -1009,12 +1165,14 @@
                   ],
         "Albums":  [
                        "BAND-MAID - 10th Anniversary Best Vol.1 CD"
-                   ]
+                   ],
+        "Members":  [
+                        "Kanami"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Yuichi Masuda",
-        "Members":  "Kobato Miku",
         "Title":  "Miku Kobato: It all started with her 10 years ago. As the one and only personage who started the history of the all-unique Band-Maid, what did she gain in their first decade?",
         "OriginalTitle":  null,
         "Publication":  "Burrn Japan",
@@ -1031,12 +1189,14 @@
                   ],
         "Albums":  [
                        "BAND-MAID - 10th Anniversary Best Vol.1 CD"
-                   ]
+                   ],
+        "Members":  [
+                        "Kobato Miku"
+                    ]
     },
     {
         "Type":  "Radio",
         "Interviewer":  "Seiji Kameda",
-        "Members":  "MISA;Saiki",
         "Title":  "Saiki and MISA interviewed by Seiji Kameda on radio (Mercedes-Benz the Experience, J-Wave, 2023-11-05)",
         "OriginalTitle":  null,
         "Publication":  "J-Wave",
@@ -1053,12 +1213,15 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        "MISA",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "MISA",
         "Title":  "The Bass Day Paper (2023-11-11)",
         "OriginalTitle":  "【ベースの日新聞配布】2023.11.11",
         "Publication":  "bass1111.com",
@@ -1075,12 +1238,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        "MISA"
+                    ]
     },
     {
         "Type":  "Radio",
         "Interviewer":  null,
-        "Members":  "Kanami;Kobato Miku;Saiki",
         "Title":  "Pickups from recent radio appearances (Sep-Oct 2023)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -1097,12 +1262,16 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        "Kanami",
+                        "Kobato Miku",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Shinichiro Wada, Tomokazu Nishibiro",
-        "Members":  "",
         "Title":  "A joint review of Band-Maid’s 10th Anniversary Best : Uniqueness that emerged from hard rock/metal and a cross-genre combination",
         "OriginalTitle":  "BAND-MAID結成10周年ベスト盤クロスレビュー　HR/HMと越境的な配合が生んだ個性",
         "Publication":  "Rolling Stone Japan",
@@ -1119,12 +1288,14 @@
                   ],
         "Albums":  [
                        "BAND-MAID - 10th Anniversary Best Vol.1 CD"
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "Saiki",
         "Title":  "Band-Maid completed their North American tour with 4 large festival appearances including Lollapalooza, 15 headline shows including a lot of sold-out shows! The first show in 5 years in Mexico was also a great success!",
         "OriginalTitle":  "BAND-MAID、世界的フェス「ロラパルーザ」出演含む、大型フェス4公演、ワンマン15公演、各地ソールドアウト連発の北米ツアー完走！5年ぶりのメキシコ公演も大盛況！",
         "Publication":  "Pony Canyon",
@@ -1141,12 +1312,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Social Media",
         "Interviewer":  null,
-        "Members":  "Kobato Miku",
         "Title":  "Miku Kobato TikTok Live (2023-08-10 JST)",
         "OriginalTitle":  null,
         "Publication":  "TikTok",
@@ -1163,12 +1336,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        "Kobato Miku"
+                    ]
     },
     {
         "Type":  "Radio",
         "Interviewer":  "Kigawa",
-        "Members":  "Kobato Miku;Saiki",
         "Title":  "Interview with Miku Kobato and Saiki on the radio show Westside Tokyo (2022-09-17)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -1185,12 +1360,15 @@
                   ],
         "Albums":  [
                        "Unleash"
-                   ]
+                   ],
+        "Members":  [
+                        "Kobato Miku",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "MISA",
         "Title":  "Newcomer File: Misa (Band-Maid). The true self of a female bassist who plays a hard rock bass with a background of authentic rock",
         "OriginalTitle":  null,
         "Publication":  "Bass Magazine",
@@ -1207,12 +1385,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        "MISA"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "MISA",
         "Title":  "Bass Magazine: Pro’s picks you are curious about (2021-05-21)",
         "OriginalTitle":  null,
         "Publication":  "Bass Magazine",
@@ -1229,12 +1409,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        "MISA"
+                    ]
     },
     {
         "Type":  "Video",
         "Interviewer":  "Daiki Higuchi",
-        "Members":  "Kobato Miku;Saiki",
         "Title":  "Kamioto (2023-06-01)",
         "OriginalTitle":  null,
         "Publication":  "FM802",
@@ -1251,12 +1433,15 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        "Kobato Miku",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Video",
         "Interviewer":  "Cookie, Rossy (Yasei Bakudan)",
-        "Members":  "Kobato Miku;Saiki",
         "Title":  "Ongaku Bakudan (2023-05-18)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -1273,12 +1458,15 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        "Kobato Miku",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Video",
         "Interviewer":  null,
-        "Members":  "Kobato Miku",
         "Title":  "Miku Kobato TikTok Live (2023-03-09)",
         "OriginalTitle":  null,
         "Publication":  "TikTok",
@@ -1295,12 +1483,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        "Kobato Miku"
+                    ]
     },
     {
         "Type":  "Radio",
         "Interviewer":  null,
-        "Members":  "Kobato Miku;Saiki",
         "Title":  "Quick summary of recent radio interviews (April 2023)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -1317,12 +1507,15 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        "Kobato Miku",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Masako Hatta",
-        "Members":  "Kanami;Kobato Miku",
         "Title":  "Band-Maid now take a new step forward after their 5th anniversary! (2018-08-02)",
         "OriginalTitle":  "BAND-MAIDが5周年を経て、今、新たな第一歩を踏み出す！\r\n小鳩ミク(g\u0026vo)＆KANAMI(g)インタビュー＆動画コメント",
         "Publication":  "Pia Web",
@@ -1339,12 +1532,15 @@
                   ],
         "Albums":  [
                        "start over"
-                   ]
+                   ],
+        "Members":  [
+                        "Kanami",
+                        "Kobato Miku"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "Saiki",
         "Title":  "The serial “A woman’s favorite noodles” on The Asahi Shimbun: Saiki (2017-10-27)",
         "OriginalTitle":  null,
         "Publication":  "The Asahi Shimbun",
@@ -1361,12 +1557,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Hiroo Nishizawa",
-        "Members":  "Akane;Kanami;Kobato Miku;MISA;Saiki",
         "Title":  "Band-Maid reflect on their one-month US tour where they felt their own mental and technical growth",
         "OriginalTitle":  "BAND-MAIDが振り返るアメリカツアー、精神力と技術の成長を実感した1カ月",
         "Publication":  "Rolling Stone Japan",
@@ -1383,12 +1581,18 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        "Akane",
+                        "Kanami",
+                        "Kobato Miku",
+                        "MISA",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Social Media",
         "Interviewer":  null,
-        "Members":  "Akane;Kanami;Kobato Miku;MISA;Saiki",
         "Title":  "The MC parts of “Band-Maid Tokyo Garden Theater Okyuji” (2023-01-09)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -1405,12 +1609,18 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        "Akane",
+                        "Kanami",
+                        "Kobato Miku",
+                        "MISA",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Video",
         "Interviewer":  null,
-        "Members":  "Kobato Miku",
         "Title":  "Miku Kobato on NES-FES. (2023-01-02)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -1427,12 +1637,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        "Kobato Miku"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Daishi Ato",
-        "Members":  "",
         "Title":  "Band-Maid: Now in “invincible mode” after their US tour that drew in more than 20,000 people!",
         "OriginalTitle":  null,
         "Publication":  "PMC",
@@ -1449,12 +1661,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Yuichi Masuda",
-        "Members":  "Akane;Kanami;Kobato Miku;MISA;Saiki",
         "Title":  "Band-Maid sum up their US tour that drew in 20,000 people in total: “We want to make our good fortune bloom next year”",
         "OriginalTitle":  "【インタビュー】BAND-MAID、2万人動員全米ツアー総括「幸運をさらに来年は開花させたい」",
         "Publication":  "Barks",
@@ -1471,12 +1685,18 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        "Akane",
+                        "Kanami",
+                        "Kobato Miku",
+                        "MISA",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Naoaki “Blood Fire Death” Tamura",
-        "Members":  "Akane;Kanami;Kobato Miku;MISA;Saiki",
         "Title":  "Interview with Band-Maid on FOLLOW UP Vol. 157 (2016-05-25)",
         "OriginalTitle":  null,
         "Publication":  "FOLLOW UP",
@@ -1493,12 +1713,18 @@
                   ],
         "Albums":  [
                        "Brand New MAID"
-                   ]
+                   ],
+        "Members":  [
+                        "Akane",
+                        "Kanami",
+                        "Kobato Miku",
+                        "MISA",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "Akane;Kanami;Kobato Miku;MISA;Saiki",
         "Title":  "BAND-MAID×Zippo (2017-09-22)",
         "OriginalTitle":  null,
         "Publication":  "Rock Is",
@@ -1515,12 +1741,18 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        "Akane",
+                        "Kanami",
+                        "Kobato Miku",
+                        "MISA",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Yuichi Masuda",
-        "Members":  "Akane;Kanami;Kobato Miku;MISA;Saiki",
         "Title":  "Band-Maid: Unleash​, an EP full of their uniqueness and newness, is now ready. “It’s literally an unleashing work.”",
         "OriginalTitle":  null,
         "Publication":  "Barks",
@@ -1537,12 +1769,18 @@
                   ],
         "Albums":  [
                        "Unleash"
-                   ]
+                   ],
+        "Members":  [
+                        "Akane",
+                        "Kanami",
+                        "Kobato Miku",
+                        "MISA",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Ato \"DA\" Daishi",
-        "Members":  "Akane;Kanami;Kobato Miku;MISA;Saiki",
         "Title":  "Band-Maid Spice Interview Oct. 7, 2022 Translation",
         "OriginalTitle":  null,
         "Publication":  "Spice",
@@ -1559,12 +1797,18 @@
                   ],
         "Albums":  [
                        "Unleash"
-                   ]
+                   ],
+        "Members":  [
+                        "Akane",
+                        "Kanami",
+                        "Kobato Miku",
+                        "MISA",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Radio",
         "Interviewer":  "Taiga Nagaoka",
-        "Members":  "Kobato Miku;Saiki",
         "Title":  "Duomo Radio with Miku Kobato and Saiki (2024-10-12 00:00 JST)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -1581,12 +1825,15 @@
                   ],
         "Albums":  [
                        "Epic Narratives"
-                   ]
+                   ],
+        "Members":  [
+                        "Kobato Miku",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Kikue Kawakami",
-        "Members":  "Kobato Miku;Saiki",
         "Title":  "“Being conservative is not our style” Miku Kobato and Saiki talk about where Band-Maid are now",
         "OriginalTitle":  "「保守的なのは性に合わない」小鳩ミク＆SAIKIが語るBAND-MAIDの現在地。",
         "Publication":  "PIA",
@@ -1603,12 +1850,15 @@
                   ],
         "Albums":  [
                        "Unleash"
-                   ]
+                   ],
+        "Members":  [
+                        "Kobato Miku",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Ryosuke Arakane",
-        "Members":  "Akane;Kanami;Kobato Miku;MISA;Saiki",
         "Title":  "A super-rich, aggressive work that marks a perfect start to the second chapter of their world domination.",
         "OriginalTitle":  null,
         "Publication":  "VanityMix",
@@ -1625,12 +1875,18 @@
                   ],
         "Albums":  [
                        "Unleash"
-                   ]
+                   ],
+        "Members":  [
+                        "Akane",
+                        "Kanami",
+                        "Kobato Miku",
+                        "MISA",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Social Media",
         "Interviewer":  null,
-        "Members":  "Kanami",
         "Title":  "Kanami’s comments about the songs on Unleash (2022-09-15 to 2022-09-21)",
         "OriginalTitle":  null,
         "Publication":  "Instagram",
@@ -1647,12 +1903,14 @@
                   ],
         "Albums":  [
                        "Unleash"
-                   ]
+                   ],
+        "Members":  [
+                        "Kanami"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Daishi Ato",
-        "Members":  "Kobato Miku;Saiki",
         "Title":  "Interview with Miku Kobato and Saiki on PMC Vol. 8 (2017-01-26)",
         "OriginalTitle":  null,
         "Publication":  "PMC",
@@ -1669,12 +1927,15 @@
                   ],
         "Albums":  [
                        "Just Bring It"
-                   ]
+                   ],
+        "Members":  [
+                        "Kobato Miku",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Daishi Ato",
-        "Members":  "Kobato Miku",
         "Title":  "Interview with Miku Kobato on PMC Vol. 24 (2022-07-28)",
         "OriginalTitle":  null,
         "Publication":  "PMC",
@@ -1691,12 +1952,14 @@
                   ],
         "Albums":  [
                        "Unleash"
-                   ]
+                   ],
+        "Members":  [
+                        "Kobato Miku"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Nozomi Ohashi",
-        "Members":  "Kobato Miku;Saiki",
         "Title":  "“We will do servings overseas for the first time in three years”: Falling in love with the contrast of the talented hard rock band in maid outfits",
         "OriginalTitle":  null,
         "Publication":  "Newsweek Japan",
@@ -1713,12 +1976,15 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        "Kobato Miku",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Ryosuke Arakane",
-        "Members":  "Kobato Miku;Saiki",
         "Title":  "Interview with Saiki (vocals) and Miku Kobato (guitar/vocals): Its image is “Let’s release our frustrations that piled up during the COVID pandemic”, po.",
         "OriginalTitle":  null,
         "Publication":  "VanityMix",
@@ -1735,12 +2001,15 @@
                   ],
         "Albums":  [
                        "BAND-MAID ONLINE ACOUSTIC OKYU-JI"
-                   ]
+                   ],
+        "Members":  [
+                        "Kobato Miku",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Yuichi Masuda",
-        "Members":  "Akane;Kanami;Kobato Miku;MISA;Saiki",
         "Title":  "Band-Maid proceed the second chapter of their world domination with the new song Unleash!!!!!",
         "OriginalTitle":  null,
         "Publication":  "Barks",
@@ -1757,12 +2026,18 @@
                   ],
         "Albums":  [
                        "Unleash"
-                   ]
+                   ],
+        "Members":  [
+                        "Akane",
+                        "Kanami",
+                        "Kobato Miku",
+                        "MISA",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "Kobato Miku",
         "Title":  "Band-Maid stand against a mysterious “black fog” (2022-08-10)",
         "OriginalTitle":  null,
         "Publication":  "Natalie",
@@ -1779,12 +2054,14 @@
                   ],
         "Albums":  [
                        "Unleash"
-                   ]
+                   ],
+        "Members":  [
+                        "Kobato Miku"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "Kanami",
         "Title":  "Q\u0026A with Kanami on Metal Hammer Japan Vol. 10 (2022-06-15)",
         "OriginalTitle":  null,
         "Publication":  "Metal Hammer",
@@ -1801,12 +2078,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        "Kanami"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Yuichi Masuda",
-        "Members":  "Kobato Miku;Saiki",
         "Title":  "Interview with Miku Kobato and Saiki on Massive Vol. 39: Unremitting efforts of Band-Maid (2021-11-17)",
         "OriginalTitle":  null,
         "Publication":  "Massive",
@@ -1823,12 +2102,15 @@
                   ],
         "Albums":  [
                        "Sense"
-                   ]
+                   ],
+        "Members":  [
+                        "Kobato Miku",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Hiroshi Tanaka",
-        "Members":  "Akane;Kanami;Kobato Miku;MISA;Saiki",
         "Title":  "Band-Maid Web Limited Interview on VanityMix (2018-07-24)",
         "OriginalTitle":  null,
         "Publication":  "VanityMix",
@@ -1845,12 +2127,18 @@
                   ],
         "Albums":  [
                        "start over"
-                   ]
+                   ],
+        "Members":  [
+                        "Akane",
+                        "Kanami",
+                        "Kobato Miku",
+                        "MISA",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Tomonori Nagasawa",
-        "Members":  "Akane;Kanami;Kobato Miku;MISA;Saiki",
         "Title":  "Interview with Band-Maid on GIRL’S POPUNITED Vol. 12 (2015-11-27)",
         "OriginalTitle":  null,
         "Publication":  "GIRL’S POPUNITED",
@@ -1867,12 +2155,18 @@
                   ],
         "Albums":  [
                        "New Beginning"
-                   ]
+                   ],
+        "Members":  [
+                        "Akane",
+                        "Kanami",
+                        "Kobato Miku",
+                        "MISA",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Saori Yoshiba",
-        "Members":  "Kanami",
         "Title":  "Kanami’s commentary on all the songs of Just Bring It (2017-01-16)",
         "OriginalTitle":  null,
         "Publication":  "HMV",
@@ -1889,12 +2183,14 @@
                   ],
         "Albums":  [
                        "Just Bring It"
-                   ]
+                   ],
+        "Members":  [
+                        "Kanami"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Ryosuke Arakane",
-        "Members":  "Kobato Miku;Saiki",
         "Title":  "Band-Maid VanityMix Web Limited Interview (2021-11-03)",
         "OriginalTitle":  null,
         "Publication":  "VanityMix",
@@ -1911,12 +2207,15 @@
                   ],
         "Albums":  [
                        "Sense"
-                   ]
+                   ],
+        "Members":  [
+                        "Kobato Miku",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Ato, \"DA\", Daishi",
-        "Members":  "Akane;Kanami;Kobato Miku;MISA;Saiki",
         "Title":  "Interview with BAND-MAID on natalie: “Just Bring It” (2017-01-11)",
         "OriginalTitle":  null,
         "Publication":  "Natalie",
@@ -1933,12 +2232,18 @@
                   ],
         "Albums":  [
                        "Just Bring It"
-                   ]
+                   ],
+        "Members":  [
+                        "Akane",
+                        "Kanami",
+                        "Kobato Miku",
+                        "MISA",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Tanaka, Kazuhiro",
-        "Members":  "Akane;Kanami;Kobato Miku;MISA;Saiki",
         "Title":  "Interview with BAND-MAID on natalie: “Brand New MAID” (2016-05-17)",
         "OriginalTitle":  null,
         "Publication":  "Natalie",
@@ -1955,12 +2260,18 @@
                   ],
         "Albums":  [
                        "Brand New MAID"
-                   ]
+                   ],
+        "Members":  [
+                        "Akane",
+                        "Kanami",
+                        "Kobato Miku",
+                        "MISA",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Tetsuya Karasumaru",
-        "Members":  "Kobato Miku",
         "Title":  "Interview with Miku Kobato on Barks: “Playing the guitar needs no cuteness, po” (2021-11-09)",
         "OriginalTitle":  "【楽器人インタビュー】小鳩ミク（BAND-MAID）「演奏中にカワイイは要らないっぽ」",
         "Publication":  "Barks",
@@ -1977,12 +2288,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        "Kobato Miku"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Junichi Murakami",
-        "Members":  "Kobato Miku;Saiki",
         "Title":  "Interview with Band-Maid on MusicVoice: “We will make you happy!” The true nature of Band-Maid (2021-11-04)",
         "OriginalTitle":  null,
         "Publication":  "MusicVoice",
@@ -1999,12 +2312,15 @@
                   ],
         "Albums":  [
                        "Sense"
-                   ]
+                   ],
+        "Members":  [
+                        "Kobato Miku",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Stan Montanya",
-        "Members":  "",
         "Title":  "Interview with Band-Maid on Ramen Para Dos (2017-01-18)",
         "OriginalTitle":  null,
         "Publication":  "Ramen Para Dos",
@@ -2021,12 +2337,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Takayuki Murakami",
-        "Members":  "Akane;Kanami;Kobato Miku;MISA;Saiki",
         "Title":  "Interview with Band-Maid on the December 2021 issue of GiGS (2021-10-27)",
         "OriginalTitle":  null,
         "Publication":  "GiGS",
@@ -2043,12 +2361,18 @@
                   ],
         "Albums":  [
                        "Sense"
-                   ]
+                   ],
+        "Members":  [
+                        "Akane",
+                        "Kanami",
+                        "Kobato Miku",
+                        "MISA",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Yamaguchi Tetsuo",
-        "Members":  "Kobato Miku;Saiki",
         "Title":  "Part 2 of English translation for Usen - Encore interview with Miku and Saiki",
         "OriginalTitle":  "BAND-MAID「Sense」インタビュー――中2病みたいなワクワク！",
         "Publication":  "Usen",
@@ -2065,12 +2389,15 @@
                   ],
         "Albums":  [
                        "Sense"
-                   ]
+                   ],
+        "Members":  [
+                        "Kobato Miku",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Yamaguchi Tetsuo",
-        "Members":  "Kobato Miku;Saiki",
         "Title":  "Part 1 of English translation for Usen - Encore interview with Miku and Saiki",
         "OriginalTitle":  "BAND-MAID「Sense」インタビュー――中2病みたいなワクワク！",
         "Publication":  "Usen",
@@ -2087,12 +2414,15 @@
                   ],
         "Albums":  [
                        "Sense"
-                   ]
+                   ],
+        "Members":  [
+                        "Kobato Miku",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Riho Tatehara",
-        "Members":  "Kanami;Kobato Miku",
         "Title":  "Interview with Miku Kobato and Kanami on the October 2018 issue of Leaf (2018-08-25)",
         "OriginalTitle":  null,
         "Publication":  "Leaf",
@@ -2109,12 +2439,15 @@
                   ],
         "Albums":  [
                        "start over"
-                   ]
+                   ],
+        "Members":  [
+                        "Kanami",
+                        "Kobato Miku"
+                    ]
     },
     {
         "Type":  "MC",
         "Interviewer":  null,
-        "Members":  "Kobato Miku",
         "Title":  "Band-Maid World Domination Tour 2018 【Senkoku】 Part 3 (2018-04-13) (Zepp Tokyo)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -2131,12 +2464,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        "Kobato Miku"
+                    ]
     },
     {
         "Type":  "Video",
         "Interviewer":  null,
-        "Members":  "Kobato Miku;Saiki",
         "Title":  "Miku Kobato and Saiki in the Platinum End special program (2021-09-05)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -2153,12 +2488,15 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        "Kobato Miku",
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Radio",
         "Interviewer":  "Yuzuru Kawai, Naoki Inada, Hirona Yamazaki",
-        "Members":  "Kobato Miku",
         "Title":  "Conversation with Miku Kobato in Heat \u0026 Heart! (2021-08-22)",
         "OriginalTitle":  null,
         "Publication":  "Heat \u0026 Heart",
@@ -2175,12 +2513,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        "Kobato Miku"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Interview with Kanami on Rolling Stone Japan vol. 28 (2024-09-25)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -2197,12 +2537,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Interview with Saiki on Rolling Stone Japan vol. 28 (2024-09-25)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -2219,12 +2561,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Interview with Miku Kobato on Rolling Stone Japan vol. 28 (2024-09-25)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -2241,12 +2585,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Lyrics",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Attempted translation of \"Forbidden tale\" lyrics",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -2263,12 +2609,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Lyrics",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "The one lyrics translation",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -2285,12 +2633,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Lyrics",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Attempted translation of \"TAMAYA!\" lyrics",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -2307,12 +2657,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Lyrics",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Attempted translation of \"Toi et moi\" lyrics",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -2329,12 +2681,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Lyrics",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Attempted translation of \"Go easy\" lyrics",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -2351,12 +2705,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Lyrics",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Attempted translation of \"Brightest star\" lyrics",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -2373,12 +2729,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Lyrics",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Attempted translation of \"Letters to you\" lyrics",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -2395,12 +2753,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Lyrics",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Attempted translation of \"The one\"",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -2417,12 +2777,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Interview with Band-Maid on CD\u0026amp;DL Data July 2016 issue: “We will keep going with the fun of greatly defying prejudice” (2016-05-14)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -2439,12 +2801,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Correcting a missed translation in the Yokohama Arena Documentary",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -2461,12 +2825,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "[Interview] J!-ENT’s Dennis A. Amith interviews Band-Maid: “Serving Their Masters \u0026amp; Princesses” (2017-10-26)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -2483,12 +2849,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Let\u0027s revisit the lyrics of FORWARD",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -2505,12 +2873,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Estimated lyrics of Brightest Star (with translation)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -2527,12 +2897,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Estimated lyrics of the extend part of endless Story in Yokohama arena",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -2549,12 +2921,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Estimated lyrics of Magie (with translation)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -2571,12 +2945,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "A joint review of Band-Maid’s 10th Anniversary Best on Rolling Stone Japan (2023-08-03)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -2593,12 +2969,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Official North American tour report with Saiki’s comment (2023-08-21)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -2615,12 +2993,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Lyrics",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "\"Shambles\" Romanized lyrics",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -2637,12 +3017,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "T-shirt Translation",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -2659,12 +3041,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Saiki\u0027s Instagram live 2020.05.23 (Q\u0026amp;A part) ENG Sub",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -2681,12 +3065,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Letters to O-mei-syu-sama vol. 61-70",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -2703,12 +3089,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Lyrics",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Attempted translation of \"Turn me on\"",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -2725,12 +3113,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Letters to O-mei-syu-sama vol. 51-60",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -2747,12 +3137,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "BAND-MAID\u0027s nationwide tour a success. Selected as Guns N\u0027 Roses Japan tour support act. - Barks",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -2769,12 +3161,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Interview with Band-Maid on Barks: Unleash, an EP full of their uniqueness and newness, is now ready (2022-09-21)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -2791,12 +3185,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Lyrics",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Attempted translation of \"Balance\" lyrics",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -2813,12 +3209,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Miku Kobato and Saiki promote Unleash on streaming services (2022-09-21 to 2022-09-22)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -2835,12 +3233,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Attempted translation of \"I\u0027ll\"",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -2857,12 +3257,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Attempted translation of \"HATE?\"",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -2879,12 +3281,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Interview with Cluppo on MusicVoice: What do voice and words mean to her? (2022-03-17)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -2901,12 +3305,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Interview with Cluppo (Miku Kobato) on Barks: “I believe what I enjoy doing myself will lead to your enjoyment as well” (2022-07-07)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -2923,12 +3329,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Letters to O-mei-syu-sama vol. 41-50",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -2945,12 +3353,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Letters to O-mei-syu-sama vol. 31-40",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -2967,12 +3377,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Letters to O-mei-syu-sama vol. 21-30",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -2989,12 +3401,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Saiki promotes the Day of Maid merch (Saiki’s Instagram stories on 2022-05-15)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3011,12 +3425,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Letters to O-mei-syu-sama vol. 11-20",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3033,12 +3449,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Letters to O-mei-syu-sama vol. 1-10",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3055,12 +3473,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Miku Kobato’s message for the All-Japan University e-Sports Competition final (from 4:33:50)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3077,12 +3497,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "BAND-MAID NIPPON: Episode 18 (2022-03-23)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3099,12 +3521,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "BAND-MAID NIPPON: Episode 17 (2022-03-16)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3121,12 +3545,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "cluppo\u0027s Podcast on Spotify: hatofull song review",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3143,12 +3569,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "BAND-MAID NIPPON: Episode 16 (2022-03-09)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3165,12 +3593,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "BAND-MAID NIPPON: Episode 15 (2022-03-02)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3187,12 +3617,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "MC",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Attempted translation of \"Superstar\" (cluppo)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3209,12 +3641,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "MC",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Attempted translation of \"voice\" (cluppo)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3231,12 +3665,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Lyrics",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Attempted translation of \"Fuwafuwa\" (cluppo)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3253,12 +3689,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "カタルシス (Catharsis) Acoustic Ver. (Official Live Video) now has English subtitles",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3275,12 +3713,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Radio",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "BAND-MAID NIPPON: Episode 14 (2022-02-23)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3297,12 +3737,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Radio",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "BAND-MAID NIPPON: Episode 13 (2022-02-16)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3319,12 +3761,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Radio",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "BAND-MAID NIPPON: Episode 12 (2022-02-09)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3341,12 +3785,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "The 44 best all-female rock bands’ albums of all time selected by Headbang Magazine (2022-02-02)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3363,12 +3809,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Radio",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "BAND-MAID NIPPON: Episode 11 (2022-02-02)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3385,12 +3833,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Radio",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "BAND-MAID NIPPON: Episode 10 (2022-01-19)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3407,12 +3857,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Radio",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "BAND-MAID NIPPON: Episode 9 (2022-01-12)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3429,12 +3881,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Radio",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "BAND-MAID NIPPON: Episode 8 (2022-01-05)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3451,12 +3905,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Radio",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "BAND-MAID NIPPON: Episode 7 (2021-12-29)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3473,12 +3929,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Radio",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "BAND-MAID NIPPON: Episode 6 (2021-12-22)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3495,12 +3953,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Lyrics",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Attempted translation of \"hide-and-seek\"",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3517,12 +3977,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Lyrics",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Attempted translation of \"Hibana\"",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3539,12 +4001,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Radio",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "BAND-MAID NIPPON: Episode 5 (2021-12-08)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3561,12 +4025,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Lyrics",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Corallium(english)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3583,12 +4049,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Lyrics",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Attempted translation of \"Corallium\"",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3605,12 +4073,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Lyrics",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Corallium lyrics as interpreted by me",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3627,12 +4097,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Lyrics",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Attempted translation of \"Youth\"",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3649,12 +4121,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Lyrics",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Attempted translation of \"GIOVANNI\"",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3671,12 +4145,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Radio",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "BAND-MAID NIPPON: Episode 4 (2021-12-01)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3693,12 +4169,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Lyrics",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Attempted translation of \"CHEMICAL REACTION\"",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3715,12 +4193,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Lyrics",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Attempted translation of \"WHY WHY WHY\"",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3737,12 +4217,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Lyrics",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Attempted translation of \"H-G-K\"",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3759,12 +4241,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Lyrics",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Attempted translation of \"I still seek revenge.\"",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3781,12 +4265,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Radio",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "BAND-MAID NIPPON: Episode 3 (2021-11-17)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3803,12 +4289,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Radio",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "BAND-MAID NIPPON: 2021-11-03",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3825,12 +4313,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Radio",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "BAND-MAID NIPPON: 2021-10-27",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3847,12 +4337,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Video",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Miku Kobato and Saiki promote Sense on streaming services on 2021-10-27",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3869,12 +4361,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Radio",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "BAND-MAID NIPPON: Episode 2 (2021-10-11)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3891,12 +4385,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Radio",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "BAND-MAID NIPPON: Episode 1 (2021-10-04)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3913,12 +4409,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Conversation with Cluppo (Miku Kobato) in Groove Line (2021-09-01)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3935,12 +4433,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Merch skit",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3957,12 +4457,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Blooming (Official Music Video)… now with ENGLISH SUBTITLES.",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -3979,12 +4481,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Kanami\u0027s interview from MASSIVE VOL. 38, June 2021",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4001,12 +4505,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "[Fan Club Exclusive] Unboxing Ceremony of Unseen World (2021-01-20)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4023,12 +4529,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "[Fan Club Exclusive] Photographer Akane (2020-01-18)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4045,12 +4553,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "[Fan Club Exclusive] Misa’s New Bass!! (2019-12-15)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4067,12 +4577,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "[Fan Club Exclusive] Omajinai Time (Magic Spell Time) Oct 20, 2019 (uploaded on 2019-10-28)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4089,12 +4601,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "[Fan Club Exclusive] Omajinai Time (Magic Spell Time) Oct 14, 2019 (uploaded on 2019-10-28)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4111,12 +4625,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "[Fan Club Exclusive] Body Percussion (2019-10-28)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4133,12 +4649,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "[Fan Club Exclusive] Band-Maiko Making Video (other ver.) Day 2 (2019-04-11)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4155,12 +4673,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "[Fan Club Exclusive] Band-Maiko Making Video (other ver.) Day 1 (2019-04-03)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4177,12 +4697,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "[Fan Club Exclusive] Band-Maid Musical Chairs (2019-01-27)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4199,12 +4721,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "[Fan Club Exclusive] Omajinai Time “Magic Spell Time” at Studio Coast (2019-01-27)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4221,12 +4745,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "[Fan Club Exclusive] Kumamoto Surprise (2019-01-13)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4243,12 +4769,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "[Fan Club Exclusive] O-mei-syu-sama video #9: Karaoke Party on Misa’s Birthday (2018-10-18)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4265,12 +4793,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "[Fan Club Exclusive] O-mei-syu-sama video #7: Specialties of Osaka (2018-10-09)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4287,12 +4817,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "[Fan Club Exclusive] O-mei-syu-sama video #6: Special Omajinai Time (2018-10-03)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4309,12 +4841,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "[Fan Club Exclusive] O-mei-syu-sama video #5: Surprise Announcement to Appear in Rock In Japan Festival 2018 (2018-10-03)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4331,12 +4865,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "[Fan Club Exclusive] O-mei-syu-sama video #3: Unboxing Ceremony of Start over (2018-07-25)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4353,12 +4889,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "[Fan Club Exclusive] O-mei-syu-sama video #2: From Kanami to O-mei-syu-sama (2018-07-11)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4375,12 +4913,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "[Fan Club Exclusive] O-mei-syu-sama video #1: Welcome to the O-mei-syu-sama Club (2018-07-04)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4397,12 +4937,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Excerpts from interviews (ENG sub)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4419,12 +4961,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Interview with Misa on the May 2021 issue of Player (2021-04-02): “We have a lot of fun talking like ‘I’d like to make this kind of bass next’…”",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4441,12 +4985,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "MISA\u0027s Q\u0026amp;A session on the Bass Day stream (ENG sub)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4463,12 +5009,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Interview with Akane on the May 2021 issue of Player (2021-04-02): “Our band is such a miracle that I could only say ‘Miraculous members gathered!’”",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4485,12 +5033,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Interview with Saiki on the May 2021 issue of Player (2021-04-02): “Kobato has what I don’t have, and I have what she doesn’t have”",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4507,12 +5057,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Interview with Miku Kobato and Kanami on the May 2021 issue of Player (2021-04-02): The two guitarists",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4529,12 +5081,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "MISA\u0027s Interview (partial) and Hybrid picking demo in the Bass day stream (ENG sub)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4551,12 +5105,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "BAND-MAIKO interview in 2019 (ENG sub)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4573,12 +5129,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "New O-MEI-SYU SAMA Feature: Song of the Month!",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4595,12 +5153,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "[Unofficial translation] The MC parts of “THE DAY OF MAID” Online Okyu-ji (2021-05-10)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4617,12 +5177,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Interview with Band-Maid on Barks: The “roots” and the “present” of Band-Maid (2021-02-04)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4639,12 +5201,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Interview with Cluppo on MusicVoice: Miku Kobato of Band-Maid shows a new frontier in her solo project (2021-04-10)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4661,12 +5225,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Yoshio Nomura’s “Full of Friends” Episode 12: Miku Kobato and Kanami of Band-Maid (2021-02-02)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4683,12 +5249,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Interview with Cluppo on Usen Encore: PEACE\u0026amp;LOVE — We Band-Maid are serious about pranks, po! (2021-04-06)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4705,12 +5273,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Interview with Cluppo (Miku Kobato of Band-Maid) on Barks: aiming for “world peace” (2021-04-01)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4727,12 +5297,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "[Fan Club Exclusive] Maid’s Room: Kanami #5 on 2021-03-23 — Memorable pictures 2",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4749,12 +5321,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "[Fan Club Exclusive] Bubble Making Movie (2019-01-16)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4771,12 +5345,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "[Fan Club Exclusive] The Dragon Cries Making Movie (2020-03-23)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4793,12 +5369,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "[Fan Club Exclusive] Rinne Making Movie (2019-11-12)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4815,12 +5393,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "O-MEI-SYU SAMA SPECIAL MOVIE AKANE⑤【MAID\u0027S ROOM】",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4837,12 +5417,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "New Duo Maid’s room with Akane and MISA",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4859,12 +5441,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "O-MEI-SYU SAMA SPECIAL MOVIE 【MAID\u0027S ROOM】 MIKU KOBATO⑥",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4881,12 +5465,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "[Fan Club Exclusive] Warning! Making Movie (2021-02-06)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4903,12 +5489,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "[Fan Club Exclusive] Manners Making Movie (2021-01-22)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4925,12 +5513,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "[Fan Club Exclusive] Different Making Movie (2021-01-22)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4947,12 +5537,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Interview with Kanami on the March 2021 issue of Player (2021-02-02): Unseen World",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4969,12 +5561,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "[Fan Club Exclusive] Exchanging Christmas gifts (2020-12-25)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -4991,12 +5585,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Interview with Band-Maid on MusicVoice on 2021-01-22: “We want to bring you to the unseen world” — Their attitude in “Progress”",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -5013,12 +5609,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "After Life MV making video available on fan site",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -5035,12 +5633,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "[Fan Club Exclusive] Message from Miku #9 on 2021-02-27",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -5057,12 +5657,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "[Fan Club Exclusive] Message from Saiki #9 on 2021-02-26",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -5079,12 +5681,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "[Fan Club Exclusive] Message from Misa #9 on 2021-02-25",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -5101,12 +5705,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "[Fan Club Exclusive] Message from Akane #9 on 2021-02-24",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -5123,12 +5729,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "[Fan Club Exclusive] Message from Kanami #9 on 2021-02-23",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -5145,12 +5753,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "FM802 Bintang Garden Band-Maid “Radio Serving: Unseen World” (2021-02-06)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -5167,12 +5777,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "[Fan Club Exclusive] Message from Misa #8 on 2021-02-22",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -5189,12 +5801,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "[Fan Club Exclusive] Message from Akane #8 on 2021-02-21",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -5211,12 +5825,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "[Fan Club Exclusive] Message from Miku #8 on 2021-02-20",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -5233,12 +5849,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "[Fan Club Exclusive] Message from Kanami #8 on 2021-02-19",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -5255,12 +5873,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Fan Club Update【Voice to O-MEI-SYU SAMA】MESSAGE FROM SAIKI ⑧",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -5277,12 +5897,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "[Fan Club Exclusive] Message from Akane #7 on 2021-02-17",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -5299,12 +5921,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "[Fan Club Exclusive] Message from Kanami #7 on 2021-02-16",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -5321,12 +5945,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "O-MEI-SYU SAMA SPECIAL MOVIE 【Voice to O-MEI-SYU SAMA】MESSAGE FROM SAIKI ⑦",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -5343,12 +5969,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "[Unofficial translation] The MC parts of the Online Okyu-ji (2021-02-11)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -5365,12 +5993,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Translation for TVLIFE.jp interview on 10 Feb 2021. (Text too long to put neatly in comments in previous post, so I\u0027m creating a new one)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -5387,12 +6017,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Interview with Band-Maid on PIA (2021-02-02) — Toward a wider world: Band-Maid talk about the new album Unseen World and entertainment",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -5409,12 +6041,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Unofficial rough Transcription/Translation of about Us",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -5431,12 +6065,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Miku\u0027s Instagram post (2021/02/04) - About Us and a heartfelt message",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -5453,12 +6089,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "[Fan Club Exclusive] Message from Misa #7 on 2021-02-03",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -5475,12 +6113,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Saiki\u0027s Twitter Comments during #BMUWLP",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -5497,12 +6137,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "MISA\u0027s Twitter Comments during #BMUWLP",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -5519,12 +6161,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Akane\u0027s Twitter Comments during #BMUWLP",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -5541,12 +6185,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Interview with Miku Kobato and Kanami on Headbang vol. 28 (2020-12-21)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -5563,12 +6209,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Rhythm \u0026amp; Drums magazine interview with Akane",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -5585,12 +6233,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "MISA\u0027s Commentary on All Songs of Unseen World (in Japanese)",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -5607,12 +6257,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "",
         "Title":  "Miku’s Twitter Comments for #BMUWLP",
         "OriginalTitle":  null,
         "Publication":  null,
@@ -5629,12 +6281,14 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        ""
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "Kobato Miku",
         "Title":  "Translated (attempted) Miku\u0027s Interview in \"The Day Before World Domination\" visual book (21 Jan 2019)",
         "OriginalTitle":  "The Day Before World Domination - Kobato Miku",
         "Publication":  "The Day Before World Domination Mook",
@@ -5651,12 +6305,14 @@
                   ],
         "Albums":  [
                        "WORLD DOMINATION"
-                   ]
+                   ],
+        "Members":  [
+                        "Kobato Miku"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "Saiki",
         "Title":  "Translated Saiki\u0027s interview from \"The Day Before World Domination\" mook.",
         "OriginalTitle":  "The Day Before World Domination - Saiki",
         "Publication":  "The Day Before World Domination Mook",
@@ -5673,12 +6329,14 @@
                   ],
         "Albums":  [
                        "WORLD DOMINATION"
-                   ]
+                   ],
+        "Members":  [
+                        "Saiki"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "MISA",
         "Title":  "Translated MISA\u0027s interview from \"The Day Before World Domination\" mook",
         "OriginalTitle":  "The Day Before World Domination - MISA",
         "Publication":  "The Day Before World Domination Mook",
@@ -5695,12 +6353,14 @@
                   ],
         "Albums":  [
                        "WORLD DOMINATION"
-                   ]
+                   ],
+        "Members":  [
+                        "MISA"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "Akane",
         "Title":  "Translated Akane\u0027s Interview in \"The Day Before World Domination\" Mook",
         "OriginalTitle":  "The Day Before World Domination - Akane",
         "Publication":  "The Day Before World Domination Mook",
@@ -5717,12 +6377,14 @@
                   ],
         "Albums":  [
                        "WORLD DOMINATION"
-                   ]
+                   ],
+        "Members":  [
+                        "Akane"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  null,
-        "Members":  "Kanami",
         "Title":  "Attempted translation of Kanami\u0027s interview from ‘The Day before World Domination,’ January 2019",
         "OriginalTitle":  "The Day before World Domination - Kanami",
         "Publication":  "The Day Before World Domination Mook",
@@ -5739,12 +6401,14 @@
                   ],
         "Albums":  [
                        "WORLD DOMINATION"
-                   ]
+                   ],
+        "Members":  [
+                        "Kanami"
+                    ]
     },
     {
         "Type":  "Article",
         "Interviewer":  "Yuichi Masuda",
-        "Members":  "Akane;Kanami;Kobato Miku;MISA;Saiki",
         "Title":  "Interview with Band-Maid on Burrn Japan vol. 25: Persevering tirelessly in upholding justice",
         "OriginalTitle":  null,
         "Publication":  "Burrn Japan",
@@ -5761,6 +6425,13 @@
                   ],
         "Albums":  [
                        null
-                   ]
+                   ],
+        "Members":  [
+                        "Akane",
+                        "Kanami",
+                        "Kobato Miku",
+                        "MISA",
+                        "Saiki"
+                    ]
     }
 ]
