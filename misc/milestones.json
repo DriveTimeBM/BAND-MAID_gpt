@@ -1,6 +1,38 @@
-﻿{
-    "Categoty":  "YouTube AGGREGATE AUDIO stream Milestones",
-    "Item":  "① DICE ",
-    "Milestone":  "🎲  aggregate AUDIO streams surpassed **1,500,000**!",
-    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/ytmusic.png"
-}
+﻿[
+    {
+        "Categoty":  "YouTube",
+        "Item":  "① BAND-MAID / Unleash!!!!! (Official Live Video) https://youtu.be/-i3N-WbZnJM",
+        "Milestone":  "  👀 Surpassed **500,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.png"
+    },
+    {
+        "Categoty":  "YouTube",
+        "Item":  "② BAND-MAID / Ready to Rock ×「ロックは淑女の嗜みでして」 Special Music Video (Anime Music Video) https://youtu.be/JegJ6cSsUgg",
+        "Milestone":  "  👀 Surpassed **2,400,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.png"
+    },
+    {
+        "Categoty":  "YouTube",
+        "Item":  "③ BAND-MAID / SUPER SUNSHINE (Official Live Video)　高橋酒造株式会社「白岳しろ」CMソング https://youtu.be/LwbXcAY0lhU",
+        "Milestone":  "  👀 Surpassed **200,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.png"
+    },
+    {
+        "Categoty":  "Spotify",
+        "Item":  "① Forbidden tale ",
+        "Milestone":  "🚫 Surpassed **500,000** streams!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.png"
+    },
+    {
+        "Categoty":  "Spotify",
+        "Item":  "② YOLO ",
+        "Milestone":  "😎🎢 Surpassed **2,400,000** streams!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.png"
+    },
+    {
+        "Categoty":  "Spotify",
+        "Item":  "③ Puzzle ",
+        "Milestone":  "🧩 Surpassed **2,600,000** streams!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.png"
+    }
+]

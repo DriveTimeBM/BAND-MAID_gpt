@@ -1,14 +1,20 @@
 ﻿[
     {
+        "Category":  "Live Debut",
+        "Item":  "① Arcadia Girl ",
+        "Detail":  " 👩‍🦰 was first played live 11 years ago at shibuya eggman, Tokyo, Japan",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
+    },
+    {
         "Category":  "Okyuji",
-        "Item":  "① 10 years ago 🗾",
-        "Detail":  "  🇯🇵 LIVE rise SHUNAN - Shuunan,JP [0 songs]",
+        "Item":  "① 11 years ago 🗾",
+        "Detail":  "  🇯🇵 shibuya eggman - Tokyo,JP [5 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     },
     {
-        "Category":  "Other",
-        "Item":  "① 5 years ago",
-        "Detail":  "📺onset OLV surpassed 1 million views",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Band-Maid%20color%20pop%204.png"
+        "Category":  "Okyuji",
+        "Item":  "② 10 years ago 🗾",
+        "Detail":  "  🇯🇵 Marugame Shimin Hiroba - Marugame,JP [5 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     }
 ]
