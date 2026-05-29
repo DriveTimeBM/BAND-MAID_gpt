@@ -100,8 +100,8 @@
         "Location":  "Maishima Sports Island, 2-chōme-1-128 Hokkōryokuchi, Konohana Ward, Osaka, 554-0042, Japan",
         "URL":  "https://giga-osaka.com/",
         "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/osakaGigaFes.jpg",
-        "Start_Local":  "2026-08-02 02:00:00",
-        "Start_Japan":  "2026-08-02 15:00:00"
+        "Start_Local":  "2026-08-01 22:15:00",
+        "Start_Japan":  "2026-08-02 11:15:00"
     },
     {
         "Summary":  "Tokyo - Summer Sonic",
@@ -182,5 +182,13 @@
         "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/prs.png",
         "Start_Local":  "2026-06-08 11:00:00",
         "Start_Japan":  "2026-06-09 00:00:00"
+    },
+    {
+        "Summary":  "Aichi - TREASURE05X",
+        "Location":  "Otsuka Kaihin Ryokuchi Laguna Beach, 2-chōme-39 Kaiyōchō, Gamagori, Aichi 443-0014, Japan",
+        "URL":  "https://www.treasure05x.jp/",
+        "Image":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/839530/content_260410_bm_worldtour_2026_X.jpg",
+        "Start_Local":  "2026-09-05 02:00:00",
+        "Start_Japan":  "2026-09-05 15:00:00"
     }
 ]
