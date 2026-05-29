@@ -1,20 +1,20 @@
 ﻿[
     {
-        "Category":  "CDJapan Weekly Rank",
-        "Item":  "✨ CD Maxi ENERGETIC [w/ Blu-ray, Limited Edition] BAND-MAID 7000yen June 24, 2026 Pre-order Limited Edition Bonus",
-        "Milestone":  "① Weekly Rank: 9 🎗️",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/CDJapan.jpg"
-    },
-    {
-        "Category":  "YouTube",
-        "Item":  "① BAND-MAID / Ready to Rock ×「ロックは淑女の嗜みでして」 Special Music Video (Anime Music Video) https://youtu.be/JegJ6cSsUgg",
-        "Milestone":  "  👀 Surpassed **2,500,000** views!",
+        "Category":  "YouTube AGGREGATE Views",
+        "Item":  "① REAL EXISTENCE ",
+        "Milestone":  "🧍🌍 aggregate views surpassed **19** million!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.png"
     },
     {
         "Category":  "Spotify",
-        "Item":  "① After Life ",
-        "Milestone":  "💀 Surpassed **3,200,000** streams!",
+        "Item":  "① Zen ",
+        "Milestone":  "🧘‍♀️ Surpassed **2,200,000** streams!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.png"
+    },
+    {
+        "Category":  "Spotify",
+        "Item":  "② Sense ",
+        "Milestone":  "👁️ Surpassed **10,700,000** streams!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.png"
     }
 ]
