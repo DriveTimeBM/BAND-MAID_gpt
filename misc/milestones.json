@@ -1,20 +1,26 @@
 ﻿[
     {
         "Category":  "YouTube AGGREGATE Views",
-        "Item":  "① REAL EXISTENCE ",
-        "Milestone":  "🧍🌍 aggregate views surpassed **19** million!",
+        "Item":  "① HATE? ",
+        "Milestone":  "🤬 aggregate views surpassed **2** million!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.png"
     },
     {
-        "Category":  "Spotify",
-        "Item":  "① Zen ",
-        "Milestone":  "🧘‍♀️ Surpassed **2,200,000** streams!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.png"
+        "Category":  "YouTube",
+        "Item":  "① Sense (TV Size Ver.) https://youtu.be/1kv3cfGlMQQ",
+        "Milestone":  "  👀 Surpassed **200,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.png"
     },
     {
-        "Category":  "Spotify",
-        "Item":  "② Sense ",
-        "Milestone":  "👁️ Surpassed **10,700,000** streams!",
+        "Category":  "YouTube",
+        "Item":  "② BAND-MAID / Toi et moi (Official Live Video) https://youtu.be/_NTozqcillo",
+        "Milestone":  "  👀 Surpassed **100,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.png"
+    },
+    {
+        "Category":  "Total Streams",
+        "Item":  "Spotify Total Streams",
+        "Milestone":  "  🎧 Surpassed **220** MILLION streams!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.png"
     }
 ]
