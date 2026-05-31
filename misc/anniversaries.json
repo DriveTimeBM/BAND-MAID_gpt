@@ -1,6 +1,20 @@
-﻿{
-    "Category":  "Other",
-    "Item":  "① 7 years ago",
-    "Detail":  "REAL EXISTENCE OMV surpassed 10 million views",
-    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Band-Maid%20color%20pop%204.png"
-}
+﻿[
+    {
+        "Category":  "Okyuji",
+        "Item":  "① 12 years ago 🗾",
+        "Detail":  "  🇯🇵 HEAVEN\u0027S ROCK KUMAGAYA VJ-1 - Kumagaya,JP [0 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "② 11 years ago 🗾",
+        "Detail":  "  🇯🇵 shibuya eggman - Tokyo,JP [5 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "③ 1 year ago 🗾",
+        "Detail":  "  🇯🇵 NIIGATA LOTS - Niigata,JP [19 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    }
+]
