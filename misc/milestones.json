@@ -1,14 +1,26 @@
 ﻿[
     {
+        "Category":  "YouTube AGGREGATE AUDIO stream Milestones",
+        "Item":  "① Mirage ",
+        "Milestone":  "🌦️  aggregate AUDIO streams surpassed **200,000**!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/ytmusic.png"
+    },
+    {
         "Category":  "YouTube",
-        "Item":  "① BAND-MAID / about Us (Official Live Video) https://youtu.be/qicgVAxCYV8",
-        "Milestone":  "  👀 Surpassed **1,200,000** views!",
+        "Item":  "① Mirage https://youtu.be/UBLKqA51hZs",
+        "Milestone":  "  👀 Surpassed **200,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.png"
+    },
+    {
+        "Category":  "YouTube",
+        "Item":  "② BAND-MAID / Toi et moi (Official Live Video) https://youtu.be/_NTozqcillo",
+        "Milestone":  "  👀 Surpassed **200,000** views!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.png"
     },
     {
         "Category":  "Spotify",
-        "Item":  "① What is justice? ",
-        "Milestone":  "⚖️❓ Surpassed **1,800,000** streams!",
+        "Item":  "① H-G-K ",
+        "Milestone":  "💣 Surpassed **1,600,000** streams!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.png"
     }
 ]
