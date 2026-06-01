@@ -126,7 +126,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  33,
-        "SpotifyStreams":  3359054,
+        "SpotifyStreams":  3364877,
         "MediaTieIn":  null
     },
     {
@@ -186,7 +186,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  40,
-        "SpotifyStreams":  2615687,
+        "SpotifyStreams":  2620296,
         "MediaTieIn":  null
     },
     {
@@ -200,6 +200,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "YOLO",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2016-11-16T00:00:00",
+        "Album":  "Just Bring It",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  95,
+        "SpotifyStreams":  2417899,
+        "MediaTieIn":  "Used in mobile game Valiant Knights"
+    },
+    {
         "Name":  "Shambles",
         "AlternativeName":  "",
         "ReleaseDate":  "2023-08-04T00:00:00",
@@ -208,16 +218,6 @@
         "PlayedLiveCount":  56,
         "SpotifyStreams":  2415941,
         "MediaTieIn":  "Ending theme for season 2 of anime series Kengan Ashura"
-    },
-    {
-        "Name":  "YOLO",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2016-11-16T00:00:00",
-        "Album":  "Just Bring It",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  95,
-        "SpotifyStreams":  2413906,
-        "MediaTieIn":  "Used in mobile game Valiant Knights"
     },
     {
         "Name":  "Daydreaming",
@@ -386,7 +386,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  3,
-        "SpotifyStreams":  1771960,
+        "SpotifyStreams":  1773833,
         "MediaTieIn":  null
     },
     {
@@ -416,7 +416,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  14,
-        "SpotifyStreams":  1599810,
+        "SpotifyStreams":  1604211,
         "MediaTieIn":  null
     },
     {
@@ -446,7 +446,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  39,
-        "SpotifyStreams":  1526277,
+        "SpotifyStreams":  1527939,
         "MediaTieIn":  null
     },
     {
@@ -486,7 +486,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  40,
-        "SpotifyStreams":  1480115,
+        "SpotifyStreams":  1483452,
         "MediaTieIn":  null
     },
     {
@@ -516,7 +516,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  73,
-        "SpotifyStreams":  1355316,
+        "SpotifyStreams":  1356264,
         "MediaTieIn":  null
     },
     {
@@ -536,7 +536,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  36,
-        "SpotifyStreams":  1311320,
+        "SpotifyStreams":  1316314,
         "MediaTieIn":  "Ending theme for anime series Grendizer U"
     },
     {
@@ -596,7 +596,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
-        "SpotifyStreams":  1202831,
+        "SpotifyStreams":  1204605,
         "MediaTieIn":  null
     },
     {
@@ -656,7 +656,7 @@
         "Album":  "glory",
         "KobatoLead":  "no",
         "PlayedLiveCount":  22,
-        "SpotifyStreams":  1082050,
+        "SpotifyStreams":  1082825,
         "MediaTieIn":  null
     },
     {
@@ -826,7 +826,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  8,
-        "SpotifyStreams":  832143,
+        "SpotifyStreams":  832859,
         "MediaTieIn":  null
     },
     {
@@ -846,7 +846,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  34,
-        "SpotifyStreams":  816760,
+        "SpotifyStreams":  817781,
         "MediaTieIn":  null
     },
     {
@@ -856,7 +856,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  12,
-        "SpotifyStreams":  815968,
+        "SpotifyStreams":  816886,
         "MediaTieIn":  null
     },
     {
@@ -906,7 +906,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  783810,
+        "SpotifyStreams":  785205,
         "MediaTieIn":  null
     },
     {
@@ -1060,6 +1060,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "LOOK AT ME",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2016-05-18T00:00:00",
+        "Album":  "Brand New MAID",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  49,
+        "SpotifyStreams":  634817,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "flying high",
         "AlternativeName":  "",
         "ReleaseDate":  "2019-12-11T00:00:00",
@@ -1067,16 +1077,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  1,
         "SpotifyStreams":  634665,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "LOOK AT ME",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2016-05-18T00:00:00",
-        "Album":  "Brand New MAID",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  49,
-        "SpotifyStreams":  634101,
         "MediaTieIn":  null
     },
     {
@@ -1096,7 +1096,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  3,
-        "SpotifyStreams":  595794,
+        "SpotifyStreams":  596591,
         "MediaTieIn":  null
     },
     {
@@ -1146,7 +1146,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  29,
-        "SpotifyStreams":  509739,
+        "SpotifyStreams":  512623,
         "MediaTieIn":  null
     },
     {
@@ -1306,7 +1306,7 @@
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
         "PlayedLiveCount":  8,
-        "SpotifyStreams":  165588,
+        "SpotifyStreams":  168734,
         "MediaTieIn":  null
     },
     {
