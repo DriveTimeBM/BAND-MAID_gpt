@@ -1,0 +1,984 @@
+﻿[
+    {
+        "advertiser_id":  "AR08485559482183581697",
+        "advertiser":  "株式会社ポニーキャニオン [Pony Canyon] [Pony Canyon]",
+        "ad_creative_id":  "CR07946252155495645185",
+        "format":  "video",
+        "link":  "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency\u0026obfuscatedCustomerId=7303582436\u0026creativeId=780183298969\u0026uiFeatures=12,54\u0026adGroupId=184256506221\u0026versionId=2\u0026assets=%3DH4sIAAAAAAAAAONS5OLkOHB4zdfHHAI8QObWKxtATEYgc_mN1TNOcghwAADSCGUwIwAAAA\u0026sig=ACiVB_wR4i3-Xx3XkgC9dhtE8b1HfZKQYA\u0026htmlParentId=fletch-render-2653070327234190068\u0026responseCallback=fletchCallback2653070327234190068",
+        "total_days_shown":  29,
+        "first_shown":  1761099716,
+        "last_shown":  1763477955,
+        "details_link":  "https://adstransparency.google.com/advertiser/AR08485559482183581697/creative/CR07946252155495645185?region=anywhere",
+        "serpapi_details_link":  "https://serpapi.com/search.json?advertiser_id=AR08485559482183581697\u0026creative_id=CR07946252155495645185\u0026engine=google_ads_transparency_center_ad_details",
+        "FirstShown":  "\/Date(1761099716000)\/",
+        "LastShown":  "\/Date(1763477955000)\/",
+        "AdDetails":  {
+                          "search_metadata":  {
+                                                  "id":  "6a1c36fbecf5ed97e3ae9bc3",
+                                                  "status":  "Success",
+                                                  "json_endpoint":  "https://serpapi.com/searches/96rzmpZhTPbVmrSUVXa_xw/6a1c36fbecf5ed97e3ae9bc3.json",
+                                                  "created_at":  "2026-05-31 13:26:19 UTC",
+                                                  "processed_at":  "2026-05-31 13:26:19 UTC",
+                                                  "google_ads_transparency_center_ad_details_url":  "https://adstransparency.google.com/advertiser/AR08485559482183581697/creative/CR07946252155495645185?region=anywhere",
+                                                  "raw_html_file":  "https://serpapi.com/searches/96rzmpZhTPbVmrSUVXa_xw/6a1c36fbecf5ed97e3ae9bc3.html",
+                                                  "prettify_html_file":  "https://serpapi.com/searches/96rzmpZhTPbVmrSUVXa_xw/6a1c36fbecf5ed97e3ae9bc3.prettify",
+                                                  "total_time_taken":  7.83
+                                              },
+                          "search_parameters":  {
+                                                    "engine":  "google_ads_transparency_center_ad_details",
+                                                    "advertiser_id":  "AR08485559482183581697",
+                                                    "creative_id":  "CR07946252155495645185"
+                                                },
+                          "search_information":  {
+                                                     "format":  "video",
+                                                     "last_shown":  1763477955,
+                                                     "region_name":  "anywhere",
+                                                     "more_ads_by_advertiser":  "https://adstransparency.google.com/advertiser/AR08485559482183581697",
+                                                     "regions":  [
+                                                                     {
+                                                                         "region":  2158,
+                                                                         "region_name":  "Taiwan",
+                                                                         "last_shown":  20251118
+                                                                     },
+                                                                     {
+                                                                         "region":  2840,
+                                                                         "region_name":  "United States",
+                                                                         "last_shown":  20251118
+                                                                     }
+                                                                 ]
+                                                 },
+                          "ad_creatives":  [
+                                               {
+                                                   "video_link":  "https://rr10---sn-bvvbaxivnuxqjvhj5nu-p5ie.googlevideo.com/videoplayback?expire=1780262785\u0026ei=ATccasP_JPGEm-gPidLxsAU\u0026ip=2601:2c0:8202:2c70:7e61:66ff:fe61:6c62\u0026id=cb349d830fad76bd\u0026itag=22\u0026source=youtube\u0026requiressl=yes\u0026xpc=Eghovf3BOnoBAQ==\u0026cps=0\u0026met=1780233985,\u0026mh=tA\u0026mm=31\u0026mn=sn-bvvbaxivnuxqjvhj5nu-p5ie\u0026ms=au\u0026mv=m\u0026mvi=10\u0026pl=47\u0026rms=au,au\u0026susc=daps\u0026obr=googlesyndication.com\u0026ctier=L\u0026mime=video/mp4\u0026vprv=1\u0026rqh=1\u0026dur=232.919\u0026lmt=1761097528611537\u0026mt=1780233442\u0026txp=4532534\u0026sparams=expire,ei,ip,id,itag,source,requiressl,xpc,susc,obr,ctier,mime,vprv,rqh,dur,lmt\u0026sig=AHEqNM4wRQIhAOkGZAq51i5Ojvd6w4vdvMLE007FvbrS1vOomdHksrWNAiBKg_5psDID7FhMyOeTtq1i-maGYNwo6I1dKegp5E5nOA==\u0026lsparams=cps,met,mh,mm,mn,ms,mv,mvi,pl,rms\u0026lsig=APaTxxMwRgIhAMKnnzGeC3MJmChM0-jtCtaQv8eG3pNKLq3sN2LJZ7MIAiEAguyQeKosrw8hQ6NJra1aZ4NmwjDXUqaoA2s_WiW2ZB8=",
+                                                   "video_duration":  "00:03:52",
+                                                   "headline":  "BAND-MAID「Present Perfect」",
+                                                   "call_to_action":  "View more",
+                                                   "snippet":  "youtu.be",
+                                                   "visible_link":  "youtu.be",
+                                                   "link":  "https://youtu.be/yzSdgw-tdr0",
+                                                   "VideoId":  "yzSdgw-tdr0",
+                                                   "VideoTitle":  "BAND-MAID / Present Perfect (Official Music Video)",
+                                                   "VideoUrl":  "https://youtu.be/yzSdgw-tdr0",
+                                                   "Views":  1895099,
+                                                   "ViewsDelta":  531
+                                               },
+                                               {
+                                                   "video_link":  "https://www.youtube.com/embed/yzSdgw-tdr0",
+                                                   "video_duration":  "3:53",
+                                                   "headline":  "BAND-MAID「Present Perfect」",
+                                                   "call_to_action":  "View more",
+                                                   "snippet":  "BAND-MAID New EP",
+                                                   "visible_link":  "youtu.be",
+                                                   "link":  "https://youtu.be/yzSdgw-tdr0",
+                                                   "height":  300,
+                                                   "width":  400,
+                                                   "channel_name":  "BAND-MAID",
+                                                   "channel_icon":  "https://yt3.ggpht.com/wMU_jSBre75iBV0tnm_NyhEvb9IL1P7gjMl8TpEs6zIPvxiKOlZyUM1bpZblKExa0z22wfN1C6g=s88-c-k-c0x00ffffff-no-rj",
+                                                   "extensions":  [
+                                                                      "Hot"
+                                                                  ],
+                                                   "VideoId":  "yzSdgw-tdr0",
+                                                   "VideoTitle":  "BAND-MAID / Present Perfect (Official Music Video)",
+                                                   "VideoUrl":  "https://youtu.be/yzSdgw-tdr0",
+                                                   "Views":  1895099,
+                                                   "ViewsDelta":  531
+                                               }
+                                           ]
+                      }
+    },
+    {
+        "advertiser_id":  "AR08485559482183581697",
+        "advertiser":  "株式会社ポニーキャニオン [Pony Canyon] [Pony Canyon]",
+        "ad_creative_id":  "CR07860824500063961089",
+        "format":  "video",
+        "link":  "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency\u0026obfuscatedCustomerId=7303582436\u0026creativeId=780148777083\u0026uiFeatures=12,54\u0026adGroupId=186985250789\u0026versionId=1\u0026assets=%3DH4sIAAAAAAAAAONS5OLk2Hplw9fHHAKMQObyG6tnnOQQ4AAyDxxeAxLlAQDggmIbIwAAAA\u0026sig=ACiVB_zFHqx68LiybX66_QEOsGW9DBxS0w\u0026htmlParentId=fletch-render-1005155132324370304\u0026responseCallback=fletchCallback1005155132324370304",
+        "total_days_shown":  29,
+        "first_shown":  1761099486,
+        "last_shown":  1763477602,
+        "details_link":  "https://adstransparency.google.com/advertiser/AR08485559482183581697/creative/CR07860824500063961089?region=anywhere",
+        "serpapi_details_link":  "https://serpapi.com/search.json?advertiser_id=AR08485559482183581697\u0026creative_id=CR07860824500063961089\u0026engine=google_ads_transparency_center_ad_details",
+        "FirstShown":  "\/Date(1761099486000)\/",
+        "LastShown":  "\/Date(1763477602000)\/",
+        "AdDetails":  {
+                          "search_metadata":  {
+                                                  "id":  "6a1c370380c9634a109c724d",
+                                                  "status":  "Success",
+                                                  "json_endpoint":  "https://serpapi.com/searches/AhIZESksFMOBiIltU8fKug/6a1c370380c9634a109c724d.json",
+                                                  "created_at":  "2026-05-31 13:26:27 UTC",
+                                                  "processed_at":  "2026-05-31 13:26:27 UTC",
+                                                  "google_ads_transparency_center_ad_details_url":  "https://adstransparency.google.com/advertiser/AR08485559482183581697/creative/CR07860824500063961089?region=anywhere",
+                                                  "raw_html_file":  "https://serpapi.com/searches/AhIZESksFMOBiIltU8fKug/6a1c370380c9634a109c724d.html",
+                                                  "prettify_html_file":  "https://serpapi.com/searches/AhIZESksFMOBiIltU8fKug/6a1c370380c9634a109c724d.prettify",
+                                                  "total_time_taken":  2.3
+                                              },
+                          "search_parameters":  {
+                                                    "engine":  "google_ads_transparency_center_ad_details",
+                                                    "advertiser_id":  "AR08485559482183581697",
+                                                    "creative_id":  "CR07860824500063961089"
+                                                },
+                          "search_information":  {
+                                                     "format":  "video",
+                                                     "last_shown":  1763477602,
+                                                     "region_name":  "anywhere",
+                                                     "more_ads_by_advertiser":  "https://adstransparency.google.com/advertiser/AR08485559482183581697",
+                                                     "regions":  [
+                                                                     {
+                                                                         "region":  2356,
+                                                                         "region_name":  "India",
+                                                                         "last_shown":  20251118
+                                                                     },
+                                                                     {
+                                                                         "region":  2862,
+                                                                         "region_name":  "Venezuela",
+                                                                         "last_shown":  20251118
+                                                                     },
+                                                                     {
+                                                                         "region":  2218,
+                                                                         "region_name":  "Ecuador",
+                                                                         "last_shown":  20251118
+                                                                     },
+                                                                     {
+                                                                         "region":  2608,
+                                                                         "region_name":  "Philippines",
+                                                                         "last_shown":  20251118
+                                                                     },
+                                                                     {
+                                                                         "region":  2360,
+                                                                         "region_name":  "Indonesia",
+                                                                         "last_shown":  20251118
+                                                                     },
+                                                                     {
+                                                                         "region":  2764,
+                                                                         "region_name":  "Thailand",
+                                                                         "last_shown":  20251118
+                                                                     },
+                                                                     {
+                                                                         "region":  2484,
+                                                                         "region_name":  "Mexico",
+                                                                         "last_shown":  20251117
+                                                                     }
+                                                                 ]
+                                                 },
+                          "ad_creatives":  [
+                                               {
+                                                   "video_link":  "https://rr1---sn-8xgp1vo-p5qee.googlevideo.com/videoplayback?expire=1780262789\u0026ei=BTccao7VHKSBu7APq5G3yQQ\u0026ip=173.67.42.217\u0026id=cb349d830fad76bd\u0026itag=22\u0026source=youtube\u0026requiressl=yes\u0026xpc=Eghovf3BOnoBAQ==\u0026met=1780233989,\u0026mh=tA\u0026mm=31\u0026mn=sn-8xgp1vo-p5qee\u0026ms=au\u0026mv=m\u0026mvi=1\u0026pl=18\u0026rms=au,au\u0026susc=daps\u0026obr=googlesyndication.com\u0026ctier=L\u0026mime=video/mp4\u0026vprv=1\u0026rqh=1\u0026dur=232.919\u0026lmt=1761097528611537\u0026mt=1780233442\u0026txp=4532534\u0026sparams=expire,ei,ip,id,itag,source,requiressl,xpc,susc,obr,ctier,mime,vprv,rqh,dur,lmt\u0026sig=AHEqNM4wRgIhAMJvrvHHrsZ0l8Xo18yhmV5zgofJLL4VxyUtdDOh__14AiEAkXAT_MujitCohqCSg1tz_WwOULHhdQMMd7NmHJ6ZQv8=\u0026lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms\u0026lsig=APaTxxMwRAIgFj8lFja56-9XkYV9EelAnHScdeb_hoas31rJEtS1vQYCIBuxRwCC1h4eYuqPI9QSLJQbWoF_DIUeR95e51XSLW9W",
+                                                   "video_duration":  "00:03:52",
+                                                   "headline":  "BAND-MAID「Present Perfect」",
+                                                   "call_to_action":  "View more",
+                                                   "snippet":  "youtu.be",
+                                                   "visible_link":  "youtu.be",
+                                                   "link":  "https://youtu.be/yzSdgw-tdr0",
+                                                   "VideoId":  "yzSdgw-tdr0",
+                                                   "VideoTitle":  "BAND-MAID / Present Perfect (Official Music Video)",
+                                                   "VideoUrl":  "https://youtu.be/yzSdgw-tdr0",
+                                                   "Views":  1895099,
+                                                   "ViewsDelta":  531
+                                               },
+                                               {
+                                                   "video_link":  "https://www.youtube.com/embed/yzSdgw-tdr0",
+                                                   "video_duration":  "3:53",
+                                                   "headline":  "BAND-MAID「Present Perfect」",
+                                                   "call_to_action":  "View more",
+                                                   "snippet":  "BAND-MAID New EP",
+                                                   "visible_link":  "youtu.be",
+                                                   "link":  "https://youtu.be/yzSdgw-tdr0",
+                                                   "height":  300,
+                                                   "width":  400,
+                                                   "channel_name":  "BAND-MAID",
+                                                   "channel_icon":  "https://yt3.ggpht.com/wMU_jSBre75iBV0tnm_NyhEvb9IL1P7gjMl8TpEs6zIPvxiKOlZyUM1bpZblKExa0z22wfN1C6g=s88-c-k-c0x00ffffff-no-rj",
+                                                   "extensions":  [
+                                                                      "Hot"
+                                                                  ],
+                                                   "VideoId":  "yzSdgw-tdr0",
+                                                   "VideoTitle":  "BAND-MAID / Present Perfect (Official Music Video)",
+                                                   "VideoUrl":  "https://youtu.be/yzSdgw-tdr0",
+                                                   "Views":  1895099,
+                                                   "ViewsDelta":  531
+                                               }
+                                           ]
+                      }
+    },
+    {
+        "advertiser_id":  "AR08485559482183581697",
+        "advertiser":  "株式会社ポニーキャニオン [Pony Canyon] [Pony Canyon]",
+        "ad_creative_id":  "CR12053535015657537537",
+        "format":  "video",
+        "link":  "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency\u0026obfuscatedCustomerId=7303582436\u0026creativeId=780277316288\u0026uiFeatures=12,54\u0026adGroupId=187238386733\u0026versionId=2\u0026assets=%3DH4sIAAAAAAAAAONS5OLk2Hplw9fHHAKMQOaJtqf7XjIJcACZBw6vAYnyAAAd20y8IwAAAA\u0026sig=ACiVB_xPn438T1Sm9Olt4xE6Roy-gvy2IA\u0026htmlParentId=fletch-render-7399496772674876266\u0026responseCallback=fletchCallback7399496772674876266",
+        "total_days_shown":  29,
+        "first_shown":  1761099894,
+        "last_shown":  1763477255,
+        "details_link":  "https://adstransparency.google.com/advertiser/AR08485559482183581697/creative/CR12053535015657537537?region=anywhere",
+        "serpapi_details_link":  "https://serpapi.com/search.json?advertiser_id=AR08485559482183581697\u0026creative_id=CR12053535015657537537\u0026engine=google_ads_transparency_center_ad_details",
+        "FirstShown":  "\/Date(1761099894000)\/",
+        "LastShown":  "\/Date(1763477255000)\/",
+        "AdDetails":  {
+                          "search_metadata":  {
+                                                  "id":  "6a1c3706a204abde935cdab2",
+                                                  "status":  "Success",
+                                                  "json_endpoint":  "https://serpapi.com/searches/eyykgaIP-kCxXfTVLV4ZAA/6a1c3706a204abde935cdab2.json",
+                                                  "created_at":  "2026-05-31 13:26:30 UTC",
+                                                  "processed_at":  "2026-05-31 13:26:30 UTC",
+                                                  "google_ads_transparency_center_ad_details_url":  "https://adstransparency.google.com/advertiser/AR08485559482183581697/creative/CR12053535015657537537?region=anywhere",
+                                                  "raw_html_file":  "https://serpapi.com/searches/eyykgaIP-kCxXfTVLV4ZAA/6a1c3706a204abde935cdab2.html",
+                                                  "prettify_html_file":  "https://serpapi.com/searches/eyykgaIP-kCxXfTVLV4ZAA/6a1c3706a204abde935cdab2.prettify",
+                                                  "total_time_taken":  1.69
+                                              },
+                          "search_parameters":  {
+                                                    "engine":  "google_ads_transparency_center_ad_details",
+                                                    "advertiser_id":  "AR08485559482183581697",
+                                                    "creative_id":  "CR12053535015657537537"
+                                                },
+                          "search_information":  {
+                                                     "format":  "video",
+                                                     "last_shown":  1763477255,
+                                                     "region_name":  "anywhere",
+                                                     "more_ads_by_advertiser":  "https://adstransparency.google.com/advertiser/AR08485559482183581697",
+                                                     "regions":  [
+                                                                     {
+                                                                         "region":  2392,
+                                                                         "region_name":  "Japan",
+                                                                         "last_shown":  20251118
+                                                                     }
+                                                                 ]
+                                                 },
+                          "ad_creatives":  [
+                                               {
+                                                   "video_link":  "https://rr7---sn-8xgp1vo-ab5r.googlevideo.com/videoplayback?expire=1780262791\u0026ei=BzccapvXN-2DibEPl9z6wAw\u0026ip=108.29.54.59\u0026id=cb349d830fad76bd\u0026itag=22\u0026source=youtube\u0026requiressl=yes\u0026xpc=Eghovf3BOnoBAQ==\u0026cps=136\u0026met=1780233991,\u0026mh=tA\u0026mm=31\u0026mn=sn-8xgp1vo-ab5r\u0026ms=au\u0026mv=m\u0026mvi=7\u0026pl=18\u0026rms=au,au\u0026susc=daps\u0026obr=googlesyndication.com\u0026ctier=L\u0026mime=video/mp4\u0026vprv=1\u0026rqh=1\u0026dur=232.919\u0026lmt=1761097528611537\u0026mt=1780233442\u0026txp=4532534\u0026sparams=expire,ei,ip,id,itag,source,requiressl,xpc,susc,obr,ctier,mime,vprv,rqh,dur,lmt\u0026sig=AHEqNM4wRgIhANWjWsmEBrMlsaMZOIk2jf1bJOsPVbKTs5Q3LJJ1VsECAiEAnJW7kyl851xDj3KPXtvQQu7EGlH4TCS-vdHDXZCYYRQ=\u0026lsparams=cps,met,mh,mm,mn,ms,mv,mvi,pl,rms\u0026lsig=APaTxxMwRgIhALl8yve0yoZbEABaWjGrAXilzzaj8_mO5cbkxFr71RxJAiEA2b-0JIqZeIJha41ydrY1iuHvCQACpLofkTQsqxAEumU=",
+                                                   "video_duration":  "00:03:52",
+                                                   "headline":  "BAND-MAID「Present Perfect」",
+                                                   "call_to_action":  "もっと見る",
+                                                   "snippet":  "youtu.be",
+                                                   "visible_link":  "youtu.be",
+                                                   "link":  "https://youtu.be/yzSdgw-tdr0",
+                                                   "VideoId":  "yzSdgw-tdr0",
+                                                   "VideoTitle":  "BAND-MAID / Present Perfect (Official Music Video)",
+                                                   "VideoUrl":  "https://youtu.be/yzSdgw-tdr0",
+                                                   "Views":  1895099,
+                                                   "ViewsDelta":  531
+                                               },
+                                               {
+                                                   "video_link":  "https://www.youtube.com/embed/yzSdgw-tdr0",
+                                                   "video_duration":  "3:53",
+                                                   "headline":  "BAND-MAID「Present Perfect」",
+                                                   "call_to_action":  "もっと見る",
+                                                   "snippet":  "BAND-MAID New EP",
+                                                   "visible_link":  "youtu.be",
+                                                   "link":  "https://youtu.be/yzSdgw-tdr0",
+                                                   "height":  300,
+                                                   "width":  400,
+                                                   "channel_name":  "BAND-MAID",
+                                                   "channel_icon":  "https://yt3.ggpht.com/wMU_jSBre75iBV0tnm_NyhEvb9IL1P7gjMl8TpEs6zIPvxiKOlZyUM1bpZblKExa0z22wfN1C6g=s88-c-k-c0x00ffffff-no-rj",
+                                                   "extensions":  [
+                                                                      "Hot"
+                                                                  ],
+                                                   "VideoId":  "yzSdgw-tdr0",
+                                                   "VideoTitle":  "BAND-MAID / Present Perfect (Official Music Video)",
+                                                   "VideoUrl":  "https://youtu.be/yzSdgw-tdr0",
+                                                   "Views":  1895099,
+                                                   "ViewsDelta":  531
+                                               }
+                                           ]
+                      }
+    },
+    {
+        "advertiser_id":  "AR16911333543592853505",
+        "advertiser":  "MAIDIT Co., Ltd.",
+        "ad_creative_id":  "CR02458480383067422721",
+        "format":  "video",
+        "link":  "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency\u0026obfuscatedCustomerId=7730400653\u0026creativeId=806920776846\u0026uiFeatures=12,54\u0026adGroupId=197634198164\u0026versionId=5\u0026assets=%3DH4sIAAAAAAAAAOMy5-LkWHho8ZeVXAI8XJwck88d_7qSS4CZi5Pj8I1d51ZyCWhycXK0vvj95CCnABMXJ8fT_6tAomwA_ZUBIjkAAAA\u0026sig=ACiVB_yT4N9EAyguSUIf1yIPaEh-b0kUhQ\u0026htmlParentId=fletch-render-13397095565095320264\u0026responseCallback=fletchCallback13397095565095320264",
+        "total_days_shown":  20,
+        "first_shown":  1777432396,
+        "last_shown":  1779029962,
+        "details_link":  "https://adstransparency.google.com/advertiser/AR16911333543592853505/creative/CR02458480383067422721?region=anywhere",
+        "serpapi_details_link":  "https://serpapi.com/search.json?advertiser_id=AR16911333543592853505\u0026creative_id=CR02458480383067422721\u0026engine=google_ads_transparency_center_ad_details",
+        "FirstShown":  "\/Date(1777432396000)\/",
+        "LastShown":  "\/Date(1779029962000)\/",
+        "AdDetails":  {
+                          "search_metadata":  {
+                                                  "id":  "6a1d96a2556ce379c6ebc4aa",
+                                                  "status":  "Success",
+                                                  "json_endpoint":  "https://serpapi.com/searches/KdvrOjIb16gDKE-aXoBV_w/6a1d96a2556ce379c6ebc4aa.json",
+                                                  "created_at":  "2026-06-01 14:26:42 UTC",
+                                                  "processed_at":  "2026-06-01 14:26:42 UTC",
+                                                  "google_ads_transparency_center_ad_details_url":  "https://adstransparency.google.com/advertiser/AR16911333543592853505/creative/CR02458480383067422721?region=anywhere",
+                                                  "raw_html_file":  "https://serpapi.com/searches/KdvrOjIb16gDKE-aXoBV_w/6a1d96a2556ce379c6ebc4aa.html",
+                                                  "prettify_html_file":  "https://serpapi.com/searches/KdvrOjIb16gDKE-aXoBV_w/6a1d96a2556ce379c6ebc4aa.prettify",
+                                                  "total_time_taken":  5.0
+                                              },
+                          "search_parameters":  {
+                                                    "engine":  "google_ads_transparency_center_ad_details",
+                                                    "advertiser_id":  "AR16911333543592853505",
+                                                    "creative_id":  "CR02458480383067422721"
+                                                },
+                          "search_information":  {
+                                                     "format":  "video",
+                                                     "last_shown":  1779029962,
+                                                     "region_name":  "anywhere",
+                                                     "more_ads_by_advertiser":  "https://adstransparency.google.com/advertiser/AR16911333543592853505",
+                                                     "ad_funded_by":  "MAIDIT Co., Ltd.",
+                                                     "regions":  [
+                                                                     {
+                                                                         "region":  2826,
+                                                                         "region_name":  "United Kingdom",
+                                                                         "last_shown":  20260517
+                                                                     },
+                                                                     {
+                                                                         "region":  2392,
+                                                                         "region_name":  "Japan",
+                                                                         "last_shown":  20260517
+                                                                     },
+                                                                     {
+                                                                         "region":  2840,
+                                                                         "region_name":  "United States",
+                                                                         "last_shown":  20260517
+                                                                     },
+                                                                     {
+                                                                         "region":  2250,
+                                                                         "region_name":  "France",
+                                                                         "first_shown":  20260428,
+                                                                         "last_shown":  20260517
+                                                                     },
+                                                                     {
+                                                                         "region":  2276,
+                                                                         "region_name":  "Germany",
+                                                                         "first_shown":  20260429,
+                                                                         "last_shown":  20260517
+                                                                     }
+                                                                 ]
+                                                 },
+                          "ad_creatives":  [
+                                               {
+                                                   "video_link":  "https://rr5---sn-ajhp55-5j.googlevideo.com/videoplayback?expire=1780352805\u0026ei=pZYdapXqJ9vHu7APvtGlyAY\u0026ip=97.100.162.167\u0026id=2f06d77006349615\u0026itag=22\u0026source=youtube\u0026requiressl=yes\u0026xpc=Eghovf3BOnoBAQ==\u0026met=1780324005,\u0026mh=kM\u0026mm=31\u0026mn=sn-ajhp55-5j\u0026ms=au\u0026mv=m\u0026mvi=5\u0026pl=15\u0026rms=au,au\u0026susc=daps\u0026obr=googlesyndication.com\u0026ctier=L\u0026mime=video/mp4\u0026vprv=1\u0026rqh=1\u0026dur=245.504\u0026lmt=1779316320920963\u0026mt=1780323686\u0026txp=4532534\u0026sparams=expire,ei,ip,id,itag,source,requiressl,xpc,susc,obr,ctier,mime,vprv,rqh,dur,lmt\u0026sig=AHEqNM4wRAIgGY-h0-K-J_VZrrqvELoWsnMIRr_4Y2QpVDhHSVCrlooCIDGp9TtYLUxpyEEg7sHcKgROX75XcPZkn2rseqLTahYH\u0026lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms\u0026lsig=APaTxxMwRAIgLfO6O6Ykqe5ub8sdvKoxEDGUQcGO4-5dvEnx7PyNF1oCIDFe04sx0tu6R8Xu-5fxhLl4sApidW4YzOP4LqYmlfEr",
+                                                   "video_duration":  "00:04:05",
+                                                   "VideoId":  "LwbXcAY0lhU",
+                                                   "VideoTitle":  "BAND-MAID / SUPER SUNSHINE (Official Live Video)　高橋酒造株式会社「白岳しろ」CMソング",
+                                                   "VideoUrl":  "https://youtu.be/LwbXcAY0lhU",
+                                                   "Views":  708948,
+                                                   "ViewsDelta":  1461
+                                               },
+                                               {
+                                                   "video_link":  "https://www.youtube.com/embed/LwbXcAY0lhU",
+                                                   "video_duration":  "4:06",
+                                                   "headline":  "BAND-MAID New Live Video",
+                                                   "snippet":  "New Live Video",
+                                                   "visible_link":  "youtube.com/@BANDMAID",
+                                                   "link":  "https://www.youtube.com/@BANDMAID",
+                                                   "height":  400,
+                                                   "width":  400,
+                                                   "channel_name":  "BAND-MAID",
+                                                   "channel_icon":  "https://yt3.ggpht.com/wMU_jSBre75iBV0tnm_NyhEvb9IL1P7gjMl8TpEs6zIPvxiKOlZyUM1bpZblKExa0z22wfN1C6g=s88-c-k-c0x00ffffff-no-rj",
+                                                   "extensions":  [
+                                                                      "Hot"
+                                                                  ],
+                                                   "VideoId":  "LwbXcAY0lhU",
+                                                   "VideoTitle":  "BAND-MAID / SUPER SUNSHINE (Official Live Video)　高橋酒造株式会社「白岳しろ」CMソング",
+                                                   "VideoUrl":  "https://youtu.be/LwbXcAY0lhU",
+                                                   "Views":  708948,
+                                                   "ViewsDelta":  1461
+                                               }
+                                           ]
+                      }
+    },
+    {
+        "advertiser_id":  "AR16911333543592853505",
+        "advertiser":  "MAIDIT Co., Ltd.",
+        "ad_creative_id":  "CR07313052918117040129",
+        "format":  "video",
+        "link":  "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency\u0026obfuscatedCustomerId=7730400653\u0026creativeId=807033608771\u0026uiFeatures=12,54\u0026adGroupId=196326594175\u0026versionId=5\u0026assets=%3DH4sIAAAAAAAAAOMy5-LkaH3x-8lBTgEmIPPp_1XnVnIJsAGZCw8t_gJk8gCZh2_sAolqApmTzx3_CmQyAwDGaRQxOQAAAA\u0026sig=ACiVB_xxp9-XD0Da-lWSlKp7Zco8G-31pg\u0026htmlParentId=fletch-render-17643931425003481620\u0026responseCallback=fletchCallback17643931425003481620",
+        "total_days_shown":  20,
+        "first_shown":  1777432613,
+        "last_shown":  1779029912,
+        "details_link":  "https://adstransparency.google.com/advertiser/AR16911333543592853505/creative/CR07313052918117040129?region=anywhere",
+        "serpapi_details_link":  "https://serpapi.com/search.json?advertiser_id=AR16911333543592853505\u0026creative_id=CR07313052918117040129\u0026engine=google_ads_transparency_center_ad_details",
+        "FirstShown":  "\/Date(1777432613000)\/",
+        "LastShown":  "\/Date(1779029912000)\/",
+        "AdDetails":  {
+                          "search_metadata":  {
+                                                  "id":  "6a1d96a823df78e1d9f1e57e",
+                                                  "status":  "Success",
+                                                  "json_endpoint":  "https://serpapi.com/searches/rFPEn6v-ddrtSUWzIRnR5A/6a1d96a823df78e1d9f1e57e.json",
+                                                  "created_at":  "2026-06-01 14:26:48 UTC",
+                                                  "processed_at":  "2026-06-01 14:26:48 UTC",
+                                                  "google_ads_transparency_center_ad_details_url":  "https://adstransparency.google.com/advertiser/AR16911333543592853505/creative/CR07313052918117040129?region=anywhere",
+                                                  "raw_html_file":  "https://serpapi.com/searches/rFPEn6v-ddrtSUWzIRnR5A/6a1d96a823df78e1d9f1e57e.html",
+                                                  "prettify_html_file":  "https://serpapi.com/searches/rFPEn6v-ddrtSUWzIRnR5A/6a1d96a823df78e1d9f1e57e.prettify",
+                                                  "total_time_taken":  3.33
+                                              },
+                          "search_parameters":  {
+                                                    "engine":  "google_ads_transparency_center_ad_details",
+                                                    "advertiser_id":  "AR16911333543592853505",
+                                                    "creative_id":  "CR07313052918117040129"
+                                                },
+                          "search_information":  {
+                                                     "format":  "video",
+                                                     "last_shown":  1779029912,
+                                                     "region_name":  "anywhere",
+                                                     "more_ads_by_advertiser":  "https://adstransparency.google.com/advertiser/AR16911333543592853505",
+                                                     "ad_funded_by":  "MAIDIT Co., Ltd.",
+                                                     "regions":  [
+                                                                     {
+                                                                         "region":  2484,
+                                                                         "region_name":  "Mexico",
+                                                                         "last_shown":  20260517
+                                                                     }
+                                                                 ]
+                                                 },
+                          "ad_creatives":  [
+                                               {
+                                                   "video_link":  "https://rr2---sn-4pgnuapbiu-5acz.googlevideo.com/videoplayback?expire=1780352809\u0026ei=qZYdasmWMamO1dUPz9KoqQs\u0026ip=64.135.139.131\u0026id=2f06d77006349615\u0026itag=22\u0026source=youtube\u0026requiressl=yes\u0026xpc=Eghovf3BOnoBAQ==\u0026cps=32\u0026met=1780324009,\u0026mh=kM\u0026mm=31\u0026mn=sn-4pgnuapbiu-5acz\u0026ms=au\u0026mv=m\u0026mvi=2\u0026pl=21\u0026rms=au,au\u0026susc=daps\u0026obr=googlesyndication.com\u0026ctier=L\u0026mime=video/mp4\u0026vprv=1\u0026rqh=1\u0026dur=245.504\u0026lmt=1779316320920963\u0026mt=1780323686\u0026txp=4532534\u0026sparams=expire,ei,ip,id,itag,source,requiressl,xpc,susc,obr,ctier,mime,vprv,rqh,dur,lmt\u0026sig=AHEqNM4wRgIhAPni6SlZnLpUzO_BIBtQcOxXzx3H0rcyLf1DtDBVs-A5AiEA2Qf5hdWj17wGSVDghfwCnn3pXVIf0HfkSC9XOHf7kho=\u0026lsparams=cps,met,mh,mm,mn,ms,mv,mvi,pl,rms\u0026lsig=APaTxxMwRgIhAMwCTAwEiCMfvis1M6wwMofvbetcW-5i5kiQweKlk-6rAiEAhCrURtZlg6mdWdI_rkwaokqHUe34nPTOMb1XedVAN0U=",
+                                                   "video_duration":  "00:04:05",
+                                                   "VideoId":  "LwbXcAY0lhU",
+                                                   "VideoTitle":  "BAND-MAID / SUPER SUNSHINE (Official Live Video)　高橋酒造株式会社「白岳しろ」CMソング",
+                                                   "VideoUrl":  "https://youtu.be/LwbXcAY0lhU",
+                                                   "Views":  708948,
+                                                   "ViewsDelta":  1461
+                                               },
+                                               {
+                                                   "video_link":  "https://www.youtube.com/embed/LwbXcAY0lhU",
+                                                   "video_duration":  "4:06",
+                                                   "headline":  "BAND-MAID New Live Video",
+                                                   "snippet":  "New Live Video",
+                                                   "visible_link":  "youtube.com/@BANDMAID",
+                                                   "link":  "https://www.youtube.com/@BANDMAID",
+                                                   "height":  400,
+                                                   "width":  400,
+                                                   "channel_name":  "BAND-MAID",
+                                                   "channel_icon":  "https://yt3.ggpht.com/wMU_jSBre75iBV0tnm_NyhEvb9IL1P7gjMl8TpEs6zIPvxiKOlZyUM1bpZblKExa0z22wfN1C6g=s88-c-k-c0x00ffffff-no-rj",
+                                                   "extensions":  [
+                                                                      "Hot"
+                                                                  ],
+                                                   "VideoId":  "LwbXcAY0lhU",
+                                                   "VideoTitle":  "BAND-MAID / SUPER SUNSHINE (Official Live Video)　高橋酒造株式会社「白岳しろ」CMソング",
+                                                   "VideoUrl":  "https://youtu.be/LwbXcAY0lhU",
+                                                   "Views":  708948,
+                                                   "ViewsDelta":  1461
+                                               }
+                                           ]
+                      }
+    },
+    {
+        "advertiser_id":  "AR16911333543592853505",
+        "advertiser":  "MAIDIT Co., Ltd.",
+        "ad_creative_id":  "CR07834783005246750721",
+        "format":  "video",
+        "link":  "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency\u0026obfuscatedCustomerId=7730400653\u0026creativeId=803784249577\u0026uiFeatures=12,54\u0026adGroupId=196073626218\u0026assets=%3DH4sIAAAAAAAAAONS5OLkaH3x-8lBTgEmIHPN82s9nVwCPEDmlsXdfd1cAswA2tuHISMAAAA\u0026sig=ACiVB_x2wlrUqXaTEfncA0uELfWhYwgX4w\u0026htmlParentId=fletch-render-877983623680336538\u0026responseCallback=fletchCallback877983623680336538",
+        "total_days_shown":  10,
+        "first_shown":  1775298507,
+        "last_shown":  1776092387,
+        "details_link":  "https://adstransparency.google.com/advertiser/AR16911333543592853505/creative/CR07834783005246750721?region=anywhere",
+        "serpapi_details_link":  "https://serpapi.com/search.json?advertiser_id=AR16911333543592853505\u0026creative_id=CR07834783005246750721\u0026engine=google_ads_transparency_center_ad_details",
+        "FirstShown":  "\/Date(1775298507000)\/",
+        "LastShown":  "\/Date(1776092387000)\/",
+        "AdDetails":  {
+                          "search_metadata":  {
+                                                  "id":  "6a1d96ac0a91567d5db7de2c",
+                                                  "status":  "Success",
+                                                  "json_endpoint":  "https://serpapi.com/searches/Ta5mhwoL75DszVLzvpMuaA/6a1d96ac0a91567d5db7de2c.json",
+                                                  "created_at":  "2026-06-01 14:26:52 UTC",
+                                                  "processed_at":  "2026-06-01 14:26:52 UTC",
+                                                  "google_ads_transparency_center_ad_details_url":  "https://adstransparency.google.com/advertiser/AR16911333543592853505/creative/CR07834783005246750721?region=anywhere",
+                                                  "raw_html_file":  "https://serpapi.com/searches/Ta5mhwoL75DszVLzvpMuaA/6a1d96ac0a91567d5db7de2c.html",
+                                                  "prettify_html_file":  "https://serpapi.com/searches/Ta5mhwoL75DszVLzvpMuaA/6a1d96ac0a91567d5db7de2c.prettify",
+                                                  "total_time_taken":  2.46
+                                              },
+                          "search_parameters":  {
+                                                    "engine":  "google_ads_transparency_center_ad_details",
+                                                    "advertiser_id":  "AR16911333543592853505",
+                                                    "creative_id":  "CR07834783005246750721"
+                                                },
+                          "search_information":  {
+                                                     "format":  "video",
+                                                     "last_shown":  1776092387,
+                                                     "region_name":  "anywhere",
+                                                     "more_ads_by_advertiser":  "https://adstransparency.google.com/advertiser/AR16911333543592853505",
+                                                     "ad_funded_by":  "MAIDIT Co., Ltd.",
+                                                     "regions":  [
+                                                                     {
+                                                                         "region":  2250,
+                                                                         "region_name":  "France",
+                                                                         "first_shown":  20260404,
+                                                                         "last_shown":  20260413
+                                                                     },
+                                                                     {
+                                                                         "region":  2840,
+                                                                         "region_name":  "United States",
+                                                                         "last_shown":  20260413
+                                                                     },
+                                                                     {
+                                                                         "region":  2826,
+                                                                         "region_name":  "United Kingdom",
+                                                                         "last_shown":  20260413
+                                                                     },
+                                                                     {
+                                                                         "region":  2484,
+                                                                         "region_name":  "Mexico",
+                                                                         "last_shown":  20260413
+                                                                     },
+                                                                     {
+                                                                         "region":  2276,
+                                                                         "region_name":  "Germany",
+                                                                         "first_shown":  20260404,
+                                                                         "last_shown":  20260413
+                                                                     },
+                                                                     {
+                                                                         "region":  2392,
+                                                                         "region_name":  "Japan",
+                                                                         "last_shown":  20260413
+                                                                     },
+                                                                     {
+                                                                         "region":  2158,
+                                                                         "region_name":  "Taiwan",
+                                                                         "last_shown":  20260413
+                                                                     }
+                                                                 ]
+                                                 },
+                          "ad_creatives":  [
+                                               {
+                                                   "video_link":  "https://rr1---sn-qja5mc-5h.googlevideo.com/videoplayback?expire=1780352813\u0026ei=rZYdapeDNumxn88PiNytsAY\u0026ip=173.40.98.90\u0026id=c93010e5d0a9ba23\u0026itag=22\u0026source=youtube\u0026requiressl=yes\u0026xpc=Eghovf3BOnoBAQ==\u0026cps=244\u0026met=1780324013,\u0026mh=fV\u0026mm=31\u0026mn=sn-qja5mc-5h\u0026ms=au\u0026mv=m\u0026mvi=1\u0026pl=20\u0026rms=au,au\u0026susc=daps\u0026obr=googlesyndication.com\u0026ctier=L\u0026mime=video/mp4\u0026vprv=1\u0026rqh=1\u0026dur=274.506\u0026lmt=1776020779706118\u0026mt=1780323686\u0026txp=4532534\u0026sparams=expire,ei,ip,id,itag,source,requiressl,xpc,susc,obr,ctier,mime,vprv,rqh,dur,lmt\u0026sig=AHEqNM4wRAIgKkLATiN2dFU5I13wqwwdTGj0-huwtRcz6TF1EWZ_3ZMCIDGbenazf7gHtAiRvfHcZgGyx5fAEzQ7KKqKdG_4xw2T\u0026lsparams=cps,met,mh,mm,mn,ms,mv,mvi,pl,rms\u0026lsig=APaTxxMwRgIhAJ7LskVwfreBdpFePpqK9n2hh5UyKugjN7bTt2EsaKcBAiEAsupAtU6OQLxU1mCBboyuVk_cIPwDzVIu-9whIeIV4Gw=",
+                                                   "video_duration":  "00:04:34",
+                                                   "VideoId":  "yTAQ5dCpuiM",
+                                                   "VideoTitle":  "BAND-MAID / Dilly-Dally (Official Live Video)",
+                                                   "VideoUrl":  "https://youtu.be/yTAQ5dCpuiM",
+                                                   "Views":  1267107,
+                                                   "ViewsDelta":  1167
+                                               },
+                                               {
+                                                   "video_link":  "https://www.youtube.com/embed/yTAQ5dCpuiM",
+                                                   "video_duration":  "4:35",
+                                                   "headline":  "BAND-MAID New Live Video",
+                                                   "snippet":  "New Live Video Dilly-Dally",
+                                                   "visible_link":  "youtube.com",
+                                                   "link":  "https://www.youtube.com/watch?v=yTAQ5dCpuiM",
+                                                   "height":  400,
+                                                   "width":  400,
+                                                   "channel_name":  "BAND-MAID",
+                                                   "channel_icon":  "https://yt3.ggpht.com/wMU_jSBre75iBV0tnm_NyhEvb9IL1P7gjMl8TpEs6zIPvxiKOlZyUM1bpZblKExa0z22wfN1C6g=s88-c-k-c0x00ffffff-no-rj",
+                                                   "extensions":  [
+                                                                      "Hot"
+                                                                  ],
+                                                   "VideoId":  "yTAQ5dCpuiM",
+                                                   "VideoTitle":  "BAND-MAID / Dilly-Dally (Official Live Video)",
+                                                   "VideoUrl":  "https://youtu.be/yTAQ5dCpuiM",
+                                                   "Views":  1267107,
+                                                   "ViewsDelta":  1167
+                                               }
+                                           ]
+                      }
+    },
+    {
+        "advertiser_id":  "AR16911333543592853505",
+        "advertiser":  "MAIDIT Co., Ltd.",
+        "ad_creative_id":  "CR11770929079568564225",
+        "format":  "video",
+        "link":  "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency\u0026obfuscatedCustomerId=7730400653\u0026creativeId=803602646553\u0026uiFeatures=12,54\u0026adGroupId=193745404303\u0026assets=%3DH4sIAAAAAAAAAOMy5-LkOPb7876DnAI8QGbTi99PgEwmIPP_czCTAyHKDGS2QpiMADbvbCM5AAAA\u0026sig=ACiVB_z918xqOw1gKqDpQZo6U_dWDbdhxw\u0026htmlParentId=fletch-render-9986197175771404902\u0026responseCallback=fletchCallback9986197175771404902",
+        "total_days_shown":  2,
+        "first_shown":  1775208888,
+        "last_shown":  1775289196,
+        "details_link":  "https://adstransparency.google.com/advertiser/AR16911333543592853505/creative/CR11770929079568564225?region=anywhere",
+        "serpapi_details_link":  "https://serpapi.com/search.json?advertiser_id=AR16911333543592853505\u0026creative_id=CR11770929079568564225\u0026engine=google_ads_transparency_center_ad_details",
+        "FirstShown":  "\/Date(1775208888000)\/",
+        "LastShown":  "\/Date(1775289196000)\/",
+        "AdDetails":  {
+                          "search_metadata":  {
+                                                  "id":  "6a1d96af8c60cadfd4c4a6b8",
+                                                  "status":  "Success",
+                                                  "json_endpoint":  "https://serpapi.com/searches/gJn9KJVO1juPb5H4taDw3w/6a1d96af8c60cadfd4c4a6b8.json",
+                                                  "created_at":  "2026-06-01 14:26:55 UTC",
+                                                  "processed_at":  "2026-06-01 14:26:55 UTC",
+                                                  "google_ads_transparency_center_ad_details_url":  "https://adstransparency.google.com/advertiser/AR16911333543592853505/creative/CR11770929079568564225?region=anywhere",
+                                                  "raw_html_file":  "https://serpapi.com/searches/gJn9KJVO1juPb5H4taDw3w/6a1d96af8c60cadfd4c4a6b8.html",
+                                                  "prettify_html_file":  "https://serpapi.com/searches/gJn9KJVO1juPb5H4taDw3w/6a1d96af8c60cadfd4c4a6b8.prettify",
+                                                  "total_time_taken":  4.08
+                                              },
+                          "search_parameters":  {
+                                                    "engine":  "google_ads_transparency_center_ad_details",
+                                                    "advertiser_id":  "AR16911333543592853505",
+                                                    "creative_id":  "CR11770929079568564225"
+                                                },
+                          "search_information":  {
+                                                     "format":  "video",
+                                                     "last_shown":  1775289196,
+                                                     "region_name":  "anywhere",
+                                                     "more_ads_by_advertiser":  "https://adstransparency.google.com/advertiser/AR16911333543592853505",
+                                                     "ad_funded_by":  "MAIDIT Co., Ltd.",
+                                                     "regions":  [
+                                                                     {
+                                                                         "region":  2276,
+                                                                         "region_name":  "Germany",
+                                                                         "first_shown":  20260403,
+                                                                         "last_shown":  20260404
+                                                                     },
+                                                                     {
+                                                                         "region":  2484,
+                                                                         "region_name":  "Mexico",
+                                                                         "last_shown":  20260404
+                                                                     },
+                                                                     {
+                                                                         "region":  2840,
+                                                                         "region_name":  "United States",
+                                                                         "last_shown":  20260404
+                                                                     },
+                                                                     {
+                                                                         "region":  2250,
+                                                                         "region_name":  "France",
+                                                                         "first_shown":  20260403,
+                                                                         "last_shown":  20260404
+                                                                     },
+                                                                     {
+                                                                         "region":  2392,
+                                                                         "region_name":  "Japan",
+                                                                         "last_shown":  20260404
+                                                                     }
+                                                                 ]
+                                                 },
+                          "ad_creatives":  [
+                                               {
+                                                   "video_link":  "https://rr1---sn-h5mmnv0ui-hxhs.googlevideo.com/videoplayback?expire=1780352819\u0026ei=spYdaublOaXbut0PgKbgyAY\u0026ip=170.253.159.21\u0026id=a3f35343b4fb1c0d\u0026itag=22\u0026source=youtube\u0026requiressl=yes\u0026xpc=Eghovf3BOnoBAQ==\u0026cps=92\u0026met=1780324018,\u0026mh=4d\u0026mm=31\u0026mn=sn-h5mmnv0ui-hxhs\u0026ms=au\u0026mv=m\u0026mvi=1\u0026pl=24\u0026rms=au,au\u0026susc=daps\u0026obr=googlesyndication.com\u0026ctier=L\u0026mime=video/mp4\u0026vprv=1\u0026rqh=1\u0026dur=32.252\u0026lmt=1769802243505176\u0026mt=1780323686\u0026txp=4402234\u0026sparams=expire,ei,ip,id,itag,source,requiressl,xpc,susc,obr,ctier,mime,vprv,rqh,dur,lmt\u0026sig=AHEqNM4wRAIgGMDOgKmINBesFvmzmh3W7xeGSHRupOHTkmMCBmnPYIcCIHzO9GmFn4YBeZ4OCgPtql0P7eHkYFlzSHKSjpjuLdm4\u0026lsparams=cps,met,mh,mm,mn,ms,mv,mvi,pl,rms\u0026lsig=APaTxxMwRgIhAOTGx_FW5bjjZu2kgpqz8zOBkFtabwdQ_5UIBVAA_4PIAiEAkYegjW2EUcFCPAsjKHPmzdGCdO6fbVlAIYHCs3GtFfQ=",
+                                                   "video_duration":  "00:00:32",
+                                                   "headline":  "BAND-MAID New Live Video",
+                                                   "call_to_action":  "Watch now",
+                                                   "snippet":  "youtube.com/@bandmaid",
+                                                   "visible_link":  "youtube.com/@bandmaid",
+                                                   "link":  "https://www.youtube.com/@BANDMAID",
+                                                   "VideoId":  "o_NTQ7T7HA0",
+                                                   "VideoTitle":  "BAND-MAID / Present Perfect (Official Live Teaser 1)",
+                                                   "VideoUrl":  "https://youtu.be/o_NTQ7T7HA0",
+                                                   "Views":  547398,
+                                                   "ViewsDelta":  19
+                                               },
+                                               {
+                                                   "video_link":  "https://rr4---sn-jvhj5nu-2iaz.googlevideo.com/videoplayback?expire=1780352818\u0026ei=spYdarTWH5KEibEPqYnx2Ao\u0026ip=76.117.75.70\u0026id=d94f403f6d635ee9\u0026itag=22\u0026source=youtube\u0026requiressl=yes\u0026xpc=Eghovf3BOnoBAQ==\u0026met=1780324018,\u0026mh=UK\u0026mm=31\u0026mn=sn-jvhj5nu-2iaz\u0026ms=au\u0026mv=m\u0026mvi=4\u0026pl=24\u0026rms=au,au\u0026susc=daps\u0026obr=googlesyndication.com\u0026ctier=L\u0026mime=video/mp4\u0026vprv=1\u0026rqh=1\u0026dur=273.531\u0026lmt=1772150291555454\u0026mt=1780323686\u0026txp=4532534\u0026sparams=expire,ei,ip,id,itag,source,requiressl,xpc,susc,obr,ctier,mime,vprv,rqh,dur,lmt\u0026sig=AHEqNM4wRAIgDG4ByxJTN_i-ebOiOQ3aHA1n5HKcQpp2eeLbI6R5xocCID92MoPiQiQ2YLUfNf6d2R-BL9O-Tz1p2TWlw947_3Le\u0026lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms\u0026lsig=APaTxxMwRgIhAPwJWPqJXgowI1LfKVF-pO8bFYb1mMIhg61HhjWLewXRAiEAqnpMYujQipye6xy2hmZ-PjUnEKDN7tqchQL8WeCuExI=",
+                                                   "video_duration":  "00:04:33",
+                                                   "headline":  "BAND-MAID New Live Video",
+                                                   "call_to_action":  "Watch now",
+                                                   "snippet":  "youtube.com/@bandmaid",
+                                                   "visible_link":  "youtube.com/@bandmaid",
+                                                   "link":  "https://www.youtube.com/@BANDMAID",
+                                                   "VideoId":  "2U9AP21jXuk",
+                                                   "VideoTitle":  "BAND-MAID / Present Perfect (Official Live Video)",
+                                                   "VideoUrl":  "https://youtu.be/2U9AP21jXuk",
+                                                   "Views":  575010,
+                                                   "ViewsDelta":  401
+                                               },
+                                               {
+                                                   "video_link":  "https://www.youtube.com/embed/o_NTQ7T7HA0",
+                                                   "headline":  "BAND-MAID New Live Video \"Present Perfect\"",
+                                                   "snippet":  "BAND-MAID New Live Video \"Present Perfect\"",
+                                                   "visible_link":  "youtube.com/@bandmaid",
+                                                   "link":  "https://www.youtube.com/@BANDMAID",
+                                                   "height":  889,
+                                                   "width":  400,
+                                                   "channel_name":  "BAND-MAID",
+                                                   "channel_icon":  "https://yt3.ggpht.com/wMU_jSBre75iBV0tnm_NyhEvb9IL1P7gjMl8TpEs6zIPvxiKOlZyUM1bpZblKExa0z22wfN1C6g=s88-c-k-c0x00ffffff-no-rj",
+                                                   "extensions":  [
+                                                                      "Hot"
+                                                                  ],
+                                                   "VideoId":  "o_NTQ7T7HA0",
+                                                   "VideoTitle":  "BAND-MAID / Present Perfect (Official Live Teaser 1)",
+                                                   "VideoUrl":  "https://youtu.be/o_NTQ7T7HA0",
+                                                   "Views":  547398,
+                                                   "ViewsDelta":  19
+                                               },
+                                               {
+                                                   "video_link":  "https://www.youtube.com/embed/2U9AP21jXuk",
+                                                   "video_duration":  "4:34",
+                                                   "headline":  "BAND-MAID New Live Video \"Present Perfect\"",
+                                                   "snippet":  "BAND-MAID New Live Video \"Present Perfect\"",
+                                                   "visible_link":  "youtube.com/@bandmaid",
+                                                   "link":  "https://www.youtube.com/@BANDMAID",
+                                                   "height":  400,
+                                                   "width":  400,
+                                                   "channel_name":  "BAND-MAID",
+                                                   "channel_icon":  "https://yt3.ggpht.com/wMU_jSBre75iBV0tnm_NyhEvb9IL1P7gjMl8TpEs6zIPvxiKOlZyUM1bpZblKExa0z22wfN1C6g=s88-c-k-c0x00ffffff-no-rj",
+                                                   "extensions":  [
+                                                                      "Hot"
+                                                                  ],
+                                                   "VideoId":  "2U9AP21jXuk",
+                                                   "VideoTitle":  "BAND-MAID / Present Perfect (Official Live Video)",
+                                                   "VideoUrl":  "https://youtu.be/2U9AP21jXuk",
+                                                   "Views":  575010,
+                                                   "ViewsDelta":  401
+                                               }
+                                           ]
+                      }
+    },
+    {
+        "advertiser_id":  "AR16911333543592853505",
+        "advertiser":  "MAIDIT Co., Ltd.",
+        "ad_creative_id":  "CR10788434763485020161",
+        "format":  "video",
+        "link":  "https://displayads-formats.googleusercontent.com/ads/preview/content.js?client=ads-integrity-transparency\u0026obfuscatedCustomerId=7730400653\u0026creativeId=795099290119\u0026uiFeatures=12,54\u0026adGroupId=191776976105\u0026versionId=5\u0026assets=%3DH4sIAAAAAAAAAOMy5-LkOPb7876DnAI8QGbri99PgExGILMJwmQGMv8_BzM5EKJMAGb5XbY5AAAA\u0026sig=ACiVB_wF8VCpT9Pw4EpjgfCeDXkzX3vPqA\u0026htmlParentId=fletch-render-7995720903489945193\u0026responseCallback=fletchCallback7995720903489945193",
+        "total_days_shown":  17,
+        "first_shown":  1769823247,
+        "last_shown":  1771162690,
+        "details_link":  "https://adstransparency.google.com/advertiser/AR16911333543592853505/creative/CR10788434763485020161?region=anywhere",
+        "serpapi_details_link":  "https://serpapi.com/search.json?advertiser_id=AR16911333543592853505\u0026creative_id=CR10788434763485020161\u0026engine=google_ads_transparency_center_ad_details",
+        "FirstShown":  "\/Date(1769823247000)\/",
+        "LastShown":  "\/Date(1771162690000)\/",
+        "AdDetails":  {
+                          "search_metadata":  {
+                                                  "id":  "6a1d96b3aa0a88bb7cf33e0a",
+                                                  "status":  "Success",
+                                                  "json_endpoint":  "https://serpapi.com/searches/GE181wFCcUYs-vMty7H8aA/6a1d96b3aa0a88bb7cf33e0a.json",
+                                                  "created_at":  "2026-06-01 14:26:59 UTC",
+                                                  "processed_at":  "2026-06-01 14:26:59 UTC",
+                                                  "google_ads_transparency_center_ad_details_url":  "https://adstransparency.google.com/advertiser/AR16911333543592853505/creative/CR10788434763485020161?region=anywhere",
+                                                  "raw_html_file":  "https://serpapi.com/searches/GE181wFCcUYs-vMty7H8aA/6a1d96b3aa0a88bb7cf33e0a.html",
+                                                  "prettify_html_file":  "https://serpapi.com/searches/GE181wFCcUYs-vMty7H8aA/6a1d96b3aa0a88bb7cf33e0a.prettify",
+                                                  "total_time_taken":  4.22
+                                              },
+                          "search_parameters":  {
+                                                    "engine":  "google_ads_transparency_center_ad_details",
+                                                    "advertiser_id":  "AR16911333543592853505",
+                                                    "creative_id":  "CR10788434763485020161"
+                                                },
+                          "search_information":  {
+                                                     "format":  "video",
+                                                     "last_shown":  1771162690,
+                                                     "region_name":  "anywhere",
+                                                     "more_ads_by_advertiser":  "https://adstransparency.google.com/advertiser/AR16911333543592853505",
+                                                     "ad_funded_by":  "MAIDIT Co., Ltd.",
+                                                     "regions":  [
+                                                                     {
+                                                                         "region":  2218,
+                                                                         "region_name":  "Ecuador",
+                                                                         "last_shown":  20260201
+                                                                     },
+                                                                     {
+                                                                         "region":  2704,
+                                                                         "region_name":  "Vietnam",
+                                                                         "last_shown":  20260201
+                                                                     },
+                                                                     {
+                                                                         "region":  2586,
+                                                                         "region_name":  "Pakistan",
+                                                                         "last_shown":  20260201
+                                                                     },
+                                                                     {
+                                                                         "region":  2356,
+                                                                         "region_name":  "India",
+                                                                         "last_shown":  20260201
+                                                                     },
+                                                                     {
+                                                                         "region":  2360,
+                                                                         "region_name":  "Indonesia",
+                                                                         "last_shown":  20260201
+                                                                     },
+                                                                     {
+                                                                         "region":  2724,
+                                                                         "region_name":  "Spain",
+                                                                         "first_shown":  20260130,
+                                                                         "last_shown":  20260201
+                                                                     },
+                                                                     {
+                                                                         "region":  2380,
+                                                                         "region_name":  "Italy",
+                                                                         "first_shown":  20260130,
+                                                                         "last_shown":  20260201
+                                                                     },
+                                                                     {
+                                                                         "region":  2703,
+                                                                         "region_name":  "Slovakia",
+                                                                         "first_shown":  20260131,
+                                                                         "last_shown":  20260201
+                                                                     },
+                                                                     {
+                                                                         "region":  2616,
+                                                                         "region_name":  "Poland",
+                                                                         "first_shown":  20260130,
+                                                                         "last_shown":  20260201
+                                                                     },
+                                                                     {
+                                                                         "region":  2458,
+                                                                         "region_name":  "Malaysia",
+                                                                         "last_shown":  20260201
+                                                                     },
+                                                                     {
+                                                                         "region":  2100,
+                                                                         "region_name":  "Bulgaria",
+                                                                         "first_shown":  20260131,
+                                                                         "last_shown":  20260201
+                                                                     },
+                                                                     {
+                                                                         "region":  2620,
+                                                                         "region_name":  "Portugal",
+                                                                         "first_shown":  20260131,
+                                                                         "last_shown":  20260201
+                                                                     },
+                                                                     {
+                                                                         "region":  2250,
+                                                                         "region_name":  "France",
+                                                                         "first_shown":  20260131,
+                                                                         "last_shown":  20260215,
+                                                                         "times_shown":  "15000 - 20000"
+                                                                     },
+                                                                     {
+                                                                         "region":  2158,
+                                                                         "region_name":  "Taiwan",
+                                                                         "last_shown":  20260201
+                                                                     },
+                                                                     {
+                                                                         "region":  2840,
+                                                                         "region_name":  "United States",
+                                                                         "last_shown":  20260215
+                                                                     },
+                                                                     {
+                                                                         "region":  2050,
+                                                                         "region_name":  "Bangladesh",
+                                                                         "last_shown":  20260201
+                                                                     },
+                                                                     {
+                                                                         "region":  2076,
+                                                                         "region_name":  "Brazil",
+                                                                         "last_shown":  20260201
+                                                                     },
+                                                                     {
+                                                                         "region":  2344,
+                                                                         "region_name":  "Hong Kong",
+                                                                         "last_shown":  20260215
+                                                                     },
+                                                                     {
+                                                                         "region":  2348,
+                                                                         "region_name":  "Hungary",
+                                                                         "first_shown":  20260130,
+                                                                         "last_shown":  20260201
+                                                                     },
+                                                                     {
+                                                                         "region":  2608,
+                                                                         "region_name":  "Philippines",
+                                                                         "last_shown":  20260201
+                                                                     },
+                                                                     {
+                                                                         "region":  2642,
+                                                                         "region_name":  "Romania",
+                                                                         "first_shown":  20260131,
+                                                                         "last_shown":  20260201
+                                                                     },
+                                                                     {
+                                                                         "region":  2484,
+                                                                         "region_name":  "Mexico",
+                                                                         "last_shown":  20260215
+                                                                     },
+                                                                     {
+                                                                         "region":  2276,
+                                                                         "region_name":  "Germany",
+                                                                         "first_shown":  20260131,
+                                                                         "last_shown":  20260215,
+                                                                         "times_shown":  "10000 - 15000"
+                                                                     },
+                                                                     {
+                                                                         "region":  2170,
+                                                                         "region_name":  "Colombia",
+                                                                         "last_shown":  20260201
+                                                                     },
+                                                                     {
+                                                                         "region":  2300,
+                                                                         "region_name":  "Greece",
+                                                                         "first_shown":  20260131,
+                                                                         "last_shown":  20260201
+                                                                     },
+                                                                     {
+                                                                         "region":  2068,
+                                                                         "region_name":  "Bolivia",
+                                                                         "last_shown":  20260201
+                                                                     },
+                                                                     {
+                                                                         "region":  2826,
+                                                                         "region_name":  "United Kingdom",
+                                                                         "last_shown":  20260215
+                                                                     },
+                                                                     {
+                                                                         "region":  2203,
+                                                                         "region_name":  "Czechia",
+                                                                         "first_shown":  20260131,
+                                                                         "last_shown":  20260201
+                                                                     },
+                                                                     {
+                                                                         "region":  2764,
+                                                                         "region_name":  "Thailand",
+                                                                         "last_shown":  20260201
+                                                                     },
+                                                                     {
+                                                                         "region":  2604,
+                                                                         "region_name":  "Peru",
+                                                                         "last_shown":  20260201
+                                                                     },
+                                                                     {
+                                                                         "region":  2392,
+                                                                         "region_name":  "Japan",
+                                                                         "last_shown":  20260215
+                                                                     }
+                                                                 ]
+                                                 },
+                          "ad_creatives":  [
+                                               {
+                                                   "video_link":  "https://rr6---sn-8xgp1vo-ab5r.googlevideo.com/videoplayback?expire=1780352821\u0026ei=tZYdarI4rMTC1A_FrsK4Aw\u0026ip=2600:4041:5e1e:3900:c16a:4c6c:a638:903a\u0026id=a3f35343b4fb1c0d\u0026itag=22\u0026source=youtube\u0026requiressl=yes\u0026xpc=Eghovf3BOnoBAQ==\u0026cps=89\u0026met=1780324021,\u0026mh=4d\u0026mm=31\u0026mn=sn-8xgp1vo-ab5r\u0026ms=au\u0026mv=m\u0026mvi=6\u0026pl=39\u0026rms=au,au\u0026susc=daps\u0026obr=googlesyndication.com\u0026ctier=L\u0026mime=video/mp4\u0026vprv=1\u0026rqh=1\u0026dur=32.252\u0026lmt=1769802243505176\u0026mt=1780323686\u0026txp=4402234\u0026sparams=expire,ei,ip,id,itag,source,requiressl,xpc,susc,obr,ctier,mime,vprv,rqh,dur,lmt\u0026sig=AHEqNM4wRQIhAM7SE0nPIXfrQeKTfBYFfZVwj4BsKqs1oZX-2dmUO0FCAiBXIc95viJnSULuPHMLftY1McEZe3nLxFQepSDJKAKAWA==\u0026lsparams=cps,met,mh,mm,mn,ms,mv,mvi,pl,rms\u0026lsig=APaTxxMwRAIgJBYD9iYYt2UygNfkJSvAea64sBwVffkJFpSZmw_j_vcCIEvnaDP7At6aBiT8227yMIE45FAK72sKsEDfG2eXp5-Y",
+                                                   "video_duration":  "00:00:32",
+                                                   "headline":  "BAND-MAID New Live Video",
+                                                   "call_to_action":  "Watch now",
+                                                   "snippet":  "youtube.com/@bandmaid",
+                                                   "visible_link":  "youtube.com/@bandmaid",
+                                                   "link":  "https://www.youtube.com/@BANDMAID",
+                                                   "VideoId":  "o_NTQ7T7HA0",
+                                                   "VideoTitle":  "BAND-MAID / Present Perfect (Official Live Teaser 1)",
+                                                   "VideoUrl":  "https://youtu.be/o_NTQ7T7HA0",
+                                                   "Views":  547398,
+                                                   "ViewsDelta":  19
+                                               },
+                                               {
+                                                   "video_link":  "https://rr2---sn-gjo-vgq6.googlevideo.com/videoplayback?expire=1780352821\u0026ei=tZYdartCpYvU2A_EuuGIBg\u0026ip=168.91.216.32\u0026id=d94f403f6d635ee9\u0026itag=22\u0026source=youtube\u0026requiressl=yes\u0026xpc=Eghovf3BOnoBAQ==\u0026cps=153\u0026met=1780324021,\u0026mh=UK\u0026mm=31\u0026mn=sn-gjo-vgq6\u0026ms=au\u0026mv=m\u0026mvi=2\u0026pl=23\u0026rms=au,au\u0026susc=daps\u0026obr=googlesyndication.com\u0026ctier=L\u0026mime=video/mp4\u0026vprv=1\u0026rqh=1\u0026dur=273.531\u0026lmt=1772150291555454\u0026mt=1780323686\u0026txp=4532534\u0026sparams=expire,ei,ip,id,itag,source,requiressl,xpc,susc,obr,ctier,mime,vprv,rqh,dur,lmt\u0026sig=AHEqNM4wRQIhALJ0dVhAE0rhfecz0vB8S1Z6zlkr1LoIv-Av-ryO7tbaAiAAtZXVCyWj77QYyPLyUMh-jU2wLIci9z24_Fxp9HKuEw==\u0026lsparams=cps,met,mh,mm,mn,ms,mv,mvi,pl,rms\u0026lsig=APaTxxMwRgIhANJJHp4nxSReQ_oWMrINw7r2lNkucY4_t1-oP-MNR4AtAiEAzqJNTiH5dLiKa_SGLmfkmyzVJfbHT_D4dBUm-6_gjs0=",
+                                                   "video_duration":  "00:04:33",
+                                                   "headline":  "BAND-MAID New Live Video",
+                                                   "call_to_action":  "Watch now",
+                                                   "snippet":  "youtube.com/@bandmaid",
+                                                   "visible_link":  "youtube.com/@bandmaid",
+                                                   "link":  "https://www.youtube.com/@BANDMAID",
+                                                   "VideoId":  "2U9AP21jXuk",
+                                                   "VideoTitle":  "BAND-MAID / Present Perfect (Official Live Video)",
+                                                   "VideoUrl":  "https://youtu.be/2U9AP21jXuk",
+                                                   "Views":  575010,
+                                                   "ViewsDelta":  401
+                                               },
+                                               {
+                                                   "video_link":  "https://www.youtube.com/embed/o_NTQ7T7HA0",
+                                                   "headline":  "BAND-MAID New Live Video \"Present Perfect\"",
+                                                   "snippet":  "BAND-MAID New Live Video \"Present Perfect\"",
+                                                   "visible_link":  "youtube.com/@bandmaid",
+                                                   "link":  "https://www.youtube.com/@BANDMAID",
+                                                   "height":  889,
+                                                   "width":  400,
+                                                   "channel_name":  "BAND-MAID",
+                                                   "channel_icon":  "https://yt3.ggpht.com/wMU_jSBre75iBV0tnm_NyhEvb9IL1P7gjMl8TpEs6zIPvxiKOlZyUM1bpZblKExa0z22wfN1C6g=s88-c-k-c0x00ffffff-no-rj",
+                                                   "extensions":  [
+                                                                      "Hot"
+                                                                  ],
+                                                   "VideoId":  "o_NTQ7T7HA0",
+                                                   "VideoTitle":  "BAND-MAID / Present Perfect (Official Live Teaser 1)",
+                                                   "VideoUrl":  "https://youtu.be/o_NTQ7T7HA0",
+                                                   "Views":  547398,
+                                                   "ViewsDelta":  19
+                                               },
+                                               {
+                                                   "video_link":  "https://www.youtube.com/embed/2U9AP21jXuk",
+                                                   "video_duration":  "4:34",
+                                                   "headline":  "BAND-MAID New Live Video \"Present Perfect\"",
+                                                   "snippet":  "BAND-MAID New Live Video \"Present Perfect\"",
+                                                   "visible_link":  "youtube.com/@bandmaid",
+                                                   "link":  "https://www.youtube.com/@BANDMAID",
+                                                   "height":  400,
+                                                   "width":  400,
+                                                   "channel_name":  "BAND-MAID",
+                                                   "channel_icon":  "https://yt3.ggpht.com/wMU_jSBre75iBV0tnm_NyhEvb9IL1P7gjMl8TpEs6zIPvxiKOlZyUM1bpZblKExa0z22wfN1C6g=s88-c-k-c0x00ffffff-no-rj",
+                                                   "extensions":  [
+                                                                      "Hot"
+                                                                  ],
+                                                   "VideoId":  "2U9AP21jXuk",
+                                                   "VideoTitle":  "BAND-MAID / Present Perfect (Official Live Video)",
+                                                   "VideoUrl":  "https://youtu.be/2U9AP21jXuk",
+                                                   "Views":  575010,
+                                                   "ViewsDelta":  401
+                                               }
+                                           ]
+                      }
+    }
+]
