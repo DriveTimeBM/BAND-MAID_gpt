@@ -1,26 +1,14 @@
 ﻿[
     {
-        "Category":  "YouTube AGGREGATE AUDIO stream Milestones",
-        "Item":  "① Mirage ",
-        "Milestone":  "🌦️  aggregate AUDIO streams surpassed **200,000**!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/ytmusic.png"
-    },
-    {
-        "Category":  "YouTube",
-        "Item":  "① Mirage https://youtu.be/UBLKqA51hZs",
-        "Milestone":  "  👀 Surpassed **200,000** views!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.png"
-    },
-    {
-        "Category":  "YouTube",
-        "Item":  "② BAND-MAID / Toi et moi (Official Live Video) https://youtu.be/_NTozqcillo",
-        "Milestone":  "  👀 Surpassed **200,000** views!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.png"
-    },
-    {
         "Category":  "Spotify",
-        "Item":  "① H-G-K ",
-        "Milestone":  "💣 Surpassed **1,600,000** streams!",
+        "Item":  "① Present Perfect ",
+        "Milestone":  "💯 Surpassed **400,000** streams!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.png"
+    },
+    {
+        "Category":  "Total Streams",
+        "Item":  "YouTube Total Streams",
+        "Milestone":  "  👀 Surpassed **292** MILLION views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.png"
     }
 ]
