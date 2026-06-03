@@ -1,7 +1,7 @@
 {
   "MapName": "BAND-MAID Okyuji and MV Map",
   "MapId": "1-hUU-25MYERexy7XrFTF_vi1S9l550Q1",
-  "FetchedAt": "2026-05-10T10:26:40",
+  "FetchedAt": "2026-06-03T19:11:57",
   "Count": 470,
   "Placemarks": [
     {
@@ -153,7 +153,7 @@
       "Name": "Chiba - Makuhari Messe Kokusai Tenjijou Hall 9-11",
       "Dates": [
         "2025-10-25",
-        "2925-10-26"
+        "2025-10-26"
       ],
       "Geometry": {
         "Type": "Point",
@@ -366,10 +366,11 @@
     },
     {
       "Layer": "Okyu-ji in Japan",
-      "Name": "Gamagori - TREASURE05X",
+      "Name": "Gamagouri - TREASURE05X",
       "Dates": [
         "2017-09-02",
-        "2024-09-08"
+        "2024-09-08",
+        "2026-09-05"
       ],
       "Geometry": {
         "Type": "Point",
@@ -5442,7 +5443,7 @@
     {
       "Layer": "Don't Let Me Down MV",
       "Name": "0:21-0:24, 2:13-2:20",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6iR_I5nUws0PLoC3pKGJn2gzv2k4wPBM_T0QT5VXmIE7C16S2QS38KLUAfF_zXqIc_Z_C07NObzP_o6kI2guwRgTekeSDu2pLpHpdmEhRpBJASbEVAnv3kSFLY8a-uDc7wru5gctOqH0EJBDQKIeFN6bX-fcQkadD_pVqG1CZTfCZjMBJpgLf9JB_FwWvtGX_1IsPOqEF0OrDk7rLi8pHKiyJSl515-f18Xa4WD7kvtfdshKsMONS8UMxFpg?fife=s16383\" height=\"200\" width=\"auto\" /> Don't Let Me Down MV",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyG-6oISWag1m4-J-HC-6G16vjZRpk024pmjKUeIMQ7MYSHn26fJgt9Xf4wNculo0lWhSzpiSMWyKhPet4RBc-oYY-WWAwtx_UG6HUDCNn2dZlr5H09Nc3P8VIDywCDFc8sha6V1DP4rcP3kDCJtMluRg0HDjoTfQOOfwJHCUO4KJ5sXN3-GZs7V-raxxdy_AybiiV17Qhk_KzrW1aNGA996io6krhbDbRvkBLqhS_sQ3MS9jMC3xQI3kq4vQ?fife=s16383\" height=\"200\" width=\"auto\" /> Don't Let Me Down MV",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -5459,7 +5460,7 @@
     {
       "Layer": "Don't Let Me Down MV",
       "Name": "0:29-0:30, 3:18-3:23",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6nv37RftPOUktX0Oh3N2VD8Dm7ipGnI8_LTpeCp-C4ak5zpxuDfdKZAM4Y1LoaxVE1s8YySeYd5cmAQ_wacjIHbFhkDU3ZKKVbAKNyR_ApvlaCoJFz3EWSMsRVpK-6_V0bAKA6-x1JM3339G6PpjHpawTnDtvhsaI8V2rMRJoNIluXPnbGFIK2ZjcyDBtVLzkalIti1g_MVUYxyye-RQVgQ5SbtpPii1l7MW8-YIx5D-Yl5F1zOOSyirtQYw?fife=s16383\" height=\"200\" width=\"auto\" /> Don't Let Me Down MV",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzYmGpgQVPgiOt3AT0IK07Yyar255rPOQ_aB4cmlNrDaJntOQILRZonTwrj665TsWYEpDt_cVC9BSVly7v8nOLjBAsQlkM7u1bSUTzVYvlGsrQjGJQAv9hUmGKdeA1JZcd0zVpnbIudM9ZBFVI1SGtHj7l1HC53IaL-ZM-eGpJGE_7ie3dprqhoRtig-J0s-dYrTgzDiE7MThT37m5UdbnDOVCw38btU8ZHfqdn4-RUQ1TZCFrYOeC58zwLRw?fife=s16383\" height=\"200\" width=\"auto\" /> Don't Let Me Down MV",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -5476,7 +5477,7 @@
     {
       "Layer": "Don't Let Me Down MV",
       "Name": "0:31-0:32",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X65Y_Xk_CxwCsm3ne2p7fGF8MjLL9FZPPWTYgzn8pyamdhdXZ1-gRA5-UQ6mvYv9VzElKn-b0_qjMgyrdyfOCICl3diql2q6ypbFS631aX1eYcRnGyuMnEkEG2Lo_BQbjC2sGblS050z-WFvc2CjtnuS_U5WcpUO_i9jjEySsVrp4YZOIMSURo6GaRlUl4ySTJzW4XWRncnNLkDx7vmgm5XKWophPK1sHz99EpBd3_znfIfKZ6Dmw2UEshhIw?fife=s16383\" height=\"200\" width=\"auto\" /> Don't Let Me Down MV",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gw23E3t7gL4jV5JXGHLZaF9piNgDy6eRSVifv_2--SrhCZEKVDkMfiGa-x1srLaEalRn12zLgH3_irv4cx0EqhvX8ffpUd13rAtqJXghnsKb_4vlsvMobj2lY3uOH-RKkJ1MB8rjDlVApWIK9OS4AhimpI-jiqLmgnASF6h24l-2tBySEIb9uEe9zHz_yB99eey0dg8-ovTVKWL10ALexHiX5O8-SJgko2zv7zODGg1Z1EClv8ZT32qBvwOGA?fife=s16383\" height=\"200\" width=\"auto\" /> Don't Let Me Down MV",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -5493,7 +5494,7 @@
     {
       "Layer": "Don't Let Me Down MV",
       "Name": "0:34-0:37",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5MPuQBcKP_p61HhFSCeSlNBF28gW_6maEaOsTETHTie8MaFliEWq1OqSTSIBTpq9tPvYL2a2NlX3La4BjWjUWzq8fEcta_E5eHcNSMsYcU8_Nm4jh1Ejj_wJoIHJtOkORYD9iUryFNAUSb3mMUa_Vy8sS8eJz0IA9ekCMwWlJDCeDjesWlOsNvocQLRnSZMox1Np_YWe0bYGWJz4_yvJmIHM6M8cv32-z3fBzzjGgD7Cd3Tv_npuPAlBEXDA?fife=s16383\" height=\"200\" width=\"auto\" /> Don't Let Me Down MV",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxgBDKzaIw8-FIGXpZymGJZ8K_o4-obroscMGIQsvizefqUyRT2VZHWfroLELLfSai2N6Qp4nWYTN7KaoMXZ0-55w-F8FAEC89Q2t2CBd-vexsHoFMgxpUyiUv_XNhLo1fHnRLddl_zUcN30h8YFE3EzVuGaU8BDzOPIklIr52XXnshzTWjSo1bKZhiW1onascCKdTdIgT9oFwVD4YpwOxIT8kE0Xk0PIfL2lNDOc-8BfF8zqgcgKzeVY0K9g?fife=s16383\" height=\"200\" width=\"auto\" /> Don't Let Me Down MV",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -5510,7 +5511,7 @@
     {
       "Layer": "Don't Let Me Down MV",
       "Name": "0:39-0:42",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5H51MvxWeTtPBBRI4dviSpbLFFuXlnkdOVrfev3ccjgXdJFRj21FBDTKjww2DUxbSQaoBfka6g7bE4MacCiVKbHugW9vt0_qwm4ULq8JjHYsuSEpWihu3W2iVGox2MDZ7XOwmUYUCv1WSP2bKYcGrtUwGlIzCO7WCTkdeAPdQXvEVeS9hetnmiK4FcZsT6HK5sOnxxurLJYFDNIobVG5m7QwqUNV6Z0w3BAp_nHMHHecxQWiftBLojNVbB2A?fife=s16383\" height=\"200\" width=\"auto\" /> Don't Let Me Down MV",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxYehjI4vc2TXSg0wFG-T9gtOdfZAYDQNk713ka8UyqOBUV6qAxzSccNw2OJjXurogU-i5q1YOlvROZDztRfojmtpVapVrnVBYVVbBsSFXL5OQRhFKBiCzXDaUqvs29alMHOysM23mJVuUaJuhDJr5BJp8ChZrECJ0yl1ObPL6BLwsxZNE8bqJZUh8p8CKkLQPh6fwDP8W3-h9P078qVNQfu-sYphkrfOZ85V4Z0OFpDElpZQK0BUnMtLm0jA?fife=s16383\" height=\"200\" width=\"auto\" /> Don't Let Me Down MV",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -5527,7 +5528,7 @@
     {
       "Layer": "Don't Let Me Down MV",
       "Name": "1:11-1:14, 1:21-1:24",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4TQdvCxLbX-Bs0-3C4Mwb4YKCazVRXgmR2wm1aKo2W9co_98VzPxlwpLeeikA5aDDWuEDj7bKmiCTUMSutuE5u_MshgefpWE2TSZhsThzkbGfsU2hruxO8lm67sCxeS5aa82ewVvjp24-fj1CwO-BHpuH6kt0VwjLVHKQdATyxtdzef0GKuy0QVbb0WFw7RAR-DNmf62GmF3bOjaHsjqeiHDeH16fc0_9ncd7Pk9yacZqRlShvRIKTFFFqBw?fife=s16383\" height=\"200\" width=\"auto\" /> Don't Let Me Down MV",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwnyBWYkWZmIspxiWn67rc-ow4kxXljpPaGAcdbLK2A4duhjn7iwxwcR05PoqA41urHDQH6EJ-d4n-nstm6SGBKz-C-eARnqdgOYdh7U4qxwqcczUMxgX1s0hT17iQ627uoFeDPrkc_8_ejpw5f_JWHh_X3J9Co_nQ2pbtpw_Bsmej1xX1iopmFv8mAf1CV4STnQac_1JXx3ppNziLgI4Q_qATRJtKP5NZ_LvHJQ-cPxO0KY5zX4GP4agCVCw?fife=s16383\" height=\"200\" width=\"auto\" /> Don't Let Me Down MV",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -5544,7 +5545,7 @@
     {
       "Layer": "Don't Let Me Down MV",
       "Name": "1:34-1:38",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5ppZjoPzUYgAmqp15cse-iclzZGJ9Ipoy7qb364ZuG5qkXCgUEsroxc_EC_apHxMUotTdukXDx6LSMS_qa5h-D6WpbwRokJYyNFbeSnp6zMBdiMPGG_v-hty_XeJqAciQU0TAVlfqKsJdh46HZRlWiBR_E1tJkNCWpH0K0fQtOiDJLpymjtddMDYw3shEHRTw3jXntGobh7aehvVBSeO5wqvcAFaKj5a18PfDyeTrKJAzz-NNlkaBCkt8QVA?fife=s16383\" height=\"200\" width=\"auto\" /> Don't Let Me Down MV",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gym-WFbEUWe3ikZcWKUDa9L04WUANVQ6VVCLThjh0snspCwqHfwunRH93jKyjN0cx9CIbKaaDdERk00GJRE2fXb4ItmTASHbTHAVk6YDX6IpKs27wDKWlLiuRGMjAiuk7WddidrV0ta1ZCZfbp41-2Wtue_Hvje-UljUZ0qVTj1tXo_rItgCRnm626hRsI4jtZDvOYwVKfqMVLInUvk1B0bLVNaj0tA8u8afqjObf-BMVai2BD7MITkN3DXoQ?fife=s16383\" height=\"200\" width=\"auto\" /> Don't Let Me Down MV",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -5561,7 +5562,7 @@
     {
       "Layer": "Don't Let Me Down MV",
       "Name": "1:42-1:48",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7O7_xnimG4ZnA5hAmOjewfKfNV5R3ZimBGcfXIS91La95fzCFagUqTrvl-05PsZTsdUIrPUVDJlxyY9cRd15FpCIGwgIZ2_f0M2NPNIPyGX6PvJSwRruOtKIjXRDqDtluoe1UXknGfD_unZbW9SVgcYfb2pTTDrw6UwgddbH9uVffHEg_stDzlVptLfWAkzjyF9sXqi423CEf34XN_Yeg5CBgnSoQ_riquXMSG5QxvSYePDHjfg_qAwMj02A?fife=s16383\" height=\"200\" width=\"auto\" /> Don't Let Me Down MV",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gwt7CuqyiJrPI5Qu8Xa8Sl0WbdNxmVghawxHSKz_ozcPhtgiOFbahM4g-uN-pnGXyZFw7Ibqw_tVsojEmY0Tr_w2yf0-VIYTQTWrsXHA4QmPG6ly62GxXCwARfmAxQRTh4iPejwnfjQGddKxSSQsphoteoyif-0fkjx0JD6XOkDs2OTVnTFfFrVgkbFm1hpbTFB8asxBu_HScPUku08sqbPW2VhoVhtEP0WKwyoQYgHkj-87ajEKvUgyla_qA?fife=s16383\" height=\"200\" width=\"auto\" /> Don't Let Me Down MV",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -5578,7 +5579,7 @@
     {
       "Layer": "Don't Let Me Down MV",
       "Name": "2:20-2:28",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7xHAz9nofwgyQY0mZ_xJ0z_QjDLsHYx_PjKEb4Ki_D0cx8dkfjyf1bDhnoSlp3ZrjVoecL4ZMQ9EoNLnHVIgE_kd-Z90SrPm2RH9fGOl6wLusEP5f-gQmWnuS6GmqI2pwum6QYDu0y-zvDfg6ARVQIGu9pzK7hG163i2FdaG24Uk-xj8KGHiTOL60Ku1DSBCVs_G9qGKD8dyDx8zvg4s82Q-o6I7SIAdmtOjf7UJrO0OiFF_QTORbif6syJw?fife=s16383\" height=\"200\" width=\"auto\" /> Don't Let Me Down MV",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzlkHWN4FNkWCQcO-3tYKbIssUDbiEHumRW5_fVGurqx6bNX0F_Erqnn-u4zJ3Ik1Hz9bGTEv1fXuAToyuJIyx5ywzAEvMYG0jR28WrltEB3a3FCj0IHw5Ytt9nVepp2oJHFT6m9wRLcQJWWr-DJ6_Nn1G2WIM43JZh4N3Y7hC2Xw2vUIkdX1-BrkVB8YnlDQ0jj_50OFpkamyqPIS6cUvDHF4Ej74SaDDd2a-669dOQuwuDsi_4-9pk4jYww?fife=s16383\" height=\"200\" width=\"auto\" /> Don't Let Me Down MV",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -5612,7 +5613,7 @@
     {
       "Layer": "Before Yesterday MV",
       "Name": "0:21-0:26",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4eG1gQIQy0_T4i2FV84S7qaazz7KJIaec49gGvLy6p23BqI4Jury-fFoYA4TSPFo-7yk3xOQz9UgTraFN5V114lrYbb51-WOfSnpHISZsd0Trwcz20qefWKoQENwOViw9pOko7_WtDODpBBfrEZddYEMXLwtdwCXpwOr7EC2exmSPfPSlfghAOCqCo25hBTLLiXimcROGzAg?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV Pike Street",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gz7EREh99z5KlkUmZ-FEMLSEZrYZMQL9elJh4UXzIwKpBRflmMFhFfTs4M75qYoqwRcTdSRwyTAg_NYRqdn1rP_jA4DME7F59Dxb_Nc0Qz-z70A9kagmbzr6v1yhteJfZATrnpXC2nY5uHkBNYOo_b0epktpGzbj0YVi9gUSpam5wdmDCmVmH7O_-iHtZxAPK2M8fPMs4hGKQ?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV Pike Street",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -5629,7 +5630,7 @@
     {
       "Layer": "Before Yesterday MV",
       "Name": "0:26-0:28",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X526IdW3kwzDpc9bDrWOgheeWdnejnwQoVY3LTqD1dF0ZrphG3tTV0Adrt9GxvJ2hZr3rUd0rUCUFxjCdWfgaEsQiK7bWKi-_p51aCmz8AjzLra1BLDV4zwi860tBIbwGvR9W8FRiXVmUSOwFQQ6tmI4fLYwjaXbaDDA7WvK6l5O4FasuyM2y7FPTv9NnXc1HSQh9o3tggjeA?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV E Pike Street",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gw1hnwP3gT0G-2mkIYCocv7z0s1r3IguzXklN0tL7eUHrFQayQdzYcT2drV3LSsyXjfBcx7umqb1IM9ElqVVddedWejguHPkB56cNtb7F8zVzJs-buqnQNkPtw1vak01G8Nj3B3jIp9Tjp27q63XDCcTw-pTZ_Yxve1pikrCPjCEEc8da1iVeqbayH8yAqZ4h_Zb_IlX2NTmw?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV E Pike Street",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -5646,7 +5647,7 @@
     {
       "Layer": "Before Yesterday MV",
       "Name": "0:28",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7NojmLFSVyZdkL0VoODIp-sj1tpYgM2WJOKn5rRhvh5MdkLHvRWJvUT7JQIKKhzZVnsMgjfH84vcrosy42wH2y61LkW2KSmxNaONTga9g5IUGPmKz7OtLmE2qebO6KkJOoI1dhAR1OKoJxYnih4yQx1MH62doKFqynYcWDuBm3xRU3XZ9kHJgBUPh9LWUbEv3i8JherpENAA?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV tunnel under Washington Convention and Trade Center",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gyai2nad2n031MCdvuJBmE1xuCjljpv6IjoehQY04V6Gg5ZOiJ1vGY3XNZrfGB-wAvUNK5W3MoUvDxPkYcNHRL0upCS6Q_C8yBcAoskv4by2a2JheKSABVz59ubVDT6qM5nEjmHkl3Z0zGVM-X10Y_ap6r-pU-a8HwltUTOqMADqlVzr1JdeSum0b2hBMMJYJBl6WnBAy3YKA?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV tunnel under Washington Convention and Trade Center",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -5663,7 +5664,7 @@
     {
       "Layer": "Before Yesterday MV",
       "Name": "0:29",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5ZXqAr9Qi9MYDjo9fKbeASaBQWzlYA7N1HK4QAuOkXcUphTFq_CmZSQUEnLBIZoK1B0G92t1VhT-BYJmsn4CBJpUEGuPw55yz3L-ChYA5KjfbZn_MCEzqE4exYg3ZjxjZE1Zx8aIffpK8x7s3I4bGgIGKAi8CLeU1zOB93yFDE5_L-2DGWybvMVe8cyyx_tKy0VHlkCcozpQ?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV Washington Athletic Club",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzfghuvC4Om2OimuoLGGNMyJvIRNfymffj2JaUVJ-GCtu-BS-2ZAg2hzAfIX3xB3HyE0AnGgUYkGBW5uTeWawN1vwX0a5UQg9Urzjsdxej9TSLGDvEo0eD_g2UK6Zp2NlyChNnnUF-qLH0n2AO-4TpHLEqF_JBK8lp8IayjkZYcgsidwNdZRQ3_Z2chvUAnEZs9h6WY-YA3mA?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV Washington Athletic Club",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -5680,7 +5681,7 @@
     {
       "Layer": "Before Yesterday MV",
       "Name": "0:29-0:30",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7cOKIZhDpKkYJVKPS9suC9z52Ya0ANE9UpWKCvu25RKFLYaYw2Dfbb1gSkgrXdroBMRF8wImPT_dgmn0_q0wCltwOuCtYv7myZ3LLhD8Vmy3pTYicsmor_7WYcpKjZaLEYzSIeurCFGc2CjU9nvc73lT2Qz6JVZXUaPKua1K5aHhx9Pz1Zq8_D8bQW5Yx1moN51rgQznkc6g?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV Pine Street and 4th Avenue",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwsYQ8EDYRJxpiec5Leh_m5XZtKtgK89x2nZANlZczUVP1b6cJQ0fqg6WIuFjtN2MDw1gBz7MPu-to3JJtR_-R1vwwjR295Qz7wwR3mEoBafWbxRR_P8obhl7CQ5QziBRo_K6tbi_ZKVWPU-wuV-Ee5EDyPvXu1CkoGkEOhOOpfecKF_V7XVRlwp1-iEPlh5e3YUKPnJ6n4GQ?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV Pine Street and 4th Avenue",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -5697,7 +5698,7 @@
     {
       "Layer": "Before Yesterday MV",
       "Name": "0:31-0:32",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5ETm4yguPrEJNXpAMfZwjTXOx67DYXEy2i1uyuBbC4-tir2lotHKgtIZzkZ8CkEFjTXCXfV0uVtJsWgemjrDmbVYuw4W9S8BXndcPk01EYCh21L89GiNzLpvvQ1OpYxeqcOnlhq7hAzCfULmoikzUPP8isY0ATbM-fPEO8qMfd-49D6QasqSFGvHveepTVsz9gIclkqPSXtw?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV E Pike Street",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxtKWiwikDfJJtpyb7yBdYvjhw7vcMwsIMKs5d71fzRP64OmDV7aXXU-05ByclUzBHCul_YGr4suNSC12hEEy9JhayJn8VbraprRUOkqdJOIcs8ReAdNeYswp4AVhbBzkhtGY_z0AoHydE7lEg9iS07X0WUaA1ZbjxSgi1JeutvmbJQGNIgxESrVACLzlmIQ5oN77s6YosEDQ?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV E Pike Street",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -5714,7 +5715,7 @@
     {
       "Layer": "Before Yesterday MV",
       "Name": "0:33-0:36",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7Hehhqm_qzxbRIAk7GO4hYBYnj_Rlf6X-pEjq9yIWVHllm9cXH6aFcopWbuPCgKJSJzDs4wSm7WlPSvcf5D-NQ65joATpDF8uzqL4PoDStjxCdMYrbYIeeZ9kkRg-rT0dWebtR0Jttd4kL0M4gOZ2Ah1M_kLTRhoZI6ZAOWUxiXTctvCk2c4u4cpTSZ5f9HkXRHFc9dhFVrQ?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV Holy Cow Records at Pike Place Market <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6b2CeVvsi68Wrm2aXLuIAzj9lUD9G2ec5rhAYuZP0VS8CfEXzjFvNy_8brzztcrc8kfbegSvENRxDTiUzoY_yXbyu3bujnDbMj2QI3afix3WiMaPUDoSTnPybV4D68IupHFr8mIXY0247XLFHuMrKNXFODbEF6ahOPUL6_mAjjZJebohyD-SA4Y5m8jY1jXDSE8nt7Yr-zmw?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X56DbxAmA5IGzMsJmKQFgA7y1cDHxdrtasjDQol_9UfOn29pRgk7GeRHO2_w5X2_ARjaDyg9mIh1tDHxRJq2OnTKV1GaXoeC6hBQlBnhVImBz9SvqmBpxQkNrj7tavXQGEOPGV3bBDX58F6HP7xX_g63udpV9CQCcny4VqB1tmNogLZt0Z89dOigPoSfVZOeyG6y_wUUmXoaA?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gz2d9ZDegjl6mLCM1r_6oPJ7BqG_6o6109Rj7msa4WhgPU9z90W4EHeVqi9EeUrSYhEGBVlx-JH3b_Gb_4hMDpn1paU7BmrInPzqZk86O_PmwWJ4zciyrb-8YMdJ2Rq-XX9LyiKgthhanWAnaYe3XUnih2zfeumamkiWcOy7fiuxk04fPPhMyOxLB7vD8DCJPyJUrP4ciVgBw?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV Holy Cow Records at Pike Place Market <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzPb1gp1qSgBXiJ_6nKGFoQaq59EMK2yToXF9nmT4doE1Lats3jLc3oYi7HZ0qPitnyRh2_H4kwFhoSAEA1HXJU9nTiqXmR-MJ3OkzHlBkbrrchQUplHLV3b0JIOm34lDATVniPCgOZpBE_vO8EuzqUJEow1COsB4GRBude-zCDqG6HYifkvVxEGfJFk5S1SlmsEEjacNkIPQ?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwwU8UP1xz4BwScabBhbOvH2SSSwKlVnDzJciroNPxkna7-kIjOydI9Di4uSFmiHqPoWltGsxCK5M6bU3Ya6j9V4AfInv1U0weX9hJzd3SaFZbWiqUM9bHpys2C2M_yKfZTfM5fD2AH4EI8uthrjOeiqLkFi_QMbZiUL7tljB9IPdW2Qpvp_Up2WnZUeqXWRzpAbjszmDte5A?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -5731,7 +5732,7 @@
     {
       "Layer": "Before Yesterday MV",
       "Name": "0:36-0:38",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7xLta7HPzENSsbaqSqRKuGB1flIGy_owBcIJ-gvP02vQEsBf4VXEEwse6PrJW3IA6kcnFZJwCaT3POgLmFLqqDyXsYG0Zi7z0tuXKXzsw61FuNism4pfeuRj_Vi16M4K4knSAKEi3t62aQep19sM75aZPnNajO2p_uvQ7M5apCKtGhZbZSSXZR3N75UHPPCMNpSw1KzOMEjw?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV Pen & Ink Drawings by Patrick Kerr at Pike Place Market <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4AUDoHaGcfQStTKrZE4ysue33TUH-dFOtU8_XRhOOSwb8CQYc0igqLIt6vRdkQOvjDpDKkBIS-kVahavwDmMVkwzjol6S2gz5j_KjAftVZCIrwXvz-UrdhBzqyIQaD-XZ5B_JpwV1m8u5SDVzk9mblyQXq2ybFFeDrW-umuvqmVMC6OwBUJWFQzuO3l_optth_FmvRusKe_A?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyM7ZPOlN3abfdbVZS1Hqm8mcJtzxvb5u45bndQCdR3HU1hQpY1vz8zZFpXS4gff9QwMf2Y1BRx6aF94glVrdkSmSq4hWweJQqGpAWG4o7UwJLFYVY3yVWSQFrkDH87JHyNn_pxV3gJJn8kOFapkh48es06qSwsZE7oNLAtZkamSoYPrH3U31vuIqvQdDzfUIJPVSJfqB63aQ?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV Pen & Ink Drawings by Patrick Kerr at Pike Place Market <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwRLWCbwYuBuzULvXT6TcteiagGcsrJZbJcMlGeQS-bHmgcGhIBN9FKcy-Igm_Z3MqXkEW2HNSr1DARCjlnsbsNUMFWSnGN3OeNb7VavyJLAf2rah6ixhS0_eoj9_qzMaiIzg6czJUQs6UkWATgKn8G-6ptYtHML-B5vIs0vXBeUGV8FvdvoiVa502i9_T_FJigpGs60IUIEw?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -5748,7 +5749,7 @@
     {
       "Layer": "Before Yesterday MV",
       "Name": "0:38-0:39",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4tvNUNqFMUCbCsefKIw3Vpc8e3dNLHedok8kq2I6qweKowJ3DhAyBJBmdmCH0IaxYaHYUPEjIAHH2R5cCnV_y5cZgKYLVqsxVeRBSo1QSj9rIIuLr153uu7ZJFLqiBVqHWzp96Ot8DG3ysINmwppsfA91P2SCSF6Cl6ROzrQ9BNlauK5DZ9dhy8KXa-4MhkDl93sWJoY1zSg?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV E Pike Street",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gyw5TKY5A_0hLa5m_rsyLDxQG-2Vu-Gz67rUCEOMYYfnEt2EvNydXH97f9Q-FUaKUieeQjcBuB8HalWaRZu2yQWGa0gjmKSnlbQMqCSvQmeW3ZBw3eCgfGvm592If3jwakMJfdSbgmecZgw8yJy8v0f5VsQ8K9OoceIZGk0m4Afr-9NtPDJFHJAco8wlSy9EpIQEdZ8tnW_xg?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV E Pike Street",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -5765,7 +5766,7 @@
     {
       "Layer": "Before Yesterday MV",
       "Name": "0:40a",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6RwChZDDb3jIaC5B4RvCpfmv_g2JApveJS2DxLhe2cak4DMv1okl3bxbHLNZMIDKzQIZGUtm-T7xDoiP4lRp-odFWaNGLd-cJv-gSZx-C1gcO2KxeTPS2xLTJjxd5baNOlSilPz_rkvieZkkxrthm4BiTco0vttm5tKntQNQvILlq8S4DRDhytioDfVpE-j3CCrOs7EyRFcg?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV fish market at Pike Place Market",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwAUa-RXPcwdyx2jyzwrYNjvFj6U-cjSUjXZ3g0e-rzF-15uvfSK6ZjWbxk-tbaGWdmVOm7wiAyJvcqw-kxAmVtncQ1p5F57GlflaDIO1aQEnaBi_Y6QMqz3kXiDTTTlEiK5-DOTsg86V0ZRvl4qblOdxsGuhRDrfKxX1dTVELXzuWa5ALRgFa4I0EEKhoZ6kmNmWNP1MNv6g?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV fish market at Pike Place Market",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -5782,7 +5783,7 @@
     {
       "Layer": "Before Yesterday MV",
       "Name": "0:40b",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6a_kasgPvI3K5LRs6PCjbioGEa0WGbdmqhNnET2G26j-wQFIIGtfqkxVuuyuCVKxYl-MvxnI6z8Ye0BhJkkow-h7OeJoNFvMtRQrLMvSwwkqz8ZGsHAJflCkgzvCQ4c4SvZqfPy1fMEgvESJZhNrMJv6EGi5rrnQl4_F_e8ARhwbQvGGGHoJ-eyeLC-uywGMYLTx8KmqOOug?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV outside Holy Cow Records at Pike Place Market",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxiXUVbXcTZ_7q7a7jdidhn2yqc2yUis6XD1ZDwpHXa4qKpie3kvhIyufmzlwu6m-ph37ooEcBqXG3jRGJdFXAImycU6BqlABv4nvBjf-GVDqRIJtBWnK7IK0qZ_szOt0eS-T3pdbsQWDSa_6_9hT5Kfcakw2RpLD8UtiIVXZbED6KXac96EH1dKU3njTOf19sAcJLuh-cMFw?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV outside Holy Cow Records at Pike Place Market",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -5799,7 +5800,7 @@
     {
       "Layer": "Before Yesterday MV",
       "Name": "0:40c",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6X31ixkUvvvwOyh7HuRlktCDed1iDzudz1AS3jFeDkqDlRV4EBq-SeF8lrwAtQXWNIkUb9ope0yE1tKe0Xo0J0SjAO7thPKtLFig3VjbEEOOiJihIMG3UfDkSNXYADXw5wfqvFvaDki7liJTPU8IvLzHLto7swTVkjrmUjoR4a3G13QLRQ236ZU9Y3n0b-Kq-oi1XA4l0Eyg?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV Cintli Fine Mexican Jewelry at Pike Place Market",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxjLLXmGerMaJfsqq6cX6gans-GKl5GiMwx5POfDHo0hKF4xXaPOmQKGiyNSNh6eaQMZx6Ab_ABPP9vAVc-MlYY3nGA61DcpwMWz8SQeP6vmvyebfHHO6_6xiQ6qhrNk3QzYWJZqLETgxNJrj_DSYyPSw7x4EuUGYO4flJEeILh74Mxic5yID6RG5Y63XiG-CFcaacvVNMptA?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV Cintli Fine Mexican Jewelry at Pike Place Market",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -5816,7 +5817,7 @@
     {
       "Layer": "Before Yesterday MV",
       "Name": "0:41",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7Vla3V8IOXjvyKn7Pk8SzLQ_UG8dsOiOAUhJpvqG-pCvT_4mkqRAPugw8d8XYDVfVbgnsl_SG28cZM9GxIhTuXY4Lp-9TlPwBjae4q7z05YHifMSF_TxuKGhFFuwEvfHFSZmoOaj1MWZvPcINTC7-m1Xn4R_eBhDCqrYNSzLtzWpaLd1uF438PIoZqD4jCYi5r4QYBBjiydQ?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV Pike Place, in front of Starbucks",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gx0A9S_li9--fzxB-aqfA7yvWpefU69MqW6beWsxJC6QwZpnlkJJJKzIbKU10zd2Gwft34mvZnYovmEgWnU_XuD3bMWq9o7DbnNL6ztBgPitKHhxy8Hwc_NlwOyYLs-ENHy4anD27iy0POk0b8FUC9vrnvLx37xQn7KaJA_qd3P8Qh_jYk0qjN0dk_OxYq4iUs8UWJFlNqBEQ?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV Pike Place, in front of Starbucks",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -5833,7 +5834,7 @@
     {
       "Layer": "Before Yesterday MV",
       "Name": "0:42a",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4czeejVfoKbSsMi0uROXNxJA1dwOueDyd4Ysb_1t5KxHGc_fJEIhSpHYMcbaLuS-bQxewfRk_ARVVWXBawSRaGbRuPHraWybfTwGcMcoOa8sFIEAS713jSYKNj53q8HC3Nda3_9Itr1iIVoyN7sD1WEkUU0y9_dQ6mDe_kKqxF3M4ABNco0vwTMOikF84NIFTlZDijKnLaUw?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV overlooking Puget Sound",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzZZgZ9nT97I_GjRFDMYkRS2lRGqUwIZ9M461DV4jUTm7Sc6M99iHCCRyqnW8_7nYXQSmBsLfFxJ9VTcWLw0qrA-I9wQhYw1CF5zX3dhwKbpbIfI4YuNOpPvgzW_EZ6f_8xa8GJ4_MqF6CEX4KTFhfnHa0dKAR8Vj_LM27DCXqcyAwzysC4gDF3IOOyGfxwmLu4j_TKZ96k9Q?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV overlooking Puget Sound",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -5850,7 +5851,7 @@
     {
       "Layer": "Before Yesterday MV",
       "Name": "0:42b",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7j1NMiN7qRYZnhMebG6TMSCoTzl0LmXhCTuaPU043Zlb8x8PFPXPbb4napXG39nXKm4hiafLGsB6yiGXUAERcYHSeIZpPhCODfjLf8G85MrgEJ6aAP9fO6-JA8-uw9gztFcc0Y4BGcVvWFg3hJVUh6qV5w4YSKcg6yswTFpeAeZPgJksT9d9PEcF6lSg6V_DEDCqSkmH-ijw?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV Pike Place",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxXgDTGTa9jnqx-mzTQHjOuZssN-MnvZauP2cGHT-kCYiPZUXRnwP23WMGD9l_DxDaMIuZ6bhnwf2htGKyuVuHwQHPKu_wUikVkEIfWbdiMSl95z1pZy9BnPrOmDPearMBYSWRk0aue83KD0w34P8pMtXUmTj2FB2dnYWEStuekr6NmN8-u1fJ0t9eIc0C4XbOTnyopYfsxNg?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV Pike Place",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -5867,7 +5868,7 @@
     {
       "Layer": "Before Yesterday MV",
       "Name": "0:42-044",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5E3p7KPL7C2DkDiUMDaUiMfqML65r-y7_QzvEs7CIxO2AEOzqEqIL9hrmxFfRm5pQksizDeegSIGtzLwUy9dvqX6rVzlB2fE-HEW0HaRseDnCis0jp5SN416TY2s5z29GZloti4N-xMZruezX6RmVwQ0Czs669mnAm8kE77UPfYIdjJItexVb1f4UNA7862bx_buXjb-4kJw?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV Pine Street",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxvzwOUle6Y1gSFMSo-gKZzfhN_ArMrINaQoMBcCbWju0Y_APixQ4AS12mn-_f5yOuUytDEXrkAPv9ukAwPfpjklQibNmjTBLamzLGA4MeJbOUjyUM8JX3C4ReC2jfi9m8iSxf6oyHzhppk78YkJ2vW60i0Tykf2C5fCQjA-UDcYJwmDv0wN1V_q926VpDBTNX70lBC6-uukQ?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV Pine Street",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -5884,7 +5885,7 @@
     {
       "Layer": "Before Yesterday MV",
       "Name": "0:44-0:46",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5L_p-IJdWSmgTPg2p2I9EtR85gtCkY89OVbT5Fr-VZfs3eLFh15U31EKBGKavJ44Cr0eQnB_6uUzOzRjx9b06KKV4uGelNEX8ReAfLBiu4JHWsaakWI_cYvyt2mt_iY087VI5Olmap75htJ8-bfjiTWtD3IDUUqVMd_FShg17eWVp2cEf26l8qzRUMBOR71uOOoIhSflM8iA?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV lobby of Grand Hyatt Seattle",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gy2Aub5TywlyxIeUx3B8iiktR5pv_rzI7NIrKK_Knx-A74IQJX1zsuMbBIUd1VkmNlQB9ZKeaGkDw4VKJgWZIb1kOJn8c9QPn6mAC16NIr8B70XKbyc8edLmGBgv2AfChrXVaQKI6_1WwXImLr2D7CHzpBaJEpC5nUDVuNpgc-e0WGsW2vTTo4bq1OcJqLCzm4alXjOvwtY2Q?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV lobby of Grand Hyatt Seattle",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -5901,7 +5902,7 @@
     {
       "Layer": "Before Yesterday MV",
       "Name": "0:46-0:49",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4C-ftZD6lrBmyTugwyYGMUPNhBaIo412I46vvAZCdHHsTOMOFENp41wO4kmONabFxA3mZo0FCXB_M3yKeAHIRDxbcBP_y0Rqq_w084cv4_XiZMOdsyGzKPHIqzqRezyjXCmb_4NCjB4wncB1YTV_SP1lxSUBZ3TumgeOEtRKJyBpPJ_BfDdRcX2D0rtVJ8p7a8jiOzZv-ezg?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV Stewart Street",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxjlEsqaoYQb6vLBO53bRJLnn4plXkymjEc0nU0mzlxyOzvo1giVl-jITyJvTaJDVKz2zhQ3alnEP8ubvMTm1SIVtjCqWC52i0BBkmmvoyS91j77fJjbKzXheR6iQiNLGcqVmVsAsXoRVCTrdgogGV4Q3jd-OU-87aLVw3iw3-8mlB5v_hyoj3OrHdht3xJqpHRyDaq-VqICg?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV Stewart Street",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -5918,7 +5919,7 @@
     {
       "Layer": "Before Yesterday MV",
       "Name": "0:49-0:50",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4COiS5aUt2Yy_lVXQErnYAMm5iiQTVoTI1egfU4HZ23X57Ac5oFkwN3GAdq26jdDhj_RPcwebVn1-mINcxYvU0IRktz67NAcoJUR9ywMf00ZWJw5MBdcDNw7UFcmDCQn9oxRgwhUGrTwGdmRuYjXUzyU5ao5klsFzOVQriS9s5qlqrgemZ0C22BhDjbJIdA-P3kaNUotNEHg?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV Golden Age Collectibles in Pike Place Market",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwaYncXYqE4xJFpAOJCmjrkxQX3XtJwWA8yMjp0I0ci3AchBMtAjboukgu45pPMrhb7dNzJrQdf1n93BaIdJeft79PLWUvqtSSlA3j2UC_dr9jj6H8V-UahF402-QsQ14em8r73MhzPm-ZBsP5xgBPfvWxHxvvv1b7hePEvRLwZDG_TM4CcIMh5enHcK2BilG-7bogNr5aQXA?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV Golden Age Collectibles in Pike Place Market",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -5935,7 +5936,7 @@
     {
       "Layer": "Before Yesterday MV",
       "Name": "0:50-0:51",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7hmJJXmsodeFPWga04fGfk_m4s7rKjWUOAiGocFs7lp-DWnFi1AzsmE18tog8nbsX4kiYlZpJbuVRO-S3LQyTMux-llIrhOIK2C60whnkGg9cJSzLLfMgkDK2Op2WMa7xQC8-cK98gR70kgIlepfb03fG7h6kl1qg-yuCKopWXfZoEe05cP40RUWVxsAjxgaqZHClUmIbCcw?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV Pike Street, in front of Walgreen's",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzJzHglkJa9bN7r_z819QXx6JC9ToolI47qNVwq1uF_IxraKWUuCintnEFPnI1_BgmByMmiibT788dCjT7fmdLhrJC6XDhIDQHL9ACtf1qt4LVhxG0ktpplJkyynNxyB3oGBVd9uA1D-fNWVzl3A2rPNwFBZ3AjV0oTykgMslSlstOKzxLQTEhJQImozF0qJXeSri5ikUIiYg?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV Pike Street, in front of Walgreen's",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -5952,7 +5953,7 @@
     {
       "Layer": "Before Yesterday MV",
       "Name": "0:51-0:52",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5yoVVdG3HVvl6zFvrxCLen2XavIes6cD5-jrQF6SvSOF6etWkTZw-1CeUN_-l9AokmNHsPerzrfQGn3v0xFGxt3e1dXHDeXzQFmUbXIVpQ8KX2zOojV5jetEASyGtiD2KiHskZnoTrAvhMRswYAUKQTDW-EncfohWh0urD2xI3am_cZhWpW73EBn4Hjo8Mvn5YcKKwkhtOUw?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV stairs in Pike Place Market",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyUwj_I3l--6qybb9elBnG9QeAiJ4G8u8n1MYW3GHi_f-0w6XqrvZrhh0eyCPzGiHybgKHHm-hAGFC-nszvl39MNpaF2QRUEP9Yi9cdV5mhpwjUixgySE4an7YbgsY315xkS9FxkKG_zkeDQRRUmdxfJDklFnitSoogrt4ixN5mwAi2fcegDQ-Z7if-82dI8ijBN4_rfBpAmw?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV stairs in Pike Place Market",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -5969,7 +5970,7 @@
     {
       "Layer": "Before Yesterday MV",
       "Name": "0:52",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6iTo707Go-fi2Mg23F8zII7TYi3_rucynNMOf9B8dil2xKmHIupFjJwhhswFS3tmiXe1kY5yrcl0s4Zh_wgfw3nEFxXdjbVR3XoJkKYxT9HxEND-o06NLVDZyBDtN_NiEoq1Q3W0dV0jt1_zJACxRhhWq98qL1ReV52f8VOCGa-8lgcdeNndIt995JMKiSlM8eT_8bfbkJ3A?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV Pike Street, in front of Walgreen's",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GynTfxHA7Xq3n0kYat_S8X3IYuTPqUaZPb-6xEUfY6_w9lZWbpPlx4G6ojNs0gGp0DeqqG_l_lmltUlGoTwsVsyODVDdyVkJr-NrwaPc_IHVI52-44AVKs-VnGYMfvkCph7Xsx5Ek4NmU4rKfBaUetJh7PGxZzPEGW3ylzqMYQwVWjc9zi1pE8s85rMzRbjEXvAEDDY_8rHhA?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV Pike Street, in front of Walgreen's",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -5986,7 +5987,7 @@
     {
       "Layer": "Before Yesterday MV",
       "Name": "0:53-0:56",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4HWp_xIyyEllzomyQm-AH-Z7FUOuSiOrpZX-7B3M4CK84J2s990UcnWKqBdsUCmxz08aYCMU7x-oT9MvzU7mKgDzPqXPrIy060r1Pkgp18Mz5w0sJuzzy_nwEY4lEMwAOpeaiHHMtKZNwIFHc9afizdv_yI2vfnbE6G4I3GBAH7QuPRUPkFQ0GO7RQCqSiqakbGWrBguX9KA?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV Pine Street, in front of McDonald's",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxNtVIOxnDO2j21vAaAO0rWcF6L8Sa7san417rq7E71bg-QaGsNQcmlVEZApxt_Lf2ZWCW6ahxUn7qAYJMpxH1goY-88zQ_MfcspQmuqj4y5YPkrN53uNmXT3JnbrKeThMcqcdyV43ryoTQy_jWG6cu0zFhFw-drJTaS8XpiZb4JCBsjKrVdcgkdk8fVhSHo5X5Yrbp5eBEWQ?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV Pine Street, in front of McDonald's",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -6003,7 +6004,7 @@
     {
       "Layer": "Before Yesterday MV",
       "Name": "0:56-1:02",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7wZot_5MNJNxQAkChMoOZ3pPMp1Dx_tcRfqQ4kf3CTptsKu_w9FgaybC2zXzxbcPXMH0-xgS8zV1nt7MQ0Jf_e4ssSPVRe9qffl6ihSHWLCL9xadL6M-JyTaQKhpEo2QeCkf27ToyNrnaqp_ENqrpUoa1GbRtAQAyv7yOZOdb5BntBL_6az3_DfQ-WsY5r2zWrZhx_39U3fw?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV Washington State Convention and Trade Center",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwgFGrSy2rYFkzY2Jgq0wuAOr1CM0aTq_YE57d9Ng0LE9BsudtGfIDfhznnOunqtBqbtGxvMtDAC9UlpLU6dMBDj3ut6EgfE0v6OguircvxHZRqjIMLVULIagoyqmeqdkWtv-4jGp95cylf0LWcHggjGqOuwsZk3QjF20zPuZ7A1huScCT2GHYnaujrduQxhyA_syjTo0AySg?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV Washington State Convention and Trade Center",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -6020,7 +6021,7 @@
     {
       "Layer": "Before Yesterday MV",
       "Name": "1:22-1:29",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7i5ajx-mdwCLyWcNnLhn0WZndNLunpobDBfc7lZwunYuM1t9ulDG3Dw_tu4Cz9js_-PiVxprkSCIKcih19pKwS33MJET4QZwDsPXm1kpfHgHVvlLTrTCf8HJjjgQyi5SnS8jIZpoDjTxn9giEKFKX-05kJV4ZMOswLNzM1wUOMDXuRjPK73rpvExfGhNF0Mu5Z60Pw57STUQ?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV Pike Place",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gw3fhN_VhoZWOWixlj8jxGDTZKm7dGBT89xf2oNwPb7C265euZQq7ZaFpDJbtj1rCgTnAKFUjkQuZB04rxn_dSNctzdSKnKjHiG6DLShiaSKvWbeBruau0SJva2nk6EOkfXprfrVaK_molignKSZUm8CnGKEcuQzXNCRRGGkfL3aSrhWukL7oJhP01I3HNnJFw6eDpou3y9GA?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV Pike Place",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -6037,7 +6038,7 @@
     {
       "Layer": "Before Yesterday MV",
       "Name": "1:29-1:30",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6jkSqWGYcFAfifWyjRiCv7Lpidotgin9vc7zoMPvmQuhgD8xPjgHjUnBC4Raxxsh9lV1qco97RI6mvouU0eyPwr5QAPWsNhjRZ0y3yIGQFIXGbuOkhYBP4UgHKE49hXDjI2aLKyaQbkGAgm-3Y8ZLCG3fuiiRoKmGNXXB_iOkOnRdXSLowqyNFdQ9RLbbx3niq9hxF4-G4Vg?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV Pike Street",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyTrMI8hQAQTwB2sxTLc6lVLbpUgV6XykME2Cjg4GIdhlzCkG8RRHpQqikbWg57VbxVc34GH9HI8Oimkvb2KBPs5D0KsPgjZDBX83QNWwx17QXFl0oqzKJmW6JB20dycpTzbLWjTxomnPVCZ2kXsPvQpj-vAhknZOR6eQzL6MBQXKOImoSquc9KnElvxCFa1XZxT_FfxWxOdA?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV Pike Street",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -6054,7 +6055,7 @@
     {
       "Layer": "Before Yesterday MV",
       "Name": "1:30a",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6lg1BdCN3IjtontZ6bPmXc1toFVlAHmSSou_qT-bQLE05U4adcZhlukKK1WyqT1K-iUHxHVi0ZDllonJO3806WEEe8UH1ibq88-2u8H61qrwscUHs0ni5LFdDkMkgcM5B8nh0Ab3xA6vixnF83boqLUZBGdWoCCSLErQI33Zep-DukZXFWJskBcT1GU_jLes4P-WUD0Yqz8w?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV E Pike Street",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gx2yz-r573SQGEB3RRXkgUkXoziEa8ZKdQl0hQfrbyumnKLj0aAnOTF4Tjhi3tySB8YVm9LtLvIW3YBcefYBso5nTi7hasFMk5tLyVAsDQ_VXwraIf6S2_iKboiYQkstD8bT8XLtjSHvV5PPJ1gVV__tqMQslqtp87IcnT8hg7rjfBeiUsABOMaK9TX7c25DBj0pUgTbe436Q?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV E Pike Street",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -6071,7 +6072,7 @@
     {
       "Layer": "Before Yesterday MV",
       "Name": "1:30b",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6atb7zYRgEmP9WYK3N42msqYhG54SqPxrat7JnU4AIFNH4p8gwXK36SBOTUCKbmNXlLpuwanDhIBovWnvSR46uDMoIABRuR27DbnnDR8SsGiYbg6TAQOaL8bfJcdxgDDBt4BYDTT4h2WqffdNKrEqFUpCZ7AG96AuB5qo4xCU2eUAuAcZrdjIgLuFw12VSx7xjlHfpwQ2hbw?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV E Pike Street",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gx9vqG2Ca08S8RQYHoUECaj2kjHAmyTqMsKsVsRP8ELTPpGON7FruNke1ejvibTcJ2OtK_guANORrnEw4WPWuwmKU5rcmqtxJ3gNdVB-42ikj2CaC8RDfVPZ_eZFpr4fejKUN7CdCbGuDpaPAgICwFwbqs1mSCxv2BKeD_zBIUyDFx-oqpw2p1__qJbmyLNb_6gxdmEKXqxJg?fife=s16383\" height=\"200\" width=\"auto\" /> Before Yesterday MV E Pike Street",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -6088,7 +6089,7 @@
     {
       "Layer": "Daydreaming MV",
       "Name": "0:00-0:06",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6ac1EKc14tEdTioeW0bzd-6tfk3n7cqDM2a8HssdH8tl4VZSP22SrqgHKm2wkKMK8Jz_yT4dJ5PAdgu5dlisFTYWP7pMmA4dH3pGp9YEmRIhQSxRGyQf8X0IRPipetL0-duHQkQKOumpWWB8VPO_VX6J7_-VK5hibYGA1QBPlyJhoGWkfC4BMJvDSdRzDRj06oq4HVC9kju2RhVDL-eiINsr1O8FXohWQCzVXIhuHvIgqZmj_r1BrRXVXe8g?fife=s16383\" height=\"200\" width=\"auto\" /> Daydreaming MV Lin Family Mansion and Garden <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6Tz8Pnux9OyTAXYv_txbeYG20YFGMyASFfNqgIU7O6ma3bYtFXeco_T91FGefHFJdQ8rEiweksTUNQnwezqEwt-NhJPvu9qR3aM10Ll13F0HGtnJdyz83tjKsx4Zhs7-XycnAXYhWPyRGSTLSi7kO4T649QNWD97Cl1fJj9BINIe8yJkEIjMqyFSfvMrx6GLxO3J7CDcBhhrRyBtnGwBXxyiI0Ef1Dnxqs3dYSo8XBEUqfbYyVwcravkCGNg?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyzvRfS1514pii8XyM7OsLaPCiceqFA1hdrscIr6zcVZz5dWdLwa-D4iNP1Xgc0Q_eo2OGTDbKbcw86LFDc-c0yL7TJ-YBN1JbrfTliUi1quHHe5pm8OFkLukPlaqowBMCvOYoO5nluoniUY8B56NrMcUa2_8dOogPIs6C0QT-BF4N-O6x3Eml_ml1LSICnf8bDVPTFd1lhz5aV_YvOzsh5aaXq63jLd4_6LZKv8XboqPH_wGOtkI60gSi3Og?fife=s16383\" height=\"200\" width=\"auto\" /> Daydreaming MV Lin Family Mansion and Garden <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxyE5BQ8Kacofy8yIK4xqdCjFe7c-aRU-aWmIiskw4YwgOusdsVM2eo_IpPqLqc2wJJEafqNSy7Y8ojNdZsjpldJMS8Bv6-61HeuX28YBdy6QGxF8aQNeUrPRfExf6esi_XeouKUgGKpHZ9pa4nGcWy7UiMTUMcqdJJtpTXAD3qwbnkuAaFZjny6DttToPeRAV7m6sIUA2A52b8D8xPlN3RNeDOa_OR5MjrDBtdHOv3cjZH2AJ4Uex2s_dvQw?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -6105,7 +6106,7 @@
     {
       "Layer": "Daydreaming MV",
       "Name": "0:07-0:10, 1:47-1:50",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4fE8ZYRcn57AC0h_wKVFIk4ASv2kqjhzsT79ZdVaM0jPi9BkVse2QsukpVZ1M20J96Uc2B724nirN6RZCzgK3AMgbAgXAmRWE8Xh0yS6mt3fwybPh2xbNWgwtzEllvqtnXXvzGthvSL2PhkrXHbZ7lECU1Oti4C0wJEw5khlWAvnlhYVCZ8IK-0OAai1KUEbVWH0ajjC3RK4jx2-34NUQKP1v0ofBayzNuiBI9NK_11uEQxfpvvWHCd9dhZQ?fife=s16383\" height=\"200\" width=\"auto\" /> Daydreaming MV Fude Street <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X65UIlHsshVNeYV8ctahgK_ZyE8NpCstz-xvKl3EOjZSn5sfv3Ayx98DA9TqssW9a_VmGX7zMzY2sBgYyFMRYJRS9OLUSi2yyLXmBkuJi0V0hO6jSPZYwkArK98BF5h-ngBFgx5Z8bsxLim-z9tYkuNAM2sjZG5HDF2EXoKPMeDjH1WuylxKYdvHsq0yjItVmVJTXRGgNNpCk9Qpdk5PfWvEUufpnpjYYjJdu7g-NZYN3x0kF_I2mtQ8djY8g?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7PuJzvI2rj3dBydSrsRfTmxQLO7JevbyNxHmSyCN_dVuHVWkqyhB9IS24guynD2PdGLJS-Rq86eh5tPqvfsQQrLrQ7bgi016yX-JMlSqq2704aeRgFuFR2GvmafsAsuoi1gc8oKA_vMhffhlDsLAec0aHj7hoanryPhF0AF321V2bvSbAdjV-4HBOtqtPG8S2RwFv-KtyC5DzzRACKPbO65I-M5Zz-fciBQSVmgsofUVd1rRPk8FTuuRLWwA?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyvyG4QxEC0QfAfWN53NU_mq78L7qVMbUUG3Cl3ogi7ZvqUNOBDF0WSL4cHfMWggzJlTU7zu4z_EtKYMJ8YG-9JGjFOweff1oabYmSxM7zpEiVoiKNCqF3Q8Vflgoe1kq0n2zJVcxukGQAivK2kNs5D5rsmAQZyvPlZnyguqeO_i6hsXMgq6qzwUn4e03Xcy58iOrSjjIiiJGlb1FE6tLy0uw8tIVbjQtY5EqvUAQzHp7uWGvg0Tzh8mBlO-g?fife=s16383\" height=\"200\" width=\"auto\" /> Daydreaming MV Fude Street <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gy-XuGbzTD9YSGUTQnVV_IRUgsTBcP_pSAMlHFNOOqL2Ig66QUG9KkU55nYdqtdhpxH87yq045OrVCdiYFUi7YV0Xjgx6_S3E8KF1-5taUAGw8HYjjaqEBJmm-LQsCrMqqCjnvYk49X0aUT-5gs7x3QXs3PPWHTbij4CqSNQ0FQcsm0zkIobTa8stQuR5YnpIZmSjEWNIEx1xZZTTKk55IezO8tyql4Ijj_cODLdyzqdtsPAPIU0flw1mgi3A?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxpHrTeKmjFOhZdpqZ1TqdyyZ5w9iFekS91ePbYMykM_p5-bzyOUeSHihmVEyoQGBjJTh-N5o7tf7tDuumVbXKgbeJBtgPnQPZqO09CQFM1aodBe5GuwhrYQrRaiXeOnaIvEXC6xzA18UwgLfzmts8q59lHo3tsfYJ0c3JE-AmBZ7K_hYAkV7i0xd4aLPcOnYPosRHqsiOFdgeVyuRgVNoi6xLtnj0m2T6walwdRQPkhdn9s6gEs7Kzw0R5pw?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -6122,7 +6123,7 @@
     {
       "Layer": "Daydreaming MV",
       "Name": "0:11-0:13, 2:12-2:17",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4X_3cawVvwRSr42rAgeuv9VKk_myB94THel3utjVj1kz7htkDLuGpm4i6T9hIZOgdMGtm8P50RTXYaKhT5QuFe3QNxAbG_tNpmFjiqqIj4rV9JpGqcEZh7CCMgDO1l3BtRbhDsAfnOgV-4tvNXzKvp68ngTGUlEDZCmrA9TSseqKAeHvJCTj_bcfdBZXISOibMDIsTg_kk6vh7WAJ2LQzeuxRSr8DZbyJJXIc5_jazOzyjTRQkInEDQ0in0w?fife=s16383\" height=\"200\" width=\"auto\" /> Daydreaming MV near Canghou Street <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5gwP0fFkHQ42p8XQReJQvVaWqbHiuuNs4Mw3ag9cfawG5QUC0kDHGO5tlrVBYhVeYSeIhFw0jt_J46F2ZW9zcbuS7PN_kymuK2O2gXZpLZynMlLk1RSiwsSY_Dxhnfb44AgwO4S88ZVVr0-DdBpRYUZRcECN3_FOIUdyFeZqJDckynt0DPu0fDBVFahiVapSbYRzAbw9M0X6FbobwVhztnunr8WFFhwhhj5Ial5lgtAFOdfUYMRLAADu6qhQ?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5NhfK0zX9Bzm7VF1d_DAdv8z7uaupUduE5gKkFImjwSbFjXlP0DmDOa0n7A6uKEEOlr_4VfH8YN77BrtRT4YetMViAQnfydGl2JeUPtyozj2m2xNMw1-pknWznSo424kJxkRHK0AWTYV7jPVqV8AE7GKuHfsArtMS4eHtycPmlJbj4OqfuHoVLBKj309yLDR2Mab4y4EHdABSbrm3sNJ2qvSv-qthCa3V4Gz32VnPgWf6B3xKY1THXYfO_lQ?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxUQypdLYftExbrHft8qleB1GBRhsmaCcLIJEaxnaLx2rHbLmdaYCWVQSIxHfub3f7bJyhdBcG41drih15U_uMRX9Ge2JbBbGvI3Djm4pX_X8am_cGNNMvSoOn5i0D0mOSdAme2PG9nZkoMncJXz007FVM3RNlNB2Bf0YUjRx32JHekqRQxQGkcRrBZs9cHCscjmXNbn5K6piOY9TheL35C6Q5XsBZTaAvnbXsoLyz25Gm8xqoGYAAnb41e6A?fife=s16383\" height=\"200\" width=\"auto\" /> Daydreaming MV near Canghou Street <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwYsM15PDajtfg9aRJxEe7LFSUFI68a1K0jNchdQ_w17TrnwnpkQJjSgdpRQ-CpJGB62ot2CXT0418OCYwqO0x0eqk49pGD7EvxfShEM6KacZtS6bLprPCqhXeiKRMzCimQQPuIEOUAysPtkPiJyhTDuZoZhAKP4BqrjTMQfE8MCg83-N8lAcQ-yKFcRc0xwypznSTZugHxpd1t8u6LWY2Nnaduwo-LPv1b2tkw1fxDCj2MEfknrTMfW4zxJA?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwgUjhDTTmZ-eHn8d9gVYTxmCDfC0lHxqGekQh71cmDj5amPP-w-ahGRZFv0k0b2KvXC1-iEzTgDhHP47UfdhjwW1KjRhjRQoPLqBi_qRqijB0aYszWiEMXe5hQpRC3HwfiInlOmRlE_8-uF5Vd2zi08lUASP2B4ByO-f9KTFyFJLzVG7YrQrjJerW_1pb-E2c3YfLrToos77j22WnAL9ZMHOuZtSmo8cLpuBOPiVLeYCjm3vpwGOEnw2ICfg?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -6139,7 +6140,7 @@
     {
       "Layer": "Daydreaming MV",
       "Name": "0:14-0:15",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5NtQ47YK5WQZOjepPvYj2c3uqa3aP5QXlXts0KI7MqdYsvx-R4tC-EJFus4WN9bUb4W2xCgOOXQ2I4E1EA96N4iWhS9FWM1OImrKJmVSwZ1xNnAYSHkxaTg53PUD9ecdVL1C137cRlzq9d8BicYCny38HksFd8-APDHXFDXDzupr8UinvlrWZH-CO6BK4B13C2SOw7yLJOkwX0ghLRu-iTKUwHpHeu2O7Lp3njyJEa8tpyKoqPbquf7mkrMg?fife=s16383\" height=\"200\" width=\"auto\" /> Daydreaming MV Lane 2, Fude Street",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxzxnisZKpJVaw_Fo8JtuKl6LdMuOQTlpncV-4fYM2Ywo6JN-GKa-TotCJnWfvJ4TyMJBFgINX08_muok0RZxkd2Qw-3QiPsCnPKcCG1Xkbq6J1ckCjqEQpTwh6Kzh4dAPI7wNzWooAprvgPeZ3IU5n8DM8DyLv1rn8z8ScMXCbsn8G7sZrB4wtWkGKinQ2604D8KlE77z79dwcJhgRaddeNpwFZPAIvk8_VGTLJN1HYfEA7Uv06g6gW4g57g?fife=s16383\" height=\"200\" width=\"auto\" /> Daydreaming MV Lane 2, Fude Street",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -6156,7 +6157,7 @@
     {
       "Layer": "Daydreaming MV",
       "Name": "0:15-0:16",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6XVHSe94dG7NNWyLf_wPb5QJMeNFQJgAGjWiZXIAv0YHc0UW5CEfK8tEPwC4UmsyVHrcffS1AXqezWzVMHSGmrm6M8uibKVLL1XI2PHdwnF3Yr9VdrNcyKVRiUmvR7FQySKKH9gm3ul1o45yzR1nHVtPQwaPITWWhLz030S2tP2Ru7rqCdliJtG2yejlsOcOoYyCtsT8h6HIUpnqUJUx7dQsnOPELKCDEMNcBKhVKANqNoF5bdzWMYecKywQ?fife=s16383\" height=\"200\" width=\"auto\" /> Daydreaming MV Canghou Street",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gx7eBm1eR-W4yehsD0zi0ffMWaff5M3HEjDjSimCswC40jrfhRm3IDpbbiq_1yKjqrB5kpvFUG0fTkBb6RZhogf3bfQqurJo0xaRmV2K345Zy5TsOQqe8P-d-27Jn_pxKvH5TjHQmSwLYE3Rd3xmLJ08FU_Yi9khZqVvydsLN7ONDHFpiMNp1NxTFCbaQAdSCeLpatOm-7F6k78j1Y0S9wm4D-TcnExmYCRUwB51iNZRDb8Y1PspHTh06qFvQ?fife=s16383\" height=\"200\" width=\"auto\" /> Daydreaming MV Canghou Street",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -6173,7 +6174,7 @@
     {
       "Layer": "Daydreaming MV",
       "Name": "0:17-0:19",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X51LM8bDtVVltpQTRinUqYt8A6wag4Z2fyrwRqauO1rotxalJ1IY5hh0c3P-M54Of2ZFFDXG_KSPjtN_9CxO_CPdhCiG_e-Xq0VxfFfqfmEdvEXmz-W9Due8JOqMcB_rWlPeOcILXIb-mKgJpoec728JhVNBzbZTXw6MfOFyUVtXWzqzlceRDp2z9oyL1wR_ayu9w3NuofxtrdIRv7hu9updyG6Elq8EwWNiphndltsCC9mC8ezxAcpqxU3cg?fife=s16383\" height=\"200\" width=\"auto\" /> Daydreaming MV Canghou Street",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzY9SaIHEnUkT6lbkNVcw1UFoQSoNT6CMp4FraWX35Ano8f3AnopS1CXHoRdD-WltfZhOhyxRxIXhZC9RPwSFhlZzH025Mls77Vl3b4IJki5WW-fdt0hr9DOwoiobzriUWTwdkstJWm4ESWYzc3luy6C_IvAUzkSaX7hY_xx7JPrgZQ_rZtEgZ-xi-AlS4Ht4Nhmr5V1RTmvyWrgYisXW-o66uct8nPQKYrNZMUMQg6l1D7cdP6qwldirRKwg?fife=s16383\" height=\"200\" width=\"auto\" /> Daydreaming MV Canghou Street",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -6190,7 +6191,7 @@
     {
       "Layer": "Daydreaming MV",
       "Name": "0:19-0:22, 0:41-0:49, 0:54-0:56, 1:01-1:04, 1:09-1:11, 1:29-1:30, 1:37-1:38, 1:44-1:46, 2:02-2:03, 2:17-2:20, 2:26-2:27, 2:36-2:37, 2:43, 3:25-3:28, 3:35-3:36, 3:45-3:46, 3:53-3:56",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4h7oaMImJwSNh1loKJbR9itLfBJr0S9SqzzifnPK0NFkdly2cq65F6oOol5bSHc325_JNBAseeb3qtQCuCDczuCpXjnMlhdjOeCgxIYLAvXAGsYFKWPcE0GEGFzM-uRAhpHE7fkOnPJhSC0TF1Ckb-vyUwFM2I0QSU6RX7FZmOaaqIIcDXSHgWoavbl8J25IHG_CZb3yjAD0DQP5NhsAP7tjPdJ6bjgr15za-nXtrn7q824T6mLSo9POh8Tw?fife=s16383\" height=\"200\" width=\"auto\" /> Daydreaming MV Lin Family Mansion and Garden <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4MlUa3YwlXq5BWVVf-scvhv_DUi27lzpptKmEcEWeVKSGI7p7KczB0Fty16k_glTU6zNwoOmBo2eGp-bNsQnztQjMW1S-D73zOIq3sNsCHzRtqIOkhx576EFXw3dECIP6HshGjFbqEJKSz1skuGk_fUNm5Mf3fRwe8ddllY4XGMUdqWtEVDXQrPZyjMLI1JYQ3l7BWfS3OYR5cZuAojcEAPV055xaz6ptaG332JxNc10B4uk1AynjxrXVsKA?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7ce9UpOXU27RcukKs8-0gxp7YMyqdvj6qWrvr_2rHflRkFIUd7BJj72m79IigW3HaOdyqzG63bybq4hC2sam2klBInkSJOdl3MuctRdUCy57q73Qr_vvlSunwFuCnOzTbugLnDtmB1oVReTZpoQSALaWJLETBR1r8XSMeUiXnqJmvcnVfc1ebldkj6rwCUp7sRWiP5dCxOS2TUa2IvzoKM7bO4kBP6aLz3Czj5AFUxk_StoZneIYuevhM4Wg?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwuHuprfNDUBIyIm_w_k6FGLXPKEIQb38ci8pQZpo5Ce0jk2aMez54hkI93PcfPeYck-KGnQ-3dgLBB2Np8xSAJXwY25tSt8O-Qmmbr-DWUqDBnCJFneNPe4ToAI8aymEZAlPfSinHUJkzQ7ZEQctfyslCZh5zBTjGKZSt7h1GWxjQLQR07eepUvpt67Lw43mlxBc_0e-0V0UQxfaChxkZsdHN7su4Vd2T1xZ845cYJk3HTOlRp1ZljXVWfTQ?fife=s16383\" height=\"200\" width=\"auto\" /> Daydreaming MV Lin Family Mansion and Garden <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzEAizM7VY0Dlks9eWBw5_PHiPHnOtZf4A_5_AwLw4NAYeat4aMLKpWEgf0zzMTfdy4VD10IyzMIFFBlYyM_LpYySZxjp_fnmsnk9a3rAijGXy7h9KDWUYripZPOnFcM5-Ijr_6R43VJ4g9qgElSR9grGIUsi8EYPR7pR3VzNDTnk9ar_GQCHPPhzseamDbEUDgbJlnxiwnoDTdCQ_1cfbzIqSOmB6ZC6oi-D-RbH2WWWlLTLdP3ynXtYDLHw?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzVaH4h9Y1hxKV6JOVcA97-woDomkqANlmM2Y0s6KLqyX0S2oqJ4v4nK-OVRfR7DvK-6nwo8KRqS1pCBq9IMJCX7t_xI5m36KejHUkMtZ9KyXf1CVBFVSvDHZbrpwstyCVDDjo0nWThePEcFdWxGT_xK5lBK13qWXTNk6LNDlbpLZ3yKgey5-FEqQsHv_0B_XEtJLh_jZ-iNkoUM9ZEPOjVakkANmc1iaWuqscr_GbXcgPvl0LpbatU1XqYgg?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -6207,7 +6208,7 @@
     {
       "Layer": "Daydreaming MV",
       "Name": "0:23, 0:35-0:36, 0:57-1:01, 1:07-1:08, 1:14-1:15, 1:22-1:24, 2:04-2:08, 2:22-2:24, 3:43-3:44",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4PbZ0Tm0L-EnlSkRuoVmhJb7s0VjxRI_VYgTnRzSA2qE4ZpMwkf2EQxENJ0azPxM8Mbutw2F20k113BAUO0Eq31K34Lh3Ds27ODND9o5Qc6IUU0GnBcHIsCy_dLL2hKTgg17Lb7CuJTo5bq7hXYv1IXbdd3I57f5x4LKaP3EVDv_b90fUeD5VmOD7RN9PXKCcfCi6uGye2q1Yd0yA6sEGEZnAo60OH4MJ1xi2uXghx8Ch_Cu9jPOiDFH5Zlg?fife=s16383\" height=\"200\" width=\"auto\" /> Daydreaming MV Agenna Shipyard (abandoned) <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X47RvvhMbN41JmksgPgeEolxTDH-Mg1mROg_poxNWhG2IhxPLDAgtFrYd7CCFsHlVGhkNxpvdvIeCuvKukjX-Ug0RUxYfz5RA4_5t_Bz1P0L7ATHq-X7bBF87AQ1V2GK8jx7ct1PU2yIVrkrB0ViFyt6bggSRKi4G3l5NMldTO5t7zMZmBDtCyUBVEuVYcHHXaihitazqXdqJihllq1Ioz2S33cuP9OTPtmWWAwENuv1M0l-_brx6BpLBk0ng?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X49mljaxWnxw9dUosWyFrE87ffWXcyufa49GrY6JehvTM5UStiS6hYwPJW8a3oCin4H_ir0DOscXHYils6HKSuL10bed_J432hD8rEWeOp16d0sX3-Z_NZnncuu5DfNH2z2mUTIOxhWmUnX9mJfR5XTCeAWn1K-ru7ELXhgmp0pAyMyB4SMaWWdPgbOfVbOrvMSMZzL6a52w9Nk890dqUHt7rpmsv1MsfX8IuOcMoMfb2rw6HeO03hHb6Kjng?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6id6fL2piJRPh74eJtR7FbtqUBliNJxtIusiFe2PZakDMyNcbqB_o5Ph09VQySymIGm5J7z97wBoZqYZ8U5ht6o-pqW0Xk7IMiR0M_I6oG-zahwwGXShZWnTQ0x_EwcnLpXCdFLue4ZJutKqW8K7cUplxtFlCoRrDIPuRZCe2mZP60UkUyFqRWEViXs-CO5hRHEDr-Dbb0ajB5v83Q9Vu6j03Lsd4Pf8YDBBRTZAOK5uJlo0OJva2nKia2Aw?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwGX5vvWgkqgFNQdI3KBj5uM3f-_3ZR06etXILtRljNn--QKMDo_lr1s3PozR_6IDXE_aBoQzXtgQgmMTnhJXhJ_rukR5VxQlQNPcfKp_DRXVeTkJ1tLJ-EeQmE38e1EvoKWtmt5EDzvwFcIK5fpCNuIr6GXaWzjJGd7gubowepVt6hV8t0mwopQV_TZU7H5znAfwtVd8twExTGJfzWajDtwv_R509cs7HyjZ-YemEOSrdK1Nov2zhwglSo8A?fife=s16383\" height=\"200\" width=\"auto\" /> Daydreaming MV Agenna Shipyard (abandoned) <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwPozaCi__SRKZPriZib1JVj_FTwPlziRRDdL28Qp6wNPNH0ZSeZ2lb1nBADuV3BAO0vjYiXuNgztwfU8uhv-k_CFQsFP4DDC0q5W4EmJp5QR8bNm-odJrkBZrHl3rzpSJCC0kqx5295t9UH3ktmgliwzptUNrGeTz0GWyWLXYQv9TDt_KtXkw50ON6F6mYvz4oxx-cqGBcUANpQR0G1BLWEErAEWq62iyceheB73cfsOj2jAUER7QrFj6R2Q?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwP5e_b3RUOE9eJyqA04rt2ji0SZRvswGlmwTh2PVwszubI2Wjpz_MGUqOnX-jWX9DYybE-HfeYjfzbitPLafUlBJH4nEkvdbXEwHWezsqLDREiDe9YiPIuRaphDMX4r90g7AkbR5gHCsHMtCz2MQmRsIHr4Qf9h2b7LgDBtBK3yyiLl4qrqW5c7kL39mpZapSQwr6CSPZD0xJk3Q6BFXcLJVjYRhCe9ZRRkmFMQWN4xX8QiWxnc79oCgTdYg?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwC0vdxC_VXZwwR8TeyWQoZN0yn_vRE-Ms4KJdcZynpW7woPe83dSvfh0ygc20L1pQWAVM3QCS-oo9jhDlJ3NbePQ1EtOTM4gVkbM31FsygtH7RD3G_WrYpP7BETJiEaW2F2IxPRpjh70mnWCZSDO1X1_5neBqZ3WhX6y_qD4tj76r4AkHsvLe3kmi6FYzYCbLNzzKsa8u-ZuWLraxpp8tzjbhdr4K837bPc5NP0fhO2YOOceq_IjTr9Myl6w?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -6224,7 +6225,7 @@
     {
       "Layer": "Daydreaming MV",
       "Name": "0:24-0:25, 0:32-0:33, 0:39, 0:56-0:57, 1:08-1:09, 1:16-1:17, 1:21-1:22, 1:26-1:28, 2:11-2:12, 2:24-2:26, 2:57-2:58, 3:36, 3:44, 3:48-3:49",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5Kzr8VrWLvc6TruLAEqYR1KIzQRgA7RuIt7cLbKo_QHLpi03-6deUVv9dLgwi5pjJOwlcSC-VPi3qf3DnNiMyCqFOgBMcJN6c8q2GtvSqu85hv6Q03bI8pzlczxT1QYs7SUt4upOFAdnJmmeaOAa_mrAC6IZiHk_WKVFuWRakkZ2PAV5bCkG6LI6XMUDgipoZGuymjF81o-MkuEeXmUzO4MqW_L4YRgGgH3RqZw54ZrW7XRvg1fajeU7w0mw?fife=s16383\" height=\"200\" width=\"auto\" /> Daydreaming MV Agenna Shipyard (abandoned) <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5OSUajt7DieVou6MFcCAfgOJHzXwybputWMjYuEajGd0b5TcFWFBnx67r7KSn78td-3rmYNkF4D6dSvWkdJ6vhSBGEqzbdtayMtzs4mxWG1ZfB1gzwsZOm_tSgoB95sIfNRjZDKIVPsQSf4z9nq6yd0AODmFXccY1fvYHHSIRrvTibAvLMA3TQ_Xji2RHKAJ2KPtXm14DFYFZIuUwD0VN6K78SSYNnyxWv7abzzkuO1BmnM5IP1ATHvk2FQA?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5-J26f6z8m3XLYrGUurWk-BbS5c3xo2bJhtaquGJfkBun98jocIm1zoOlY9FU1904CN4Q8mwOEA0UZbx_cC1uF8NOW7PrryzkBY6F4GPpLEFq8SJkceKpv1YDUCD9lUSnJH6lkhmhQ8hFeaZSI_xo-nxP2knIpYFBSJEGz4uo7OsyNgYXA4ZSG0ISOaMZqwfR-poCnZ5fcDdRNJYnPheqsGtSASAT6JUEHm5APEu1NZ-5i02vSMGLN_yraGA?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwVcbBfpJ5kTRjHDs3iz_ScERXODSuZu1C4M_7NMByKYD3GyJKbmEFZji7V3JPBV9IW6q0ZINbpNy7y6yHgx7AK8bWd5XYnUuOrnJimFDUbnKASexfGihOKsMPhf0vMG3vBimf9ImRGeriOtHpsLRujAyEnHIA-whgPBi-mTPUeWbZerkOblb1wHad6ALySHi97G7WJD5FXXzu8gdDNlQAXBdNjB37R36qq4zHB7kT77Ar2YCwDdGqwvQ5x2A?fife=s16383\" height=\"200\" width=\"auto\" /> Daydreaming MV Agenna Shipyard (abandoned) <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxWchyoNLQCRcvQrNDnqz-RwXz7Zr3X21bcOtOdCh5hkScaR61b0FGqBIvrM6geyuOTdoolDwVHb3o5ZUGeo9_vLkI33Br5HnLbObZSDjPjmY2QAQZorJfoaVBvuSSDNqHCocoFi-BsI23xE2Ryzu8smZkW7vS-IrRXuTqmQEBlZzmn3oNXiLTg-ahFvOXZNzgw3hgN40CIo0bB19FInwjR8KfEQrDhfiXzdRvDOazv0pBF1Q_xRKse6GhCmw?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzuHIxcPSiQEvirBnYa6yUven9s80bW8e4a5azW8286RSndbV4QsXI78O6anzJCU29ITbifJTqG4NCPMm5RTJmJrTHb22iEf7umpkSgSZWItbOmNGkPMZHYPtq5-wo3MGRFRpRMgxt865VTBCdtEnQjlKjXoKOzpbVICxnWVyjf_L-kHQqFy-RkbjT5xwt4LGSmsXqap5cmnlarL_B5gKQBqKdfh19wksscxWqW0Zf6-VaFMVpmv49_ovX82A?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -6241,7 +6242,7 @@
     {
       "Layer": "Daydreaming MV",
       "Name": "0:30-0:31, 1:04-1:06, 1:24-1:26, 1:28-1:29, 1:55-1:57, 2:35-2:36, 2:37-2:39, 2:41-2:42, 3:07-3:11",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7OrkRmi6LzlF2l2Y4HVgmp_QwjgnFmPt3-G9EaEgmWgVsJcvs8vo-tCH8TtLs1BNoPVNx4SZZSnZ-tq2IBMc1vrkOOaJDo6CSCewMxDjT697-Nd60FRwzHaL6U-KuLrMYxKR3988ex4lxa8lJFWTgvg4XVUg3LxoMn3f6xpuiAX56DdL-jQgRmRn6q0XGLfC7JW7REOsH6EvuDuZ-v_5xba-k2UugosVvDbvp_XyOwIHLrPZtw4aETQ4VOfQ?fife=s16383\" height=\"200\" width=\"auto\" /> Daydreaming MV Lin Family Mansion and Garden <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5GB6CMpBo_JhzYL8nJhfOoeUx02WsdlwsTxilqC07oxo1Oia-qh41hjTXd756aEsowntZcmuD79aGGR4gjjWegoWtueOjxDkZLDFcci3XUSNlHt9vaIodj7qf_GeM3I-wHzVaTEiX-W9XPqHjmCmYtdz0hWuSxWn-F9caknpfxKDv4LjbWQnDwAynTvlwS-pH8crPc_aXnSZT3jmnBvSR8UODUXxl4o85NUSMmH9HMvnKdv8qjYU8J7Zmi6g?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gzu71qFCkYFZZdiNniWWBvI9YFlKmhYJfDMKruoJjnc6ftBD7dCv5Orx7Ci8LTrqXbc99nXM9_dsTfVLxrg_BeSPxAeUJQ4TdySdLgTkS165Lf0jPI4rexu2DknpkfcbOcgKfis81GeDGnxkyAr3A7HAyVt-xNCMFviS0QPNPEGGzWdWUFWo4odMntHxkAz13QTvtoS11PNWChdhFMQrP0NGA4uzeVgkIsgIzVBNs96nJDuYDYLwUfpOtBWFw?fife=s16383\" height=\"200\" width=\"auto\" /> Daydreaming MV Lin Family Mansion and Garden <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwumfHfSHoP6Dp8TgmAan2Q5lGur0yZA9awYrE1vbZdxkYrST9a0OJsKUexxSGBZLcMPOagC1gNJniAN-32PBgLbYFistt_QQtPeWYJQanCdkQcwkbCuc3hazz7OjylB-YfuXFmp5SX_Q86q56zIfDl9FUJ4Mq9WG9mvqCcOJWh3gQCklIJ0S81oUXvDruS99_BbvROMVzbsWYJzbb-5JNNOh-SdB6DoUAR6AxKauHbGY3ejH9ds3YafRf6ig?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -6258,7 +6259,7 @@
     {
       "Layer": "Daydreaming MV",
       "Name": "0:32-0:35",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X54BZSvAGkNt7R7a9RyTGONkpeB_Zs6FiYVxF4foKp6pNB044wUyR9E-XhmTTtpeUx9ahGLMFp8fuNUr3DCfeYMoZ4RguLkU-qzAvmAYpAUNeBoMqYN--YxG9lHU4NfI7PHPc_96BMzrNsydp5uRWMg0vm32PnD-ROBWOeoR-ayH1bGMICWeK3DZWVCdUMWJ-g9DVYUpA25odp1d9F9LMxBzv36fgxONtTqYAjBXa-_3xKqM6BV4_iroBfqqQ?fife=s16383\" height=\"200\" width=\"auto\" /> Daydreaming MV Lin Family Mansion and Garden <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5lKs_GTh5iosuejfxVsVLJcd4ky4YilrfVASAMvvDoutXlwgMqhmRCg3vM3wcaTDURr9AHzS2ZjiJVyeNrYAEGtldbRm389pmY-S78VHgsVrWsY6QehUgGlsYstuoDKmOvSbpFGwc_Fkrqz9BEPjBSVbUM5d9V4F283ePg6CIgrdI-ler642bcVtKNmJkIJJH80ZrWQ1dxDcMj8Q6jDixYSkfWwEDGXlXX1Hfo41hxeK3nJ69Q_xpNID8tAQ?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gxs53KW7sWybz2z4l8kI3LSUYs3KCxmfdHbzMktQOrgkDS4Mkm5TlsAyhPcOKwI5Gk02FuD0_pySOQFCV0Mian9xLj9cD0WntV_01xEA7dUbr8nhwLWD5foEATUr9GBKY5nKMTj37P7iLtbVZrwLJJq_F7gMXdYkj1znTj7TI1WVm1CyIswWNfCth1aqmIIRNYKsv8UEHPy-t1Fj5vRjMkeUp0CVGFko2LeZDjeLPd9Wy_UUZwxG3GoNZUptA?fife=s16383\" height=\"200\" width=\"auto\" /> Daydreaming MV Lin Family Mansion and Garden <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzUwmLrEMl_8uHJTJiC-K7UI7p2BUWcVnVeSpZZL38wSz40c8-4kZvmWcoYyYoJ798-qKzzYpo2ShdcmzWejvFC67Lpz0AQZd-A6nX5kLkjrLduScR3G8EPrgSrKQKYM5rGTGML2nlmEpPywIkCL2uehBZnhBRinHJ8vDN7yryiDMGjsWPXW_BaJCVsRTCHZgw5VhZPfaga4Zjkm5GNOfh22hC5e9qDCdVNm2iAqUMBtzPJAAjt_JozCcZLJg?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -6275,7 +6276,7 @@
     {
       "Layer": "Daydreaming MV",
       "Name": "0:36-0:37",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5PNArAOk9JNsUnUNB6uh5Oc9i4_igMhD6kfUXLWY-pie-hNEA5Ey6Ev3xyDMIr2vG0sixpdT2zMp53f6jrJY7KJsWW8bNwVayeEwaCLcytfRYmhkF6dy3SlKJrPmxL0Qh1uD4b6cg1Hi2TfC6foXjRG1KCzVuffQ5JpH-zD6yfPHdbSx9aGBblxQYUeUhWD2VOX3Pj4mBCR4GnbmmnvW1wcbpxFT32BL44VflwjhHGO8j0yuBOR-RiSX5klg?fife=s16383\" height=\"200\" width=\"auto\" /> Daydreaming MV Lin Family Mansion and Garden",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzV-rjZRbH8pKYEgmv60yQO3Xebq-vVrIlERo4pWnkHHbb9YjhEdlrYjbfLn-jgT-php5wklHfM5gno2_tGj1t8E6RlAVlbwYoS6jp1pQ0EBYzYLlqrSIGkQ5lFpu4I6cdS6c266GTCjK-_oP2kb6dGxHq-78EQ9COScuxUV7oEPdRNlVEpOiiR5oN35p1e_nc60i293WO4Dulkzr7pvuCo8Qjxi9hEdQfOvb2Gb2MnI8UmM1MwugC-37BMeg?fife=s16383\" height=\"200\" width=\"auto\" /> Daydreaming MV Lin Family Mansion and Garden",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -6292,7 +6293,7 @@
     {
       "Layer": "Daydreaming MV",
       "Name": "0:38",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5eHDHRjZ09Z6nhhQXwylr6JwQAxR-CLp0kHgnlh6YCFEGL6AHXhXbOiLfWkk7rpU2c2labGwVLNYfOAQ8WNX265xqDBoJm0p21-5t_cbUdRm1ldOrR-xZSFF1NJhfKAHGYOqiTWtfp04PcHcHyT5PmxkRoDQgghWPnAu-OZ4CIDX1L3fkT40TnRph_PMzLeR8x--hP5R8NmCIGiTH0Y_crVHQU_-8COLGB1YCMFow1FNA2rtrYNR2TllXHNA?fife=s16383\" height=\"200\" width=\"auto\" /> Daydreaming MV Lin Family Mansion and Garden <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6jcdwWc9GUhZzGgtOe7CDyXYVvJ48mn-Zb6B1Nw8olhLbQR8DEQSxtSVUzez_iW-zomtBIrjWcSRU-zH8SxWLElHg-usn6vFms6fV5PiHQIac-TZ4O_yJBaMlcXDUJ9q0Q7e_94E-B74RByz9FyH7r6IKgcZmilCfBqju9jL2yhnOb8-Ik_6LIjheeJw0BMhqUasKXg98rQ2JKdZOK8w0n9HpivNxN5fZZ2Y5DSdyQU1k84wUmKPglNKCFnA?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gxe49c339sObnvboSiH9w20248rU7duyll4Z3KaBkB1VUTkUkJnIv0sZwqtEFC6QjotixkDsZTnbfNDo4jAFPP7-9XFXNWBxzxEUD4YFX73_Nq7oG7i_5mPxmXI8sACOjjUqBu6w9GiWeU7R4b0HPMPyefTTLK-gdbtUVeObKcFvkoM1mtk7g4VJyPnZQUTGs7jglsQr0MAwuSZxL51Y33WhCiov6SfBizfoYe9mdk1n61PcYBFxyv13mK3kg?fife=s16383\" height=\"200\" width=\"auto\" /> Daydreaming MV Lin Family Mansion and Garden <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwEo4Q1cskMOjrhRFEywF5b_T2fE14K7RzuYUeKStg6cOvPxI03Sfxx_8PAOSmSChFx232cqRx6k6ZTsVcFBh988Ox2adxhHVKxH6EC2otc5mDSU2AxGrUDhdxiddQmZ8dCs-7bFPDGo_v7KO9lYIoBfEjMhBL4uE_pNL4UNWhFoO-8wTK26eiOnlAvJ5kMJpLuSh6Vt27tbpyioZOC6UQuZyf-FNzYPM_6L3PchqsDqIwWYJrOK5Ur8l2R2w?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -6309,7 +6310,7 @@
     {
       "Layer": "Daydreaming MV",
       "Name": "1:30-1:37, 1:39-1:44, 1:46, 1:50-1:55, 1:57-2:02, 2:10-2:11, 2:27-2:28, 2:46, 2:50-2:51, 2:56-2:57, 3:11-3:14, 3:18-3:19, 3:20-3:25, 3:28-3:34, 3:37-3:39, 3:46-3:48, 3:49-3:53, 3:56-3:59",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4_bi4qjIjjOid3nWovGz_QOXHhwhR9Zb7nOxTI1BfmD-ATXEVMFvVvBDKl97A9duGQgXQHFjt8H3kAEE8jPIL2mpAVn5Kx4eQMKMdag6GEA6xtKMZC_BNqla46Iu84UWJDT78goc3yHUFqsn2zvyBLuTaDNVsg8bALaoL7iUu5rmxxU4QkHgPbu0hJE2EfXiYvpmDvbofThix5tFRzCAK6cn40gNV0pqsV6NQ97Tw8IJ-INQe999k2w3exxQ?fife=s16383\" height=\"200\" width=\"auto\" /> Daydreaming MV Agenna Shipyard (abandoned) <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4rp27758V3Urfj_hg1A8aZUs0ZcLSDO5uC1LbiZ9bfm1HwI4Dd7KG-zSOmfYzBTzjJXWKp4YnMQmWAuVkSz_0o0oRvAwQi9zX3BFgyAOAVGCDGkWlIa_sYeEs_kbnSfIrGrGw49-RvsUd__JBzXUI-3pxuFqnZeNrPle52A089ZexW_XIiih7uHtZIt_vh4ynMHbjC1zWckp9maAVtjpx40ReF4iphSKSFsEWmcgtQcM9C1mO_K3f7FF_46A?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4M-0EDRJGJdz7shTQN0MUo2ebpEV7xthItr4x7MgTpdSjzxag-5K4Zl5scK5dXdNa6owEyBgnk1ALsHXfHXgWQ3iMSghXtoBhgEF8cQ-0Vu7xNMUTNoQrU9e9Ifg_WCRRodg8I02npJ1WeMLe09VaUXWAoie_3ejWlmbMHfWDIF8O-ybMGHHmfnUNF5Sc6ixdChzTc9pT3wFGjzhkjQR5EmEowdEDcpDDbSWjkHbBFe8RjKm26ru3xPblVYQ?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4VcljUG8TaQ2PjPifTrmy-4KsGJb8xQQXQ3stbiM-zMxQRh0EsHnGSKXBUwOLaGqOQbkRRxajp267CHn7_4N7XCXP_M06fbIWcNppIpIwGrgJ2q_r3VogKZzaa8q5qeFM2qfp3XrszhlFJ4mQ47gJBhFNMNFTwpGUF63NoIaD8SJ25jJu3DgLJWeMF_wEN2ZkHNTD0XGR8ZmshJv8zik9yutB2jcQIZvPvujNFh0S1IZgSOW3SVyMc-gPY8Q?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5LShnTrALI6wNEOC6dqDzGZkVu9kXJeGdlRJYCP8zWfdhEfhHktcDt1XS_y3haA96jQ3TYfmf-5Lfgil5I4cat_TXixqTBFilfMQ4oXVlw6xI4HuFjT-WHLKs_xHiaTr_82i4NT8NN3Qrn3AUxnFAXwubZEXHfV13K0U506ZWFnR8LW21a41xoLYkYyP_osb1b5eCwfQK3t4W8JSOhzGZ7RFnTcJicQG2btiamVVprbkSM-d1AbQRkb8zBRQ?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5oDSvH-KSuI93g1M9SMfYD-sNeg_DH63LNgYgCRs9nho5M5H_qxaTsjRhUa9Hj2fRFmEgQFukBzT8g2-xv_VnjxGFdQs8QRDBlPFl_hPTwDtCw9iJM7qjOxkeqFx7dDro6I9-VFCxw-ccY3HY-H_e8qTR6Ax_pNSthe0TLAPNOZ2rdFdgUCmPmqfcWeYKoLXChV_taJ3MFMOniidPhX63-pv3xpwWJMRVBD72TpFmxAVAJ2EmzFXH5i-x4cg?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6R8hi2stJUtAaMB-6yEpaUoLu73_TZiPPIyqZxoN5RXBEGOuQfyFcMlSBvXKORG244ZYbeFQRmHO_pOR1BDHlGrq2B9bvLA2YHKTGdHBFuKlV7UwRrdW-muJQxWRzW4L7xe7ByO3oaGjzwlPizY7FHRlz4o06-gA68-nXcLwltyiOEv-NmiL_6zmdISYkD12Duqo85EpsZCslqp43NLBtAtdVd_1jTzGOw7wHubPHKVN4AdyEUbig05PA6EQ?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X647QyDATOFbRZMccVX8QJDRUeVHdnfhjGk9AIG-zYGoumHGCbFcK745yqGuXyOJgUeSfXDHRHE6VCsmFuc5WAObW5gF9QqKih0f7nk6km0EbB4VGqE1oF-Q8bXEvgJbqOW9UGm6WPAf60RhN868LJRiI2zjmXvLXgkP0QU62kc01Q4II0Dr2cmoIaYN37IQPp6y3mcFFN6l5FrGjFJ2u5Qcwwp0kAKsEdlEwFO3oU6BdCQZcHGTA6WTZ2wnA?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5SLSGUjhI7GMUweSUBBk0I6E3vtSrK0v_JUdOPAxRkY7rH__pJIqu2epyaOQqC1r9kIkKGnZg2HH8dFAdonc-41H-FPHkMdlXWpKs-CmGsgihlFOhHv5n1QQTJ0vA6K20jEsRXGQWeVvIhi63ZCSNKmpTH5-IP-xNZBnfrEXpdvSX_-ZmBcfdIPf6WMlDv9TKYiuUhVHqt4lWkpJjT_nqwd8J722oi1_AK6bhgeIYMCk2pWiD7f8qsdA7B6g?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7r0UvGf5Ps_AOM6pEmOCgLNa4rqGlbrR8aPHkuB_dtyPL_u9-D2949cbFFEhPpLMrrSPhicfhQrmKwDc-1wbcVNIBnEeZa3GSQH-VUm_fum2ikBfEiT8DptVRw0hLjiVFOz5nEowrJPHQCpQ4bt6SQXERzLyz59n2lUPp-hPXD-AgzVStyo_2SpXfyZE-qaPh4i_xsTXHtWdN53A4Nj7As5gqAFxPcuyocbu9_H76h7I6cdbYIu-YCQ_Gc1A?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5Xl8NhlZXnQg3wwIaRUHwgtbU60zZ1elAiq6SjeCuk-RWiTuQC0Xw1eIOakF2FSHbPCYS3QnhOmpLv8aPsfDaIjOjeRNAdNq2qtbek6AinhEOdytPcmpQ3K1s4War4TaTLxPgupDB0Im3kWtCqTiV2DoGJEbQelfsVQehEAKdf7ZiG5IJy41056K211p_rQyBB3iEfKMJjMm7KbdhbJKdpyuZuBB3lda7a7wOgkXRdOoCkcV-49v6n-C0ZDQ?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwT-ac_8LCj_HkX126FPB1sXyWdnPEwQFcrL6EOWF_Nzfnp1bolqeK1nwEy9Q_dAny2ZzckjHuvLYPbHDvci_9sioHJoKHCqfwlNs6joxyegkgFdpZ7M8KTnu3R5dy3nLGpFFJFFz6S1ZmckQQIRbJCGikspbqZWljUXnKNIRcCg15Nvs-mLhDffvtuCBDFK-PXfvgDCU7X61753TEwOs-gl0R0h4YHWWnk0Ciq0_74qFl5uvPfeQUTe-xoog?fife=s16383\" height=\"200\" width=\"auto\" /> Daydreaming MV Agenna Shipyard (abandoned) <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyhSEGG6PAv0yyUL3eTNvy5-wzBMg1XAht4fyiz_89jNE5BnjHmW42EwlNgBa-aGFBL6lCtQJLFTIhIJZySyKYNPTzIXMBOmRoVOs3Tslj2Z2jGbu-5jnnjx8VKnjPENs1JjphrfdhTTaPPd9E5QGT2wzfSOQinGBTOZYiG4CjGMx9hflCgCWi-auk7oyTa88UU1b1rB24fwvnznEsr5YDnsHgT7rfA4fmqFBlhRaPqcpMGo7I60wkDL66oPQ?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzHIXprFi4n2LnPsJllNsAPzMAJcLJI15wLmKg96LIEQuF167t_xsaYjbFYmxc6Py_UcUcuTUjvnBR4CHwYRFXmTULEiy8u5Oqf81EFnPU9Wxrv0Yio1y5Y3elJ3AiHf-b6cv7PTekLfIooGlWH5fl9ewS4aXz4jcA5swaMH9xQWxT7KirRrcEqW8OPtkQuE6xCzcEvIN2oOp9w57RNWeOiql88YKZ_6Cz22NUM9cN_LOT5-k0zizUIXrZKrw?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzHSBAmpfplPOlE2965W3IsVuJBX4cwN6-KBGDjlzB1N31nh0PLnnEbFTgF417pWFF8V8MHSHcl9fmMD4XZ83xVqlKVLtbxU0_aU_N1XAjDtPZQsNhxqRs0RJlEo9OdZqr24_AqIY3f1GlYbpRF_iHkPsOIVUM8VI42SPDJCVQudj8znozb72gcxpSyh8CY_OCQZm9-fc7ptsP4dc4C-vy3sHK7wNP8Q-YpeTbwXoA3XRmKKws66DE_SfxHMQ?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyuacBdwkKQ8Ymw1-O9H8f-BZ86CpB7mk_65Qb_NsKFh0Bzr4JMKagfEO6rHf_lPgWmKrqTMqp_A4dVlheOsXE02R3ww84uODTxfGfqcrRz4MjrS9xPT54Pppub7EKuBOQckwsDaLYsXBwWBlvCLwSpA-aFUgZx7XB4m3I2mqUS7lSrzA7Qk9gISSXhTalJdNrHnD4oXwIzJsmHYQOoiBFOGF47EKU9Gfp6_gm7fkCMjFYRADyDMOgJKaKZkQ?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxUkCJpKKqjcro1QOL4dpb07FdyOG8tpGwDHsajHyMVGFKUDCnBrU6FtTRVo5ADMRtPumbzmrXONNDAiVtvpSM5Jq7p4KChDPh8hPS5kqXDGkcNu59L4Fue_VVzAa5uN6W1NXenIViEuuqFqzAGizLb8Tn2i32kOdGBHV0U6iRZBG70BDgPpp0wVVYY6304_9faEhJLoths3Tw5unpTRPKTGQ1VrPec4xrdEeR2DTHwUGZpIPP0H3xcBuhBMg?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxtSw8DGWh_61DDWg8nSzUanXj-gL78ku2gI3g26YZjbQT8MDxO_0ESl7HbHqIjRAynEMVxFwxP5CCjJjUPvH2PWh-cXaxkS_xDUpGe_YyaJwdV8KFVIUS_ByQ-wkR0tD0kMmBExuv3oIUlCU383tP17g9KjjWpAcPEeYZvfpSPD9rXI6Gn3ozao_bWN6ml3r_BSwh-s5c9KICA0Rl0rSUrqVA4T76uHrDYupWL8PSZanOqrFeL3Vt5JHNmjw?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzrxvF2DT16Ru4LneMcpfvk0YTZv1YxVYDWtSdyrJEIGXF6y_b31GeYsXemyP_QImItrSTDZbYjMcnaAXACynYxccFEvC_z2UaFpwRUgUR7rR134usn17KOZUCwi--0_8QEbM4x6G9yrlTH9YJpjFZvCmT_GoNUkv8Kk-Xls90pECuFPm-glHmEnzKN1t3Z9gihWINpSiohQJuDAcWAGA_2JAwugr24DbmLInlQL6AgfoIwi9RgGRiz4qx8TQ?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyqUNZd9FGbhrboE0CeE7BoSJ3UASwvtokM1l8ZOvCCK2q3SXtC3EGmP_nSmcAhCFn4uZq0HvgHqlh06PbfVrD36e6KMjpSCQDIMKjI-0LA9JvPTzziitYpNk7MkM46fI-mX8CN32NV-v2csbEQ5Hciav1LtABukBF7VZgGgTP0lNzZlMx5BkpEbNV1WZITpSRXctN7W489FLWLdlg3_3tGtx6sGCr99CeAP0q1eNDE73h0vIwFHPjEpJ85AA?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gw6SHlbafNbiA6AjTwOJGoDbcuLAj1nMSBYKRxd_bFExxR9aswGoV2UxK25NHLMGYR0qxH-I1Z1KsmPA4oP-8PyKMzIoLB6NtJGpJ5_cd7fiVql2p8wwHl9nQ4RwOJ92dCvieNzhbsFZ6LNNT320WWybN6hi57shegK8uYxc0RxGJbdsLeOkGzq64iUZWzd6RbCmj-eigIRoWhKxeOzNc3KDbuiPrJi4jX78nnn63dq311wZIkMeirXZoow2Q?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxpTrLcucfmkYmKdU4Pi6DDpwWJ9IoDWGW7q9eCvliTxu1HrY9316w0jkOrIlla0-ORExVxqDN790oQK02Z6eciPh1hFYjBU8kxpRLqoFzZOdSiI2gPY1XSKS5facRUrPtTZ5MwQaFsab5HD9j-E5PMjsPVrBUdP4UNWDO0RxGlxhIBUnF-DdImMKHMz8K11l-y8fBEhfHrPV88tZpLXMcpR4KMAjnd_Iip4yxgNj-GQMk2jaRIn7tOE1lg5Q?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -6326,7 +6327,7 @@
     {
       "Layer": "Daydreaming MV",
       "Name": "2:28-2:32, 2:39-2:41, 2:52, 2:55, 3:02-3:03, 3:40-3:41",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7W3NxlqesXJdDW6CuIi0QASKHyycEt0a2NO6DQHdE9Cgk83cyHgx5gphupv5bPbyRZNyEZx8b-29Z8_TnY3ZbSXXE2VKgjWX_2bsSDBjg0NZ5NGXIA5LRImmIW8yOo8aTe-v9aaqLWRG_68vRTZrIJiJwC2aOJFRaVbzDNbG9wCVAgS5XcjPCetlZDP8gHpkfgfc3z_M24e8MwBjm7yyOFd_k_Vrjwqgwn5tsaycBAXulJZ7x_pikE9izhbw?fife=s16383\" height=\"200\" width=\"auto\" /> Daydreaming MV Zhongxiao Street <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5mX6rxX9QZD64PKEYxZJJQ2Aitc0Ygg_a22ki0_RSysbVDOrB1ODmdMicMy3IE-HAnYBPUhiCDW2uWXkvyJDaTAm-Duwfp3Y729v3DxKPZt9dfdt3TIvxnAjgwQYokra1fvtPcY7zu7MkA6VppkL46-q3Q6OAJbpiAP3xJIoQ73l5dJpBckTLzR_4PsZxsZodfydUKy-fqQauN3FPXdqdCShx2--Fe0PhAUrxky9knx_t2cCDeUvcZObNhrg?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4t1IzfQnFpnqR1WwJx-yCiwcVwI9QlrbpEhz6fSaxNdHcoW2YoDseq0aMbn8kaJEmux1w1t7h_p2rmDU8qrUI208ONgjbIIUAnLgy2RyjVHEkGN0RIu1K0nAujXrqZHmZf7Euvr7AWlPcCx_-ZjhFnFywq5Sdjgh-1emWAkfHfsjLYzI-dXdUTa8Q5ooZWNeXCpyLEVU0RNEY9Jkwgtl1w9ioDBQcI7jKIydLdVAdc4MtzEw0rlCIAaKX2XQ?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyPEEW9k4COjL5dDmO_6QpB1tl9UUayz5d_5qoi26uwrtBUxoxpXyiP4LBv5zhjaaPEaKJ5qDe4CjI1Ks--I6GBT_ij4-GCZK5YSwE393D59Q1ELn5xaTTxxQqrfOQZMoxeyjW5GpNEjTvbp5Zz05lcKdVstIa_xwxC-dAbdJnVkV7MpFIpjaWxM00q_JdZ3X2dwxf-chPJ7qPmj1qW2vzLQxw1lOJDOS4S0kQ2xJ--YCERnJ2slHMkUdKquA?fife=s16383\" height=\"200\" width=\"auto\" /> Daydreaming MV Zhongxiao Street <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gzd50Rkopgcoe_9bi91wf67uoZxlTxjTLPZjxSgtZYpfyeznZ7e00agHEjDSr9TQwkuwX4Y9PtwduzVR4gZ9P88jVBpnXo4RzWca2EUzBw6-k56O5J_W6jid-Md1NOY22anJme_zwHlFoTar3cB8u0leuqHq75AZBuRfay26_KiK75Mwpn-_dyFMtiUXEGqLUAMcIq3mkbRDPUCRl8MYeAMCdBbwtvQLmCfkBGH4r765cYtZsB9k9nZnhbM_A?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxCRNTzHYhL59HuW1huDYMR-M6HbsLBMNQcsjooyxgnDqRxw3yhtXNwDRCyRDE1xzpz0uHTeXQCT0bUJ98GXt8Xr714c95FcNzzE1yJJhAJAuzYeMhmiIB0en40nEPE8-GU5x24maYmM-yohlbpwlHjBtUrDtI1TPJzdSFBGymNHW9Nc0pURxmMCKupQbeZn7SOkcVJODnM2hWXn_IbVnF0ENJNmnFTjdeT5eK3G0PTmMeXlsAgPfWucJjXfw?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -6343,7 +6344,7 @@
     {
       "Layer": "Daydreaming MV",
       "Name": "2:32-2:34, 2:46-2:49, 2:52-2:53, 2:58-3:02, 3:03-3:04, 3:41-3:42",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4PJEoUjgRuLBAqm7n9m7aHYfyPl24RhandLAQyGEE4H3xzlyH6hV5s2j-_-tdZESucCq0J-0bolZG5qFgnKk5WYtKbhdXNkXalOKKdT0PUwVHFUXJHRGLcmmTpomRGjDBXoJNhJ8qxTqgvZM6EuZYGMCHz_Nkug6TBedhSmjiYUgIZDYcD-DMSNjxL4hoq2XX2W9M_OlOkrNfZJhPHXGnWjMeg9ehpKVm9Ut5tk9xbmyMX3mQn86wdTGSs5w?fife=s16383\" height=\"200\" width=\"auto\" /> Daydreaming MV Xiuchuan Street <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6SaldrujfB0QtCT-9zuHrBlM4jLrUDVfxrGZjkftGXn6MTe43cmAuhIthZ0ZIuzSsjcnFAA__uyIGM2CW5l5K2QOmcwnIumOoGCBWewjzgtyKG2LE7AzCuAGyz2aaG993iLp06uSRqVOHWVrb8kgOl0YI_XkfwBYD5jG6L4TsyqJR4DCXJO-9GcOMg5Mi76nUqcnOosXYerZxqfHbjhomKiTFVduoRsrHeU_Qom2JYtRPyLC7YBZilRl86vg?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4JpcdceUsZbAYVeTM-gnIUbKROtcQFVfmKYomyFZE0vBBB0ObyUWFZL2KERhlT8piqzYygL4_uxMZlm59ACMfsoImY8ZZtSmsb33SNez2kcA8g7F3H5MKYd_heNgSxMVMK3k9jjUPWbF-eZDyoUytHsRz2xQawjHhh5DM74TMHQfBEyNyocHKJzveb-dsr8oLRePFUs060JmSLdWc94imFGgRl7DHqSLB7OPayp8rD83fZfHefuh39-UHxYQ?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzDCOqPWRfHv2BocdUXYFM9-A-RiuQ4A5PTr6nFAxXofqPMN1QOn1IipzU4iPaaTOCeydIcx0OmW8nMaAdhSPSOLi5zw-yeiWrcrC4np-0voXLOR62hwLvQHqa_kNuOiDA83k1M3HjH23NFL9yM4rBAWQNyupM1adlTweI7ih_dC-SDUL7LQb2pKXv_BCbcTRoGtyGwo3ndu_oh7zHpFrxcFy_J0Kaf0bVD00GmPFrqNJa_degLGPyxgdxSrw?fife=s16383\" height=\"200\" width=\"auto\" /> Daydreaming MV Xiuchuan Street <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwBy9-IKXl1VYrRiMGH1eckPzoI8OqwkJ4WBMpUnOosOsKA9XOi6Ar_XhKBE4CESEUjT_Ct94QZydBc8ZMi4hU5EkbQoXcJ_GQIhKN1v9pJYlbiUYu8gjRiFlBBgWaRZkiua7KGOqLg9px8_bPqz6LjDC8dfQJintRq0KOl6oDG-txu55cLXsSvb7DPEgyjJUgNGeK8rGhy9Z3FtLJAKHIDrFYl7IK8BUDEGfQnS9PNTjhBSZ9Gch1byA9tXg?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzP-Tq9WjzQ5HmSdQWrZ6MS_jRvx6hUSkaTiO_G04B320lylbk-9hvWRZICTDS3Am1qgcCenMuZoiL3OEufgp_Y2PWMQlBXf-IYjJcTwqJgoJMX4qE2be5pSxp16H-Q8uF6b0vxkg8p5gQXB6KW-WOtC5_pAfzV6oIkX9mpQjSjqLMOXZYHF3UcWFSB2HVP6BAZkfj3HscgCdaVIopL9PPUA5w1NN2b2DgS2qAxJ-34DKtQDR05FYOqCuPzPQ?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -6360,7 +6361,7 @@
     {
       "Layer": "Daydreaming MV",
       "Name": "0:25-0:29, 0:31, 0:39-0:40, 0:49-0:54, 1:12-1:13, 1:18-1:21, 2:08-2:10, 2:20-2:22, 2:43-2:45, 3:04-3:07",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6wHNH1Bi6tDy4X_htFkQAMVGVi9li4B2CnERZyV6ziMVpXUsqbcHrrPkJGxb1NlYZU0Vx1zCdpldmQcy2HjlxHNx7gAlxwaA3cXvxf6Zz86sM7MV-7Y7EULN5HZjG7F8V-p-izxTQU9N61kDPYcGGotNYTYC86n4Gz5AAILc7LQa11n_QETF8YdgoaXCvx2ROC1NLJHxEQHPrcR1upO3T735rrrCSyao-B1hQS73U1YG-Ud9rnK9c3RjZfoQ?fife=s16383\" height=\"200\" width=\"auto\" /> Daydreaming MV Agenna Shipyard (abandoned) <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6Dmr5l_JZQ00ISt6ftI2WCqFk8hGeBcmH2Au6srSn67tk_rgN0pEnFNBRah8mfgMqV_6AoEpAZ5CJcdxg4g_LXoQNQ2rgx9LDtOq8H6qH9RJDxEno3rCrsA483M7aDBV9R-4oyvSokBX0-HuhW3KVRIonYJW9nenKTnO2eAMx_djt-6w3Lc1cKSiNezFOfLWLrKNW8DUol7yfIInmjquSca97ytUm_TAQk_TQuZ3Ky9JUD437DYXIH8QO_CQ?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5PR86-2MwgTC1C97qt-qmJAYhf8S7VYe28kYDesKuC7vTh-W3E40iI4rkA6Md1hMfttEE9N3XbEGqkD34Xyb2vtUUaUk7rs2W2_ZAk3boHx-HxYmetbZH19enxDbWweWvYMzpx9VnzysNtEUxhEsxO3br5cErtvISzVGWj60e8R8mCacGA9TbEsykSZAR-Gof3x6VzWQtyEjUu5YLeTnVbux9GxgfggLQKBXlP9Eotrq4bT21p8KclXmXVCQ?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7q4AdDv5rvCl6xUmL3XbJrPQ068AHhp2dheNEcF41FW9JRRRceKsmGcIXk_YTnhx27ny16bJ2D_ZADkmYVJ4Be8h4hkGvOD4I5CNN71cWCQXLPW6cre8wHPO3OJ9MQL1etTWhpr_CXbUVhnZhs9Bi-2bnkzRdvFEJEvv5HXj0y3BEKnFihiCwL4KK1rwAq09UQ8FKAwHsFP4flj_AOxGkYRpc_4LTf0weRBYQSZZTYmjjl1K1596JMaPUuOw?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gw6dZo02m9vMrGJ5VW09jEKH7l4X0VG0QfiCJ1XevBYngQYL3Z7cqIxcFiEIo2K7hnnHwGckaBVmdlzjMrVpfqf7P2ha91byWf1Udnrvo8Pspi4PwEFUpv5DQCuHW9OgHNU4CM3rk6jltTJWNsZAWc2q_L46IC4kw2s_kPOcyouPitUVKVJFtzgMGY8u6-SE-C7_htxI63TqCir-fiH2vvNqmbXydhHzeKqPn7KTMiqLBxLqgfLdvpcLnSQpA?fife=s16383\" height=\"200\" width=\"auto\" /> Daydreaming MV Agenna Shipyard (abandoned) <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyCQaVo9ETA1QG0fOwL_DnrrXENRtZy-PuXE_uUq-9wg7MKtO2iasP0vrvO46mkXg-mKybQ-YvE-1e2_7H099QrI6q-jK-fiqXbGZev2QGcPtWhdM5Jg5vvbotiSNs2uS-2brcrUEwwGbM3wqVGh-E0gxx9vEk-uzVkYRm3F64-iUIZfHshpbDz_IfNd5OxioG0lcYuWfphZxb280Rgb2CFDevpQwk0cqY-c0c2IkbzdBICamkuamZJPjaxig?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwxVPPsk05Es5DAbz-eumqead3mpDrB8KRAUYVBB7Nup1HMkRQaz4vuqr4rYZBf7-WbHyCixaWj66XzgHMcDfUgfaQ5PkbOIyRulkXD2eIqd94sfcT2Ug8BGZAjdMcCetuExVZOGrKsO_rO6MimfwBSuRRt1qGVaGH9UKxv3pRMNZAhYw81juvHSqb7N6SOfmekDlzEqihmU9cGg4SRriOjfA4eE8Ikshg8lh_TLrEvAiDbuCrZFPyWrNANNQ?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwsZmZxpIf4JOmp9T3IZoWfRKm4Iu3X9Y4frXVPDd1cQpQ1kOwIah_hhJ8iMWfyYCWIliJXEpiNE_F1JoEuNgDyVxsL2zBOJb0woy1Ee2F3w3usDPwxLs-7mY1_dCV5wp4XGMY3ZkktfxkY0RL3Cwv8X9JZWKWSXeduNfeMz1G7EbWPgsmGlKs124_xHWHDDID6R2MT2ffWEIQuBDp5c-6nrmitTTCQioTMYke6rXOSP8tE70YnXHoAFB3sWQ?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -6377,7 +6378,7 @@
     {
       "Layer": "Daydreaming MV",
       "Name": "2:51-2:52, 2:54, 3:39-3:40",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6KbuC3RVkXvmRvlSdD_q5sh24S9DSK9HwrPRfqrptIcgp-dsgSxokfJpaxz-bsaRrliJpeaKRhHkO1-SIn2pTDfnHJZfPvLufXaUTvfoAZT1sjDyE4fD-IdT3osY8APPtQ2sq1W_kbDxl_R4bc_dad_cmPRwrbHU6bt4_Z21ncRjZgMhT_tmXO2OLBfcLYfcxbOl8_y3GyYF0MLYO_nXXuMvbICQ0ht6BGNYfXlOr6Fnpcrj2MN9PthwHRbw?fife=s16383\" height=\"200\" width=\"auto\" /> Daydreaming MV Xiuchuan Street <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5UQ_Llyk4lcqRX1irxWsx4O3ySpBCEaPSbDG3NHFwO0ysyu808J_Ni2pepmdXPwAO45BGrWo4nVZCwN0XxyZewvDR4U-ZbW5FZ7pwyxhZsKynLhTyuDkGCkHJ1sYQ0zEUfVyVDOhbYqyNLMzENbjKzAGgaMuGUN6g78Khe2zdiDcCM7hyS1rCyds9mF6MJSYE_ilLVJvRRjo0Rl8ZacFto0DIx_eInyRjSSwsbMqkoZUaJwETR_ysId0Hpdg?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gwhx4fC_t-zknSgyDjz3r7SSO_zegg9eA2SaisIdx4tfkxnPwdY4s5nSU5w1ESGV5sz2-ZGLzz0YEe_mWo0BV_eZCc3GbTsEqBjTnP62VbWnq2GM5CuNa8Guc_dVkiZDdEQMQ64YK82Uz2RqVGgbfYu0inlQyeEkMwomxRids2njuqoQ-jiYbeg41p2gqQmd4mObHlnx2g5VFKYf2zt6nIpgzzWxzPrrgmuXYL2zlzdCBoOcA6MLpZNASPVzw?fife=s16383\" height=\"200\" width=\"auto\" /> Daydreaming MV Xiuchuan Street <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwQ_ou9K9plL_jOeKadPiIX-1Gmv3Mv_Rmy_WsgC-ve4H_n4kimVrtVfBGxSi64GuwnwWz6GPqsct9RH3UHNJ3sV6c5L5_ewFXD5ukMkUvY8Kp4jgOxrzoE-fJ5s-bkc0cV764Fb8HhHbpbHn8_QvxeR0cycwDwWOHAP_3WiO7IMgr8mEwdKOi03CjFIMsRt59TtXiy2MqZcPiSLmucz4kRxYhoWTn6QazzIzLbguFG20Zh4NdlMA3tZxZAjA?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -6394,7 +6395,7 @@
     {
       "Layer": "Daydreaming MV",
       "Name": "3:14-3:17, 3:20",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5OqXH0CMEGK5TSiC9To4MP5_qlkttyTrGQOrReMMF9Y6UD7Rz-5ZnjeUmswz8rXpLxfObZ2rdsbBb8FBmYmBwLh6M4ZAEr5Yk8yAUqwDJfSu1p7OyCJaDUV5sqFr8FolWG_mn0L-NAZJBQM0BxPorRt79mWHdUUqzf0jwbTr5tTwYRiDhW2opAisxWkfFVlRDInBcZgLo8TdY_7_I1XIb50nePlXrLuWqM2hM529YpYqNuW2oHYblrcZprOA?fife=s16383\" height=\"200\" width=\"auto\" /> Daydreaming MV Agenna Shipyard (abandoned) <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X46wUh9fzJmA56pKLYpNY9sB5FRt5I3Tso25Wmh5uqCvlNG0YlzNh6kO9JTUfGEQMUF0-jDe9alJSaK1MT9eioZTG-tkgHTJbXc3hu7RG2Qy5cyTY9yB-GFImWNZgEyaLM-CVevmaUKUtRb510DI9vIxkcHcnz-_0ejmEX_xXjKdB7QuMcFWTH-W3vBpx1fZpyoTQbX5cS8wMvY3lChnFznyXsgzSrsDEOPL8zZX91LtpznqUpIoiMWr4X6YQ?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwfhsBHixLrXXKE40YP6bArLBc2P9E7vwJpDV9lkoPBLiNb-IkSCqehoDoJ5i7GiF2Gf7CWjXN-rnrD7F3glqSnr9qDVHWNpY-EvdHgA47VsVlbmUnPspWkzcLHpLgMMTIxz7mvFh8zMWOfcwLStP3MEYxqDTzPTVzQMe9xk4fnLL2MDkXVsbCtVcJTTkHNnxmpP0b71j0flIIqU_iAnDveSKui8Uerqb7mGhu9cFyaNioGmw6jjVRpqbBImg?fife=s16383\" height=\"200\" width=\"auto\" /> Daydreaming MV Agenna Shipyard (abandoned) <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxfdZGw5rlQe3W7HsDgmUOhh6I1rT6IF5f4VIsiDqmLyoZ71JRP1Dsuk7X4IABhC82tOBhy-uT5QkaG1V6Pvp25gNqsr4fq71fwYmcXQaAprwgb_-dPXYD3Wui30g_MmKpl2x7uqE1aSIvn-kOjBANAAXykJQe72B_nJqCW43OSwOsX31tc7EbdycEzZmuS8eHvQvIdf4M5HMLoqzOtMSz-RyRE9_Y3wI6D1P9FqlnNpSzlE7RbQyxk1e3q4w?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -6411,7 +6412,7 @@
     {
       "Layer": "Gion-cho MV",
       "Name": "0:00-0:09",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5mFF41FPhoRWT2sWYE6AzWhDpmv19PzvGL8QNTBL54rrAsMvN6m9Y1dc7YpoED807_vFUGqbMLCBs41KWV5DbPYK5FSDArdauoMDJhgzUyJrshi087j4DGvGbbJ8LFhw5as8jzgfTmyAHAk9RDo2gGNWjLze1eDYJnJ_83VKp1NNY5hfOx6Gcz26G4vlCeS4S1ewYo8GtNsgd3jXDMK7lqnu2aMJQhMH905kDWCgDNVt2KFnle0rGFDM4aHA?fife=s16383\" height=\"200\" width=\"auto\" /> Gion-cho MV Hourin-ji",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyQFayyMQ6POruqzcEmehJVP2ivhuGA_FfqyoJ8i4rNFetPJUAwVZsvfIbyVIUr_CR8qPiWGHctjnnDOi5TI4OpMbba-alMmCj2y4LvoUR5wh3jiA9H4J_IM14SPnGnMF3oi5EGgbGX1dRnlJaqCyZPvYqtXCCPdw2U9saV2CH2qC_XqYyBtbNFbnvcPIUevGCGaQUfy7Izalw1sHm5sGZK-jyVaAsjICmeBtBH0FwGMsXL7XkUJh5HPQbAEQ?fife=s16383\" height=\"200\" width=\"auto\" /> Gion-cho MV Hourin-ji",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -6428,7 +6429,7 @@
     {
       "Layer": "Gion-cho MV",
       "Name": "0:10-0:16, 0:20",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5x-5iTsqaKpedzyYAcxZAiEGmV3mOLRaBQTMecrc2gocx7VeQwVYpTpO6NEmXHVoKADYYg-DFgT5M6lLhx2L1iQyblbNJSlwkuFD57uI7WnYGquCaZLLX6Lpy7cBgt2WLgWkTWtt7TqVb--b5ihCQIW6GSnvu1NZbn6N5j5GHdMkG1bHcb1j4SGI99o8hSgdrXjzNB2GIAJCeeLydWPGsr8aOOSrao70ry-VNt9xJDFUbJXhlreCwTnhDgGQ?fife=s16383\" height=\"200\" width=\"auto\" /> Gion-cho MV Canal along the bank of Kamogawa NOTE: EXACT LOCATION IS NOT KNOWN <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4OH35UvRTIQjQohRUdS05SIarDlD1OctXaud_kchu7KfcIiFEYJyDbzbsbPYDlNQbATXdFn42hP2outiWLbZ6RKOI-ZPm9n3vHukWLogAfanRjLHtV_DkrOLcN4tJdjFBPvc5JvGRrqBtCTBm3uNuTb0jYrOnUQyb7DAHqaAYFhNocEiFIMFPCexg2qItqjf3z97VCVdQ6PSKTefKtyxJqjUAwIih-ZIVUnJAGcQ_whvV-Cl9dUQbYGG04gA?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwzQlmPhtTLd1jmBnbCV8zbazgINiBMcND3s1hIFyoTGIZ0tyqw5lMjzWI5wonWhJorAtmEUkM7P_8eE3k3isqoZdj3aG3NHmGjueJGpShuelgxOREhR6KTTciPezkh4bJ17uscs7k69V4TpZ-GYzTlnithqK7FQfxJYoNIDSTjkgswNFrmDGwNvhdG2iNSr-xTNZ22Tbk7574ZxSv_WckENMM2R-l9atrla6v48AABZUEdt-o4-1slodZsXw?fife=s16383\" height=\"200\" width=\"auto\" /> Gion-cho MV Canal along the bank of Kamogawa NOTE: EXACT LOCATION IS NOT KNOWN <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gy-peBiZg1y0UXblS-CXE3lqG932bb8e_1h85qfDUK0F44b9tIgZlrr36ux8Ukptw0-YOeX0WzMwM0gWiQXLnitaB7n8ecIyN8Qvov8OLirLX-P05T6PXgkxAn-TVl9S3pCWYS34Qx45X8jGhF-r_1Lo09brwb2tlYLfZprlSdHwr7cPjC6lLYwC64ipwqRvMNY1lu0UW38iZmCYv5cV1nrPREefguPfNYQsMa1GoMQczFk6qc4Q8rymPkRvQ?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -6445,7 +6446,7 @@
     {
       "Layer": "Gion-cho MV",
       "Name": "0:16-0:17, 0:29-0:31, 0:32-0:34, 0:35-0:42, 1:07-1:16, 1:17-1:21, 1:28-1:30, 1:33-1:34, 2:06-2:09, 2:10, 2:12-2:14, 2:22, 2:23-2:26, 2:39-2:47, 2:48-2:53, 3:05-3:17",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6DC6Ah9aP7De23Y9oTIdXgcZapmGovzpEYtp6ayaArb0QRvlh3RuFk8SXNVgBi6VBTuya3juPyIEn6usxdG6yFEagxdMF2tEsHAAqiKV6zUILI0R9TH0VOhwM8BpPPlytM2mboypZCsTB-z51ctfCarWXuRBvslHrmoWqCmjkZEkPUoRhF8SPxSLRqJTmgnvnDNEDGUCj39ZzYYxm0GHp_JNVUEIC2TKH2-KQbiXOb0_m4aOruR0-g_S8lPg?fife=s16383\" height=\"200\" width=\"auto\" /> Gion-cho MV Hourin-ji <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5dPHvk8cdTu0LSn2a6J6qIgoA1JFq8g716NNH4DPaRNpmb_o3miJjxJqwC0w47JrnJuC2Vxk41oIa4kRf1XcTJltjqBdXlG_QnEAMJ8n2LaDEa4mZNYirfyRbNNsXqqLGCkOkgMttUm8uB-o2-URlB6jr2iB1nopY3YjaCOaUEpNg3pUizttds6rE5WMOdTqGv7FbEh8BIjnZt9t-t_ZmJHEG6Ypo9vjg1YAgFjZfl3CbGytWDSzRMHs6cbQ?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7an_2fC4JlaGIj65SG7eykIAcIC7mHW5NJT_qVkllYcUinYpyGzPTmgVkzhTFQzAoXIYKdNYL0sKGHCh3h3u1S7LBhgyG-7UmhwNTAnexNMpM6PhURRh1DOfnT68WyInUTnruD8wSR1yOManhtz3l9b8PhicD2M9i8ftjAY7csc5GXBx2v80Q6OPc5hxtR_Cw7c5yOyZU9RRxug-fhwJooB4hlqaxGS68CU_W2Ygs_XdD6bZljvxG7u5ipeA?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4C4V25aVRtpHdZlj9jJF_7VOWMW8L7jHyzPIz816JZwnLcHv2PMeYA-cmIvU_UO9OOy2IYlc1egeKRCkVP_qIL3pMTMCqwvM2YLN7fkG-iZr3MpYAIgzJFdpvsaHP0oSifRfkY5pSYlQN7sNvPmlFk17kWsl_hj3fVCJeUpqQXk-MBLkf54AJm3FKeu6NDne_2ZEJrvDpdKoDDOh9zH6MT-PoWOmvlaRETtdrNEBkrg9FPx_p0bZ1yk2spWw?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5W6wm4ex_b4MpEmTqV9PfVjUixLcdWZ_a2w7MetPVA11FfZhu5Zqb2_jmnRi_WFJkd1JPGytEEYNA5577I9DZBQb_xP8ZrM5HF6J3lPHhiCviP-tXR05s9RQWN8GP3zez2IslwYasRfajSuBSWd-zsymHE2DZMGBRxwy7G1K2-u_U5ht_2w6WsE_PWGy64xez1U9xbqkohusCc0TVy2l0rs3xpWS8Au5DXwKi7LwK_JhQGugljY4toP-9qGw?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X50sxRayYUXi1G8IHPVoQW_WthgxVbdfpLpy0aVTvbn4ugWr1tGRHHedqcDEpGcBVaov6saCEItR5UYakLG_ZK9DEt6TSnmiDHXVd8fQdzlbRbipYJW-u_x3m3lU94sY6yn4St4uM2BS1UF5xQvCZdepggZbfGKM0jrIAZXadQQ_zdcoo72gIcPBUZlXzYKpU9wmqCU4GG51dEyNcNRdl79e7ax7QEV2_vlWewYdhBjOK-DJXUV-c6P3Y09kw?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6mG8VS0ZlZ919xtxpIndRDoNfFfK778jNQiN_lO4vwSeo9FLoF5ulNewq92dg-mgN1IOKxN3-NnIv_XuGed4LPg4ZMUpAupgcPnNd-1cC1AhAOuKYUufRV6B4vJoM9FXkp61Y4GIz6dzxMQgEl8cuI5VaJyBZdHtHpKpZlTqJBo0-Le3WjaRyZqvlpEX9gfKOTb6Cz4OClNbDI9ciyURTKhUr0MzQTCE65uRqtTn7FAw2IHi0PdJU3o__2sw?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwUEb3y5Igz6QkPxzGZksjddnWYAqIVjZk7M16MJgShKf5OBC_lqpts_YhVJ6Lw8NVpzu9L3bscqn1rZC-_K5VkjXo03o8Pb-LRWhPqyKVDsRiXE5gZBXNXYulWeb6NRbMRQAjBp-L3_A79Q8LSbZKVmOo5US4cR5RmVwOclNHmz_jxVCZQP6E5m50q7k9YTKpqLWZgjwvoSTq68dLqMQrdxZtS9dyb_T3Q8Hq0XZ-rdzzeK_EsjYNYJJD_aA?fife=s16383\" height=\"200\" width=\"auto\" /> Gion-cho MV Hourin-ji <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gyd9GpSTewolQla9oyWmdUawJCWz8ki6LnvbGEQzvv9huXqbBTuXB-XFI0OV8_kwu_7P73Hqv0vRnBBu_hp4DsDj3YEhcI8ittJfDeBGgAUv1D3D57GSSRwhMhSFXXeY9QvtndQBTGSh579KMWY-lw-4gdmSqZA3lwjlCiR4b7VPRiHXCeNYAf0dCVwcxSdwlrpU3hIT3n7mSJxiXNFE5KMrNgWeBnVgGGxAaGVkrvFaGcWTWuqEwv1JLClEg?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxRGeHRtrriW64wV1QJTiPRAvz_82ZmiwFTgHCeT2mVXoB0SqaEOYH7ewd0Aojh8o9YjnbyxTDygErvHSfwY7Ou7VrfEK3THbCva0v9bUor4QuhImINwqrVZBin31_VqX6aBQ11roexgL3sC2bTE0Wr4EGWf9l6mN-l5-cvhDdBhrw4xxGaXLZJUodIz36dySPU8abyTMx0DgeAa4ki8sJk2Ksfh96QrPVsLUjcnWdOBCoM3_CkwR4ekv58TQ?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gw3wYhBcBG4u8cG3ZHujokN2YMVOQqyORp1zlALar-3uzZgw0L9pUIKXjYTb2xcnUA3oKlg1hZy9kZimKsjYJfmh0rKWy8qGZB49y1GufyN7rIbigoRQiH6vVovkA0-r6C-88MNimCB95IjEZlEw136ULwIpa0172q5bxQtZutq-a0T_PUzzbdp1gJH4XKJaFfLllSn4t54jX34Z1ISPBUbZCUqDxszrAICENsmAUjler8R9RtAYsKoMJ82Hw?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gwnr2GgZ_vMqINNRZcSdBTIfWuWxFWdVgdBIjgnSMsSFP5w-vAXPPCz3OewBKEAaNqjBo_HDDpVa0_BakR5rlxPzAyA_luaxfSytjgQaZo7Fi49m4Jiig_hpqvLN447hG8wyZXLUV9OO6gEXqi6cby6K93mt7dWqeGJtb5uNp2mjg_p0eOjzjhhUfgVS4QD_ce1ykZ2C4RcDiLmZM5tezAE4yTnOCMz5lJ9XK-xQcgMMYJdQeBrXTBXYk1Jtg?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gz3ZqOrYhGOsccrLRQjxLL49v6TmitjL2rhjBMRVkr-aay316MkPfpEoUuw1OtbLoH3qLVp9BxQo2MAwqwslXXJx03DbK-SxYUrsC4qUVk2X5WLBJ561AWWN-MVJM8s-c5QO6OTkb26R7IQ7T652naCQKRE4q5MyCndRI5k_gzafpUPum4z7c8RI6iMTq1B4wRWkXULrD_6eZWb0ydNEgpkfYINKp8NCt3IFF0t9bQVFUdZYdnHjTHm4OHmZg?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzQ0ROo-VBAzHxhdAtkYRQtbgu4d0q50Jk19NK--1sxDLKwvrWlG4ssuur3JEN24Xz1-l8kjWcYg_yyTYvJ15YgF_oo0yYV0k3By-xGbrELcd6nKYCTxwaZRsE1EFErF87XChBjvW7mMKAnRi6IuPSbDbehGvDZCDBLdGtKllOYNr_DHWqab7xgnobyhGOijT45KgcBbGLpH6IQoxW9y6El842wCIS3v8KOthPJfANn2wrzg9VXEwztbP0VQw?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -6462,7 +6463,7 @@
     {
       "Layer": "Gion-cho MV",
       "Name": "0:17-0:18, 1:41-1:42, 1:43, 2:03, 2:14-2:19, 2:53-2:57, 3:02-3:03, 3:27, 3:35-3:36",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5gG21-OKiVcOFD2YzAnDkDs9k5i4cFlUTXLr8U9EL9-_Dxmahiz-XqK1qevNv6hY64y0VfsNd6dqGNjCPBZVxlH38CKHU5aCUnnxt1YINkqc3WgVJYjZLgRztavg_l2eKmEcRghzYyrsoXEwbU1Upu79l8CYApzbsEOzPZnU-4rnx259PZm8VZi-dS0q7UdsUWI8Echi8ll-AyKQn0nb_PIOocKiSsT_RhILMtdCQs6ZtDX4hSy3SS5ZTBcw?fife=s16383\" height=\"200\" width=\"auto\" /> Gion-cho MV Bamboo grove at Daikakuji <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7K4oLAjRIRzPcl9K59QDTTx3J7SqVS4wj25DTVTw1MThnkylQVY0ppTl7XDynz0aechMiGC4HzLgZr8SHWJU5kAKHigXb5tGi9VQD2aOYGLPRIio-y-Lc4HJl83EREckPtXAtGrMpIFpR5MyjQlMp4pok_qHRxNeEa-xecsk0GXEc6gJJHW5CEUz1nic_c7c4Luc7NhcZTh7uTJUGhvSD1OR_SWr2k3oNLO-WhCHQsm-oDzfnz8tjuwlAD2A?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X63exqLI-IGZT9dnhG7MrPUGTEhfQmjH17QKeo8S--XtlSlzAp33kkEo_5OLOBB7KyP0fkIi_re6Dpy6pMDbwFky3x4G-tPCsIYQ7eprtDW08uQG9QnZeBaCWoDzoO4skZfbi77uPyiH0UmbYBvWNOoZCW_AVPLUsY41c2JQZ-7t7VsLQGObWrvFs5vWPF7uRhXpI44Nd1QTLAbk11wlb-I6NdLyzPmJu8hCvuqyMWIW4ffstltpw5woiOsHA?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7UvzT0JewmVZi4_LagYNqgAPS0-9jum-Hjv6CXTNNqiP4U7mtJudtDVe2cnLPaDFUfVK2hVD3C9vG4l4gYCbepTr9tdOkXAI_QPzT54cpifHmbgoVR4SL-edomSsdb9SJ-vRYNXwC8IqZHmE4cyPGzZuKo9i_nSAGsh21hXb8zm9a0UeoPVJ4cN709JXnwgqYD02YBe1PG1ltlIbtuWtCyR7J7J1cfEYGE3kIPdMbUjb7Hd3OgNM3hGubd9g?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwNF0LfG7cCYKDMXFERurA-lXg9sRvrYX7NzLUeSuJ6DnrVg_0hW2oMKqGuWrQpc0lv8IcP6-4ymb0IJywMa7F7Azd3vzGglv7pfTCf19WJmdVsLypoIuKS2b2cDxSySBbPg3Sg2z83aoIC_Ix77Bk7X-CJH69cKmr6gsjxWQxYOj0Trf9G2kl6tS4GdJ6fMMp6lnGCwmUZqlP0uxkk38cHoWI0vNQhY7q8Z56W3vR5Wd1o8SgE2LSs6WL6LQ?fife=s16383\" height=\"200\" width=\"auto\" /> Gion-cho MV Bamboo grove at Daikakuji <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwzNPP4jP5JGJNrLRkc08RhQaD8iC3EAoPZ5858xk-oVCFttvuGu9DTLqkD_0B_eBqY8aR9KZ_TdeCDBGDdWytZ3QMTLp_6JeG-tOG21OFInzP1waFFsicv_57UYFOhRuI-DUtWQpXGzYkOP6f9JHCxlZnrxRoMSUwKL5rufm_uo8bJZCAEMdpr3VACEagOthqQZe4LTveTJtspAkH5i78HDzaS273Sv8XXhWlWlk4qdANi573ADcNPS4x24Q?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwjHnb7JL3KxoNcUqF8eHRl7SKts9LD7ManF87lYluGk0E2znq7x2OHn_Z0Bdfu8m8NlDKDq5yGwQDCWzubraG7bWYyJmZHzDkRIVlM3EkwZ7R_A5xjn1gLa7prxB4PaobfQtsFL_NGsbojW3Ug5_agpIJxYNcv7Xq0P0Kcl376xp3DE6Dq7uMgroB2vOefx-kwEREBHMZelozjYN5TGyzXejb-CjkjOcBGGPVk4CfMlS5fITRgJf7s9UNHcg?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gy4Nmx8sqHlzsi3dvKS56Fz4jD-YgAqHakTZYbSjG4R86R64A9O4JOMZqngElNd305Bos2zYenrSbpatnjJhs37beENHp6MV5vvZnxY83j9cojyh_hU4lO-eO5Soi6KA3bkIMTZVHg4TkKzrW2snrcSeiguWbm__loOHu-iJc309HPhOfOuOTrX-qYNgUOicxYXqtvXtnfZSxd9WcM_VV5sA8BoHJcxbtJbZ9Dk_WNRGM4iHEAxDPhgjfYB0Q?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -6479,7 +6480,7 @@
     {
       "Layer": "Gion-cho MV",
       "Name": "0:18, 0:55-1:00, 1:42, 1:44-1:46, 1:50-1:53, 2:00-2:02, 2:04, 2:19-2:20, 3:01. 3:21-3:23, 3:26, 3:28, 3:30-3:31, 3:36",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X734k2jS9mFqTkFwElZiFh5y3547DJxoriPgJfkwOGxajIv_9iR-wIH4p8Iywpr5WedfvLAaW01IVMUWPeAjVu8ceQ9gh9oGdOS94wQKb_ttolETwYh_2c_n_7I6szT7d33jD0NYkx7ydZG8opPaovQAmi8TKcTmo25dnJBa-8auZgLcExTtWDXDywUkKd980Ft-QkPn6ZbV8wkI5HkpcHVZAtu1huNk80jdmUOCj88Qspdh_DTyDYGoW5mfw?fife=s16383\" height=\"200\" width=\"auto\" /> Gion-cho MV Zunkorou at Hakusa Sonso <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4J2iAPNKF8bQ5CFFK1yDVzdz19BODKrR53Se92BM5d9liSqwt63ui13CDrUBjtpPfYxbKayPrgZnvVKuTOpgaBsaOSxq1-pnLX31I5oT6MNunqkUrg4QNBpi7YsHc31hLJXkrs9_ZQDaGvI8w9kCT5b9ueEgfdJEWYIW4Yf0gxCF7xSMlWNZaiNXDt06MX0CXHGNYd4cmAEAU63KBojwOAIo08V4_txzrUWP-43hp5z2f7y6MqW1245qLH1g?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwurpLgFmrxWADv_hF1VrsTB1nsYiOA8bjpf5_6q_YQ5W7coORApQITHdb70m5CDi-nbpNLbHfE8jCX4YGxEr-oCYZ2ZEktxIEa4ZnAcqzu092eKihC4gVe3eB75WfwwqsEM_UYeqX0m0-U-WGS09g6EjcracVcjf3ilKlILM_7f_SLgrwMFqBOlpd5VfsH_Oz39Qqr18qpagrBskc6s3atvn6an8IsThMv1p17J1ppjeWLoImsI1Amwv_j8g?fife=s16383\" height=\"200\" width=\"auto\" /> Gion-cho MV Zunkorou at Hakusa Sonso <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwDcfjWFmrBpV2TbhmbtzhM2U-IirDz1NKOWTq40oLBE2xDQcJpKYXZ8ElUu8B6BQ2-9rdYHvuwhZnyDfYIdwy-SlqdvIXtEAvUKTxTtI-WKo46mRTYWSAe4sVI19-34w2UaKfN8fyLYhdBtg8HR2OCBNVPbNRmhvQ8LWTvU_rwH0AYquMmtmJdfPKZgJ5kadrWEBdkBs5IGhwrJDPAmsIBT7PORCUuug5dO1DVr8iXt06dsmx2gxoQnVjr7w?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -6496,7 +6497,7 @@
     {
       "Layer": "Gion-cho MV",
       "Name": "0:19, 0:54, 1:37-1:39, 1:46-1:47, 2:05, 2:48, 3:29, 3:37, 3:40-3:41",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4WsvLhd70c1qxg0UO7izULbA9vG5uKCCNHbT-9HFNAFXa-z5CpJk2Z5xvb5qXfFAcdAZJHPYmfaHxqYo0niCVm4ncKDxmLn0OXdSw0IF6HoIol4cRViu6Az-c44AyMldVZIgcfnW0SPQL_mERaSME0AgJY8_4hQJIOPwa4gBVzcnhmbt8k9udLSI4epCwghbO_aej7s_Bpdo5qLiVYpVu1m2tQaCJsjGSK41qrJsl0nVOW82nqYl_J4jNnwQ?fife=s16383\" height=\"200\" width=\"auto\" /> Gion-cho MV Hourin-ji entrance <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6pj3UzTP_r4Rlx5dGhlbB3QHTyO5rhv_eV0GGrT3ekxLBKvkgKtr3QGvtsiNWrxbRNr-kY6ZaAmoLUlfywum9Outp4CoYz-t9GMyT_DuxenxsC41k1GyxLb_8xr5Mn-BEz8TOr4FdQEhkm5ezildL8hnxU9r9_bsHQoaLnVwu_KFiwdicRaDuN1cOwhexxoWsUrRJ9aD7O36DVK97eouQyQhIhybOWVpLB0zPbvjkKGw_q9XHwqHbumqWTCA?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gwr0eAuxKfEJfpixHLCTQdQCChCZsWkHBtpRJNsvUtVlJuGxOxtZ_TvOWFLQhqAGrJPlcP9IHxql0KUsQ45v5KTOTAxKFuj5vg1fGI9jgmMonUzCiRIaCgtsMO2CNQ-PuGUqM53bMJdZb2obnRqXfa6DgcZfrnpbUZybCjvnVFkqF0-bcU_BnFRcPnjILqFLQVH9R0bM8Fl3eEmAVpbXXl9Z-x7DvK-kajLeFlCbA7-XUJ_moEGPZNa0UUtEg?fife=s16383\" height=\"200\" width=\"auto\" /> Gion-cho MV Hourin-ji entrance <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxN0Bb5d3aLwNFntEXNt1fiZVtShi1ChnJa6rpGoCUjkYTjdu8d6ml_44EW9XYug5G9y2uhFDsOMoX8OE8ZImRzl6fEJTonU09Rz_AdTW6Pmq-oUEGS-erul5Ew3YRJDj07O3xQSwVNePrBzCVEFb5t1dCB-v8TANoSLjROxnj8Li8VhtfKbLJLmQZsQGyGilpD6nOYeQX94PIaLnG_G-Ck1tYxDbubvdRh-t_dSqvNU4PkaxHcMUlqktGu4w?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -6513,7 +6514,7 @@
     {
       "Layer": "Gion-cho MV",
       "Name": "0:20-0:21, 1:25-1:26, 1:47-1:50, 2:26-2:31, 3:00-3:01, 3:02, 3:04, 3:23-3:25, 3:31-3:33, 3:39-3:40",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7EbK6sNWdeYU8Ou901Y1K9G8RiaseDP1Qqe4udGOHjcl-2goq_oxNzLHo9d9r0AO105WN9KfMxx8zCPS2bkXZbuGKyz5fyPfx7D1UJkqWS5IQjbP-XzVT3ml2Vtqa67Inia6QBDLAJipy7iluGHkYfhZByojB8ZVXsZWA1_u88DknlWcAl3JnyB_4K1b9RDdUoSUxXODqzGSsfmlHY_dTByDy-vdTKzUZoJ4dvOFJm49BZ4QPwDpZbeOH6NQ?fife=s16383\" height=\"200\" width=\"auto\" /> Gion-cho MV Nyohoutei at Hakusa Sonso <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4n763AhRWT8ChQGFFoNlNTthBENiVk4t6uehyKqJk6hLSC0Nsu5XmDi-87dxVS2kSh3MX8BcsXpcQu6T-HddyQipp56zFsMNy-rTlPLe5wGD4rsN1lmb_i2Knco2pkZK-RDrZ1pJgQqRmCmdQ6cl590IytlEFme1Sep4uukL8bX-_g702fJraaCC4wHBRaJD1qLo8Cd0c6e8T574t-O_J53ys6t3Ms54lK7I4oDFZFWHor5wScEdxBv1sKcw?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyT_eFLM2MPQ8agzGFjbr-KCXjg0gEJMG19n2jvf0KUiqGHkeVP_YGY74waXNT5x-u-ZMnIH8tbVnPkcRMBygiNNUppwiFepZU-9d_oE3XZ1r0R69lKQlSvazIDat-4PapnUCQCCtZ-9BYB4FT6ep-3MmJY98ibdbAMkszqM3U9Dfpza1hRjmKtzBNMwQfGVfCSBDe8Lx2gi1m1Yih_yxxmf-iEel77eSVDalVFRPWYgLcV30EYIxnMyDuyHQ?fife=s16383\" height=\"200\" width=\"auto\" /> Gion-cho MV Nyohoutei at Hakusa Sonso <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzGD82lHWl7YIMHSDQlA7mkgzTpp5p_d0fQHjF1U0QKMy3nHW8hVjMtH6GyojK4l7-7Q9CGnDPavy-J8UmQnjgZJuDrHcqWc0YZvnEXZN7vNsCAbO9NTfPKdFk-6uciBxNkA1UckMbJyZS8io6bXjHZArSj1EHGWQfuqCAiW989hRY-eAywZZG3yPzT9AgkrBphgo8x6a3YSTOsDnE0_EpifKwaZ1TZnXqsDUgrTN6dV4LZNuD2nrbLE31Pfw?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -6530,7 +6531,7 @@
     {
       "Layer": "Gion-cho MV",
       "Name": "0:21, 1:31-1:32",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7xwBkVbmOnb9p5iZ1g0UEIDeyLEUnUSY6Oq5SUXQKG1ToP697mfxZ7x_cgdC3EYQ1i4-Vt-3s2iOS450suLiLC-t87E98qG7nfruxQVKZrajYxpwYsOvSlUs61FkROWwjWgTQSDL3LVcJiE8KsbEesX2EoMqHKembd0zAq_c8HZMLn5YrZvIquLKVa9huIkvL_J_VsbHIapFbUVnv8C6PPgg0GUIv94aSOUyCfKgn8cZVf5AYUu97QU4x5zw?fife=s16383\" height=\"200\" width=\"auto\" /> Gion-cho MV Ninenzaka",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzDkVXcZqSzJoYOCgW3iU5lCrTH_WlitLetLXnOteMmmXNcrRWxuAdHG1fVEEa5uvH5J0kI9WS4WBMuxipOOtlQWLq0rrYkx3FM78iuvDV3GYA-VBEP2YQObQCAVeifnZUbggdaN85fnK5WUX2P7Q9mIVI5Rk3REXoNLpwNXJG0GKNACJmCTXRcHGtBQ1Q6Z_qknBC0TaCXk-uDcdhAOwmPVP-S9fahPvmZ97nEDQeNCoFT1M-FiS4uB0k_-g?fife=s16383\" height=\"200\" width=\"auto\" /> Gion-cho MV Ninenzaka",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -6547,7 +6548,7 @@
     {
       "Layer": "Gion-cho MV",
       "Name": "0:22, 1:01-1:05",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5ehbhlXcDNk1t2YA1BaTVwCPaIpLU3jfCrwZ46xi4TTiUyMZR_3PqF9JJzV3aCRsy8-lhYg5ob2cpSdOxBNWYtT7sl3rtLp_P1TTt-olrKonnNhvcIVHfRIOnblCxgBTtPVQbPJF-dcb4PG9vv6LbyRpMxu8Tqjt9Jn1W-CpfFwly7TT7ENk4de8AJnkasSBt0SJ8jlkFh4F86XnCqSOWzQ3nqXkaU1IK9ES00BI4wkCvLCdbhUL68xBPpOA?fife=s16383\" height=\"200\" width=\"auto\" /> Gion-cho MV Shoudendou at Daikakuji <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4LE5d9ji-LpJCsAo6bRwdX0MHE0FwBUqK7BabZYRVZWe6SIux7Y4dhKuub6cBJ18vEytNfTx0Z1MwldX30BmMDSC617_2X2cK5NioC-IVY0QtGabm5layZomUqWD6jIOfuaRh231U5hV2tU0GUjTI3jxukyR9x8VIA9q64UQcfmI2r3IESfWcP1ngcJm-BWkbDNuRNohpoTr8C4SN88JF0ebrtajyFppJClsw1RZzyFIohCpFx00wjL_elfQ?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyAx_L9_9yRVl4W7TD2Awxx_TxF0AIU1af0emp-d3uckHfMsP2STLKMLhEi27dXOtB1BD3JYX1liuC7YSukyPEFdcnLdIe1zlp_es8kTSjqNUt1IWYMX94icfpj25jv5lb55FYFnNUG8vxyw0923Pp_oed5dc1qXbkomHhfcgd2WDTmxjvg_0ywI5okDul5Hm4VQA1tMplKzi1MwedOJ4S6Aa4UY0Ev74IUqFEbmZ3TxT4_moqmGcliU8Ldqg?fife=s16383\" height=\"200\" width=\"auto\" /> Gion-cho MV Shoudendou at Daikakuji <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzVejJzpSzqN_F0HTbUSqoJNw-wv8Ux-nv_F7HThD_M2YxHhsBnfNPBrPwBiVm4fdu7gEao8l60tRB16sMwbq3ZN0xhQ_U9y3XLp4WW_tHiYAPikRWpMptFWmqU0Hv5seiw64cEp72zt6a4XdHmVzcn848AzDYVkUnoijZRyI3te66IPuKmNwbqCOQk-usygkYj8hyX1WXWPxhrSGf4tZSxC9180lDz_XnDv6S1FhRe6yI2dQ6cbPhh3Yi4Yg?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -6564,7 +6565,7 @@
     {
       "Layer": "Gion-cho MV",
       "Name": "0:23, 1:22-1:25",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X44yDRHuGd5ZyqLeoZZigllMJEK4mRiJWrFS3kzjPj8rncYKSsthYScUWSCGbgUJJP76cjNO-L_QLDVFApKbCCCs31RhRTDoXgfSN-p6UINAPvIj8frwH3N28izHRngQLbXLHMOdw_IWAn7fFBUMdLrqBNrz5vevHQoyNVA76nULTjUfLFUFETwam0HW5S6iC-jRKc0_akTZSc8AfMvd2plxWU1IMtOBrqIj1VTy6jY0PlanTqzI1LY74VJlw?fife=s16383\" height=\"200\" width=\"auto\" /> Gion-cho MV Hourin-ji steps <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6B7IzHnruIG-FZlAN4vuYv9RyTHRG_3XUquA-gBKTJmE6Iqlun3BCOVERHgeTRSlu7p-WdPTgZ_NAUESMbGAL8_c3eoLeS7ePxjIyBiRlM5MYI2XLvlieKX-hkBgkV8ozptFYGW9oryvcg3s19XV9VIxNtDTVdcHknj2Emp-Twbc4byaSwRAXsGoIMQHk3kfBT3d5QTPzu0pC6vl63oVXAY0yoRHqc3JVaEAv7M-FxBxZ5CPjKmMyFZAs1OQ?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gzzj3JGdWxoie-Genatt4R_KjAsle6rGFN8rSk-CrWtRL8K_gZ_ZRs-k1CoALcC9YU2ZFFhQl5dZJhP-ORrsuuFmPDpvtdyct8Rm0hcpCoS4jmZhd_k8c-Gz-25cyTzwn_RMmI-R4DkL3ZZh4buaKUui1xiNSDwelso85ERlIfdNwgo1scZcQ404aeJvfVwxttWwOY6AHNRBT8Q3cAd7WMPdzd3yAtHR4fE8kHxtrWxbJekdHOdzTcmy-JRJw?fife=s16383\" height=\"200\" width=\"auto\" /> Gion-cho MV Hourin-ji steps <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwAXXvLdLetathM4ZpGTArqXfplF8ivSI70xjkYCvxLlOvnra71ch5ixsGUbBaeyCW8dAd-pVUheWerDTEqSSO0YmNq4_EHAfRje9bMmMfoEsErRadVBIlE9K2HhK8wf3uvu6d5RIwha75h3L60JVP2sJRcTcmMbmK5X28pRA6U4VfMnCD4m6zSaYrQFPk0WYIfoxPDJaMZIr7nqljiWxpq3Yizi4bS_tm1cWO5AdqIDLbzLbdT6m6Jr15P6g?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -6581,7 +6582,7 @@
     {
       "Layer": "Gion-cho MV",
       "Name": "0:23-0:28",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6ucjUd-7v-QtbhR4LTz3cQrOxBc0jMQE-uUzfVHntfJ8KOyVHF25IpD7-0hQiCLc29xypT7qzkaLnjjlId33Dpm3iVRhutD6F70to471zKf5o2esS09g08QvfQdZwPGpNBK39FZOFFAMBtJxVipdYXC7FSnN2IZGmQy91IpShJcJ-I9LTRKiVDXbe2s04k1PfBBQLyOw-8Z02tz1sQ9-GtQq_39S76CwdGE3DGch4H2z6k8tOg2uC06wVfOQ?fife=s16383\" height=\"200\" width=\"auto\" /> Gion-cho MV Ninenzaka",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxklPYsaw_z1cJ7HdLrDtx26bdl0wEjgMKkneJcrAWyJmwFcFZIkEF5dZSRR9UoQ90xPd0EVrlwNf3TaNV0Qcw9L9UKtCW0k7jaAV05JvIYdQbN9Mf0BuxgZI-J01iirqZbJyJnC8TXzZJf8ve12XHL_x2d6zw_GmaUJWY51EcDhlgwOJ5KZCzOu8p0PD-pQCgFlgfo_wPUwuXuCAhIjusUWbb4YXrnuI43QO6ejSDNMYdmPjODQNGNGqN4-A?fife=s16383\" height=\"200\" width=\"auto\" /> Gion-cho MV Ninenzaka",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -6598,7 +6599,7 @@
     {
       "Layer": "Gion-cho MV",
       "Name": "0:28-0:29, 2:09, 2:10-2:11, 2:21, 2:22-2:23",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6Bg6F-66m3v3pbzJIYE1bzpLenOQrIHH8UHyf6EeiHhTjS4uy5a1u4mA00nbfiNWebSzHAS0AJasDiWYkXd-w09GhFo6J5XBT_eNRUbO-2yKmfVFlo6WigLN6FVS7uyzp4V9gIOL_VFfbGbXgRLZKYgOXkLddT509EpfO177rHo9pUdblwXYLSO_7VkfW1wALnvLEsUWeR7-VImKOpcPXFzKaw7hZa9hc31wyRO_wkmTz99v6a_oTL9WwKcQ?fife=s16383\" height=\"200\" width=\"auto\" /> Gion-cho MV Zunkorou at Hakusa Sonso <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6AWCyFSLwROwFz9dA1YC3m1KL6Kq_wnPtYLY_iFWNtBZONZxkQWzKn0DkJ-HhsCjje7T67ch3hP_YNxXEWQqV51HFSAv5_zIezLQZCOpEg7lRCl1FZJj2dYlL7LHumwbMJ2fjQC3LyaGC8S0DVwPd_gWB14Jwjl9QOG8zT0rH5e_z2QnJEJc8C0lH_V9nYwkGU4IqJd0MUt41B-cQOkJcmQ698tqurxO8PhnxEa3fnKPDnjv-XPmloEJ1qqQ?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzjnZiv5dQPtpMTfwOHqY6Ihz35cipcvDxO40PB82FUfA7yV769iL__cfJFCs4k8M7TJAPT8Ck4xRcw6deAKnnYfk6ykJBsKUKNUnn-ac__9alTn_CjB2WrYs5yqYe4uHsVdR56fA4c8fB_zzPi3HQEOmWWKSuf9FagpNtoeOQKf0phalsl1eZYeG35_AgWGoLbUR5B8USeSlzsh7Lux9KZigTcJrdfvlyj8iOnwZ-ZtV7YdzAnS6JowZZ82w?fife=s16383\" height=\"200\" width=\"auto\" /> Gion-cho MV Zunkorou at Hakusa Sonso <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyFHLycfHRp78UVBvO2yRQDhF7B6h7RpyG4MuyPutplZXeOVqC7vPTcGvlnJ7Ut4j4zttHwkUKrwI1q8dxdJSvvry3_Fh2JjK040oQbA7Wu-ojNMRUhE-ZiiEQbSy3fK5MEl5KXKODsz5XYafOigg9N2BJmrL7WoORSrpW5kixn-2O5l7Jp3g4ZvGMDS173hnnCKWKGbbvti4cwhCFEv9waMju_Q5yHHvOkI8rhdaTukEAgeRJbSI9CgcZkxg?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -6615,7 +6616,7 @@
     {
       "Layer": "Gion-cho MV",
       "Name": "0:31-0:32, 0:34-0:35, 0:42-0:53, 1:06, 1:16, 1:26-1:27, 1:34-1:37, 1:39-1:41, 2:02, 2:20-2:21, 2:31-2:38, 3:17-3:21, 3:29, 3:33-3:35, 3:37-3:39, 3:41-3:46",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5_XVc3F2Ws3q5-9PtL509wcVHHIyXzn9Pvnx0qh4lcQ0qQHOwZlWYlLzjGKK_a0NIWcPoBKQyHbVcTB27Tjipgkm40LOeP0u7Kcm-D4pWcwEOY6ncW9to6_eScrlljVz7L7hK8haEMCVYADfJugwzR9txr1FStaViD46XJs_6QevUezMS-piT18BI5eOWKLuyPlGwttxY_medTJbReqFYfYCEnfwBULBEnMgrIR1TnDBX-jyIxY8Pcd6UE-A?fife=s16383\" height=\"200\" width=\"auto\" /> Gion-cho MV Zunkorou at Hakusa Sonso <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4A1KvW8IdOew8jUZG2pSa_ro4V-9OtIj7Iq1uZOZXGQ4h_n7aETVQyAoSUClpmZ2zOs1sYNTw-JeOBD-tkwrLRwMB5DBxNeMRlkhNn8CDZ6aDqR_PgdhwDFTo621XMuLKTlcBGMODaN9lf31vNJe1R-o8tA3TApTqKvMwOD_JUSZB8BeUR2WrcBfqYrq6Pcn1zvRCmkZWU2CU1Pjmzgxk30R6XuLX0p-qkAsnMUnurOqrexrlvZu9oD5xrkA?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwnV7mEg_Sb6s6l1yP4ETSVlQavdWlbaMnE23cTEjSIHu_Mjus_frM8NxXqM01troJrb-UZ9Hf5KQPyXNcWDENhoEtlv0qCaro2GptnQPdDxoHEOp1Tr5f7_MiGdRn1loVxg5sqdtmFy383wJaU42W78P5s2y4w_4LIX8PWUZ22t0NKuKSiYXImFXc5fY34qcixs8aPaSlUe2gNxwocbD8yw5of3LsV7qD-PCF9srPWDeYkmg3KoFEoBl24QQ?fife=s16383\" height=\"200\" width=\"auto\" /> Gion-cho MV Zunkorou at Hakusa Sonso <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyfQOGODv3E09MWh8I5Qb9UlshEdP3STV0cXckwt9gkr--Ar4CnvAJ6YHVFThOd1_de0p2nDkm3xVPvLYHolOBO7rLWa-MvHDIIiH2-DhzCzE7gDe-cWR8eQpfsazGlOR5InYnjs8ujCgP7WNNHq9mnhfEnEjLhcQEBts-N4UbsmZlXyA-aYybZRZ4Vo1MCaPv3A49WolRIbUx7uX-smR-LlC0IcpPXKsowtQU4MnAcX6KEoCoEcIBkb0J-9w?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -6632,7 +6633,7 @@
     {
       "Layer": "Gion-cho MV",
       "Name": "1:53-2:00",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5MTUY77Fr2Xdu9brwLAVq4mSubtJPKWWZ_TssAfush7S-sGmzF5ZSnBmBZgQgSE6zkWie8UXwd0GXEXH_AWf-NYBgGK2MuWLZT-RX6iMFyT0RXU9xvWIquMG6aGDjGNZbXGVtZ2GMpTMd6O_uKW8-iVx2EvkYmBxmcfxIszugrEtp_Eu67lyqqTKG0wF3iu6RnLbyaWc4A6DqzS9jYu48swXUFf7zfRh2mewycPBrS7_77dqT5EX282fU8sw?fife=s16383\" height=\"200\" width=\"auto\" /> Gion-cho MV Isuitei at Hakusa Sonso <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X65iDI8aGTGACCq1bVDa8KkiH2IQKOwp6ndH06LrRJzX6W8M9YPIzXhsu1hC52-U4AdogLckscGHEdg0UcLNunLy8kAo2JovtITLkZBEBBcsKczMKxfLZ982Ny2FfQZFelEEWcBPR4M1yedgGuetx_meMedj2fxnlWuEgj0u-pm2zS9mad8Yi2hLN52W_lxs38fsYH1h7oWcGVRZ9pMaU89GU2WSWJ4G7MJSA_09JC5WZm6N95j7mPEQ9pFgw?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6fO-OrMtgLe23bYYfnxxty5daTBx47QPiEOp1FTemuZW3Ll1uR_d4KFLtaac1c000zs4-MRh3BenAPiDUScoNMAK5OL-rauELS3waoZeHK4_ZxXS_Pl7_ASQv7zDKjBcea0NyOE8DrhE7vgCnJ0YtmOkbroljJFi39rT8uCx5u_zIl7_xbj9_BTaUpnETzPA9y9KVNvJkrbKgp1pRTSjELpkfonD1HrBA66SuFXpPI6kJwW2ZHXeiKVD1R-A?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyiVHeIh8RpsMXSnpnpo2vVzNV7tyJM3zYIy_e-rGZGOh4V3K5wrb60wniArVhMYVuU696Drvoq-LKnXtKs8l0CZh-yVBoT_GuB470ivTy5iohXuy8HaEIbM22oVGQ9HCWL-xQs9LWFDdBzTXOs-xLDhwHFverm_HFxA047ZfTIy8hLLsBXXGAkKYRVYLZ7Lc2VMcRZ2HDrHyiHJdKzS0pGj4fM_yeEyN-qUnKstVf26tipCWXcEVAM6s2LFg?fife=s16383\" height=\"200\" width=\"auto\" /> Gion-cho MV Isuitei at Hakusa Sonso <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gyc7dhe1rYsOBxSASqL26mQGVvWJb1AZmgrxhmsra4H4k_rABi4xRaGoX_odr-9bhY-Czk9s8gV-iSkruZA_FhXuPyPNvbMzoP8QUYSCP3I7bMomIKcoEh4pYRB844Qawk0CykV_RAAeAqEeCJWCfJIr-vCIvCp4X_PuSDqW3gGss-IhAiliK-jOqmzDgs9EDpoxv98pEjogS3QYyrjUJL2dzkrcvR1IuqWFxBoiV06NWaSHnmaqhM0OHmz-g?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyirzUeaPQhShf5dP-V1j-l_sHLSAZCuZ5ggTX-y_yLK1Dxr1Xpf5NF5ZNNXBKZVazvSZlrZI_Hus6d12NGl-fcbmTo03r_r1qVN_RvRHJjPj5p21bmeqmeaBgvla_3Y8MFw5ngUxdUj8NfQmzeQCE64TTMeUjovofifmu6BEPUjc8oF5cEVHj4NUAx-rTYTbp6h5BLtx8fAZS2jMKma-58HbxlB6I9BUix9BxLZD0WlH3-IYw2n7lAXocn1w?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -6649,7 +6650,7 @@
     {
       "Layer": "Gion-cho MV",
       "Name": "2:58-3:00, 3:48-3:55",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7t_2eQLtQPr0t0MC5HzbZG6M5CeI5WXu9fF-eukyDoPjdDpmLW9WRvm_ybEGpp3LVKqqg9ou3axemspxbnCH3Nm_yQuQllWlGFGX4bxKHAHQqIDHqGlSTUVvTZcCySjy2KDdM68XS-wLD-8AyiN4P3C6uu_pOQLAF4st9XBhkEMbRl87EW4tHIzpmlIKsZs1Qle84O_tG-PawJ7RrnMzF8d8fyZqfegRSjNHJFVUlHwLFPgguHqykExXHQ6Q?fife=s16383\" height=\"200\" width=\"auto\" /> Gion-cho MV Miyagawacho-dori <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7cyQBRVQTaYiKXNz6vIj7CqaLM6SUcfe7opbDGG6M6cEyxYiHPdQ6UOAV1YhIpJXlANWQ24JTOnYUzRAlb812EF-vNZMrlMRUIsFB8h27vCqqQXzErQNLdLqHQ7vKxGUZQCy6MAukZRUXo_l4gnCc-EJOtPQOoaXnWbKAufHhNSRshWTXrMBdYT98eRsWQU7g8T6nvfhsxCWKdLUVIUTU8iyEwhtbyQfSskSt0bK9mOcrq67_NkMdeam8xZw?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6yIukB6RDnRhH_MhWTb6Zx3qp8eQg7o9NktgSx5oJIYg-KH5_KRiByucwnEt019jdtccWUQXY-A6ZH2_1t_G-m1iJnIQE5nMU1zFGB106mhUq3tznsaNSG5MeZanoW9Z8pkeIFF0AaGT5Kmz-niYGkN1OXo15TfXkHQXbOiSkoJxdig_yZC5DYTl1cCtgvUVHq1CivfWGAj8AKAJoKOozenioZ-AwBBgNvNHb26vmyo3XUp7CESVnS2vbtnA?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzqTN4_KfM7yHwEnh2cNlEThu6TORwEm9N7btPDpOqftVlhae504TkDXnGfeIS9RiW6zVbQv3ruHeETTgxAYe2k8RQpLXHjOpROTsFTLOkZuF6oQwWaZSihLDr3UDSxM5oTSdcwKPEczpAQzA1l4mD2XcQoL7Tvubl1ridVfeuuFdw6kxs6MazQ0GDJetFeJDe9GZW4ZX_H4RK-QQlgVbYvSOX0B9nYZfXL9o5HhJjoNTmQs_exBtWxSEsDqg?fife=s16383\" height=\"200\" width=\"auto\" /> Gion-cho MV Miyagawacho-dori <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzIW0KI37RToHhqGwjVhxLMMv1Wi8jTlbNyN8tAw95wz0whMEUCFWS8E3j-G4l9vWX50SR4eeSOLGGPkN56X5xPTX7AtTJMIpBJNbdyhtLTxfuCZsld1JFQ9YPBPzpIb_cUvEdFzxgWLAjevT7Jnnmd8Ubd8XMccZHd-F7sGbMQOxLs4a3kheu9DB2mC7GSlMqm2RP7M0yVv_5KoIzFF0aMN0BldfTFPmsddl0ysBVkg6QhRJk0JSH6U-pbgA?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzryHBqNJZY7EbrB2xdrNvS-I64SGZn9CmqQY1KVViPi5s8-apqs-7foCcnF1eeW8nNLtIvNr8ck4nZmuDqrDU5TUB2buwBI8mnI1BAveQpgI7qLM6LfU87KOKsIIoAk64PeZEapZ-S1V3fLB_XFWTvOsnSsaQIWt7wE0zTHRRkJcVC0maT6VHG_wdlXtV-tl2vyVXYZC4DnTyGXqPssB31JrbjQmDY1a6VDVXAvJcF6Uo5xwM-ypQVb9Johg?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -6870,7 +6871,7 @@
     {
       "Layer": "Other MVs",
       "Name": "secret MAIKO lips MV (Kanami alone)",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5haiB2awacOqjLdDYbuZtjIqIitTZW1KUEhr0-iJse5Ip4B9fP7NnkIMlQIw_r2_uUduX40MnjmeWH5NabYOGCtT-zTTkL4F4Zd-WmdlX_yh5Jm1LajP3YIYxwbqcTseT37vs5naEokOixupsf_SmtSrKJLaJYThkrpp33hKzkw2JeM1xk24e99epWMyXFaENsUqU7A6HxCICNx365V2zrj_VwhVh9W6rgnxDWcvYlJZYCdrAlhEP9B_dwJg?fife=s16383\" height=\"200\" width=\"auto\" /> Shiba Park No. 4",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxPz1I6x0kDqPa_1jV7mbi7zbln3b5tvrt42ThxdXLwHoQygtssYESHdund1dSEQgTd9IItMrt7Lrv5WSRMFIjdkegQbXb_7a0JRrrG4cpWJhIBNkoxyD6IzS5381bXA7QJ-pBe_pPUBZUComyg1almDEwPNG1BVMp7MsYbxuM0pwdE1QELMKvXoaeF5Y4Grz0BaMsi0hc9tIZkGoPhVez4SL24VprKguP_tMPvuAKGUxjd-bQ8KF_I2bJJGQ?fife=s16383\" height=\"200\" width=\"auto\" /> Shiba Park No. 4",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -6887,7 +6888,7 @@
     {
       "Layer": "Other MVs",
       "Name": "secret MAIKO lips MV (MISA alone)",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4Dx9THhEFIspZhBQ58BiD6Kt_W_Z7B_Lq7dNIzr37VKOZ3Dg5C6L93q5KNdbs9pwn__F0crHWm42FuFMEE1G0NwXQuIqD_Q8kGzMxDaUvbZ6ETLTchy3OMfBub9yzgHjz1MI2QI44e17j0v1Ghs_e0MUcaDWyJee6G-_RpsM4NgXGG3O8XSfeyJRTRWfgKzOesP0EuvCcz_iHwG7Hy6GOLZsh1UcE6n7GxQszt-4s5Ay_Zg8k94-9GPc_Aiw?fife=s16383\" height=\"200\" width=\"auto\" /> Nakamise-dori",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwprrartsZZwPRElvNQCk9qwOeWFfev5isfpHQNzdRCIHL5S2k2sTSlQBBJIn4AuiE5LQbvRHwGpCRgvbWs688PrwhItbnH5aejUKKAgV3u9MFfKXzbHwXulrqFIDlUiL80swcLK0nu1CjWzWQ0Wk6WPKToPdWpxFnlRU8BycrUGkVXcBeKiGJOzNudMf9ERPK0NAkMIO8f9c6hiFibUj0ZOXUxSzd3Uj2J1P8RGevoxJHi5HDFiK-5Dhb0hg?fife=s16383\" height=\"200\" width=\"auto\" /> Nakamise-dori",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -6904,7 +6905,7 @@
     {
       "Layer": "Other MVs",
       "Name": "secret MAIKO lips MV (final scene)",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7kf6R6rLZXUyJ_aBDftrbQmIUD8TzUVSb3Zcmp4LG_k6SioM_aho8UEAbDSNKltge7aon4Cx8ow1ZjZfyxpTuy0IOQiDmbwDXxJP64xAmea4-lzaNgk5513gfQWi1GF5vmMyaGsZfcQuoxXK6dffnwGTtcLWBe9zPBASAL57yoAUnE-VaA0ISNLmBh-8riG6yldbX6puNZep7IE52JdtR2mr38NrKlU_uzs8V79XcQPilB11eYuGKP43Y1Aw?fife=s16383\" height=\"200\" width=\"auto\" /> Shibuya Scramble Crossing",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzHxBDEj3pG0UMTRkXefX8cF0nSIW7Nz0GhJLun61LC_6YXxYAPcYNHgB3pkYwjV1UUnnf4XfMU7XkiD3tHeEtpPyIcCHEbQDLygRjMOApin2P7Kz0ChBhDi-svDZNzWafaPfjv8c-fi8b7yUUy2DvVJtnFEWMUreM3Y4hnK6DE7NMkABArvTEME3jfy375lK2yjeZRK_7YcscbosD9ISnM_s146xUJwtbhyi_6X2KJXM_MEZA_ngrBU4-6zA?fife=s16383\" height=\"200\" width=\"auto\" /> Shibuya Scramble Crossing",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -7367,7 +7368,7 @@
     {
       "Layer": "Other MVs",
       "Name": "SHOW THEM MV (tunnel)",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X75LLrnG_qUF2XQHi4oa9B4jNN5azNibjdDipfIOJhxpWT0HPuyy5s088XYMfDgQ9Jj3B6qRFBCAYuXijH6A5VOVAiGgv1KQFhVpHjCZ_5VFCgrnWJQA_OARvSz29dHyj6xGCiNd1KTmh-zv32LXJ1ow3Teji4ljYjGEOVLCUqO2Uy8DWWMEZb_RjFKD9Tx-Ih5uNs82AzcwJDPFOpheJiojb9LAGcNCutesC8JvO3mxUN3moy1VkWqnZZLQg?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gwdorz8w6nfbxkJZWeWST0wQ8u_ejFxgG13vFGByGJFrMctHQfGTooFomgUzDjsAzMTOxEGLtFYpJR-vXEF0J2h9bcc--KxE48hCQ81STAZONO8IUbOWVWZpDgxzaaUCQA1S096tY5-kdcIpAZx5dEy_V6DFXILU-w1GjMouxB-BW4C54a5Ls85RaTnpuugEQJ6J7MUZov5dcai94xJWUlnQPxTTWewTAInnWRhCtbRZsxNyofmWMEnW6-ocw?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -7384,7 +7385,7 @@
     {
       "Layer": "Other MVs",
       "Name": "SHOW THEM MV (street)",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4mbF7XNslWpm2emrD5sUlmPTFOz5MWQ90BrWF_3-z-Ug0wiyUXKYl7XI8kD3es493dQFF1T5MW-NNQueQdUTX5nb0x4npQrZpxXCHGXrFtV0PH4LI-C8YBr7Pa4b6b3oE2Ed9hXbi4SyGTvgLHVWLdLy77C77wtCtVT0IEHnaKtWgKX2W-XHwv8arfpHNmgBx55J1vBsaJQCtFbauwJAsWwDiolgMN5yU5kQFhci03hvGVhJsl_EvYd2_xeg?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzUtqVUJcB4MpyJxKbBMYZrIddYmfh7O32obfWCD90xFH1ld30EjDqaFS-7bD9yWkmsrQG-5h64bvjIwVD2c_ST2E23agt1mcfip3XmrN246zBgr2bU9HJYzvtQuNor9YzGZjE5nuoTBE5OCDrG-QjBpHX6OFH-GJg2tWAEbJb9bfqJ1rDKMID0Cul6QsRIOAwLH4BtWysZDPNykr8GpTNFpVktcxbDGfnX_SL9yBxXge6rXH3E5aAUMEFqLQ?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -7418,7 +7419,7 @@
     {
       "Layer": "Other MVs",
       "Name": "Forbidden tale MV (park)",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5lip_zfTs_CZaM6q16pif8BkF9fA2hOrpLiuVgkxAbPptP2QWzi7MWja9_VfFCX13ukfUtNKHTGEE6HFROYlbCczk-OdjIgb95yJBQAqfVKOwJdRtqLRal32a0c-iRMkYNCN8SdwiXANnNkhYDqCLV3XoOKKRhQrUcdISZT5ppqonkV0YMKZ_8XwibBU4Z_cx2Kr6tPfnTARbUirHp3NiSwfPETYrLWvLIbfdWQzK0v4vTCCBe-f91kcTE8w?fife=s16383\" height=\"200\" width=\"auto\" /> Ota Hokubu Sports Park",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxYpxCfqi0Lhhytj7AWpI1Utv_L7aPMrC2vZJ3VHAzolLuqsrzZCto9A8yE9NySxuFfrghyTKTaCybNyoCYeSaVwwRL3ZFcChoVxSMl_8xUFFW2TpBP0x9pSaAQ0TI01CJimx_xRr1MlQLV9uZq-nM-BGuILbxqY4gPoUvw_UUYKH9mT3BrVnLfgdqpmFQ0grwod6l5ePtplK1ym2x_yIvvUDBpMImluVoVnM_clzkKYfsKOZ1AxBoFLXYDyw?fife=s16383\" height=\"200\" width=\"auto\" /> Ota Hokubu Sports Park",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -7639,7 +7640,7 @@
     {
       "Layer": "Miscellaneous Locations",
       "Name": "Tokyo Girls alone #72 photoshoot 2012-11 (Saiki)",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5IOlHT_GSM3Vvkse8B1PH8Y14clwe4bKgC7YeqM8_3t4rLXAf4h75921mfexw_WiMB1Xr1eAIntpTtwGTkyO6Zy4dZoHkKaLR4j2CfVbsifM-wBeDp9QO950WilLQcLrPktR8eR6jkb9MMQhHOmQbXCLVRYdhMKqvtFJZt45m9ut172QnWJnrlSWaGA4aEYWbgUYdu50zKTFdUYQitWd_3PSkwW4J3nlG2Cb5x4PJgovtMIghR8JMADXoOuw?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwqLmVFyK-f8EAGHLk_kpQFWoVJzq4Oa00kahjzU9oAq65o5JNBt5yCWUgkj_0aYUXfLWdL8OOPVT3L62nqqsRFmseYm0tPbMGHuUtgrILVpvbJObFnFKVWSPeqFcqcZD-vd15bRMdbSa-Ho6pfsfVQKgr5GI4Hnk0MHkBIFeGb0vs1_ThkGLB8w4Ieghcw8YdQy-3osdpY-fZ7dYZQX7mFyMMNgUl4uCUjTIU3J41b5B8wfBy9nrFfODFZ5w?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -7673,7 +7674,7 @@
     {
       "Layer": "Miscellaneous Locations",
       "Name": "Cloud-9 Studio Yokohama North",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4QlBOoN_rGtp8Pzm2CeeCLX_sZvYIChg8Yh6n0HSpYsoI5DOnwttl3yRSnRXOxSNlzk7GPkMjcDPZG6IGUG9RkKIVeKaMfA0mUSmJnWAOwmQo4-E7RFIwu88IirJc_ybd7nLig5lbHxUOGXk1EbaLheVOST-Yj94ZSvM7vBsuoX_GVMRLb1kis17rHmApio0dFFiWMD95IUkaDHWhBpBfLuVpf905Q_8_wp9tRVJ_ZIll0jHYsREdxu5nEpQ?fife=s16383\" height=\"200\" width=\"auto\" /> First known Band-Maid rehearsal, 5 June 2013 (Ast)",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gy8cYo2NR5aEjlsu_4wSPmBAs9pE3USmwDAnpswKP_MbubjBy9DaYU_4zSxadT_l7D75eYAg3jy9n8AnMVPJMZsPqSCJdOGLAJfYhAJgpdRjZ6LLAdtckqd0VbL8qB6oHFLHcMFaEJbQhWopDebSDAxPn5qdM8wveG1QmAoyLLVPCFQreEJlLg4AUdQ_NfikJrWneGVovXRaoiv4n4ECm6hIkYpJV3zY4hP8NTeNlIy-evxpoA3NtmyXow21w?fife=s16383\" height=\"200\" width=\"auto\" /> First known Band-Maid rehearsal, 5 June 2013 (Ast)",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -7707,7 +7708,7 @@
     {
       "Layer": "Miscellaneous Locations",
       "Name": "LoGiRL photoshoot 2015",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X54Gygj22zeWJ-NaqXeRS_u_Rf7OPJzS1aGW1lYb1eXRteMOT3OcgmtlTlbntCN8EhElwLirLl4757GFapzys6-M9HzKRX-ZOYt5qxLq0nsQUbucM5CspBTDF84W4uUktHjoqWz346HICcoUV0qp8k8rfgxUh-P0gNQ-ST2oFBf8NpfKtq1afIu5zvF_-o-0jDsc7MSyfvPvZgfUwynINp50hcrfLyhOoh-2dyOPDO-XfnmTeRQYpixIUmtuw?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4GNohAPLpsuowm0ysoqN1fyiNDOe_XFzwx_9GFA7EiL8eqjYSj6iuMul0E_HoCRKBzbHYCLBX4hNLAL3t0Dg_PxpTv3aQ4QnaggyLxkW_ALvmcgVB65TTZ6iWgXwf6Fs9336Z6fr0iXm3urKzpyS8NwRU69jJ9NLmVpfshY5keHt5iUIXb-qwaHmbAXnZqL-YHjp00a05-jdZx0hj0h7AQZNwtZoG-oXe2ZHBXsR0dE9wrBjcgOStzvYEmlg?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4dv7u_E3kmOsEt0RCPjwHLC5FGqRHFl7FmAhGClpzm-ePpeFI-8Cx3Nb-amDK-ZcDSFAYIbdcvgr3z2hbebF_ihGF18x7PfzStheua5tirGxRkN-uR1caSjvpEG_QmOG1mrubrPfc7FVknFkeIilhV5kU8NfbKajAvyJDm-HRC8bM4OxH929nnUNPG7JdpH8lguyiEpjEt1Sm3PONAPRsuEMeWiYiKqD1i10L0G6XDyAxU_QnJWijefF0YCA?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxUcUE3zSPaJax_vpTb7BDRKPtvz460TeXnip8YNBgTuT4vJNS-XoOliHv1UpgBx30FviLDK5dxKAaPkAbIFc8FXEgljcZE_suAQQUZL0jNqi_i7ydpRFzLi70v2VjTMWpX0AOeI_6OUBL95hs8d6MsfxsIOaRJs4s92T89Xmoy4V0txCTupqnk7JBWle8QNmBUzRmMLO1LJbUJ6xHvWVnLZaF_iOTG1xfKRm2mYB9rcPKm3sDheaSvyR9XLA?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxUZEN_mQl8akTr-5rw_cgIVNr3ZBkR_G7uFMSPwY9yD3sfbCIXTRtPz5eCsYpc1Qbl21YVJm2Jj_99KsJeYKIMmFIP-LGTR9SzTu450huJdQWc_St_rhvIsljfyk2wgxxZkU1Wi158YztV5nBYuw7y5nfrhZ1y0EfMHVE1F64w7QJzGCzgrfH_jcY8RttUG1iJmjybThKsRUneJHCivaSxGPrCfvaLiYQmwQc8QBHyKXLoKRQqMeXLj3Tv8g?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwUyKbxVzr_xIyN2QNRBGJu55zYW_lwPWcJBW95EvCqj3aO12Xqhv458smgv3Db0WWUOoVI5QUUxc3lXv_SWimvxDG0eYxVN2QtPIsLco6CwLv7exPde5PSWXpvSJ8KZFKXtEmnc0FWOMm7WgRzO8ZFjaZ-J7GUcu7Iezd5X1ev5uRMyahgIfhd_5wGCYxbiMmnAcvnHRCIHqYknmrfrTxKCxSqk3XqLS8uqPIBS6Mz0VBQGefPvfjfbtIUwg?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -7724,7 +7725,7 @@
     {
       "Layer": "Miscellaneous Locations",
       "Name": "LoGiRL photoshoot 2015 (Miku)",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7J2AEZfXynzpubYMJgMFqIZMIx8sxOaUiguB8wTRfNwdtBNChwo_MyNYbZjdHQsHD-UdSMkG3xFtck_MMQqKlzgl1W4kcK2KXHFUtBxEZLV-kiueV_DepXq3_s-9Sw1ni8viTLgbnehLDm-vk_KS3KR2Bol150mD90oTBC1FKPtD8ZS64LPT3LUOvzBRGQZyaD-vMpiFbhWLhTSI1o_jBwX3nprP0SjvrfpdNnD0j6pX8U7FsgfJVNApNbnQ?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwYht-sJPlNFZcYU_bcZzAVYv3GW_rsThzSA7p1OrznUP8ddalFuEnfIj41WI--jt7k3NCDoP9gwclnBPxoTklLKNaeEL8f1TfCr_kq2KCll1DbDj6S5QDpKNiTR4HpirRdNEjOC4vDlTehigejbV1BeJq1_Slg98VgAHE2D7gtUWDmnsqo7IYDP5xLf4mPn5CrcxqLjYqwsvnV30F_owIZbvflhTRxEnoC_8pLRYlBj6F2y9j9eF6M8MHyZA?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -7741,7 +7742,7 @@
     {
       "Layer": "Miscellaneous Locations",
       "Name": "LoGiRL photoshoot 2015 (Miku)",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4cJvn0y9NIH3a6anqXFUPXOOgHrvJOYQmrZWKSVOeFcfXBNdkD5EmbMQTcL_iYen1_84PC6Fcq5O3erhm6K38LKXIvaiyhJ9-cnRGgEWS9H0amirFPKYwdmdWoX2Nn2kdBBYZdi1PIz6CTm4TWNdCrJSMh-AoIUVPNj4BikqgoDZ88QlMKhKQbyUeFyxEAIvfXVIAlhVh-FK9Z7MTa8lkFhYyrr4cf-OqtSLJjzP5MUA1Lh3M8u4Rt5O9Qfg?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxPTS9ruHYNSqBWXHmwQNhOz-Cwb_E11KbLqsmnOjxSdAdALzHLNPhDjJeyM6S45WHc4IzE3GuMgSQGTM9Q7rJeMbs9Yscc0Q57wTPCwqfdgJZUEwFlFd4d8tdV-6JVgZkQXi6UkVTIU2ecapwRrZTQQM21Anq8PRCMUZ1K-PcMnwTFy4ZD-u8tKesc4coDnKpj7SzgQk-6L6VLvRsX3uRYEglcVvGDLDOR3CCFUKQxbCZOIZD4aOHnMZ_Fgw?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -7758,7 +7759,7 @@
     {
       "Layer": "Miscellaneous Locations",
       "Name": "LoGiRL photoshoot 2015 (Miku)",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X78YRSeP6us-SB9iDV-N5w2ymSpk1wTBNLaOz8tGJsykf18GtyE-_gDNAHJy1p6AZk-49JPgtR9HlDJoOIrPys0MX2Tagb_cloNstDmEuFjWFrxAGdLXFWe-db-64YAxv69qM4IvzRDuCJfHFSmtffBWwwpezZ_viU6uvi40_UnRKFyePpWC2BRRFNcsm_kd5CLcJE72TtEY-LoPFfa9WJx9d6763wW8HDbECuluGS0oRozgXn0LTgMZgDZdw?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxbCmvRVMvk1Uq0FoJ6tsWjqUF9_mrLzAAqLrFlL6WYZn-cZSQuKnNfOMrJtMmK-qPG7nJx5mK_RNoXQMw9K7zUjpmyMWszyg1e5ocTnmKIHaabks_QEExDqkLl1lcMibeVrsHFvUpAPFeJwZJ0WSnkxO1tNlaL_XFsB4K8TlH9-0qCH43GobctKQpvvv_-P_r4KmQB7Lx9jveBRbD9gWb52xtMbw6IczMyC37mEIUiw6XKCkkdFnHB6jQSMw?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -7775,7 +7776,7 @@
     {
       "Layer": "Miscellaneous Locations",
       "Name": "LoGiRL photoshoot 2015 (Saiki)",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6l5tBFmd_EEZSfztyPePU8IRgYBo_x0cwKdK7YmtfMphvxGOMCqeRPKW7a-8AGWl0O2sLwzPuLGnEmR3djzagarUCrsAmsTlnFUn3oHJ1sFCjo04j2U1r_qC3RhPxvPFMLz8UxPdo75k9p9aqcSywq5NWWIQ8Rz_bcKpnNnEWs4aENMZ9NKJE-XmPXADRNDxhrryDFxb7B6Whf3agPovhCsCE3kCmwRJr0St6fn5GRwWg1iSVTle8Br1-4jg?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyGjWoV6b7ztEEbASk3ZBs8WOuABsuEDUCkHt89rc6sBYYSsB5Gn1ZPCFr1F48jR90Nts36JkMTVXfMZYqx6kbY5uVWxx__YIKQhiN7GPYVrMa1smLLaw97bHe_b4MON6MYwvcA2FfBj0Dx5w2iuhcld1o6zX6vP8PZRvvjjAMwDWKiFvu0urvAUxM_Ww4b829Ri_mphVXGd_2ZtGv1MhruDebcJZcokHSN0VPDfmS0u7YgpA8919q_Ct22RA?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -7792,7 +7793,7 @@
     {
       "Layer": "Miscellaneous Locations",
       "Name": "LoGiRL photoshoot 2015 (Saiki)",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X50hTfUYQ-ph4LDnHOTXQe2t20NaYfOcZOpKJjv9UJnH_6Iqh-gEu8zYGFf1IA86rurosufB16Q9TUZhVrySeyg3zoYAYUdS19kPUAtLwxvU0ZhTLpoNf2LTx7Fq7U1xgxqCFHB_wxaeq0_hpkZlqmY1esdx3Uy6U6NkSZinKjX8HCOy60_HFECRkfU0EKOZCzZlRctL_We3mgE6Gxu43EktXY2AirLqDGFY37WKzStqKKqG4lVTyuCs-pkTA?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gx3NDW4OEtWhNhBpWr7vMkHPbt06tfwb-9FRJYCO_iHXVwqZXMmVrBSpKFoXLHgII0PzC-pq9mYfH7uxwyzEHeVXWk0DIhmw3ps_0j6KmemOGeJ-4pP4hYhzXrP-LxZ8qyYUcI7TeR3XTjdyqCIgujSUbdtoP9ztFlK1jRxFXsBXgtH6QZgFSkUfGFhrJEs_qXs-1oSSNfxthyhn8T3nWVvjtIDvJ0QhFhofUjCpkohWAhXPPR1NEzlWOvjkg?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -7809,7 +7810,7 @@
     {
       "Layer": "Miscellaneous Locations",
       "Name": "LoGiRL photoshoot 2015 (Saiki)",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X53RBByqb6kYX9M19NR5WLLeAonYVjnGcZU3cbK3EQnuXlLCCk4plSHe8gCKlaNXg-eH9XtaNdLGYKjRiAhJtmE6HDo54UVG2-_7mIsh8WxxuLKB59xlvQpbMr3DzknmL_yGwY0ItjtK9PQCEqRpVnSjAPqCktXif77LwS6w3MzbQdrQY9PEB5k0b9v1-oqqaPlLENcQv5w55M1_5NpbtVHL6qA-0NkspS1Xwz9agPbx7wP3fxLhzNXbi815A?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyGK76gMghfr7K_0jZ7CWWOyAOpqGfBrt_FUyTc-IqdrboUurk7V68DNs2V-l4tWGaE9XfuiUB9RIxNuEFbhTBKHGEaJsifY10folAXcylhu6LKgwy3ygOK9hdTzKlu-qwUekLDA_pYbSA7NSnQ1rxIlQc86VmOWB4MT5xQNoEYqivToj0q3m4l0C36b_le6witlExPUAm2DanFD1uBGroYmVgMjNkR2Met4A2ZfEr6wdT7a_Xg9W6TA5KP7A?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -7843,7 +7844,7 @@
     {
       "Layer": "Miscellaneous Locations",
       "Name": "New Beginning photoshoot 2015",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5PsoOpT30cQti8ejQ-sLc38s-igIt7gxUhg5KXWbdYGWY0ayng-GocuTgXW1lIazG8L2UlBJNO_9AVtNfK1W0vwk46d3xCIgqsLIetYrEwm2Lk7TVFOt8CGNzLVsEO2o5BX4muWkiN1nSME46WgnYFANwSm4CAH631S2zykPRl8cQfR7nhSaRqol2Inxckmp01u2n4JkxQm52qbOe4dNWSejg5r2vNXFcar2hDRm6soQ1GShRHAOV8eM8FLw?fife=s16383\" height=\"200\" width=\"auto\" /> Studio Zero Noir",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwVm7bmvCaNqj-mzViDb5M1fq0tvZ4ApenMJBmAIMqM48qT3x4kCJ9j_rjt3HBCuHWedRYhzEY3SqAMbOd8SHP5qsSm_1KPXhZFr8X7sf_uVih76x4l7MOSXp97hZMKPmM-8oIZrT1ygtPcH1JiiQpF61ipr_vtGp2QBRJlCMO1xsMJfl4Y2EdWUPoxpctwjnwpCdQrgqk270DWb_CTNuqUpXwxOc2SLPlRWX172rv8fWk9EFeRoGY9i1X3dw?fife=s16383\" height=\"200\" width=\"auto\" /> Studio Zero Noir",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -7860,7 +7861,7 @@
     {
       "Layer": "Miscellaneous Locations",
       "Name": "OTOTOY photoshoot 2016",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6BYhrth8Ty2E5nG-2Bf9NBKvuMCM-EXkao6XihddwxJoBzxDIj2k70z43w7TMc4DYF7ABl_JOtNwhbevqy0mEf5f_S9Xo2Gu0RdjiI3mu12FtWU-hmt7Gz7Le3U93w7_7rO8KfM9V0BcExEkuUTwwS_h9jvMwRIPtP_LWopOSCmozaGiz8eQe0yUI3zfLpq6d4D4nyKI-aL4U6zcjU0HkiJq8iCzpw1WEWi6GZaOhAipgHUP7cZx-G8n6k-g?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X40_Frba34LZn0Xwdhm8ZXSB3VRbZKlPVSWaC13dMjgsX4u3NHmx0T2-1cN2jZgfRJclY7LbKjDH_8HrFg5E1y_Exw5Nd-mrOt_II_kV2DgV-Jb0eyDVF9oP3BgjlJU5l_rrHYjC0tP_RRYJF0mAyFHGFNqRcrnVENwgFKZ44nV5H24rRdChteKcl69oC5r6CidMGIVtCx9jovGzBXeGkFoDjvnSq4kPieofg76OKXkKZW2mzRpRrs-af6Pdw?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GysAiZoU71HHRP0EplRf86fm5rYltKAN_Bwuv7-jnmxAgNxXq_lp7yJJ5nYn-gi4vzaaca9511guByxLLTgNLkNsPpMXr1X_yQV7dl-QQHr7iS0Qn5A3QVeIMrms6d4RF-Kek0NI2FNgQRKpY9PE4SpIi4b8KtBgT5LR4mFrUQDmD6L6Ry-CBcakdn27RV0-w5MOADR4_gW8fEw1EN6XHuNK7o5BLFnDLEoWqVF_Zjl1ymx7rlQQg6HnYP46A?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzpGEi_sjEH7ydwd3Lmld4SUY6G1VtnDhgihuSQpJROyTfWLvTRKBK1Ys4PGFMop9EbZvNDCm_vs72wG4Uer389UV2h-Twt9HBqnCVc_juhjMbHTqJjSFQTt0d0-3WTrkp6R9xJ-0F7-Sw4kdSIQuV5YcyTUY2FBU-y1mPvkq38E3DqcyDe0sj1PkK7ILkKLHtkvtOMmwzSwiLtdBzWSDy1lMvAIYbCcrI0aFkUP2b0qPNi-MM-ahDrxSMkHA?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -7877,7 +7878,7 @@
     {
       "Layer": "Miscellaneous Locations",
       "Name": "Daydreaming photoshoot 2017",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4HJRVi88mBRkZccO0pxLE2Z6y5DoPdUFte2tzrYzo85JubtXk6TPtTO0y6xSaSAn3crJCbWFbsikY1WCY0G8Y-6giI7ComfYIPMV_ctAAhk1iveNWVz2Q7n12-ptOObM1kF4jEyQd5zFMc1O7Xu19W639eHBuTyjIKZp82I3F0TRwl2Ojv-sXWMHompFunxFvlMruVwOh8VG-Tr09x1cLZEBhvfx_4yYaUrVGn6PzXNQ5B2Hq8dbiCd7v7jg?fife=s16383\" height=\"200\" width=\"auto\" /> Guanqian W Road <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X54VX5q1IfGhomG7lppocRu2JCzSeEdK9DGpML_pFNfFf-8or91iMWcOkuxaD7W1hnCzs5Cf7fDqaBt9l8-hWP8nsUYidG1ubOZJgxB9j23NFhnSLe1HKs1U01wpkEhXdwVOcHAC1YPrdqxpAKzY6efpykGO87Uel98ATheipy2-UIvAIWhS4QeHZzyoGAfQUiOkdLGMnh-Cf6VPqKGHdzq0_YOszXKbIxN9BAiGXPnRYd2qCxKdDo8ALRtZg?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gz-0_zYitVcIpyQGw_V9yStARIygjSzI5GBOZE5g0sUxOnJ4UsvKcCIIvas7NKZ9uU-8ozx0ae_nmAfreUJUYLECR4gFbnNHnAztZGlkSmJ33XHXJMX1r-XA4UDctMkugg1scAFhHH3yOxDhirGOMHDnPAo-74ZSx5nQvheI3H0gveFuIJ401QazqOCeflBYpCmIaejDwB1vO8ensnnOGXFGSI14zidFPtvW1tHwKoxpzXKZ3UKMrvqHWXweQ?fife=s16383\" height=\"200\" width=\"auto\" /> Guanqian W Road <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxHtMjjhAgcpCJ9zBCUWFNdKR4xJH8t7oqnTdfyfwoA1C6IC4GDyIBpqatB3suCpU-qrJm5DaTCQdsjybRqrYciJqGR34WhLAr5dHX4NW9X3HjAt6e1r4LG6nGnJT5ybkcEnIQ98xexmZPLtx0ULWqw7qYc0NdPqZRx0i1BlrcXgPDTraQOrcJFDvRyg9IzrtPe_h3kVR2Hmpu9kJMWBEGx_OME9nduNbck5qFgDPCHKAaJY4QD2G8dqClL4A?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -7894,7 +7895,7 @@
     {
       "Layer": "Miscellaneous Locations",
       "Name": "Natalie Music photoshoot 2017",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5XYStAXif9JoLR3uU4Qc4BndNekkwReTcWQ-qx49pt35lLCyuBrot2HpgvoADimTV_WJ7Cc8cCS_NZc7xQ163E5IT8e4zXXBmOEGJWxJqgg0X6cY9YmCJc_XbwgBNeZ2JHRk_VKHdl2xY9LdxXo42s7q7PLDm2hmfnHX9BNbU6mWCvx8H6U85zalJNxvMgpiqU4SZT2kzngYfbJHVSy96ZzE0NY8YK4s37n5MvXVh4WA2WU_f3EIVS8pd8ig?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gy9mxqI3pLSLqp7hjtAzPiWFu-FvNlVgON9C4et2hdTy46ZAX6OPBMhuV33i3F-AznNrPgfirbfjZ_I0hRIwg_Bg48rSJmdKsJsDy5eK2m8SLiTFkfMkL7efLoZubUVopt1JI6M25_321SE1XL51iPzgDw4pnat5A2qmfjw-UNqtmv69_9SDgtCgm_Tl_sWBtY37OmifhiTmxfTmtMYv9xp5yNp8ULzyx7Zo2zLazduOZUR42olxxK7tiULTA?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -7911,7 +7912,7 @@
     {
       "Layer": "Miscellaneous Locations",
       "Name": "BARKS World Domination photoshoot 2018",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7OQTyLP1oRq-EszcCGyuAfK-jFrmqOjcSN0USSCPsA6miOSVrwtmAIoz6v6h_8jBVkFPrk1I7HAmS6_U8_LuvkJkHT6MDpSUF2-5gyUfJk3Z0U18eJqxEyfyYA-fTyh1xeGztaz6vc5v_euOFofyCfZe_-JdbZLsMu6esHLZPybt-_4OJZ8exsg-zkVursjI_4JN3Nt_787PiNnq-2TBn6ZbMbnxiPOypdWTUECoW-zgIHthu29cM8re83Gw?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gw3oPCbxwHCOW9WoDE_FTchoay8Jj1EUaBDxo9WzqROe5D2f9uqGMKfyDztZrO5F0kxI-Z3QFW_2-4WPy5Fw9iSlP1-8RfWPb6PFI1Nf70_x3KWvdPqyjlTLNHWTd-gfv0vG3UDmxNvDg6RcW-mhLMJ39u0DzOoYXEL0Cusd790ZBI0HwelGtu0EPtfO7VKQ-yGhbyP9T-V8FL2hTA01lHDihNc7XGZ3Eho7DGQWAnunHweoLIS-oP5SEu9aQ?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -7928,7 +7929,7 @@
     {
       "Layer": "Miscellaneous Locations",
       "Name": "BARKS World Domination photoshoot 2018",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6PrZfDqBiSKfpRaVu6MwYGgQ7FNX4GzeF80OrsU1RYILQm7q7mh3v9bQZ_4QpnjnSd47ve_Lh8K4cEtEJO713lp2G40LHIaytdUKl9u4hr9ojV_CKVGNT-qxfSDPMkbZOvfDS968VG9dMf-0eQzrQp42eBLuOHmmXBD5ZKEq0uXBA3e8O1XpgQEnT5USPlhoCgsRxqtdWogJYmbmMzvXA_lQ15Lu0bibdpk_kQLCAl2wMBBM4XnsUuEcaA2Q?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gx4NXqiCs2ku6jjJFMUn4_pozSPt27N5fU1_P4uBlaBWkBoaLMIuHUrG7qsAojfrww0_yQrzfIQnmvkkjRgwPzSMbqA_v_7Ex5QqXCL2_zm8QRLDLeGzj9dwn2JsD9jN09Z88cwVRByoJm66V6pobd8ZDShkUC0puECrfoJ4G9bMmj9pIeCJRSPpwfidgJzjku5xP2WdS7dDxbEqUcp4upCa8oMDJ-tj-EWMknaj3goTH456MxYlI9GFUkQWA?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -7945,7 +7946,7 @@
     {
       "Layer": "Miscellaneous Locations",
       "Name": "BARKS World Domination photoshoot 2018",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5ouoaGx40HoIlzXTAB5cT2XlZKIhSLE8oBaHpBdiCRzYkWW9AgNRo_K4CZrAyw_ve_oDC3wu_EYhKeQXETlVeCTSBmDbQQIw-5pSxegpqAVFF0Fw61JqtkX5aayCuB4ODQj1YXNjHYeMvNIvdwRYZymPzw5DXyguubQvLznl9Nw9vPyo0RaCL7GFBSLzA4tYDAmA2_mmog3kIh2Ikp_nBirFt7Ze8cCIFX3QKhBmUue5mxFQ7v6S8gIi520w?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxWVFSAaz2tdWXHSTrF-nMzVcA-NjYj6gjSvnJJgzeKMJ6lVJK3jUZlducG2ytobwZYBl_vdMMFe2twHM2_zfnGbr4N1q9MznJTHRYyl0iByRTJw2KB7pOaTSXwz3n_Jd10xU9-C4gu8r6Wt_IPe_gKZ_rh5wEPWxA8cGTf_6LOJ3BotO5LBBf-NttI1AfLedwQVhINExNNs2ZL3hFDye5LNoV6ZshwXFt9Z4lxpEBT0f38CW5MCvDpEvsZ9A?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -7962,7 +7963,7 @@
     {
       "Layer": "Miscellaneous Locations",
       "Name": "BARKS start over photoshoot 2018",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X771J4aT1PIlS1H5GiMIMv6NfdGknHrnn2RSFXN9DNx3SCWGVNfjYKFUcXSjlAYHPJLbjHvY_bXfWPudJtk0Qn73ArJ9kVuMhk76BbxxEyKjmcZFE6_xWNnMK2Ydx6R37cuNaxWbfP72L12hyqSmGlpiJTFPIbbol0h-Ix3UKOSED62t7RDNs_KwFjN633wUvAdAgCDB61xfCLh0ON7VN4J1jeo09U_YgQcCVMB5NXwM-7f_VOHOWTtjn2chA?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X55hYzlRqCtS5oHvHv-eL-1RldJsl0vTpO8bXUXULwZ8ORj7ksUc5KPvVqFOHU-blS6FoDuEpKJptCC_gR0hGPtzLVARplDS-orRZ-1rmJmvVdyl1ZyJCXM6-kVQF41IzgSNImEXQ3NJb5umFueQTAqrWh59YdS8YfkjnrUzdSQKaJMBq3kAd3PFgqTNnY_Kxnm4pyi0sPGKt3P7K9jOE5eymQ1Rbt7Dt6_Bq9LYqfTSUe_-llijvX6G5dWgA?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5ojX0byfsouvo5H8XhAvp0hKa9ftcneU7knE249cBT6ECoK51-3Jkqt3YHcW6P9_W21CZYeNEpXxRwX7EVCf1ac00FKMePmL06jk1O8CES_CobAPoaB3BnXF6qsvXxb6RpatuHbqi6WFLSVaLa-jWnrX1t2AGtFFgCQIccuRkx6u9F2DLn40Kjgotq-fn2h_P-5fWN3DgiwehTetZtaLCCflxDOrzMBCoLPNEfva6pcE77j0wIqdaTIYmDGw?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7FkAwKNbi0mO3AVXMvQ_Qxic7XJyU8XBFvhCzMr7Qm1tEW1oZeAqFOWSGjRljZgOg_vNX5vo3KEGdFoo5eAbb9MFg7K8-LUYuXyZ7Mv2V3KrmCoR-NiD2_IzHwyamp0yRcDAdjmoFccEpfmstRnsVLpRz18bMw0b1daWq5N_7gnWyiFKaG0IeKs9gW_ZGRR--NSkdTBIL89nLlWny8X1dE1O-6iOo9aT5QpA-dOLAH_1sLXEXJ0bPSn3grIA?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X41mSkpbyWBgr8Im_HLTgAWjOn0YJa4xATTw3kqaX0EXFVIljJJjTUCjMGcCJcKaPeJB_bTls3cWqF68e_qQkWWBygqd1R4alx85RkjMKYYZ2xN3ikZo17CdNaxsU4y0Vdr2kTTYCG7q5qqOuZOj8K3l-8rbGexSWvVEXGzmEMe1Tp_vG-SE7IAd9RcEtzUnvDE0pu-Wa0xS7Q7It4HPYbaf8IvHSj4sqbYWfobyOALcYjD6upRZyhHJuN9Sg?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7rTJ9S7LmXKVdfV2NXSFcjImmOb8CVu3OeACEamkDLj4Iw40Vb3iOJbx11YyGb9-0Kmks26bt0dvJvwjQJe4SMYS0HuB_jARTPQS1wIEyKNGO7E0mmLVkGCdH_810Tfss_OOc0UVhVapMsT87wlSeO84nfcDtS1M7lfUrAsqV8CCH6O_5J0DWC8f_0We6ZQ0qbEoqFPXp-8r1zaT7YAnDEmR0Up_yNithfe5ErUWgPHUnlP_DE2iU0T9Phqw?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X66qLjfr0ZUR_e3es7Q_KtZEvkvYAkIZDh3uR8fVmZb9s25Y_K8jCwAKGHpkgcwWwk9BdKrlPo_8HOHHkoBMEgmh2Cmrp983g930x-SrFIP2Kq4wYWPbQJeQcUIzLyFghYLVuy2BEYB6Hgan0dzF5SjqYf_Zq7eIDhixxaTbt7mEkcvVfuLjptWrXIjfWqzo_jn0LT19HKy6nr3BzC5HXgJ4cOPdOGN6yt-fXNFEusgvgsUdD5PEWhh3uaTfQ?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwrNz-ip2UJx-5SOSdu1jsvLRptfOZe6L-TO_LIBvBHRysZe6yuGr2BM0JPbgdZt8OFxObyJ2_kWxNfpXTX85GM8b9O4audguCZ9FRTujJaVB5rI2O_Faq1EvXwZxHX5GniDoeDQeuE9FBczX2nDBHEZPVKvWr09eUYpzn7j8FvOpzaMo6wXuJ4IheJ4cdB4MshAOetN3DtX21sVQTSxsYgWEshlWWeBxdhKmCs8bqQAezw0YVKNEhwPn1KIQ?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwjQArGrKM3TjSXK5hiWyoXERUk_u3tyhQHli8tMk37sbVqxjnjwyiU0sJmGB8t0BIh0B0KiKp1nZd593AMfUa3N9T9siLbPvzTjC1Ap2X4Ds4SbFd2dJDleRLKwKv6_xAN_kK2sd9Z_3AidSm-YD9R0VUBWyHQwLamX1EgfJgfh7Y5tPPVBjBRZvgG8OOQPLAdKl9A5EYUFsmszRXEZ9ncMV2RHygxjaH6ICAy_1n-srR1e1u65tcgdOvrmA?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gwswv9ecDB7gyXgKEDETVwFmMxKg12--MB94oJxoE9dstCR11LCjvulAgiKuexGXLuRnJrz7Qa3Iu_fhZK_FSqKK1NBoIVQQ1mv348aYeXeiAKu9yj4StLwmXM338vBF8DetQxeOS6mfZS-hF4XnE2PqD9fyxPAWETp0Z7khyI5Hro5urKggMaTtHVg5RQ38soaKH6pDfL_K2KYJlo_aSZbVDReynWMuriIRM2ubqEP1haLZoUmqmMlm0Omig?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gz8QaHymXvhRO4wqvWVN8v3FVgfGOOuz0uikC7hBR79nPJeKSvwRvXkInzWvaExtTKsfD2IZpLXedXG3qx9tb8rvD7GdR_Ml0YDTU6ZrCsUYGH4r06RSNDwYAcpzL3MQqSwxKmrvPSr-cgcFy7-81rkTT3Goyt0YYsqAe3ewA9_VFFGJ9rPhHAPN0MyMxvyJdqX4VxGw9Hi9bcudMdLxHSri7C0fdazsqY3k0krAxRyEL9Qggi-rmWFQ7OHAA?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxWg4VpQeVkCnFp95xWOWDqsVkkV0kOSOUod7h45wFGQTv6Bu5mWNp70rDRICcR3HEXnGGMq1ejUa5dcB69FTYamvEBpI020_ttjK4-A_TcDo-ZvczrImfdk6utkJNsUBMHWJLysabwJUKkEiTHe4QYOFxSp66o2fK9RxIoaoLd3sonWCMgQz7zBO4zlUS88sppnpOZiJ1sv0rEBMiz4sFbaJqAhcawzk6x10UmJJyc8Dz5ZQCO85K-4Eupzg?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gzt4Mcv892RPEO6AtL9JuR66XxAI_mXiEsuQ4mpLT24t1xAi-r7IuxLlJSwkdy15YzklNv2bbFQc9nxLonwhoZKj6iQveaL3Pc5chajjK96WEZEuQ4NAMXCE6xZZ4dT_loYNXABtr8V8kdB_lanuC0LG1jN9HY--tpocAs1TfOuCWKUj8nzsCVJ_t2ym6zlV4o_WwhO8xhz4dGRpGDRc1gXfXH7l2O-pWHw5G3Yr-H9JJjPBtW4i7zIDq4KiQ?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gyx39BnWX5KYTFl_knbnxMH7C-21DeVEWEHp8s3gytY1PfA7Cj5N4AEE6Lj0ZhswOs0vC3iCk1TX1LTYs7PEO1ZtUKOcKkG3C1cqrOzckF0mx8uxp9Ss2f6xXiLE-TVUeakPT9b9qoCvSAJlxVDJMjsOfj-e6MF8078-VbMaX06tGQnM7f-AgXUWh5H5s5vjScmxObhOoYxj5WL59PS5JP4a7y6Rq4g4dCkxlLSM1QAZn9mHa8YzD8yeTIyTw?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -7979,7 +7980,7 @@
     {
       "Layer": "Miscellaneous Locations",
       "Name": "World Domination [gekidou] official photo 2019",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6dopfPL8OOFZSEx6nqcNhJhiu4xuXDILUYGwrT6FDuhLJj5ddLVAtOYIAjrQyNZm_Ft9BqLNIorsz1xOtEHFnB-4lrSO1yTyj8qIt0MP7yMEvT8_Aj2VjFolzFutkHlCL1WYVYLQSFGGb1qh0rS_V0WkJMHBUf9IiYtETh3ZJ3hzNAIPlVHZxjg7ZDaescyOsPxOfQHPxAQ8vFeN4pjqkoavg4z3jVZQueAqWhZeB7J5PE8o8MnzpB9ylj-g?fife=s16383\" height=\"200\" width=\"auto\" /> Il Nido Studio Denenchofu (closed 2022)",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxB49XiR1QUh-tpFeD2b49q9gDQwEyqWLs2TTkSqPT5IhUeZMSkTO97pcor5g6nS6_3spOnBPIed7myaG99C2MjaegGVj4TnulXPps9zbst8IJI1AAZY2TJ4k7t-EJMqm2IC8RqAfHp8evEulxv4wULK6xD8tija-KiD9rVFs1kRPlVCvyxhc7OZgKcS0AM1dPMnXIE2CggAue0kgSpsQWwFZ8Qi6SbXkuDsVUyJiZbeKA0SrJO-CbA9GA1pg?fife=s16383\" height=\"200\" width=\"auto\" /> Il Nido Studio Denenchofu (closed 2022)",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -7996,7 +7997,7 @@
     {
       "Layer": "Miscellaneous Locations",
       "Name": "Medatta photoshoot 2019 (Saiki)",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6JWF_ZMozR5_0VaD0RMVT9KgEerFhJ972kdXnxblflGSK9pKbstD2YYOS4woeWRjJtpaEk4prrllmOZ6zLE_h1WmgqTjn5TJQGDElmf3e-IkrMFfXwkInbbj-X8-NzxhiIZQ5IDh9D9n6goHv6Ycp-6RXKVpIwNdGY49r5n1462ntgdsIeHhqbV9D9WGxr7ZLcVGlK01XcF_EjwxkuYrzzzZyIbFCkYL1fCeDNQr-VbHWN_eDtTnPPKP3clw?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyB_B197SWTqL0ef_qRNVNgM1YnN3MWHavA64mKO2VatYPzRIhkkq-QoHPD5EoAAppgtaL2YHqs1BvRwvL_5V6Ji-aUf488UsYDmi8t4tRiXgkclBTefYGjzGyngncOlyS93qrLev6VAjXQBjAhvrPJe-2SwLz4_Ja7BPrx0_KmHcCBnGHLrPIFhM7mXW0ldq5A-tEOstAASpfmDBqy_16zfEr5ebi5UJe67SGEVGOR4XiQDt5mMU9uzDhKSQ?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -8149,7 +8150,7 @@
     {
       "Layer": "Miscellaneous Locations",
       "Name": "Different/Unseen World photoshoot 2020",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6MXqr_AyjShduwGBCXYIbKow-VJ_kg227JW-H5GwganIwAuVtqQGc2jOiswxgX5hFVJXpOVBjCqSzs8LE3T4SQYu1b-YGZERzuN6pfa2Q-IFO2lkkxq4NeZAAlxc98V75O7oA32EZAxGWaqoQbQUDYC_JG3PYZ0IBzI2jmwj91YrywRdasqYYZ1Mv_6VxhXgHCaM6SpggMl-OxPexgRxIX_NyqoXWe6fOx1aUwX6GkbYA_uiloCWFGHTaf3g?fife=s16383\" height=\"200\" width=\"auto\" /> Yubi Studio <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4Ps1ooGKj5R7nr2qs3Vyf6UAS5dIiEoSRJmOURm6yK9VeYshzitdCGQ-8WkBy9IDlZViBuTgF7CRxCX8pfB3svlFjeU8npjmUsBIKOinPOF2NyqYHUuUkXSaw6YkTN75ahadwr1a2VQgQ3fAfTl9_J1FVqx4FYnZmT08E_XMOsWBKCLBmx6NREVZPVgCXdboG6rO06G1P8ZM0Cx7FfVNybBYSMSDC5m9IHzcGMPKWNl2u2nqfcTaehfzgusg?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gzmv2a0UPsbGEejsJ7GOf99_DjHBFJpZyBfcChyKKrdYkPAs5yKycAGxQVDdWbtxpBkYk9kwnbvSCh1vvYnXnCfQDAa_JJNO0trAASGncGWO7KgG9PrxaXXA57YPczyu1AK33SR-pttY31mvNM5WgK1NXZHj9-_oWOXMGvpj_6yZ-i25q-peK9LqU5YM-s5RHckzETeCt9Op3DvlfQ9TXojsBU-srEPU98Jn7H_ntACLQg2fvV4v8IFuLZonw?fife=s16383\" height=\"200\" width=\"auto\" /> Yubi Studio <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gx2uNiMLQC5wA-tAHeb-wlzcaCEkdNvUAPiddzSfpw7eh2U6LtxBvJK0dk21PhcE5qEbv_zERY-Tveg03QTJ4oGaYxd_UevRaHI9DcpQ-LvsCJVp4oKOwuiVCG6ma0HL1wZGLz3zr0BOlCDiykgV-7uK7LAB1HOBZxfd7bT_NknXgUmTQVjB4tqba5tudMfnEBfGmrQ3iGJx_7d1jT8x_oexmGNuUYGCxu4R8zSoLsDH4TzU6Z_k6vlj2mt3Q?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -8166,7 +8167,7 @@
     {
       "Layer": "Miscellaneous Locations",
       "Name": "Massive vol. 38 photoshoot 2021",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X59O4RjVVC923VLwRFpDzf8vSP5gn5LTOR62pk5Gq6xSqq1RaAJIcochEFnkVVt64pNPXufcS4PbqMpivb6fb7eQnfmB0-XtH5xS8_nSQkRzP8N4bOsdiTUoSL8FEpsS0lcuPJTQPj2JaXGglEROK_2ZAjC89vDdcYLIC-6_YJUJVSM3uO636Iwm32-DOljNaJ0TUUVkFfq82hIZKFOpRZXTlE3y11Bi7yfO4_tj1X2BMHMX1gl5LUChr_3SQ?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X686IqrqLosyRs6U8E_DxTrRBzARBz7vlf0yzHXTNZNTLIzXRfmmkQZg5R-ipoqG2-tchHewbbpT4Wah1LV0IBSOP6q_CuhXDk7Pck7yzOQruTp4DxtNCPO3-A2kwNQ3rY_IwIU66NnRqcuFaTZeaZiA3acjw3qwC0dGXn0l9RdwtgkhOG15kY7qNkOf0puDCZGn7xM4wQPwHzXOvy_ssrnrIqJWi5b-wOpwQ-7JUyK9K-hjPKNRI9zsNV-UA?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzxUNB28rIT2BlT0vapICcNRIJf9blVfmz_t2DuW8_O6et1oicsqJy0LYdPeAQefuXA_ipCvqimtEKlmYz4ZwaIpnOOtp6sVQTG70EUSHK5tlXF_tF4C6bpzD0-98LaV4JSglI_qD2iZyJUYevrVJFXmGZO95qognVWcNjepGlVExordHLF-QHFn8MkxWmzjxtwBGyW7dxCmGkAdRfwov3VscSsqhMDbeHiQlZV4VW9ld0LKWSSqHKLFhmDVw?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gz1KRcSPqyLDz7ddeGAm5-ZUfRi_4lJRSsQLBdM6Z425idlvptNmfMfgPq6PzSSvd5mknjauS3tOJjy-CIsrp_Yiursr_ZvurFBbAz4VQI_vETo3GcbcMG7pSxgyxFVXT1MJksqcw3ozAK2HTzx-ihOcz8OmRStMkVAvkIqWgG71S0tuO2aLVk4ehMan2gtqkSiKSKSNP8JEi_j_TYKu0eDFb50h01mxq7zf-p0_VbwpgrtVpKrLiOiHtJOSQ?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -8200,7 +8201,7 @@
     {
       "Layer": "Miscellaneous Locations",
       "Name": "Unleash photoshoot 2022",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5bMX4m73yx5f4k8E6p7LsnIsZiAV7DIBEFSmjlZsIGEBG9BHfnA2p5XPbpsmxbiMoqIkeO73b5EllwjByfBrGwn2pHvSROUVUW421WLbrcw17e1UsHQzjXbtvmAVH1CXQw4fv4byW32gQnh8yIlhhgKfZkiuTO-0rwE7aPKT_yd9b-S7SdyU7r3WIcslpEZ7rR8s26XwceqCL0ZDwsQiWE5hlUvjr8CIQh5izYXjgtNJ66L2qUf96DZRCglA?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxvYdHKxmGvx45Sv3wMY0CViTQl6C9wozeZSBui9m3gLeD1iSg0St159riAiuuMnooBndG1_bREgBTazFNJ0g8UGkRoOt0vqBG2cvMaVKopNot22_zdTJIRkmAdSvNOC2uZo_GUaPJGVmh0h7XnFbRYLsBcRDYYln8TQV7AESPig4jgRgGnTrKzlNOD4oiOy1zb1A-RreJ1T_zTpIcTooA2C0w0tHXfGLLCvSaRMc-y_XMkWfVvxUnKKpARLQ?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -8217,7 +8218,7 @@
     {
       "Layer": "Miscellaneous Locations",
       "Name": "Studio Instrument Rentals",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X79vYNHpP8bNROH7bJOI8wj2Q3wJPVnMt-rYJvdUatuF01cyQg5_sH42CCKefbm03pENZsLQyC2AkpFCvLyAPkl3ouTQwxu3tGOaICKfgxPIW_DdiuajjhsFLdJd7eefD5oVu4FF-LrwCaFLgOCxwpeRxYQ6Ef3oo3Nhat7EJrZSGI-J0j3judv_FjJNWRtvEFEKm93ozGt2P6RUnuRMd5EqXO1HTzFI2aShsxR5Bsckao57e4HhM31gK6mCw?fife=s16383\" height=\"200\" width=\"auto\" /> Rehearsal studio for 2022 US tour <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5ZVYknF7aHJGyQZGxB9EpWk1OGGV_twkCgRYxQfCboMTUrtb1XtP3wmPrCHakklWTxkTYRVCm82KTxpIKSObVGDHzT46L8o6KtSliCkcdEAYxYUxXaBryi19_jF5fYl3Yo_8xdI4YJZISZPSHi5p2jxo-wkAr7OutVkBDmEfKhsobEZXPj9tw2Y1uzOxOlHxCLeUXbn2vbGbqshhil8xo3d2N-Qa3J4eVAcd6sxnZ_o62X-cgVgV0um1e2XQ?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GydXlKwkVg-khpjL_s91Ci7V7hlTakb4IRzcV-PwMYILmqauFnmMh3qytGgiHWKwjtuzES4_n_NbBRucEBTR710CDJpn6f967D10Utr8se81X8DmWwYlFEqT3A655zCdrSPesHEUj9HDWb3-jglmnmjEVT53gZg-wzoYfs4oCwsUbRFmjmOSVFzguTM9GTxqMOwk3nhj49EBZDGArwJMwMK_06LHlApDFQ7AvZxY5WTLjC5E-UQcQd30lTAVQ?fife=s16383\" height=\"200\" width=\"auto\" /> Rehearsal studio for 2022 US tour <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gw7GlA3vUgF3ahaxBMFy7redAWMuUJmCoqUZ9QGn5_LyOXQoNlN-bU8MSGPugL0fo5y9RRu88cXyWo5V4VFzvSONN7NyyTW7ZiDuTUV8U7MfPzZzFCGOghZhwN2Rc4WhFW_XkKkCv6TPHMS4OycjGrJKMM3xPicQHlrHMhUQCs7tot2FNETjApuCDJ2lp5e24IXYNAwhPPrFSuUegyMhRm4dk-Wdanw64XfUFloLRv6FLdRDKLUsTzLnn1nSA?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -8285,7 +8286,7 @@
     {
       "Layer": "Miscellaneous Locations",
       "Name": "Spice magazine photoshoots 2023, 2025",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7wdSy3pzLJYI---Rji6HhTVzbeILFvy_3YkWWlruq1MOW14ZeuaZGWIeV9-biH1JG77v5E4IBl5_vnP1YB_mUOvA5Sp1sUnkn4axgKasDVDyUZgBL9fGcxRHn3Nhf9kugdQfu0D_y5ycOUUYmWXKCl58oAaT31ZSPIqBluXVeUkhY32dOW7TvjwC4ViHG5e-oZAe8eXj4nxcvYQn2he8IMnZYcN_q35pIZSQU-7eTYcz5u71sLumdaizwfoQ?fife=s16383\" height=\"200\" width=\"auto\" /> Daibiru Main Building <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X51nAdPjUDcyQb5I7GgqLR8i9sAOGLKwdIygD_jENhx7HghIc1iTRK2Q93pQlvDue7n4u9ImDONZbPp7PX3D83JDU5V6bSV2j2xPesqN8DkbKVWF0GzxQFLgsS8aV5Rb3bfTVwzEMs7W05xmtHd32fXdwSvd-rjsiFFNSE_9NncPxtcoOCMeiTKJy7lMLtH0rZ40GkBUkRsGU4O6o1FZR6UyOyKEIeishOK831LhNPO7uSHgr_I6tCVvORgww?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6iQzxDRLBlBkNVt9CvbfLACFQsBvA6NyEpcr35K8zR1R3SDsbOuzkoqg4mdvlp7KzsFNoZN-8lQtYKFCR61U2LqIyXDmnx3GXKh1zyEdvg6jfc48tFfsHJdxp7xLgdHqnwUMxjsz3b0UTFzSTIZ2FJVu0DtVxXfgEfd8nKg6w5qw4tPXGfC34xLJ65T4YqZM04-kLRMDqr5Xoc0LfQkkbf1x3DgBkULZhrV6sSg1NlyYqtPUbRPG6pnSTDhQ?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4UTS9YZNBy7yMa6Fpwjb4ir49ttghrAsDTUa_7_pSOMWdYlfVA4BL6SVBWeXSZTxMjU7hzGcsda8DZnarr6-ynu1wnzR04GTIZB6vHUZicYJcFo2uNV0FwH4HqfOErVKiAJ8nAd3H7gcoh5uJ-YXxzhxVeQh2SUd7EXknOIulwlKHKVWEfWLeM6GUznbbtT8YUYDv4zwDRBfR8gSZ80osAE4tQiTSGZrMPip-BOJquwPxbKaS3Y5_KmYedAQ?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5kjPzAn7PnUQmOK_uZv9-uDioEYys7AZ-SEwQ6qf3xdEyvIQS1rGwoAOUDI8AtuJHzpUzql-UgL3z-IisdqkVZ4TfI7nK9_omp8QUxouCG1M5aezXSOw-n3x5ZTODLwjpURhbo8h5h_atK-sAzMk6WULL5NpqOTDXXVKdSqLQkc1xn0qYZkG6J10lCO_eGvUQCBmn2v93ZxsN9maOz6lZO8_4_t7aASS9RNoYbcDGGbo2B8JlyzOCHpUllsQ?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6Gy44c76S54YXhQDcG0-oBL18ajrbhgsLy7yc6T2wKFAfggQlfY5NxCsrwpCh11aquPVrmr6dqwy936za0ouj1bsphxkGP7iD4bRRwlKUoI9rmFFI1Xf0zmFiH5ZVEiYLgD54_nga6Gd3XLX8wk9Bn_H_08Srr34LjT80L5JwpRXo0T-QUXe4RsBX2xbJUFviQqeuJs-ma4YB7zYMtPBETf8nPGZj5qKi8eNmVpiNvZe8wVTpWbVOHdg8n3Q?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6Swbl2vw3i_23eJnEqFvRSG7N5QwI8r3ZyhRM2IdT68TWPg_YJlacr8rSq3hu4xhyTOCUn37NUoHmtHifHhrZaiCzwxVoS3J74bI4WuB684mKhy3A71-Vezyi5uSY9sg_XK0G6vlyP7hAZpzZcEOItkuDhGc4LyZWQYDtGn8X4gPxJeQtBh7Mk7eGJk-Ar7EaLF_lwB19P_o77COU-SQjSkC5AQDkcZgbINesMqeUD41TG97ZXqqqxz9aq4Q?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5eEHgBhlQtFeAS2J2qTfvbA6lNvQzNe2gnWl494O4h085YOhaRLRxIfUK_FuEO-SKGLaUxxrx2vC3zQEfykt2f-uhPTZwtaWCyBbmn1xM6PyZEI7VeswqRZBBlmyXs0j2rd7frMsCrnixbUn8M7pfygH-2KtPxmw0fSO0R6DwcsLSnrvu7H9oR_6CvLcgL7SDP2d1ZuigfyW5-P9DchPbmmJKA5S4dZgLrnhgJrsOwwGsZb9Y12dhpVjRwqw?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X72-i9fd6MPPcAEld1brpqrpxOXKeiZf_qQI16E1uJvPEWHatxUYMWUQo2KfVYE8_pzurWyLDI5nE4IWFEpFgEGRikRFrNJNP1l_Ho_up8qv-nuUUoxr7rDv_jmhAKeItXmAOTOehbc17UYm7zdo9HZQ_von0IYwFKDBpFe32oySUxkNsip7pDV5HxpgJQPr3s9B4Cm1vnb7gdZhUsG2SCqg616pp_tlxb9ywjHU6SvqVDhs3sVF53pW1xZtA?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7YmiQ73cKSVatrvU21aqhGoZvxo9CMx3YJsMtKtYDGgngMzZpk0ae4FKUUxmO4RKV5CQriFIqQ7E3xvTFwVqFIn8FUXrO0E6dmtkG-e8zm8Hm4mv7_lUZXEVPH2nPxX92SGOKo7yyIHfY7cB7rHo7LnpRv4LAeXft5yJ1knouymiCGgsaWNi8WBSR6QXhxlFzY1YiVlyuZ-z14HFXHKneOwSv_srscEUm0uqnYVVlpVFLEVJ_oxcwD0VIvJw?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwVuplrlC6lM5VWvrKOM28Iup-Zg5f0lI0M3O9xQ3TFSRSWGQHgAAy9tPU3A6nu7pNYng2HGPa0amdN2kyMX7EmwC_vaFCgRvs_T7TtyAmpyx2ZB_N9GtT6WQQZwNNwk268AKp_fwponI_9z9kyoonldSLIK6l8CTXkIRrgqVXUr5FSDtI_k8o2w2wbIukOp1EIEXO9rU6-V0qro6WN3z-kIrEGnyNSkOHmd_8qf2RxXcG_-kBkXMhIuRRVyw?fife=s16383\" height=\"200\" width=\"auto\" /> Daibiru Main Building <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gy_tYEEXKsCwwe7rqtsn80EergdTL2m3prC7nf_6K8_xnLZzInNVDoqhXxSdo1lQoGRw027HrMn9rJPIZBb9-Igl2XwTRT8WeyLo3GL2nk8PCll0_DONCsU2hOez0lTQfimWXdQUmp8aap_a82Vpf8oqi3Hj28Bgq9HldOFPhefoWpwoRcAEJh7bmgmYdv4d7qGgJCvEmMHfDLfbGs6v9L3lpyzTgDhZMu1TySDOOsfQkpC2pz0PBE3SKCaEg?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxELtE36utN4dR3siL-PqFF5JUKuh4o03wFS7kJ68sPPmFku1QgAe6oFtVmofeFQEtAcdHJHm6OCjTtC16kGTnuql12rO2yqv3afDgHwRVsUXhm-2QxJ4sZ16YuUhHnOSDNINDsGpGXAT3qFsPgdj3QTY2vn_8AXQSWXGfMblbB3X53fvWsJrK5OgUCkCkgIrJRE5fM3ifN-7JHy5b58r_7NX5pd3LJb4_84bNrdxt7LGvuFrnYjlxL-5a-ZQ?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwdQMzKIQtG_pyQiDpYywPn26UEvZq4agFqkrBf_aF9l38YIjCz-MY62fA69EYU2LZ374gz_YNrMWgKUMP7YBIlTnMdmZbLUup1IT9FELzC3NTYOIvDJif5xprptzfsn6T8EUKxQ9tqT55k4szyJaFqlDAxa7t_VOLL29MXzYa3oaN350M3hvhs7NCGV6TqMr0nf6NYVHwJ3VytQSnDYsvcmoJbIxY0ALdCrao8pYevQvFHFsa9VqfJHaIxLw?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxHmJi_-PDbVVea149Hgrf_tgeoVfmD4AxB018PA-3XpGWYdTun4Wv1Qv7VeA-jtlPPXxCXeaoyZkV9wJmEhBUQQUpJLGZedlDyMG-2at0EGkYe0AeX6hK81LDIzv3n83uHCYDqw9ybEMTjImbi61xKBQ41meveIwJTH4rpdnYptA57x_GKARqT3mXdbavFQlxYv12NiEQPeftTrw8fZa3zM5yl2KSDy3zYYW4UjnLDtoeBqCDEJs78CrZ-hw?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyWJH98j4qAzps2CfJBtG_JZcopjzBdh0fXBAxmzh_30kPvHouc22OaPxXJ-5qkD1IloPcrByUMEDTLR7UCt2jIqPLafIN9G2_b8vKaAfrg2t-kQAJuR-AbnbBbPCG9siWtJJY21G08vFEDv3wt2u0hF1O1sSf3rPHMbc2OhbaXSmOJxxybpi-1LyS9KWvpYMyuHdXKl6-8xadbTY0o5G1q8i6ANly21zTp5q7yYk1jrXxqdAal0wQSiWSG6Q?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxZy5iA4CkVpAkdTxPPPHFYvqLt0JK02O6v-h_f9JOOqak2376xdiXMyymgbK05dQPjE0nWK6SxVNqqnDr4q3CtN1MGaNaOxGVqTAGw8GG2geV5Sypcocno792MXJlc60-RA60s1aPZaCR-qz6y9WhvqVUyNOn3lbNgAhlFeTpS1cpb1B9-weGd4GeLv9rxTEm4d7wWrzNcnIqJKSiBjEB3qVJJl0tpGtaNz3BPm9y4wLwiJvkGjcJ4DHxO8g?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwvTPwPxeTlqljqNNobZw9z6oGQ9IvH9872ag6blCeq-oX5_TNIU2CivFinAAqRoRutaUMuQ0BtZOzuspMrYL59Gnzq5FIluatYoG9Lx2TacnDsfvK0Frm32MzAkCtavx5x1nPEBKmF46OVxAK4RCjOv_c5FLWm2rO5cSvoEpYjCaCUl-rxkv62Way635xlaw79oyaBfiucqEapQRGsQBN7X9EGup90mFoJvHpnUt26ftMMT9sp0bsYp7jR0A?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxZtyy23mwEb6mSzifrt2DHE1Yi3Qjil4EYwRG1ilNNDmuaUu8aaw2ClHPCRLh1R6ISjhmqnHGkXtbWlrTqv1ehafhhbWWTBWZ266DiCr4Gqo44SrPR7U9Fhq0rs6-2YBt4R7Vt6Sao20o0KUFw6jND70_j3WcJU8_PzNOO5vECYCa0Gp8_AHYC3j6oRbMzvZG_cO0e3Wbmd85xc2yemFmJYGjWggR2quOy2lhZ1K9HwI1TafSh1ZV1IGauGw?fife=s16383\" height=\"200\" width=\"auto\" /> <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwNtHcwCfltiIVnvcoTh9iK57y3uRRGZHSpCfqFZ5wImc0ZQmkXGKr8d4Ty6ZpNMXAuNNYF4dBYZ1Jen_7sLuPz5LVv_zDAdPJhZoa736AK5H2CtkGVtAcdGEISLXyZPonWTuAmK5WrVhox4gwViqnYzbXn2H_YeiiiNa0YstcP_dOJX03JOxgH0ZiSHLWeH6lZbef92FrWiwRsBmbx6TSyiKsgid3hgF4Wg8wFjesmQ4rtyPIdxr1JJYj2Kw?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -8319,7 +8320,7 @@
     {
       "Layer": "Miscellaneous Locations",
       "Name": "ODEN Studio 2nd",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6ehkfLZ7KHwzbhUg5d5MdSGebsOYZ-WtL7BQv4w0gaYUYPBgvtXHVaWqMSYZ-spv5SLsOZIEZWzcyYY0av3mntVS72gjrX2Dda8m0AeG_Fl8vhHaugdahmD0vkMbNpcmCNuEkrRkNAF5-WB4K1e9jGqyeozqrARVooK2Hk38ggtoNCQQEznMq-Zs8QG534EBDO8bXwez-_VJ-W0gU6PNsNyeEsF_uPjINT-1kucyPsJis5rNf80x9YajFxZw?fife=s16383\" height=\"200\" width=\"auto\" /> Rehearsal Studio for Day of Maid 2024 (201st) <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7NpLWcBcYPFRSkdlvpA0IAwb3dBzKXsZvMZKPTLYOksNpI7TM8g_WttQ6U3yH03dla__M8RlcdKeEKJyqbQ6NMi3x1mQN6A6MHg4ywzoVWVGpQ8zoxNaVZUZggsIRIdAGBW-OP6bDRwcV0346ZGJnyCGbOxyoHKqN-m2xqg6TuRkK3dDaSnZBIPt_VBbU_3zmtqKHo11CvbyVHvrPVkyYi-482ZFlkGaqcCoCBOW2Lpr_eGvezglaDq8Gb7w?fife=s16383\" height=\"200\" width=\"auto\" />",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxGfO0IKr0Bz2YJhFQsd-RVuHEuVnxh6XnreMOX5EXFGyCa7b79r0dOxwNI5SFRgHqTZFbxCfJZ78QfpSgen42wnYoWTsRP7zs7rVQ4shiX9A8Sns4Q5G4b4-zBdmJ3XY30cH4oiyLp3lu5KJ0BipG5Yj2WphAstz-pWU_pIRcMN1x3nPDJSOShxYDgBrK13hJQOAtJ_7AEylRYiJi3m5cu9wZIauJzCSiPJox2vv1--rDLuKr9P4TwVUnEBw?fife=s16383\" height=\"200\" width=\"auto\" /> Rehearsal Studio for Day of Maid 2024 (201st) <img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwV9LDWGm9JdXCz96cJSWjZwrx7vtFN8I1wJaNv7iAS1wOz_e5YjJHUx7R9AqRJgdYD-XEvQ7pvaxn1v3893g-HErxsdJP_7b6m46gI0bhbOn104yWFzhI1LQfKjLoy385OeV7e089lkcUDcxrDeyglKqzlEWqULrXPn-V4sxhrHCedHG3sYl7mwx_E-5xnJ4BaZ8WoBqc1LEPdmG_1Qf-QhMyLSncOL1HlsTwRG5V4jyj1vFPES9OOqgbuUA?fife=s16383\" height=\"200\" width=\"auto\" />",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -8336,7 +8337,7 @@
     {
       "Layer": "Miscellaneous Locations",
       "Name": "Gonpachi Nishi-Azabu Restaurant",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5wg6vKXZE9wFt79UxykKmGruuXqXpYysv3wVWnHo96dsNFTd6DDO2TJh7b-XjmWgbElRKUAShLjLWjDIA9M7GhkpELPiueyooQrEzAgZf_fp8khupJjdfQP50YrDtS8eAR1GacJE36JA2k9zSi_5kHfdB7ZODP0fcCUd6gr-TTLy8BItazeWi-oBnjBTUVKlg30ymnvbP3qnLy2r_tfR-k3dhvoCGGlB2AjRrrw4ywxSXR_FSRnh_gjkvCEQ?fife=s16383\" height=\"200\" width=\"auto\" /> Band-Maid and The Warning meet up in Japan",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gyr0xU2G5lCzt3S_tryDQxAD5SAijt79A3Wu0nphOkYF_Ohyk8WsY0nApt-Dand7gMJHn_iC7d1Qd4Ql3H_TbzCo6mfdVfxVnuKXlTmBfHDP5rv3bQDKkEvBf3zqjdDM2T5ov42MQGgw83v_Yhemkc31wGqe3HLV_nWexWkA6mZWSnqLDya11Tt0QLN89dQQVtMT1HY7GTjGmUoolvfe3Ek_NFE8cczFthgYPoG-kG16pvkDuTFh2NXhhDGuA?fife=s16383\" height=\"200\" width=\"auto\" /> Band-Maid and The Warning meet up in Japan",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -8353,7 +8354,7 @@
     {
       "Layer": "Miscellaneous Locations",
       "Name": "Pony Canyon Yoyogi Studio",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4kde7pdGh7k984NXYXDFkctaM0iPGdH5yHBk2knLlTiEbQBNEfhNBLU7LFw8fxNheF5naCEMrgEwkb0CS_aPch2U5BMA3wtrvAab13OGt3w8NaHabxboa3W1jIA0bz6aZOqNFijloHKNpO8Lo7l7q7son3nluDREh5Rwv8alg-ChKVNmjrzx7cJ5zfaJUEDLRZs-_e-MDi_F9PM1slUGKS0woJKaU6UgadlRqi_15lba-2oRmc2OvZUiiAwA?fife=s16383\" height=\"200\" width=\"auto\" /> Recording with The Warning 2024",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gy1xDgb6sV5KuuVF9OaZ3_mpXK7H27LKW9N2mbYNSElTDtJbCo07s_Nhyzf0DzLMj72pxQBJ-qXRhzQU98KfQtdFT_Y3HT1ae7cV7IVN4ivf_hhECiFbm0ZEEr3U4MvsgUrD9wuFiGzu-c82YWhFzstUOuLHkigZ0-l1keA1ki_NOH3wEkbf9u2-kF_td3c3WSIkie8bRlP2tjU2hVJEhw-rTsw1IYV5Q-RHS6PFAuhbz1UxG2451PyRZSj0A?fife=s16383\" height=\"200\" width=\"auto\" /> Recording with The Warning 2024",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {
@@ -8387,7 +8388,7 @@
     {
       "Layer": "Miscellaneous Locations",
       "Name": "Kanda Shokai Corporation",
-      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4ZRKvtBrV09-ia9NHvGNkKmbocTbI9MGwiGuS7zlPXniQ1BOFgvIB-QllwdFmOwTszXso5RSegsMPP_ENacZLTdtj0X-tsYLBZvFErJau8X_-VibXqeRehyCEQPJT2jlpowtONaHmz7dSlt84ssxFaHvp1gkO3vs0_mq6xO3MzNqWatKQfrL3Ghjy3Kc72RU8MllETJ3XOBJsQdyuJUsc1MFa09vLpR75cX1BoyfpPcbRaLik3QdFCyX-VyQ?fife=s16383\" height=\"200\" width=\"auto\" /> Miku frequently visits the Zemaitis Guitars office",
+      "Dates": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gxvp6qnq9fSBUb4rGmzOVrVJMJlMp1f5tvZJQs9CujHYyrNz7Z0rGmfYmoLtgPSpze224eFsl60oA1r8QRUnpxYO4a1kANgLLC2GmcvnbYGl19EBXu2H48J5kjKUKtjpwdvp5PnU4BllnYJI0N1JFoW7ZQgElZYZAiXawr2WVlfMVh-DQzkr_veZbRd1tfDQn5RMyo3eK5y-Wt5s4YchmlbD_2O46T3wejt9cYa3AXGrP5V23LXSyIG4nz_tw?fife=s16383\" height=\"200\" width=\"auto\" /> Miku frequently visits the Zemaitis Guitars office",
       "Geometry": {
         "Type": "Point",
         "Coordinates": {

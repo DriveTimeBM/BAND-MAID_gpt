@@ -1,5 +1,21 @@
 ﻿[
     {
+        "SetDate":  "2026-06-03",
+        "Country":  "DE",
+        "City":  "Berlin",
+        "Venue":  "Columbia Theater",
+        "Tour":  "WORLD TOUR 2026",
+        "URL":  "https://www.setlist.fm/setlist/bandmaid/2026/columbia-theater-berlin-germany-634bb673.html",
+        "NumberOfSongs":  20,
+        "SetlistDelimited":  "DOMINATION/SUPER SUNSHINE/Choose me/Shambles/Warning!/Unleash!!!!!/Sayonakidori/After Life/What is justice?/Sense/Toi et moi/Lock and Load/Present Perfect/endless Story/Days/Energetic/HATE?/Dilly-Dally/Ready to Rock/NO GOD",
+        "Opener":  "DOMINATION",
+        "Closer":  "NO GOD",
+        "LatLon":  "52.4846947,13.391455",
+        "Latitude":  52.4846947,
+        "Longitude":  13.391455,
+        "Map":  "https://www.google.com/maps/search/?api=1\u0026query=52.4846947,13.391455"
+    },
+    {
         "SetDate":  "2026-05-10",
         "Country":  "JP",
         "City":  "Tokyo",
@@ -202,10 +218,10 @@
         "SetlistDelimited":  "What is justice?/HATE?/HEAVEN\u0027S DRIVE/DOMINATION/Ready to Rock/Present Perfect",
         "Opener":  "What is justice?",
         "Closer":  "Present Perfect",
-        "LatLon":  "35.362,140.622",
-        "Latitude":  35.362,
-        "Longitude":  140.622,
-        "Map":  "https://www.google.com/maps/search/?api=1\u0026query=35.362,140.622"
+        "LatLon":  "35.6496396,140.036037",
+        "Latitude":  35.6496396,
+        "Longitude":  140.036037,
+        "Map":  "https://www.google.com/maps/search/?api=1\u0026query=35.6496396,140.036037"
     },
     {
         "SetDate":  "2025-10-25",
