@@ -1,14 +1,32 @@
 ﻿[
     {
-        "Category":  "YouTube AGGREGATE Views",
-        "Item":  "① DOMINATION ",
-        "Milestone":  "🌏 aggregate views surpassed **11** million!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.png"
+        "Category":  "YouTube AGGREGATE AUDIO stream Milestones",
+        "Item":  "① Ready to Rock ",
+        "Milestone":  "🪨  aggregate AUDIO streams surpassed **2,700,000**!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/ytmusic.png"
     },
     {
         "Category":  "YouTube",
-        "Item":  "① BAND-MAID / REAL EXISTENCE (Official Music Video) https://youtu.be/9TkHpvaO09c",
-        "Milestone":  "  👀 Surpassed **16,300,000** views!",
+        "Item":  "① BAND-MAID / DICE (Official Music Video) https://youtu.be/ZpAYnVJX9CY",
+        "Milestone":  "  👀 Surpassed **10,100,000** views!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.png"
+    },
+    {
+        "Category":  "Spotify",
+        "Item":  "① Tora and Tora ",
+        "Milestone":  "👘 Surpassed **900,000** streams!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.png"
+    },
+    {
+        "Category":  "Instagram Followers",
+        "Item":  "① Instagram milestone",
+        "Milestone":  "📸Kanami followers surpassed **80,000**!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/ig.png"
+    },
+    {
+        "Category":  "Instagram Followers",
+        "Item":  "② Instagram milestone",
+        "Milestone":  "📸MISA followers surpassed **86,000**!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/ig.png"
     }
 ]
