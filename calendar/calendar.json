@@ -88,14 +88,6 @@
         "Start_Japan":  "2026-08-16 16:00:00"
     },
     {
-        "Summary":  "PRS - release",
-        "Location":  "",
-        "URL":  null,
-        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/prs.png",
-        "Start_Local":  "2026-06-09 05:00:00",
-        "Start_Japan":  "2026-06-09 18:00:00"
-    },
-    {
         "Summary":  "AICHI - COMTEC PORTBASE",
         "Location":  "Comtec Portbase, 3-3-5 Kanekawachō, Minato Ward, Nagoya, Aichi 455-0017, Japan",
         "URL":  "https://bandmaid.tokyo/contents/1041130",

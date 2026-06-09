@@ -1,20 +1,6 @@
-﻿[
-    {
-        "Category":  "Live Debut",
-        "Item":  "① Wonderland ",
-        "Detail":  " 🏰🪄 was first played live 7 years ago at Namba Hatch, Osaka, Japan",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
-    },
-    {
-        "Category":  "Okyuji",
-        "Item":  "① 12 years ago 🗾",
-        "Detail":  "  🇯🇵 shibuya eggman - Tokyo,JP [0 songs]",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
-    },
-    {
-        "Category":  "Okyuji",
-        "Item":  "② 7 years ago 🗾",
-        "Detail":  "  🇯🇵 Nanba Hatch - Osaka,JP [25 songs]",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
-    }
-]
+﻿{
+    "Category":  "Okyuji",
+    "Item":  "① 10 years ago 🗾",
+    "Detail":  "  🇯🇵 IMAGE - Okayama,JP [0 songs]",
+    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+}
