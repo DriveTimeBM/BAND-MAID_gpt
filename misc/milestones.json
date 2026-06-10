@@ -2,49 +2,19 @@
     {
         "Category":  "CDJapan Weekly Rank",
         "Item":  "✨ CD Maxi ENERGETIC [w/ Blu-ray, Limited Edition] BAND-MAID 7000yen June 24, 2026 Pre-order Limited Edition Bonus",
-        "Milestone":  "① Weekly Rank: 10 🎗️",
+        "Milestone":  "① Weekly Rank: 9 🎗️",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/CDJapan.jpg"
     },
     {
-        "Category":  "YouTube AGGREGATE AUDIO stream Milestones",
-        "Item":  "① Choose me ",
-        "Milestone":  "🗳️  aggregate AUDIO streams surpassed **2,100,000**!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/ytmusic.png"
-    },
-    {
-        "Category":  "YouTube AGGREGATE AUDIO stream Milestones",
-        "Item":  "② Zen ",
-        "Milestone":  "🧘‍♀️  aggregate AUDIO streams surpassed **1,000,000**!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/ytmusic.png"
-    },
-    {
-        "Category":  "YouTube AGGREGATE AUDIO stream Milestones",
-        "Item":  "③ Play ",
-        "Milestone":  "🛝  aggregate AUDIO streams surpassed **800,000**!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/ytmusic.png"
-    },
-    {
-        "Category":  "YouTube",
-        "Item":  "① BAND-MAID / Present Perfect (Official Music Video) https://youtu.be/yzSdgw-tdr0",
-        "Milestone":  "  👀 Surpassed **1,900,000** views!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.png"
-    },
-    {
-        "Category":  "YouTube",
-        "Item":  "② BAND-MAID / Toi et moi (Official Live Video) https://youtu.be/_NTozqcillo",
-        "Milestone":  "  👀 Surpassed **500,000** views!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.png"
-    },
-    {
         "Category":  "Spotify",
-        "Item":  "① Go easy ",
-        "Milestone":  "😌🍃 Surpassed **200,000** streams!",
+        "Item":  "① Different ",
+        "Milestone":  "≠ Surpassed **7,300,000** streams!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.png"
     },
     {
-        "Category":  "Spotify",
-        "Item":  "② you. ",
-        "Milestone":  "🫵 Surpassed **900,000** streams!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.png"
+        "Category":  "Total Streams",
+        "Item":  "YouTube Total Streams",
+        "Milestone":  "  👀 Surpassed **293** MILLION views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.png"
     }
 ]

@@ -1,11 +1,5 @@
 [
   {
-    "Event": "2026-06-09 Paris",
-    "Venue": "Le Bataclan",
-    "URL": "https://www.ticketmaster.fr/fr/manifestation/band-maid-billet/idmanif/649294/idtier/18864121",
-    "Image": "https://drivetimebm.github.io/BAND-MAID_gpt/misc/LeBataclan.png"
-  },
-  {
     "Event": "2026-06-11 London",
     "Venue": "Electric Brixton",
     "URL": "https://www.ticketmaster.co.uk/bandmaid-london-11-06-2026/event/1F00644BEF9F9A4F",
