@@ -1,20 +1,6 @@
-﻿[
-    {
-        "Category":  "Live Debut",
-        "Item":  "① Don\u0027t let me down ",
-        "Detail":  " 🚫⬇️ was first played live 11 years ago at shibuya eggman, Tokyo, Japan",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
-    },
-    {
-        "Category":  "Okyuji",
-        "Item":  "① 11 years ago 🗾",
-        "Detail":  "  🇯🇵 shibuya eggman - Tokyo,JP [6 songs]",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
-    },
-    {
-        "Category":  "Okyuji",
-        "Item":  "② 10 years ago 🗾",
-        "Detail":  "  🇯🇵 Music Club JANUS - Osaka,JP [6 songs]",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
-    }
-]
+﻿{
+    "Category":  "Okyuji",
+    "Item":  "① 12 years ago 🗾",
+    "Detail":  "  🇯🇵 duo MUSIC EXCHANGE - Tokyo,JP [5 songs]",
+    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+}
