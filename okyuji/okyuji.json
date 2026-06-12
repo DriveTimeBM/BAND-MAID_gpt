@@ -1,5 +1,21 @@
 ﻿[
     {
+        "SetDate":  "2026-06-12",
+        "Country":  "GB",
+        "City":  "Castle Donington",
+        "Venue":  "Dogtooth Stage",
+        "Tour":  "WORLD TOUR 2026",
+        "URL":  "https://www.setlist.fm/setlist/bandmaid/2026/dogtooth-stage-castle-donington-england-2b4894ea.html",
+        "NumberOfSongs":  8,
+        "SetlistDelimited":  "Ready to Rock/Choose me/SUPER SUNSHINE/Toi et moi/Shambles/HATE?/Present Perfect/endless Story",
+        "Opener":  "Ready to Rock",
+        "Closer":  "endless Story",
+        "LatLon":  "52.8262649,-1.3779763",
+        "Latitude":  52.8262649,
+        "Longitude":  -1.3779763,
+        "Map":  "https://www.google.com/maps/search/?api=1\u0026query=52.8262649,-1.3779763"
+    },
+    {
         "SetDate":  "2026-06-11",
         "Country":  "GB",
         "City":  "London",
