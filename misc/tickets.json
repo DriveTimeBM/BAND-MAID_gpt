@@ -1,20 +1,6 @@
-[
-  {
-    "Event": "2026-06-11 London",
-    "Venue": "Electric Brixton",
-    "URL": "https://www.ticketmaster.co.uk/bandmaid-london-11-06-2026/event/1F00644BEF9F9A4F",
-    "Image": "https://drivetimebm.github.io/BAND-MAID_gpt/misc/KovZ91777RV.png"
-  },
-  {
-    "Event": "2026-06-11 London",
-    "Venue": "Electric Brixton",
-    "URL": "https://www.universe.com/events/band-maid-tickets-8JLZ9H?ref=ticketmaster",
-    "Image": "https://drivetimebm.github.io/BAND-MAID_gpt/misc/KovZ91777RV.png"
-  },
-  {
-    "Event": "2026-06-12 Derby",
-    "Venue": "Donington Park",
-    "URL": "https://www.ticketmaster.co.uk/download-2026-friday-arena-only-derby-12-06-2026/event/3600643395902B94",
-    "Image": "https://drivetimebm.github.io/BAND-MAID_gpt/misc/KovZ9177cI0.png"
-  }
-]
+{
+  "Event": "2026-06-12 Derby",
+  "Venue": "Donington Park",
+  "URL": "https://www.ticketmaster.co.uk/download-2026-friday-arena-only-derby-12-06-2026/event/3600643395902B94",
+  "Image": "https://drivetimebm.github.io/BAND-MAID_gpt/misc/KovZ9177cI0.png"
+}

@@ -1,6 +1,20 @@
-﻿{
-    "Category":  "Okyuji",
-    "Item":  "① 12 years ago 🗾",
-    "Detail":  "  🇯🇵 duo MUSIC EXCHANGE - Tokyo,JP [5 songs]",
-    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
-}
+﻿[
+    {
+        "Category":  "Live Debut",
+        "Item":  "① Show Them ",
+        "Detail":  " ⚠️ was first played live 2 years ago at EX THEATER ROPPONGI, Tokyo, Japan",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "① 10 years ago 🗾",
+        "Detail":  "  🇯🇵 Hibiya Yagai Ongakudou - Tokyo,JP [2 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "② 2 years ago 🗾",
+        "Detail":  "  🇯🇵 EX THEATER ROPPONGI - Tokyo,JP [11 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    }
+]
