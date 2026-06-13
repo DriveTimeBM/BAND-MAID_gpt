@@ -2,13 +2,25 @@
     {
         "Category":  "CDJapan Weekly Rank",
         "Item":  "✨ CD Maxi ENERGETIC [w/ Blu-ray, Limited Edition] BAND-MAID 7000yen June 24, 2026 Pre-order Limited Edition Bonus",
-        "Milestone":  "① Weekly Rank: 6 🎗️",
+        "Milestone":  "① Weekly Rank: 5 🎗️",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/CDJapan.jpg"
     },
     {
         "Category":  "YouTube AGGREGATE AUDIO stream Milestones",
-        "Item":  "① Alive-or-Dead ",
-        "Milestone":  "☠️  aggregate AUDIO streams surpassed **400,000**!",
+        "Item":  "① YOLO ",
+        "Milestone":  "😎🎢  aggregate AUDIO streams surpassed **500,000**!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/ytmusic.png"
+    },
+    {
+        "Category":  "Spotify",
+        "Item":  "① DOMINATION ",
+        "Milestone":  "🌏 Surpassed **8,400,000** streams!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.png"
+    },
+    {
+        "Category":  "Total Streams",
+        "Item":  "Spotify Total Streams",
+        "Milestone":  "  🎧 Surpassed **221** MILLION streams!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.png"
     }
 ]
