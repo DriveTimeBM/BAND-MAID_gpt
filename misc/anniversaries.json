@@ -1,6 +1,14 @@
-﻿{
-    "Category":  "Okyuji",
-    "Item":  "① 11 years ago 🗾",
-    "Detail":  "  🇯🇵 MOSAiC - Tokyo,JP [4 songs]",
-    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
-}
+﻿[
+    {
+        "Category":  "Okyuji",
+        "Item":  "① 9 years ago 🗾",
+        "Detail":  "  🇯🇵 LIQUIDROOM - Tokyo,JP [18 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Other",
+        "Item":  "① 8 years ago",
+        "Detail":  "👘secret MAIKO lips OMV surpassed 1 million views",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Band-Maid%20color%20pop%204.png"
+    }
+]

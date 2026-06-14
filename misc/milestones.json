@@ -2,25 +2,31 @@
     {
         "Category":  "CDJapan Weekly Rank",
         "Item":  "✨ CD Maxi ENERGETIC [w/ Blu-ray, Limited Edition] BAND-MAID 7000yen June 24, 2026 Pre-order Limited Edition Bonus",
-        "Milestone":  "① Weekly Rank: 5 🎗️",
+        "Milestone":  "① Weekly Rank: 3 🥉",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/CDJapan.jpg"
     },
     {
-        "Category":  "YouTube AGGREGATE AUDIO stream Milestones",
-        "Item":  "① YOLO ",
-        "Milestone":  "😎🎢  aggregate AUDIO streams surpassed **500,000**!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/ytmusic.png"
+        "Category":  "YouTube",
+        "Item":  "① BAND-MAID / Toi et moi (Official Live Video) https://youtu.be/_NTozqcillo",
+        "Milestone":  "  👀 Surpassed **700,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.png"
     },
     {
         "Category":  "Spotify",
-        "Item":  "① DOMINATION ",
-        "Milestone":  "🌏 Surpassed **8,400,000** streams!",
+        "Item":  "① One and only ",
+        "Milestone":  "1️⃣ Surpassed **1,500,000** streams!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.png"
     },
     {
-        "Category":  "Total Streams",
-        "Item":  "Spotify Total Streams",
-        "Milestone":  "  🎧 Surpassed **221** MILLION streams!",
+        "Category":  "Spotify",
+        "Item":  "② the non-fiction days ",
+        "Milestone":  "📚🗓️ Surpassed **2,300,000** streams!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.png"
+    },
+    {
+        "Category":  "Spotify",
+        "Item":  "③ from now on ",
+        "Milestone":  "🔛 Surpassed **1,400,000** streams!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.png"
     }
 ]
