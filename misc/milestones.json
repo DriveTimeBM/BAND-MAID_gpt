@@ -1,44 +1,14 @@
 ﻿[
     {
-        "Category":  "CDJapan Weekly Rank",
-        "Item":  "✨ CD Maxi ENERGETIC [Scheduled to ship in mid-July] [w/ Blu-ray, Limited Edition] BAND-MAID 7000yen June 24, 2026 Backorder: 2-4 weeks Limited Edition Bonus",
-        "Milestone":  "① Weekly Rank: 8 🎗️",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/CDJapan.jpg"
-    },
-    {
         "Category":  "YouTube",
-        "Item":  "① BAND-MAID / Different (Official Music Video) https://youtu.be/edlLhh8qVxM",
-        "Milestone":  "  👀 Surpassed **4,700,000** views!",
+        "Item":  "① BAND-MAID / ENERGETIC (Official Music Video) https://youtu.be/NpZjslVGhbE",
+        "Milestone":  "  👀 Surpassed **400,000** views!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
-        "Category":  "YouTube",
-        "Item":  "② Alive-or-Dead https://youtu.be/rZ1mpH8iXQc",
-        "Milestone":  "  👀 Surpassed **300,000** views!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-    },
-    {
-        "Category":  "YouTube",
-        "Item":  "③ BAND-MAID / ENERGETIC (Official Music Video) https://youtu.be/NpZjslVGhbE",
-        "Milestone":  "  👀 Surpassed **300,000** views!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-    },
-    {
-        "Category":  "Spotify",
-        "Item":  "① Carry on living ",
-        "Milestone":  "🚶‍♀️ Surpassed **1,200,000** streams!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
-    },
-    {
-        "Category":  "Spotify",
-        "Item":  "② matchless GUM ",
-        "Milestone":  "🍬 Surpassed **600,000** streams!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
-    },
-    {
-        "Category":  "Total Streams",
-        "Item":  "Spotify Total Streams",
-        "Milestone":  "  🎧 Surpassed **222** MILLION streams!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
+        "Category":  "Instagram Followers",
+        "Item":  "① Instagram milestone",
+        "Milestone":  "📸BAND-MAID followers surpassed **169,000**!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/instagram.svg"
     }
 ]
