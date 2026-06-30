@@ -46,7 +46,7 @@
         "Album":  "Different",
         "KobatoLead":  "no",
         "PlayedLiveCount":  38,
-        "SpotifyStreams":  7321290,
+        "SpotifyStreams":  7341562,
         "MediaTieIn":  "Opening theme for S3 of anime series Log Horizon"
     },
     {
@@ -56,7 +56,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  155,
-        "SpotifyStreams":  6216426,
+        "SpotifyStreams":  6232307,
         "MediaTieIn":  null
     },
     {
@@ -126,7 +126,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  33,
-        "SpotifyStreams":  3383060,
+        "SpotifyStreams":  3388617,
         "MediaTieIn":  null
     },
     {
@@ -166,7 +166,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  39,
-        "SpotifyStreams":  2683229,
+        "SpotifyStreams":  2687900,
         "MediaTieIn":  "Theme song for TV show Perfect Crime"
     },
     {
@@ -220,6 +220,16 @@
         "MediaTieIn":  "Used in mobile game Valiant Knights"
     },
     {
+        "Name":  "Daydreaming",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2017-07-19T00:00:00",
+        "Album":  "WORLD DOMINATION",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  143,
+        "SpotifyStreams":  2367792,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "alone",
         "AlternativeName":  "",
         "ReleaseDate":  "2016-02-14T00:00:00",
@@ -227,16 +237,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  233,
         "SpotifyStreams":  2363971,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Daydreaming",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2017-07-19T00:00:00",
-        "Album":  "WORLD DOMINATION",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  143,
-        "SpotifyStreams":  2362050,
         "MediaTieIn":  null
     },
     {
@@ -356,7 +356,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  85,
-        "SpotifyStreams":  1824895,
+        "SpotifyStreams":  1828495,
         "MediaTieIn":  null
     },
     {
@@ -436,7 +436,7 @@
         "Album":  "about Us",
         "KobatoLead":  "no",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  1584624,
+        "SpotifyStreams":  1585944,
         "MediaTieIn":  null
     },
     {
@@ -506,7 +506,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  72,
-        "SpotifyStreams":  1407075,
+        "SpotifyStreams":  1411817,
         "MediaTieIn":  null
     },
     {
@@ -556,7 +556,7 @@
         "Album":  "Love, Passion, Matador (愛と情熱のマタドール)",
         "KobatoLead":  "no",
         "PlayedLiveCount":  36,
-        "SpotifyStreams":  1240750,
+        "SpotifyStreams":  1241486,
         "MediaTieIn":  null
     },
     {
@@ -596,7 +596,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
-        "SpotifyStreams":  1210301,
+        "SpotifyStreams":  1212005,
         "MediaTieIn":  null
     },
     {
@@ -866,7 +866,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  12,
-        "SpotifyStreams":  812218,
+        "SpotifyStreams":  814708,
         "MediaTieIn":  null
     },
     {
@@ -890,6 +890,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "azure",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2019-12-11T00:00:00",
+        "Album":  "CONQUEROR",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  9,
+        "SpotifyStreams":  792308,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Balance",
         "AlternativeName":  "",
         "ReleaseDate":  "2022-09-21T00:00:00",
@@ -907,16 +917,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  18,
         "SpotifyStreams":  789866,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "azure",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2019-12-11T00:00:00",
-        "Album":  "CONQUEROR",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  9,
-        "SpotifyStreams":  788748,
         "MediaTieIn":  null
     },
     {
@@ -996,7 +996,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  55,
-        "SpotifyStreams":  701679,
+        "SpotifyStreams":  702630,
         "MediaTieIn":  null
     },
     {
@@ -1006,7 +1006,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  15,
-        "SpotifyStreams":  698759,
+        "SpotifyStreams":  699850,
         "MediaTieIn":  null
     },
     {
@@ -1076,7 +1076,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  49,
-        "SpotifyStreams":  636222,
+        "SpotifyStreams":  637755,
         "MediaTieIn":  null
     },
     {
@@ -1106,7 +1106,7 @@
         "Album":  "YOLO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  50,
-        "SpotifyStreams":  590486,
+        "SpotifyStreams":  591509,
         "MediaTieIn":  null
     },
     {
@@ -1146,7 +1146,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  31,
-        "SpotifyStreams":  518616,
+        "SpotifyStreams":  524192,
         "MediaTieIn":  null
     },
     {
@@ -1216,7 +1216,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  29,
-        "SpotifyStreams":  338302,
+        "SpotifyStreams":  340886,
         "MediaTieIn":  null
     },
     {
@@ -1290,6 +1290,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Lock and Load",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2025-10-22T00:00:00",
+        "Album":  "SCOOOOOP",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  15,
+        "SpotifyStreams":  180256,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Get to the top",
         "AlternativeName":  "",
         "ReleaseDate":  "2024-09-25T00:00:00",
@@ -1297,16 +1307,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  18,
         "SpotifyStreams":  177845,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Lock and Load",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2025-10-22T00:00:00",
-        "Album":  "SCOOOOOP",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  15,
-        "SpotifyStreams":  175197,
         "MediaTieIn":  null
     },
     {
