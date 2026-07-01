@@ -1,14 +1,26 @@
 ﻿[
     {
-        "Category":  "YouTube Release",
-        "Item":  "① BAND-MAID / FREEDOM (Official Live Video)",
-        "Detail":  "  ▶️ was released 6 years ago. https://youtu.be/FHpuEqMAcDg",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+        "Category":  "Live Debut",
+        "Item":  "① Choose me ",
+        "Detail":  " 🗳️ was first played live 9 years ago at Shibuya Kinoto, Tokyo, Japan",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
     },
     {
         "Category":  "Okyuji",
-        "Item":  "① 11 years ago 🗾",
-        "Detail":  "  🇯🇵 shibuya eggman - Tokyo,JP [6 songs]",
+        "Item":  "① 12 years ago 🗾",
+        "Detail":  "  🇯🇵 morph - Tokyo,JP [6 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "② 9 years ago 🗾",
+        "Detail":  "  🇯🇵 Shibuya Kinoto - Tokyo,JP [15 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Other",
+        "Item":  "① 8 years ago",
+        "Detail":  "🔴r/BANDMAID on reddit reached 1,000 subscribers ",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Band-Maid%20color%20pop%204.png"
     }
 ]

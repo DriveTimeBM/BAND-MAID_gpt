@@ -1,32 +1,56 @@
 ﻿[
     {
-        "Category":  "CDJapan Weekly Rank",
-        "Item":  "✨ CD Maxi ENERGETIC [Scheduled to ship in mid-July] [w/ Blu-ray, Limited Edition] BAND-MAID 7000yen June 24, 2026 Backorder: 2-4 weeks Limited Edition Bonus",
-        "Milestone":  "① Weekly Rank: 8 🎗️",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/CDJapan.jpg"
+        "Category":  "YouTube AGGREGATE AUDIO stream Milestones",
+        "Item":  "① Days ",
+        "Milestone":  "☀️  aggregate AUDIO streams surpassed **100,000**!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
-        "Category":  "YouTube AGGREGATE Views",
-        "Item":  "① What is justice? ",
-        "Milestone":  "⚖️❓ aggregate views surpassed **6** million!",
+        "Category":  "YouTube AGGREGATE AUDIO stream Milestones",
+        "Item":  "② LOOK AT ME ",
+        "Milestone":  "👀  aggregate AUDIO streams surpassed **100,000**!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
         "Category":  "YouTube",
-        "Item":  "① SHOW THEM https://youtu.be/42AfEN1SGZ4",
-        "Milestone":  "  👀 Surpassed **300,000** views!",
+        "Item":  "① LOOK AT ME https://youtu.be/xOqnN00feSc",
+        "Milestone":  "  👀 Surpassed **100,000** views!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
         "Category":  "YouTube",
-        "Item":  "② BAND-MAID / What is justice? (Official Music Video) TVアニメ「桃源暗鬼」エンディング主題歌 https://youtu.be/3kMIh0_Wkpk",
-        "Milestone":  "  👀 Surpassed **3,300,000** views!",
+        "Item":  "② BAND-MAID / Ready to Rock (Official Music Video)  TVアニメ「ロックは淑女の嗜みでして」オープニングテーマソング https://youtu.be/eapNDHKbu0M",
+        "Milestone":  "  👀 Surpassed **5,000,000** views!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
         "Category":  "YouTube",
         "Item":  "③ BAND-MAID / ENERGETIC (Official Music Video) https://youtu.be/NpZjslVGhbE",
-        "Milestone":  "  👀 Surpassed **500,000** views!",
+        "Milestone":  "  👀 Surpassed **600,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube",
+        "Item":  "④ Days https://youtu.be/5cqS6i5aJxQ",
+        "Milestone":  "  👀 Surpassed **100,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "Spotify",
+        "Item":  "① Play ",
+        "Milestone":  "🛝 Surpassed **4,000,000** streams!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
+    },
+    {
+        "Category":  "Spotify",
+        "Item":  "② Show Them ",
+        "Milestone":  "⚠️ Surpassed **2,800,000** streams!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
+    },
+    {
+        "Category":  "Total Streams",
+        "Item":  "YouTube Total Streams",
+        "Milestone":  "  👀 Surpassed **296** MILLION views!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     }
 ]
