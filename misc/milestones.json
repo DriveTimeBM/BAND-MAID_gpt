@@ -1,56 +1,26 @@
 ﻿[
     {
-        "Category":  "YouTube AGGREGATE AUDIO stream Milestones",
-        "Item":  "① Days ",
-        "Milestone":  "☀️  aggregate AUDIO streams surpassed **100,000**!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-    },
-    {
-        "Category":  "YouTube AGGREGATE AUDIO stream Milestones",
-        "Item":  "② LOOK AT ME ",
-        "Milestone":  "👀  aggregate AUDIO streams surpassed **100,000**!",
+        "Category":  "YouTube AGGREGATE Views",
+        "Item":  "① Choose me ",
+        "Milestone":  "🗳️ aggregate views surpassed **20** million!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
         "Category":  "YouTube",
-        "Item":  "① LOOK AT ME https://youtu.be/xOqnN00feSc",
-        "Milestone":  "  👀 Surpassed **100,000** views!",
+        "Item":  "① BAND-MAID / Dilly-Dally (Official Live Video) https://youtu.be/yTAQ5dCpuiM",
+        "Milestone":  "  👀 Surpassed **1,300,000** views!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
         "Category":  "YouTube",
-        "Item":  "② BAND-MAID / Ready to Rock (Official Music Video)  TVアニメ「ロックは淑女の嗜みでして」オープニングテーマソング https://youtu.be/eapNDHKbu0M",
-        "Milestone":  "  👀 Surpassed **5,000,000** views!",
+        "Item":  "② BAND-MAID / ENERGETIC (Official Music Video) https://youtu.be/NpZjslVGhbE",
+        "Milestone":  "  👀 Surpassed **700,000** views!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-    },
-    {
-        "Category":  "YouTube",
-        "Item":  "③ BAND-MAID / ENERGETIC (Official Music Video) https://youtu.be/NpZjslVGhbE",
-        "Milestone":  "  👀 Surpassed **600,000** views!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-    },
-    {
-        "Category":  "YouTube",
-        "Item":  "④ Days https://youtu.be/5cqS6i5aJxQ",
-        "Milestone":  "  👀 Surpassed **100,000** views!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-    },
-    {
-        "Category":  "Spotify",
-        "Item":  "① Play ",
-        "Milestone":  "🛝 Surpassed **4,000,000** streams!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
-    },
-    {
-        "Category":  "Spotify",
-        "Item":  "② Show Them ",
-        "Milestone":  "⚠️ Surpassed **2,800,000** streams!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
     },
     {
         "Category":  "Total Streams",
-        "Item":  "YouTube Total Streams",
-        "Milestone":  "  👀 Surpassed **296** MILLION views!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+        "Item":  "Combined Total Streams [YT+Spotify+Billi]",
+        "Milestone":  "  📺 Surpassed **520** MILLION streams!",
+        "Image":  ""
     }
 ]

@@ -6,7 +6,7 @@
         "Album":  "Daydreaming / Choose me",
         "KobatoLead":  "no",
         "PlayedLiveCount":  247,
-        "SpotifyStreams":  15713493,
+        "SpotifyStreams":  15742823,
         "MediaTieIn":  "Used in Netflix movie Kate. Used in S01E03 of TV show Peacemaker."
     },
     {
@@ -86,7 +86,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  164,
-        "SpotifyStreams":  3916629,
+        "SpotifyStreams":  3923009,
         "MediaTieIn":  null
     },
     {
@@ -136,7 +136,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  39,
-        "SpotifyStreams":  3348891,
+        "SpotifyStreams":  3354089,
         "MediaTieIn":  "Used in TV show World Pro-Wrestling (TV Asahi)"
     },
     {
@@ -146,7 +146,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  56,
-        "SpotifyStreams":  3220479,
+        "SpotifyStreams":  3224125,
         "MediaTieIn":  null
     },
     {
@@ -196,7 +196,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  48,
-        "SpotifyStreams":  2567113,
+        "SpotifyStreams":  2570936,
         "MediaTieIn":  null
     },
     {
@@ -266,7 +266,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  2,
-        "SpotifyStreams":  2180394,
+        "SpotifyStreams":  2183576,
         "MediaTieIn":  null
     },
     {
@@ -296,7 +296,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  80,
-        "SpotifyStreams":  1984318,
+        "SpotifyStreams":  1988735,
         "MediaTieIn":  null
     },
     {
@@ -386,7 +386,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  3,
-        "SpotifyStreams":  1780433,
+        "SpotifyStreams":  1782251,
         "MediaTieIn":  null
     },
     {
@@ -466,7 +466,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  2,
-        "SpotifyStreams":  1514644,
+        "SpotifyStreams":  1517391,
         "MediaTieIn":  null
     },
     {
@@ -616,7 +616,7 @@
         "Album":  "Sense",
         "KobatoLead":  "no",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  1193043,
+        "SpotifyStreams":  1194245,
         "MediaTieIn":  "Battle theme for e-sports All-Japan University e-Sports Competition"
     },
     {
@@ -716,7 +716,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  38,
-        "SpotifyStreams":  972032,
+        "SpotifyStreams":  972942,
         "MediaTieIn":  null
     },
     {
@@ -730,6 +730,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "you.",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2017-01-11T00:00:00",
+        "Album":  "Just Bring It",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  125,
+        "SpotifyStreams":  905246,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Tora and Tora",
         "AlternativeName":  "虎and虎",
         "ReleaseDate":  "2019-04-01T00:00:00",
@@ -737,16 +747,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  1,
         "SpotifyStreams":  905127,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "you.",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2017-01-11T00:00:00",
-        "Album":  "Just Bring It",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  125,
-        "SpotifyStreams":  904093,
         "MediaTieIn":  null
     },
     {
@@ -820,6 +820,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "KEY",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2014-01-08T00:00:00",
+        "Album":  "MAID IN JAPAN",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  8,
+        "SpotifyStreams":  835706,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "ORDER",
         "AlternativeName":  "",
         "ReleaseDate":  "2016-05-18T00:00:00",
@@ -827,16 +837,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  35,
         "SpotifyStreams":  835266,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "KEY",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2014-01-08T00:00:00",
-        "Album":  "MAID IN JAPAN",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  8,
-        "SpotifyStreams":  835128,
         "MediaTieIn":  null
     },
     {
@@ -856,7 +856,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  12,
-        "SpotifyStreams":  819994,
+        "SpotifyStreams":  820838,
         "MediaTieIn":  null
     },
     {
@@ -1056,7 +1056,7 @@
         "Album":  "Love, Passion, Matador (愛と情熱のマタドール)",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  40,
-        "SpotifyStreams":  661954,
+        "SpotifyStreams":  662382,
         "MediaTieIn":  null
     },
     {
@@ -1116,7 +1116,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  578168,
+        "SpotifyStreams":  579130,
         "MediaTieIn":  null
     },
     {
@@ -1206,7 +1206,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  8,
-        "SpotifyStreams":  341823,
+        "SpotifyStreams":  343000,
         "MediaTieIn":  null
     },
     {
@@ -1226,7 +1226,7 @@
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
         "PlayedLiveCount":  18,
-        "SpotifyStreams":  291327,
+        "SpotifyStreams":  296692,
         "MediaTieIn":  "Featured in a series of 2026 commercials “Make Life Interesting.” by Takahashi Shuzo Co., Ltd. for Hakutake Shiro."
     },
     {
@@ -1256,7 +1256,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  35,
-        "SpotifyStreams":  225496,
+        "SpotifyStreams":  226827,
         "MediaTieIn":  null
     },
     {
