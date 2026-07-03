@@ -1,6 +1,20 @@
-﻿{
-    "Category":  "Okyuji",
-    "Item":  "① 10 years ago 🗾",
-    "Detail":  "  🇯🇵 Shibuya Kinoto - Tokyo,JP [17 songs]",
-    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
-}
+﻿[
+    {
+        "Category":  "YouTube Release",
+        "Item":  "① BAND-MAID / start over (Official Music Video)",
+        "Detail":  "  ▶️ was released 8 years ago. https://youtu.be/iL5sRrSECQ0",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube Release",
+        "Item":  "② BAND-MAID / REAL EXISTENCE (Official Live Video)",
+        "Detail":  "  ▶️ was released 8 years ago. https://youtu.be/-qQnKILR5u0",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "① 3 years ago 🗾",
+        "Detail":  "  🇯🇵 Zepp Shinjuku (TOKYO) - Tokyo,JP [23 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    }
+]

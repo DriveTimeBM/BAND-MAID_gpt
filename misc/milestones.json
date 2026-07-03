@@ -1,26 +1,14 @@
 ﻿[
     {
         "Category":  "YouTube AGGREGATE Views",
-        "Item":  "① Choose me ",
-        "Milestone":  "🗳️ aggregate views surpassed **20** million!",
+        "Item":  "① ENERGETIC ",
+        "Milestone":  "⚡ aggregate views surpassed **1** million!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
-        "Category":  "YouTube",
-        "Item":  "① BAND-MAID / Dilly-Dally (Official Live Video) https://youtu.be/yTAQ5dCpuiM",
-        "Milestone":  "  👀 Surpassed **1,300,000** views!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-    },
-    {
-        "Category":  "YouTube",
-        "Item":  "② BAND-MAID / ENERGETIC (Official Music Video) https://youtu.be/NpZjslVGhbE",
-        "Milestone":  "  👀 Surpassed **700,000** views!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-    },
-    {
-        "Category":  "Total Streams",
-        "Item":  "Combined Total Streams [YT+Spotify+Billi]",
-        "Milestone":  "  📺 Surpassed **520** MILLION streams!",
-        "Image":  ""
+        "Category":  "Spotify",
+        "Item":  "① Sense ",
+        "Milestone":  "👁️ Surpassed **10,800,000** streams!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
     }
 ]
