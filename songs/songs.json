@@ -96,7 +96,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  117,
-        "SpotifyStreams":  3894469,
+        "SpotifyStreams":  3898312,
         "MediaTieIn":  "Ending theme for anime series Yu-Gi-Oh! VRAINS (ep 71-95)"
     },
     {
@@ -176,7 +176,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  242,
-        "SpotifyStreams":  2656940,
+        "SpotifyStreams":  2659947,
         "MediaTieIn":  null
     },
     {
@@ -246,7 +246,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  166,
-        "SpotifyStreams":  2309244,
+        "SpotifyStreams":  2312822,
         "MediaTieIn":  null
     },
     {
@@ -306,7 +306,7 @@
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
         "PlayedLiveCount":  26,
-        "SpotifyStreams":  1947871,
+        "SpotifyStreams":  1975336,
         "MediaTieIn":  "Ending theme for anime series Tougen Anki. Included in video game Forza Horizon 6 on the Horizon XS in-game radio station."
     },
     {
@@ -456,7 +456,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  43,
-        "SpotifyStreams":  1528462,
+        "SpotifyStreams":  1531613,
         "MediaTieIn":  null
     },
     {
@@ -486,7 +486,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  45,
-        "SpotifyStreams":  1497635,
+        "SpotifyStreams":  1501049,
         "MediaTieIn":  null
     },
     {
@@ -566,7 +566,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  17,
-        "SpotifyStreams":  1238966,
+        "SpotifyStreams":  1239915,
         "MediaTieIn":  null
     },
     {
@@ -606,7 +606,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  69,
-        "SpotifyStreams":  1201464,
+        "SpotifyStreams":  1202865,
         "MediaTieIn":  "Ending theme for anime series Quiz Tokiko-san"
     },
     {
@@ -636,7 +636,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  59,
-        "SpotifyStreams":  1119326,
+        "SpotifyStreams":  1120422,
         "MediaTieIn":  null
     },
     {
@@ -876,7 +876,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  63,
-        "SpotifyStreams":  809593,
+        "SpotifyStreams":  810741,
         "MediaTieIn":  null
     },
     {
@@ -886,7 +886,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  6,
-        "SpotifyStreams":  794126,
+        "SpotifyStreams":  796127,
         "MediaTieIn":  null
     },
     {
@@ -900,6 +900,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Balance",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2022-09-21T00:00:00",
+        "Album":  "Unleash",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  10,
+        "SpotifyStreams":  792135,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Catharsis",
         "AlternativeName":  "カタルシス",
         "ReleaseDate":  "2019-12-11T00:00:00",
@@ -907,16 +917,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  18,
         "SpotifyStreams":  790931,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Balance",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2022-09-21T00:00:00",
-        "Album":  "Unleash",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  10,
-        "SpotifyStreams":  790757,
         "MediaTieIn":  null
     },
     {
@@ -976,7 +976,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  27,
-        "SpotifyStreams":  717333,
+        "SpotifyStreams":  718237,
         "MediaTieIn":  null
     },
     {
@@ -1000,6 +1000,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Bestie",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2024-04-17T00:00:00",
+        "Album":  "Epic Narratives",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  17,
+        "SpotifyStreams":  700443,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Price of Pride",
         "AlternativeName":  "",
         "ReleaseDate":  "2015-11-18T00:00:00",
@@ -1007,16 +1017,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  15,
         "SpotifyStreams":  699850,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Bestie",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2024-04-17T00:00:00",
-        "Album":  "Epic Narratives",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  17,
-        "SpotifyStreams":  698708,
         "MediaTieIn":  null
     },
     {
@@ -1086,7 +1086,7 @@
         "Album":  "YOLO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  53,
-        "SpotifyStreams":  601044,
+        "SpotifyStreams":  601682,
         "MediaTieIn":  null
     },
     {
@@ -1096,7 +1096,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  3,
-        "SpotifyStreams":  599829,
+        "SpotifyStreams":  600529,
         "MediaTieIn":  null
     },
     {
@@ -1166,7 +1166,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
-        "SpotifyStreams":  477866,
+        "SpotifyStreams":  478601,
         "MediaTieIn":  null
     },
     {
@@ -1196,7 +1196,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  12,
-        "SpotifyStreams":  356641,
+        "SpotifyStreams":  358963,
         "MediaTieIn":  null
     },
     {
@@ -1326,7 +1326,7 @@
         "Album":  "ENERGETIC",
         "KobatoLead":  "no",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  15253,
+        "SpotifyStreams":  32815,
         "MediaTieIn":  null
     },
     {
