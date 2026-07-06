@@ -1,26 +1,6 @@
-﻿[
-    {
-        "Category":  "YouTube Release",
-        "Item":  "① BAND-MAID / Protect You (Official Music Video)",
-        "Detail":  "  ▶️ was released 2 years ago. https://youtu.be/knnw6Mri9gc",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-    },
-    {
-        "Category":  "Song Release",
-        "Item":  "① Protect You ",
-        "Detail":  "🛡️ was released 2 years ago.",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/UW_quilt.png"
-    },
-    {
-        "Category":  "Okyuji",
-        "Item":  "① 9 years ago 🗾",
-        "Detail":  "  🇯🇵 CLUB PHASE - Tokyo,JP [16 songs]",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
-    },
-    {
-        "Category":  "Okyuji",
-        "Item":  "② 2 years ago 🗾",
-        "Detail":  "  🇯🇵 FENICE SACAY - Sakai,JP [23 songs]",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
-    }
-]
+﻿{
+    "Category":  "Okyuji",
+    "Item":  "① 12 years ago 🗾",
+    "Detail":  "  🇯🇵 PLATINUM PRODUCTION, B1 Stage - Tokyo,JP [5 songs]",
+    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+}
