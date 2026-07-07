@@ -46,7 +46,7 @@
         "Album":  "Different",
         "KobatoLead":  "no",
         "PlayedLiveCount":  38,
-        "SpotifyStreams":  7341562,
+        "SpotifyStreams":  7352106,
         "MediaTieIn":  "Opening theme for S3 of anime series Log Horizon"
     },
     {
@@ -56,7 +56,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  155,
-        "SpotifyStreams":  6232307,
+        "SpotifyStreams":  6244128,
         "MediaTieIn":  null
     },
     {
@@ -126,7 +126,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  33,
-        "SpotifyStreams":  3388617,
+        "SpotifyStreams":  3393965,
         "MediaTieIn":  null
     },
     {
@@ -166,7 +166,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  39,
-        "SpotifyStreams":  2687900,
+        "SpotifyStreams":  2690185,
         "MediaTieIn":  "Theme song for TV show Perfect Crime"
     },
     {
@@ -226,7 +226,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  143,
-        "SpotifyStreams":  2367792,
+        "SpotifyStreams":  2370597,
         "MediaTieIn":  null
     },
     {
@@ -356,7 +356,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  85,
-        "SpotifyStreams":  1828495,
+        "SpotifyStreams":  1830719,
         "MediaTieIn":  null
     },
     {
@@ -436,7 +436,7 @@
         "Album":  "about Us",
         "KobatoLead":  "no",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  1585944,
+        "SpotifyStreams":  1587117,
         "MediaTieIn":  null
     },
     {
@@ -506,7 +506,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  72,
-        "SpotifyStreams":  1411817,
+        "SpotifyStreams":  1415164,
         "MediaTieIn":  null
     },
     {
@@ -556,7 +556,7 @@
         "Album":  "Love, Passion, Matador (愛と情熱のマタドール)",
         "KobatoLead":  "no",
         "PlayedLiveCount":  36,
-        "SpotifyStreams":  1241486,
+        "SpotifyStreams":  1242138,
         "MediaTieIn":  null
     },
     {
@@ -596,7 +596,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
-        "SpotifyStreams":  1212005,
+        "SpotifyStreams":  1213755,
         "MediaTieIn":  null
     },
     {
@@ -866,7 +866,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  12,
-        "SpotifyStreams":  814708,
+        "SpotifyStreams":  815658,
         "MediaTieIn":  null
     },
     {
@@ -896,7 +896,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  9,
-        "SpotifyStreams":  792308,
+        "SpotifyStreams":  794455,
         "MediaTieIn":  null
     },
     {
@@ -996,7 +996,17 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  55,
-        "SpotifyStreams":  702630,
+        "SpotifyStreams":  703248,
+        "MediaTieIn":  null
+    },
+    {
+        "Name":  "Price of Pride",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2015-11-18T00:00:00",
+        "Album":  "New Beginning",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  15,
+        "SpotifyStreams":  700524,
         "MediaTieIn":  null
     },
     {
@@ -1007,16 +1017,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  17,
         "SpotifyStreams":  700443,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Price of Pride",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2015-11-18T00:00:00",
-        "Album":  "New Beginning",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  15,
-        "SpotifyStreams":  699850,
         "MediaTieIn":  null
     },
     {
@@ -1060,6 +1060,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "LOOK AT ME",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2016-05-18T00:00:00",
+        "Album":  "Brand New MAID",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  49,
+        "SpotifyStreams":  638358,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "flying high",
         "AlternativeName":  "",
         "ReleaseDate":  "2019-12-11T00:00:00",
@@ -1067,16 +1077,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  1,
         "SpotifyStreams":  638318,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "LOOK AT ME",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2016-05-18T00:00:00",
-        "Album":  "Brand New MAID",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  49,
-        "SpotifyStreams":  637755,
         "MediaTieIn":  null
     },
     {
@@ -1106,7 +1106,7 @@
         "Album":  "YOLO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  50,
-        "SpotifyStreams":  591509,
+        "SpotifyStreams":  591988,
         "MediaTieIn":  null
     },
     {
@@ -1146,7 +1146,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  31,
-        "SpotifyStreams":  524192,
+        "SpotifyStreams":  525938,
         "MediaTieIn":  null
     },
     {
@@ -1200,6 +1200,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Magie",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2024-07-21T00:00:00",
+        "Album":  "Epic Narratives",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  29,
+        "SpotifyStreams":  343560,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "The one",
         "AlternativeName":  "",
         "ReleaseDate":  "2024-09-25T00:00:00",
@@ -1207,16 +1217,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  8,
         "SpotifyStreams":  343000,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Magie",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2024-07-21T00:00:00",
-        "Album":  "Epic Narratives",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  29,
-        "SpotifyStreams":  340886,
         "MediaTieIn":  null
     },
     {
@@ -1296,7 +1296,7 @@
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
         "PlayedLiveCount":  15,
-        "SpotifyStreams":  180256,
+        "SpotifyStreams":  183029,
         "MediaTieIn":  null
     },
     {
@@ -1350,16 +1350,6 @@
         "MediaTieIn":  null
     },
     {
-        "Name":  "without holding back",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2021-01-20T00:00:00",
-        "Album":  "Unseen World",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  11,
-        "SpotifyStreams":  null,
-        "MediaTieIn":  null
-    },
-    {
         "Name":  "Seasoned",
         "AlternativeName":  "",
         "ReleaseDate":  "2024-09-25T00:00:00",
@@ -1368,16 +1358,6 @@
         "PlayedLiveCount":  null,
         "SpotifyStreams":  null,
         "MediaTieIn":  null
-    },
-    {
-        "Name":  "Dawn Winery Theme",
-        "AlternativeName":  null,
-        "ReleaseDate":  "2022-10-02T00:00:00",
-        "Album":  "",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  null,
-        "SpotifyStreams":  null,
-        "MediaTieIn":  "Created for (game) Genshin Impact Concert 2022"
     },
     {
         "Name":  "Youth",
@@ -1390,6 +1370,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "without holding back",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2021-01-20T00:00:00",
+        "Album":  "Unseen World",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  11,
+        "SpotifyStreams":  null,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "onset",
         "AlternativeName":  "",
         "ReleaseDate":  "2019-01-16T00:00:00",
@@ -1398,5 +1388,15 @@
         "PlayedLiveCount":  57,
         "SpotifyStreams":  null,
         "MediaTieIn":  null
+    },
+    {
+        "Name":  "Dawn Winery Theme",
+        "AlternativeName":  null,
+        "ReleaseDate":  "2022-10-02T00:00:00",
+        "Album":  "",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  null,
+        "SpotifyStreams":  null,
+        "MediaTieIn":  "Created for (game) Genshin Impact Concert 2022"
     }
 ]

@@ -1,32 +1,6 @@
-﻿[
-    {
-        "Category":  "YouTube",
-        "Item":  "① BAND-MAID / After Life (Official Music Video) https://youtu.be/2MOvCkCqz_U",
-        "Milestone":  "  👀 Surpassed **3,100,000** views!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-    },
-    {
-        "Category":  "YouTube",
-        "Item":  "② BAND-MAID / ENERGETIC (Official Music Video) https://youtu.be/NpZjslVGhbE",
-        "Milestone":  "  👀 Surpassed **900,000** views!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-    },
-    {
-        "Category":  "Total Streams",
-        "Item":  "YouTube Total Streams",
-        "Milestone":  "  👀 Surpassed **297** MILLION views!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-    },
-    {
-        "Category":  "Facebook Followers",
-        "Item":  "① Facebook milestone",
-        "Milestone":  "ⒻBAND-MAID followers surpassed **125,000**!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/facebook.svg"
-    },
-    {
-        "Category":  "Instagram Followers",
-        "Item":  "② Instagram milestone",
-        "Milestone":  "📸MISA followers surpassed **87,000**!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/instagram.svg"
-    }
-]
+﻿{
+    "Category":  "Spotify",
+    "Item":  "① Price of Pride ",
+    "Milestone":  "💰 Surpassed **700,000** streams!",
+    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
+}
