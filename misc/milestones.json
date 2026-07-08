@@ -1,20 +1,20 @@
 ﻿[
     {
-        "Category":  "YouTube AGGREGATE AUDIO stream Milestones",
-        "Item":  "① Ready to Rock ",
-        "Milestone":  "🪨  aggregate AUDIO streams surpassed **2,800,000**!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-    },
-    {
-        "Category":  "YouTube AGGREGATE AUDIO stream Milestones",
-        "Item":  "② REAL EXISTENCE ",
-        "Milestone":  "🧍🌍  aggregate AUDIO streams surpassed **900,000**!",
+        "Category":  "YouTube",
+        "Item":  "① BAND-MAID / 輪廻  \"RINNE\" (Official Music Video) https://youtu.be/CQ9dbEVgZcA",
+        "Milestone":  "  👀 Surpassed **2,300,000** views!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
         "Category":  "YouTube",
-        "Item":  "① BAND-MAID / endless Story (Official Music Video) https://youtu.be/5_S4s8jZQ-A",
-        "Milestone":  "  👀 Surpassed **2,000,000** views!",
+        "Item":  "② BAND-MAID / ENERGETIC (Official Music Video) https://youtu.be/NpZjslVGhbE",
+        "Milestone":  "  👀 Surpassed **1,000,000** views!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "Spotify",
+        "Item":  "① Price of Pride ",
+        "Milestone":  "💰 Surpassed **700,000** streams!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
     }
 ]
