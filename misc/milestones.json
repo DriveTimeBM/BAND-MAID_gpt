@@ -1,20 +1,6 @@
-﻿[
-    {
-        "Category":  "YouTube",
-        "Item":  "① BAND-MAID / 輪廻  \"RINNE\" (Official Music Video) https://youtu.be/CQ9dbEVgZcA",
-        "Milestone":  "  👀 Surpassed **2,300,000** views!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-    },
-    {
-        "Category":  "YouTube",
-        "Item":  "② BAND-MAID / ENERGETIC (Official Music Video) https://youtu.be/NpZjslVGhbE",
-        "Milestone":  "  👀 Surpassed **1,000,000** views!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-    },
-    {
-        "Category":  "Spotify",
-        "Item":  "① Price of Pride ",
-        "Milestone":  "💰 Surpassed **700,000** streams!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
-    }
-]
+﻿{
+    "Category":  "Spotify",
+    "Item":  "① SUPER SUNSHINE ",
+    "Milestone":  "🌞 Surpassed **300,000** streams!",
+    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
+}

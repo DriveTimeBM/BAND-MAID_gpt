@@ -1,14 +1,6 @@
-﻿[
-    {
-        "Category":  "YouTube Release",
-        "Item":  "① BAND-MAID / CROSS (Official Live Video)",
-        "Detail":  "  ▶️ was released 6 years ago. https://youtu.be/yQn4IMr56zY",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-    },
-    {
-        "Category":  "YouTube Release",
-        "Item":  "② BAND-MAID / Wonderland  (Official Live Video)",
-        "Detail":  "  ▶️ was released 6 years ago. https://youtu.be/x4hxLeHbqZo",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-    }
-]
+﻿{
+    "Category":  "Okyuji",
+    "Item":  "① 3 years ago 🗾",
+    "Detail":  "  🇯🇵 NIIGATA LOTS - Niigata,JP [23 songs]",
+    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+}
