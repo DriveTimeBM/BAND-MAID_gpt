@@ -1,6 +1,20 @@
-﻿{
-    "Category":  "Spotify",
-    "Item":  "① SUPER SUNSHINE ",
-    "Milestone":  "🌞 Surpassed **300,000** streams!",
-    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
-}
+﻿[
+    {
+        "Category":  "YouTube AGGREGATE AUDIO stream Milestones",
+        "Item":  "① Brightest Star ",
+        "Milestone":  "🌟  aggregate AUDIO streams surpassed **200,000**!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube",
+        "Item":  "① Brightest star https://youtu.be/70uZ87dY2z0",
+        "Milestone":  "  👀 Surpassed **200,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube",
+        "Item":  "② BAND-MAID / ENERGETIC (Official Music Video) https://youtu.be/NpZjslVGhbE",
+        "Milestone":  "  👀 Surpassed **1,100,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    }
+]
