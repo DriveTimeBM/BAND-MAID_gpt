@@ -1,20 +1,26 @@
 ﻿[
     {
+        "Category":  "YouTube AGGREGATE Views",
+        "Item":  "① Toi et moi ",
+        "Milestone":  "👫 aggregate views surpassed **1** million!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
         "Category":  "YouTube AGGREGATE AUDIO stream Milestones",
-        "Item":  "① Brightest Star ",
-        "Milestone":  "🌟  aggregate AUDIO streams surpassed **200,000**!",
+        "Item":  "① ENERGETIC ",
+        "Milestone":  "⚡  aggregate AUDIO streams surpassed **100,000**!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
         "Category":  "YouTube",
-        "Item":  "① Brightest star https://youtu.be/70uZ87dY2z0",
-        "Milestone":  "  👀 Surpassed **200,000** views!",
+        "Item":  "① ENERGETIC https://youtu.be/VhVA-w1y694",
+        "Milestone":  "  👀 Surpassed **100,000** views!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
-        "Category":  "YouTube",
-        "Item":  "② BAND-MAID / ENERGETIC (Official Music Video) https://youtu.be/NpZjslVGhbE",
-        "Milestone":  "  👀 Surpassed **1,100,000** views!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+        "Category":  "Spotify",
+        "Item":  "① Ready to Rock ",
+        "Milestone":  "🪨 Surpassed **3,700,000** streams!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
     }
 ]
