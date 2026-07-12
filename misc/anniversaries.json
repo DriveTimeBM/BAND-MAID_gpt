@@ -1,20 +1,32 @@
 ﻿[
     {
+        "Category":  "Live Debut",
+        "Item":  "① What is justice? ",
+        "Detail":  " ⚖️❓ was first played live 1 year ago at Toyosu PIT, Tokyo, Japan",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
+    },
+    {
+        "Category":  "YouTube Release",
+        "Item":  "① BAND-MAID / What is justice? (Official Teaser Video) TVアニメ「桃源暗鬼」エンディング主題歌",
+        "Detail":  "  ▶️ was released 1 year ago. https://youtu.be/1kbZ5NsrdX4",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
         "Category":  "Okyuji",
-        "Item":  "① 12 years ago 🗾",
-        "Detail":  "  🇯🇵 Shibuya Milkyway - Tokyo,JP [6 songs]",
+        "Item":  "① 10 years ago 🗾",
+        "Detail":  "  🇯🇵 LIGHT HOUSE - Mito,JP [0 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     },
     {
         "Category":  "Okyuji",
         "Item":  "② 9 years ago 🗾",
-        "Detail":  "  🇯🇵 Nagoya CLUB QUATTRO - Nagoya,JP [20 songs]",
+        "Detail":  "  🇯🇵 Umeda CLUB QUATTRO - Osaka,JP [20 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     },
     {
         "Category":  "Okyuji",
-        "Item":  "③ 7 years ago 🗾",
-        "Detail":  "  🇯🇵 Diamond Hall - Nagoya,JP [25 songs]",
+        "Item":  "③ 1 year ago 🗾",
+        "Detail":  "  🇯🇵 Toyosu PIT - Tokyo,JP [19 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     }
 ]

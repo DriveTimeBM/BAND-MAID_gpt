@@ -96,7 +96,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  117,
-        "SpotifyStreams":  3898312,
+        "SpotifyStreams":  3901949,
         "MediaTieIn":  "Ending theme for anime series Yu-Gi-Oh! VRAINS (ep 71-95)"
     },
     {
@@ -136,7 +136,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  39,
-        "SpotifyStreams":  3354089,
+        "SpotifyStreams":  3361264,
         "MediaTieIn":  "Used in TV show World Pro-Wrestling (TV Asahi)"
     },
     {
@@ -216,7 +216,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  95,
-        "SpotifyStreams":  2434981,
+        "SpotifyStreams":  2441020,
         "MediaTieIn":  "Used in mobile game Valiant Knights"
     },
     {
@@ -246,7 +246,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  166,
-        "SpotifyStreams":  2312822,
+        "SpotifyStreams":  2316346,
         "MediaTieIn":  null
     },
     {
@@ -280,6 +280,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "What is justice?",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2025-07-18T00:00:00",
+        "Album":  "SCOOOOOP",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  26,
+        "SpotifyStreams":  2001492,
+        "MediaTieIn":  "Ending theme for anime series Tougen Anki. Included in video game Forza Horizon 6 on the Horizon XS in-game radio station."
+    },
+    {
         "Name":  "Turn me on",
         "AlternativeName":  "",
         "ReleaseDate":  "2018-02-14T00:00:00",
@@ -298,16 +308,6 @@
         "PlayedLiveCount":  80,
         "SpotifyStreams":  1993135,
         "MediaTieIn":  null
-    },
-    {
-        "Name":  "What is justice?",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2025-07-18T00:00:00",
-        "Album":  "SCOOOOOP",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  26,
-        "SpotifyStreams":  1975336,
-        "MediaTieIn":  "Ending theme for anime series Tougen Anki. Included in video game Forza Horizon 6 on the Horizon XS in-game radio station."
     },
     {
         "Name":  "CROSS",
@@ -386,7 +386,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  3,
-        "SpotifyStreams":  1782251,
+        "SpotifyStreams":  1784666,
         "MediaTieIn":  null
     },
     {
@@ -516,7 +516,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  73,
-        "SpotifyStreams":  1358179,
+        "SpotifyStreams":  1361583,
         "MediaTieIn":  null
     },
     {
@@ -630,6 +630,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Wonderland",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2019-12-11T00:00:00",
+        "Album":  "CONQUEROR",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  37,
+        "SpotifyStreams":  1120451,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Take me higher!!",
         "AlternativeName":  "",
         "ReleaseDate":  "2017-01-11T00:00:00",
@@ -637,16 +647,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  59,
         "SpotifyStreams":  1120422,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Wonderland",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2019-12-11T00:00:00",
-        "Album":  "CONQUEROR",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  37,
-        "SpotifyStreams":  1119416,
         "MediaTieIn":  null
     },
     {
@@ -686,7 +686,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  36,
-        "SpotifyStreams":  1043845,
+        "SpotifyStreams":  1045258,
         "MediaTieIn":  null
     },
     {
@@ -726,7 +726,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  13,
-        "SpotifyStreams":  946497,
+        "SpotifyStreams":  947441,
         "MediaTieIn":  null
     },
     {
@@ -756,7 +756,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  4,
-        "SpotifyStreams":  896200,
+        "SpotifyStreams":  897453,
         "MediaTieIn":  null
     },
     {
@@ -776,7 +776,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  12,
-        "SpotifyStreams":  886186,
+        "SpotifyStreams":  887693,
         "MediaTieIn":  null
     },
     {
@@ -966,7 +966,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  50,
-        "SpotifyStreams":  734882,
+        "SpotifyStreams":  735896,
         "MediaTieIn":  null
     },
     {
@@ -976,7 +976,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  27,
-        "SpotifyStreams":  718237,
+        "SpotifyStreams":  719096,
         "MediaTieIn":  null
     },
     {
@@ -1000,6 +1000,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Bestie",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2024-04-17T00:00:00",
+        "Album":  "Epic Narratives",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  17,
+        "SpotifyStreams":  702112,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Price of Pride",
         "AlternativeName":  "",
         "ReleaseDate":  "2015-11-18T00:00:00",
@@ -1007,16 +1017,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  15,
         "SpotifyStreams":  700713,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Bestie",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2024-04-17T00:00:00",
-        "Album":  "Epic Narratives",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  17,
-        "SpotifyStreams":  700443,
         "MediaTieIn":  null
     },
     {
@@ -1060,6 +1060,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "flying high",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2019-12-11T00:00:00",
+        "Album":  "CONQUEROR",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  1,
+        "SpotifyStreams":  639733,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "LOOK AT ME",
         "AlternativeName":  "",
         "ReleaseDate":  "2016-05-18T00:00:00",
@@ -1067,16 +1077,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  49,
         "SpotifyStreams":  638676,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "flying high",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2019-12-11T00:00:00",
-        "Album":  "CONQUEROR",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  1,
-        "SpotifyStreams":  638318,
         "MediaTieIn":  null
     },
     {
@@ -1186,7 +1186,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  1,
-        "SpotifyStreams":  414804,
+        "SpotifyStreams":  415359,
         "MediaTieIn":  null
     },
     {
@@ -1306,7 +1306,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  18,
-        "SpotifyStreams":  178929,
+        "SpotifyStreams":  180156,
         "MediaTieIn":  null
     },
     {
@@ -1336,7 +1336,7 @@
         "Album":  "ENERGETIC",
         "KobatoLead":  "no",
         "PlayedLiveCount":  2,
-        "SpotifyStreams":  33669,
+        "SpotifyStreams":  40594,
         "MediaTieIn":  null
     },
     {

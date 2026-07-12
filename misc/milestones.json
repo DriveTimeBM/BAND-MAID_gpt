@@ -1,26 +1,50 @@
 ﻿[
     {
-        "Category":  "YouTube AGGREGATE Views",
-        "Item":  "① Toi et moi ",
-        "Milestone":  "👫 aggregate views surpassed **1** million!",
+        "Category":  "YouTube AGGREGATE AUDIO stream Milestones",
+        "Item":  "① After Life ",
+        "Milestone":  "💀  aggregate AUDIO streams surpassed **800,000**!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
         "Category":  "YouTube AGGREGATE AUDIO stream Milestones",
-        "Item":  "① ENERGETIC ",
-        "Milestone":  "⚡  aggregate AUDIO streams surpassed **100,000**!",
+        "Item":  "② CAGE ",
+        "Milestone":  "🪤  aggregate AUDIO streams surpassed **100,000**!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
         "Category":  "YouTube",
-        "Item":  "① ENERGETIC https://youtu.be/VhVA-w1y694",
+        "Item":  "① After Life https://youtu.be/kkFIoq1TeA0",
+        "Milestone":  "  👀 Surpassed **800,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube",
+        "Item":  "② BAND-MAID / ENERGETIC (Official Music Video) https://youtu.be/NpZjslVGhbE",
+        "Milestone":  "  👀 Surpassed **1,200,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube",
+        "Item":  "③ CAGE https://youtu.be/7MLdCZ9BcAA",
         "Milestone":  "  👀 Surpassed **100,000** views!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
         "Category":  "Spotify",
-        "Item":  "① Ready to Rock ",
-        "Milestone":  "🪨 Surpassed **3,700,000** streams!",
+        "Item":  "① glory ",
+        "Milestone":  "🏅 Surpassed **3,900,000** streams!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
+    },
+    {
+        "Category":  "Spotify",
+        "Item":  "② What is justice? ",
+        "Milestone":  "⚖️❓ Surpassed **2,000,000** streams!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
+    },
+    {
+        "Category":  "Total Streams",
+        "Item":  "Spotify Total Streams",
+        "Milestone":  "  🎧 Surpassed **223** MILLION streams!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
     }
 ]
