@@ -5,7 +5,7 @@
         "ReleaseDate":  "2017-07-19T00:00:00",
         "Album":  "Daydreaming / Choose me",
         "KobatoLead":  "no",
-        "PlayedLiveCount":  248,
+        "PlayedLiveCount":  249,
         "SpotifyStreams":  15771534,
         "MediaTieIn":  "Used in Netflix movie Kate. Used in S01E03 of TV show Peacemaker."
     },
@@ -25,7 +25,7 @@
         "ReleaseDate":  "2018-02-08T00:00:00",
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
-        "PlayedLiveCount":  224,
+        "PlayedLiveCount":  225,
         "SpotifyStreams":  8485027,
         "MediaTieIn":  null
     },
@@ -55,8 +55,8 @@
         "ReleaseDate":  "2018-02-14T00:00:00",
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
-        "PlayedLiveCount":  155,
-        "SpotifyStreams":  6244128,
+        "PlayedLiveCount":  156,
+        "SpotifyStreams":  6254607,
         "MediaTieIn":  null
     },
     {
@@ -105,7 +105,7 @@
         "ReleaseDate":  "2025-04-04T00:00:00",
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
-        "PlayedLiveCount":  41,
+        "PlayedLiveCount":  42,
         "SpotifyStreams":  3758833,
         "MediaTieIn":  "Opening theme for anime series Rock Is a Lady\u0027s Modesty"
     },
@@ -115,7 +115,7 @@
         "ReleaseDate":  "2022-08-09T00:00:00",
         "Album":  "Unleash",
         "KobatoLead":  "no",
-        "PlayedLiveCount":  103,
+        "PlayedLiveCount":  104,
         "SpotifyStreams":  3576672,
         "MediaTieIn":  null
     },
@@ -166,7 +166,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  39,
-        "SpotifyStreams":  2690185,
+        "SpotifyStreams":  2692274,
         "MediaTieIn":  "Theme song for TV show Perfect Crime"
     },
     {
@@ -275,8 +275,8 @@
         "ReleaseDate":  "2021-01-20T00:00:00",
         "Album":  "Unseen World",
         "KobatoLead":  "no",
-        "PlayedLiveCount":  126,
-        "SpotifyStreams":  2132809,
+        "PlayedLiveCount":  127,
+        "SpotifyStreams":  2137410,
         "MediaTieIn":  null
     },
     {
@@ -305,7 +305,7 @@
         "ReleaseDate":  "2022-09-21T00:00:00",
         "Album":  "Unleash",
         "KobatoLead":  "no",
-        "PlayedLiveCount":  80,
+        "PlayedLiveCount":  81,
         "SpotifyStreams":  1993135,
         "MediaTieIn":  null
     },
@@ -356,7 +356,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  85,
-        "SpotifyStreams":  1830719,
+        "SpotifyStreams":  1832543,
         "MediaTieIn":  null
     },
     {
@@ -405,7 +405,7 @@
         "ReleaseDate":  "2019-08-07T00:00:00",
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
-        "PlayedLiveCount":  122,
+        "PlayedLiveCount":  123,
         "SpotifyStreams":  1630615,
         "MediaTieIn":  null
     },
@@ -485,7 +485,7 @@
         "ReleaseDate":  "2021-01-20T00:00:00",
         "Album":  "Unseen World",
         "KobatoLead":  "yes",
-        "PlayedLiveCount":  45,
+        "PlayedLiveCount":  46,
         "SpotifyStreams":  1503771,
         "MediaTieIn":  null
     },
@@ -520,6 +520,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Protect You",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2024-07-05T00:00:00",
+        "Album":  "Epic Narratives",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  36,
+        "SpotifyStreams":  1344586,
+        "MediaTieIn":  "Ending theme for anime series Grendizer U"
+    },
+    {
         "Name":  "start over",
         "AlternativeName":  "",
         "ReleaseDate":  "2018-07-25T00:00:00",
@@ -530,23 +540,13 @@
         "MediaTieIn":  null
     },
     {
-        "Name":  "Protect You",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2024-07-05T00:00:00",
-        "Album":  "Epic Narratives",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  36,
-        "SpotifyStreams":  1340105,
-        "MediaTieIn":  "Ending theme for anime series Grendizer U"
-    },
-    {
         "Name":  "Spirit!!",
         "AlternativeName":  "",
         "ReleaseDate":  "2018-02-14T00:00:00",
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  36,
-        "SpotifyStreams":  1272262,
+        "SpotifyStreams":  1273945,
         "MediaTieIn":  null
     },
     {
@@ -596,7 +596,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
-        "SpotifyStreams":  1213755,
+        "SpotifyStreams":  1215108,
         "MediaTieIn":  null
     },
     {
@@ -820,6 +820,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "KEY",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2014-01-08T00:00:00",
+        "Album":  "MAID IN JAPAN",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  8,
+        "SpotifyStreams":  836654,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "ORDER",
         "AlternativeName":  "",
         "ReleaseDate":  "2016-05-18T00:00:00",
@@ -827,16 +837,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  35,
         "SpotifyStreams":  836270,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "KEY",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2014-01-08T00:00:00",
-        "Album":  "MAID IN JAPAN",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  8,
-        "SpotifyStreams":  835706,
         "MediaTieIn":  null
     },
     {
@@ -856,7 +856,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  12,
-        "SpotifyStreams":  820838,
+        "SpotifyStreams":  822170,
         "MediaTieIn":  null
     },
     {
@@ -866,7 +866,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  12,
-        "SpotifyStreams":  815658,
+        "SpotifyStreams":  816497,
         "MediaTieIn":  null
     },
     {
@@ -900,6 +900,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Balance",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2022-09-21T00:00:00",
+        "Album":  "Unleash",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  10,
+        "SpotifyStreams":  793637,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Catharsis",
         "AlternativeName":  "カタルシス",
         "ReleaseDate":  "2019-12-11T00:00:00",
@@ -907,16 +917,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  18,
         "SpotifyStreams":  792285,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Balance",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2022-09-21T00:00:00",
-        "Album":  "Unleash",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  10,
-        "SpotifyStreams":  792135,
         "MediaTieIn":  null
     },
     {
@@ -996,7 +996,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  55,
-        "SpotifyStreams":  703248,
+        "SpotifyStreams":  703832,
         "MediaTieIn":  null
     },
     {
@@ -1026,7 +1026,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
-        "SpotifyStreams":  697158,
+        "SpotifyStreams":  699031,
         "MediaTieIn":  null
     },
     {
@@ -1046,7 +1046,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  61,
-        "SpotifyStreams":  665338,
+        "SpotifyStreams":  666055,
         "MediaTieIn":  null
     },
     {
@@ -1096,7 +1096,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  3,
-        "SpotifyStreams":  600529,
+        "SpotifyStreams":  601352,
         "MediaTieIn":  null
     },
     {
@@ -1126,7 +1126,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  579130,
+        "SpotifyStreams":  580245,
         "MediaTieIn":  null
     },
     {
@@ -1145,7 +1145,7 @@
         "ReleaseDate":  "2024-09-25T00:00:00",
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
-        "PlayedLiveCount":  31,
+        "PlayedLiveCount":  32,
         "SpotifyStreams":  526727,
         "MediaTieIn":  null
     },
@@ -1175,8 +1175,8 @@
         "ReleaseDate":  "2025-10-22T00:00:00",
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
-        "PlayedLiveCount":  24,
-        "SpotifyStreams":  433693,
+        "PlayedLiveCount":  25,
+        "SpotifyStreams":  438442,
         "MediaTieIn":  null
     },
     {
@@ -1200,6 +1200,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "The one",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2024-09-25T00:00:00",
+        "Album":  "Epic Narratives",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  8,
+        "SpotifyStreams":  344669,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Magie",
         "AlternativeName":  "",
         "ReleaseDate":  "2024-07-21T00:00:00",
@@ -1210,22 +1220,12 @@
         "MediaTieIn":  null
     },
     {
-        "Name":  "The one",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2024-09-25T00:00:00",
-        "Album":  "Epic Narratives",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  8,
-        "SpotifyStreams":  343000,
-        "MediaTieIn":  null
-    },
-    {
         "Name":  "SUPER SUNSHINE",
         "AlternativeName":  "",
         "ReleaseDate":  "2025-10-22T00:00:00",
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
-        "PlayedLiveCount":  18,
+        "PlayedLiveCount":  19,
         "SpotifyStreams":  301363,
         "MediaTieIn":  "Featured in a series of 2026 commercials “Make Life Interesting.” by Takahashi Shuzo Co., Ltd. for Hakutake Shiro."
     },
@@ -1235,7 +1235,7 @@
         "ReleaseDate":  "2025-10-22T00:00:00",
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
-        "PlayedLiveCount":  21,
+        "PlayedLiveCount":  22,
         "SpotifyStreams":  255480,
         "MediaTieIn":  null
     },
@@ -1255,7 +1255,7 @@
         "ReleaseDate":  "2024-09-25T00:00:00",
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
-        "PlayedLiveCount":  35,
+        "PlayedLiveCount":  36,
         "SpotifyStreams":  226827,
         "MediaTieIn":  null
     },
@@ -1265,7 +1265,7 @@
         "ReleaseDate":  "2024-09-25T00:00:00",
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
-        "PlayedLiveCount":  22,
+        "PlayedLiveCount":  23,
         "SpotifyStreams":  218141,
         "MediaTieIn":  null
     },
@@ -1286,7 +1286,7 @@
         "Album":  "YOLO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
-        "SpotifyStreams":  185127,
+        "SpotifyStreams":  185281,
         "MediaTieIn":  null
     },
     {
@@ -1295,7 +1295,7 @@
         "ReleaseDate":  "2025-10-22T00:00:00",
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
-        "PlayedLiveCount":  15,
+        "PlayedLiveCount":  16,
         "SpotifyStreams":  183029,
         "MediaTieIn":  null
     },
@@ -1315,8 +1315,8 @@
         "ReleaseDate":  "2026-06-24T00:00:00",
         "Album":  "ENERGETIC",
         "KobatoLead":  "no",
-        "PlayedLiveCount":  7,
-        "SpotifyStreams":  78800,
+        "PlayedLiveCount":  8,
+        "SpotifyStreams":  96915,
         "MediaTieIn":  null
     },
     {
@@ -1325,7 +1325,7 @@
         "ReleaseDate":  "2026-06-24T00:00:00",
         "Album":  "ENERGETIC",
         "KobatoLead":  "no",
-        "PlayedLiveCount":  10,
+        "PlayedLiveCount":  11,
         "SpotifyStreams":  44437,
         "MediaTieIn":  null
     },
@@ -1335,7 +1335,7 @@
         "ReleaseDate":  "2026-06-24T00:00:00",
         "Album":  "ENERGETIC",
         "KobatoLead":  "no",
-        "PlayedLiveCount":  2,
+        "PlayedLiveCount":  3,
         "SpotifyStreams":  40594,
         "MediaTieIn":  null
     },
@@ -1385,7 +1385,7 @@
         "ReleaseDate":  "2019-01-16T00:00:00",
         "Album":  "",
         "KobatoLead":  "no",
-        "PlayedLiveCount":  57,
+        "PlayedLiveCount":  58,
         "SpotifyStreams":  null,
         "MediaTieIn":  null
     },
