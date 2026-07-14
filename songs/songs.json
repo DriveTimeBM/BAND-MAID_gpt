@@ -220,6 +220,16 @@
         "MediaTieIn":  "Used in mobile game Valiant Knights"
     },
     {
+        "Name":  "Daydreaming",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2017-07-19T00:00:00",
+        "Album":  "WORLD DOMINATION",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  143,
+        "SpotifyStreams":  2373440,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "alone",
         "AlternativeName":  "",
         "ReleaseDate":  "2016-02-14T00:00:00",
@@ -227,16 +237,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  233,
         "SpotifyStreams":  2372551,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Daydreaming",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2017-07-19T00:00:00",
-        "Album":  "WORLD DOMINATION",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  143,
-        "SpotifyStreams":  2370597,
         "MediaTieIn":  null
     },
     {
@@ -436,7 +436,7 @@
         "Album":  "about Us",
         "KobatoLead":  "no",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  1587117,
+        "SpotifyStreams":  1588280,
         "MediaTieIn":  null
     },
     {
@@ -466,7 +466,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  2,
-        "SpotifyStreams":  1517391,
+        "SpotifyStreams":  1521647,
         "MediaTieIn":  null
     },
     {
@@ -476,7 +476,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  27,
-        "SpotifyStreams":  1509048,
+        "SpotifyStreams":  1514587,
         "MediaTieIn":  "Theme song for movie 狂い華 (Kuruibana)"
     },
     {
@@ -496,7 +496,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  62,
-        "SpotifyStreams":  1432631,
+        "SpotifyStreams":  1435346,
         "MediaTieIn":  null
     },
     {
@@ -506,7 +506,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  72,
-        "SpotifyStreams":  1415164,
+        "SpotifyStreams":  1418549,
         "MediaTieIn":  null
     },
     {
@@ -630,6 +630,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Take me higher!!",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2017-01-11T00:00:00",
+        "Album":  "Just Bring It",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  59,
+        "SpotifyStreams":  1121813,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Wonderland",
         "AlternativeName":  "",
         "ReleaseDate":  "2019-12-11T00:00:00",
@@ -640,23 +650,23 @@
         "MediaTieIn":  null
     },
     {
-        "Name":  "Take me higher!!",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2017-01-11T00:00:00",
-        "Album":  "Just Bring It",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  59,
-        "SpotifyStreams":  1120422,
-        "MediaTieIn":  null
-    },
-    {
         "Name":  "hide-and-seek",
         "AlternativeName":  "",
         "ReleaseDate":  "2019-01-16T00:00:00",
         "Album":  "glory",
         "KobatoLead":  "no",
         "PlayedLiveCount":  22,
-        "SpotifyStreams":  1086459,
+        "SpotifyStreams":  1087276,
+        "MediaTieIn":  null
+    },
+    {
+        "Name":  "Before Yesterday",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2016-05-18T00:00:00",
+        "Album":  "Brand New MAID",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  38,
+        "SpotifyStreams":  1071469,
         "MediaTieIn":  null
     },
     {
@@ -667,16 +677,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  7,
         "SpotifyStreams":  1071193,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Before Yesterday",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2016-05-18T00:00:00",
-        "Album":  "Brand New MAID",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  38,
-        "SpotifyStreams":  1070159,
         "MediaTieIn":  null
     },
     {
@@ -696,7 +696,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  9,
-        "SpotifyStreams":  1024831,
+        "SpotifyStreams":  1026892,
         "MediaTieIn":  null
     },
     {
@@ -766,7 +766,7 @@
         "Album":  "Different",
         "KobatoLead":  "no",
         "PlayedLiveCount":  17,
-        "SpotifyStreams":  892967,
+        "SpotifyStreams":  894349,
         "MediaTieIn":  null
     },
     {
@@ -786,7 +786,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  2,
-        "SpotifyStreams":  871313,
+        "SpotifyStreams":  872461,
         "MediaTieIn":  null
     },
     {
@@ -876,7 +876,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  63,
-        "SpotifyStreams":  810741,
+        "SpotifyStreams":  811550,
         "MediaTieIn":  null
     },
     {
@@ -926,7 +926,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  58,
-        "SpotifyStreams":  769459,
+        "SpotifyStreams":  771193,
         "MediaTieIn":  null
     },
     {
@@ -1056,7 +1056,7 @@
         "Album":  "Love, Passion, Matador (愛と情熱のマタドール)",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  40,
-        "SpotifyStreams":  662382,
+        "SpotifyStreams":  663041,
         "MediaTieIn":  null
     },
     {
@@ -1106,7 +1106,7 @@
         "Album":  "YOLO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  50,
-        "SpotifyStreams":  591988,
+        "SpotifyStreams":  592600,
         "MediaTieIn":  null
     },
     {
@@ -1200,6 +1200,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Magie",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2024-07-21T00:00:00",
+        "Album":  "Epic Narratives",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  29,
+        "SpotifyStreams":  346123,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "The one",
         "AlternativeName":  "",
         "ReleaseDate":  "2024-09-25T00:00:00",
@@ -1207,16 +1217,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  8,
         "SpotifyStreams":  344669,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Magie",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2024-07-21T00:00:00",
-        "Album":  "Epic Narratives",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  29,
-        "SpotifyStreams":  343560,
         "MediaTieIn":  null
     },
     {
@@ -1276,7 +1276,17 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  9,
-        "SpotifyStreams":  203760,
+        "SpotifyStreams":  205276,
+        "MediaTieIn":  null
+    },
+    {
+        "Name":  "Lock and Load",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2025-10-22T00:00:00",
+        "Album":  "SCOOOOOP",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  16,
+        "SpotifyStreams":  185770,
         "MediaTieIn":  null
     },
     {
@@ -1287,16 +1297,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
         "SpotifyStreams":  185281,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Lock and Load",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2025-10-22T00:00:00",
-        "Album":  "SCOOOOOP",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  16,
-        "SpotifyStreams":  183029,
         "MediaTieIn":  null
     },
     {
