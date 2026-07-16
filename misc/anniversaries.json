@@ -1,14 +1,20 @@
 ﻿[
     {
         "Category":  "YouTube Release",
-        "Item":  "① BAND-MAID / サヨナキドリ \"Sayonakidori\"  Acoustic Ver.  (Official Live Video)",
-        "Detail":  "  ▶️ was released 4 years ago. https://youtu.be/sGzAQigaL14",
+        "Item":  "① BAND-MAID / What is justice? (Official Talk Video  浦和希さん× 小鳩ミク Kazuki Ura × Miku Kobato)",
+        "Detail":  "  ▶️ was released 1 year ago. https://youtu.be/zBOqFbyTgkI",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
         "Category":  "Okyuji",
-        "Item":  "① 3 years ago 🗾",
-        "Detail":  "  🇯🇵 LIVE ROXY - Shizuoka,JP [23 songs]",
+        "Item":  "① 12 years ago 🗾",
+        "Detail":  "  🇯🇵 shibuya eggman - Tokyo,JP [5 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Other",
+        "Item":  "① 10 years ago",
+        "Detail":  " alone OMV surpassed 1 million views",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Band-Maid%20color%20pop%204.png"
     }
 ]
