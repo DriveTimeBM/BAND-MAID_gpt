@@ -1,5 +1,21 @@
 ﻿[
     {
+        "SetDate":  "2026-07-17",
+        "Country":  "JP",
+        "City":  "Kumamoto",
+        "Venue":  "B.9 V1",
+        "Tour":  "WORLD TOUR 2026",
+        "URL":  "https://www.setlist.fm/setlist/bandmaid/2026/b9-v1-kumamoto-japan-634bb66b.html",
+        "NumberOfSongs":  20,
+        "SetlistDelimited":  "TAMAYA!/Choose me/SUPER SUNSHINE/DOMINATION/DICE/Sayonakidori/Brightest Star/Big Dad/Flapping wings/PEACE\u0026LOVE/Lock and Load/CAGE/Present Perfect/endless Story/Days/ENERGETIC/Dilly-Dally/Ready to Rock/NO GOD/Unleash!!!!!",
+        "Opener":  "TAMAYA!",
+        "Closer":  "Unleash!!!!!",
+        "LatLon":  "32.8059523,130.710902",
+        "Latitude":  32.8059523,
+        "Longitude":  130.710902,
+        "Map":  "https://www.google.com/maps/search/?api=1\u0026query=32.8059523,130.710902"
+    },
+    {
         "SetDate":  "2026-07-12",
         "Country":  "JP",
         "City":  "Sapporo",
