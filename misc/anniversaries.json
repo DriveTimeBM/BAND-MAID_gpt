@@ -1,20 +1,50 @@
 ﻿[
     {
-        "Category":  "YouTube Release",
-        "Item":  "① What is justice?",
-        "Detail":  "  ▶️ was released 1 year ago. https://youtu.be/vu2D3lzH7Y0",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+        "Category":  "Live Debut",
+        "Item":  "① Beauty and the beast ",
+        "Detail":  " 👹 was first played live 11 years ago at shibuya eggman, Tokyo, Japan",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
+    },
+    {
+        "Category":  "Live Debut",
+        "Item":  "② Price of Pride ",
+        "Detail":  " 💰 was first played live 11 years ago at shibuya eggman, Tokyo, Japan",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
+    },
+    {
+        "Category":  "Live Debut",
+        "Item":  "③ Shake That!! ",
+        "Detail":  " 📳 was first played live 11 years ago at shibuya eggman, Tokyo, Japan",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
     },
     {
         "Category":  "YouTube Release",
-        "Item":  "② BAND-MAID / What is justice? (Official Teaser Video 2) TVアニメ「桃源暗鬼」エンディング主題歌",
-        "Detail":  "  ▶️ was released 1 year ago. https://youtu.be/WVpuhXbZuR0",
+        "Item":  "① BAND-MAID / What is justice? (Official Teaser Video MIKU KOBATO ver.) TVアニメ「桃源暗鬼」エンディング主題歌",
+        "Detail":  "  ▶️ was released 1 year ago. https://youtu.be/KN5arIuiRp8",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
-        "Category":  "YouTube Release",
-        "Item":  "③ BAND-MAID / What is justice? (Official Music Video) TVアニメ「桃源暗鬼」エンディング主題歌",
-        "Detail":  "  ▶️ was released 1 year ago. https://youtu.be/3kMIh0_Wkpk",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+        "Category":  "Song Release",
+        "Item":  "① What is justice? ",
+        "Detail":  "⚖️❓ was released 1 year ago.",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/UW_quilt.png"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "① 11 years ago 🗾",
+        "Detail":  "  🇯🇵 shibuya eggman - Tokyo,JP [15 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "② 10 years ago 🗾",
+        "Detail":  "  🇯🇵 KYOTO MOJO - Kyoto,JP [7 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "③ 8 years ago 🗾",
+        "Detail":  "  🇯🇵 shibuya eggman - Tokyo,JP [15 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     }
 ]

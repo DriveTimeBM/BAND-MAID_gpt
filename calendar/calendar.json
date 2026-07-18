@@ -1,13 +1,5 @@
 [
     {
-        "Summary":  "FUKUOKA - Zepp",
-        "Location":  "Zepp Fukuoka, 2-chōme-2-1 Jigyōhama, Chuo Ward, Fukuoka, 810-0065, Japan",
-        "URL":  "https://bandmaid.tokyo/contents/1041130",
-        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/Zeppfukuoka.jpg",
-        "Start_Local":  "2026-07-18 04:30:00",
-        "Start_Japan":  "2026-07-18 17:30:00"
-    },
-    {
         "Summary":  "FUKUOKA - NUMBER SHOT",
         "Location":  "Momochi Seaside Park, 2-chōme-902-1 Momochihama, Sawara Ward, Fukuoka, 814-0001, Japan",
         "URL":  "https://numbershot.jp/2026",
@@ -89,7 +81,7 @@
     },
     {
         "Summary":  "OBOROCK - Tsuruga",
-        "Location":  "Kanegasaki Park, 1-1 Kanegasakichō, Tsuruga, Fukui 914-0079, Japan",
+        "Location":  "Tsuruga City Culture Center, 7-1 Sakuramachi, Tsuruga, Fukui 914-0078, Japan",
         "URL":  "https://bandmaid.tokyo/contents/1092944",
         "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/Tsuruga.png",
         "Start_Local":  "2026-09-12 02:00:00",
