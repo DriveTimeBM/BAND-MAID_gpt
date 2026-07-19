@@ -1,50 +1,50 @@
 ﻿[
     {
-        "Category":  "Live Debut",
-        "Item":  "① Beauty and the beast ",
-        "Detail":  " 👹 was first played live 11 years ago at shibuya eggman, Tokyo, Japan",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
-    },
-    {
-        "Category":  "Live Debut",
-        "Item":  "② Price of Pride ",
-        "Detail":  " 💰 was first played live 11 years ago at shibuya eggman, Tokyo, Japan",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
-    },
-    {
-        "Category":  "Live Debut",
-        "Item":  "③ Shake That!! ",
-        "Detail":  " 📳 was first played live 11 years ago at shibuya eggman, Tokyo, Japan",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
-    },
-    {
         "Category":  "YouTube Release",
-        "Item":  "① BAND-MAID / What is justice? (Official Teaser Video MIKU KOBATO ver.) TVアニメ「桃源暗鬼」エンディング主題歌",
-        "Detail":  "  ▶️ was released 1 year ago. https://youtu.be/KN5arIuiRp8",
+        "Item":  "① BAND-MAID / What is justice? (Official Teaser Video SAIKI ver.) TVアニメ「桃源暗鬼」エンディング主題歌",
+        "Detail":  "  ▶️ was released 1 year ago. https://youtu.be/TSb_aKt6KtI",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
         "Category":  "Song Release",
-        "Item":  "① What is justice? ",
-        "Detail":  "⚖️❓ was released 1 year ago.",
+        "Item":  "① Play ",
+        "Detail":  "🛝 was released 9 years ago.",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/UW_quilt.png"
+    },
+    {
+        "Category":  "Song Release",
+        "Item":  "② Choose me ",
+        "Detail":  "🗳️ was released 9 years ago.",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/UW_quilt.png"
+    },
+    {
+        "Category":  "Song Release",
+        "Item":  "③ Daydreaming ",
+        "Detail":  "😴 was released 9 years ago.",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/UW_quilt.png"
     },
     {
         "Category":  "Okyuji",
-        "Item":  "① 11 years ago 🗾",
+        "Item":  "① 8 years ago 🗾",
         "Detail":  "  🇯🇵 shibuya eggman - Tokyo,JP [15 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     },
     {
         "Category":  "Okyuji",
-        "Item":  "② 10 years ago 🗾",
-        "Detail":  "  🇯🇵 KYOTO MOJO - Kyoto,JP [7 songs]",
+        "Item":  "② 3 years ago 🗾",
+        "Detail":  "  🇯🇵 CLUB CITTA\u0027 - Kawasaki,JP [23 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     },
     {
-        "Category":  "Okyuji",
-        "Item":  "③ 8 years ago 🗾",
-        "Detail":  "  🇯🇵 shibuya eggman - Tokyo,JP [15 songs]",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+        "Category":  "Other",
+        "Item":  "① 13 years ago",
+        "Detail":  " Official Twitter started",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Band-Maid%20color%20pop%204.png"
+    },
+    {
+        "Category":  "Other",
+        "Item":  "② 3 years ago",
+        "Detail":  "from now on OMV surpassed 1 million views",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Band-Maid%20color%20pop%204.png"
     }
 ]
