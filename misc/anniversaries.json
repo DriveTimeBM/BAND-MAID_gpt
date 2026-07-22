@@ -1,38 +1,20 @@
 ﻿[
     {
-        "Category":  "Live Debut",
-        "Item":  "① Thrill ",
-        "Detail":  " 🤩 was first played live 12 years ago at clubasia, Tokyo, Japan",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
-    },
-    {
         "Category":  "YouTube Release",
-        "Item":  "① BAND-MAID / What is justice? (Official Teaser Video AKANE ver.) TVアニメ「桃源暗鬼」エンディング主題歌",
-        "Detail":  "  ▶️ was released 1 year ago. https://youtu.be/byPQCySUe0M",
+        "Item":  "① BAND-MAID / What is justice? (Official Teaser Video MISA ver.) TVアニメ「桃源暗鬼」エンディング主題歌",
+        "Detail":  "  ▶️ was released 1 year ago. https://youtu.be/_xflJi4BvWo",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-    },
-    {
-        "Category":  "YouTube Release",
-        "Item":  "② BAND-MAID / Magie  #ジャイガ #bandmaid #夏フェス",
-        "Detail":  "  ▶️ was released 2 years ago. https://youtu.be/B2N2xiinQzI",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-    },
-    {
-        "Category":  "Song Release",
-        "Item":  "① Magie ",
-        "Detail":  "🪄 was released 2 years ago.",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/UW_quilt.png"
     },
     {
         "Category":  "Okyuji",
-        "Item":  "① 12 years ago 🗾",
-        "Detail":  "  🇯🇵 clubasia - Tokyo,JP [15 songs]",
+        "Item":  "① 11 years ago 🗾",
+        "Detail":  "  🇯🇵 Shibuya Milkyway - Tokyo,JP [5 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     },
     {
         "Category":  "Okyuji",
-        "Item":  "② 2 years ago 🗾",
-        "Detail":  "  🇯🇵 Maishima - Osaka,JP [8 songs]",
+        "Item":  "② 10 years ago 🗾",
+        "Detail":  "  🇯🇵 Club Lizard - Yokohama,JP [9 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     }
 ]
