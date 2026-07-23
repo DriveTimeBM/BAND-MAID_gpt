@@ -1,14 +1,32 @@
 ﻿[
     {
+        "Category":  "YouTube AGGREGATE AUDIO stream Milestones",
+        "Item":  "① Different ",
+        "Milestone":  "≠  aggregate AUDIO streams surpassed **900,000**!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
         "Category":  "YouTube",
-        "Item":  "① BAND-MAID / Ready to Rock ×「ロックは淑女の嗜みでして」 Special Music Video (Anime Music Video) https://youtu.be/JegJ6cSsUgg",
-        "Milestone":  "  👀 Surpassed **2,700,000** views!",
+        "Item":  "① BAND-MAID / ENERGETIC (Official Music Video) https://youtu.be/NpZjslVGhbE",
+        "Milestone":  "  👀 Surpassed **1,800,000** views!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
         "Category":  "Spotify",
-        "Item":  "① I can\u0027t live without you. ",
-        "Milestone":  "❤️🔗 Surpassed **3,400,000** streams!",
+        "Item":  "① Choose me ",
+        "Milestone":  "🗳️ Surpassed **15,800,000** streams!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
+    },
+    {
+        "Category":  "Spotify",
+        "Item":  "② Turn me on ",
+        "Milestone":  "🔛 Surpassed **2,000,000** streams!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
+    },
+    {
+        "Category":  "Spotify",
+        "Item":  "③ HATE? ",
+        "Milestone":  "🤬 Surpassed **2,000,000** streams!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
     }
 ]

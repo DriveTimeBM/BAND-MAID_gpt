@@ -6,7 +6,7 @@
         "Album":  "Daydreaming / Choose me",
         "KobatoLead":  "no",
         "PlayedLiveCount":  251,
-        "SpotifyStreams":  15799942,
+        "SpotifyStreams":  15828293,
         "MediaTieIn":  "Used in Netflix movie Kate. Used in S01E03 of TV show Peacemaker."
     },
     {
@@ -36,7 +36,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  133,
-        "SpotifyStreams":  7572771,
+        "SpotifyStreams":  7582325,
         "MediaTieIn":  null
     },
     {
@@ -86,7 +86,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  164,
-        "SpotifyStreams":  3935313,
+        "SpotifyStreams":  3941449,
         "MediaTieIn":  null
     },
     {
@@ -146,7 +146,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  56,
-        "SpotifyStreams":  3231585,
+        "SpotifyStreams":  3235339,
         "MediaTieIn":  null
     },
     {
@@ -196,7 +196,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  48,
-        "SpotifyStreams":  2578247,
+        "SpotifyStreams":  2581846,
         "MediaTieIn":  null
     },
     {
@@ -266,7 +266,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  2,
-        "SpotifyStreams":  2189127,
+        "SpotifyStreams":  2191810,
         "MediaTieIn":  null
     },
     {
@@ -290,23 +290,23 @@
         "MediaTieIn":  "Ending theme for anime series Tougen Anki. Included in video game Forza Horizon 6 on the Horizon XS in-game radio station."
     },
     {
-        "Name":  "Turn me on",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2018-02-14T00:00:00",
-        "Album":  "WORLD DOMINATION",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  13,
-        "SpotifyStreams":  1998300,
-        "MediaTieIn":  null
-    },
-    {
         "Name":  "HATE?",
         "AlternativeName":  "",
         "ReleaseDate":  "2022-09-21T00:00:00",
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  82,
-        "SpotifyStreams":  1997449,
+        "SpotifyStreams":  2001802,
+        "MediaTieIn":  null
+    },
+    {
+        "Name":  "Turn me on",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2018-02-14T00:00:00",
+        "Album":  "WORLD DOMINATION",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  13,
+        "SpotifyStreams":  2000040,
         "MediaTieIn":  null
     },
     {
@@ -316,7 +316,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  55,
-        "SpotifyStreams":  1932241,
+        "SpotifyStreams":  1935512,
         "MediaTieIn":  null
     },
     {
@@ -376,7 +376,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  260,
-        "SpotifyStreams":  1815004,
+        "SpotifyStreams":  1817331,
         "MediaTieIn":  null
     },
     {
@@ -426,7 +426,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  18,
-        "SpotifyStreams":  1615671,
+        "SpotifyStreams":  1619468,
         "MediaTieIn":  null
     },
     {
@@ -736,7 +736,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  1,
-        "SpotifyStreams":  909100,
+        "SpotifyStreams":  910473,
         "MediaTieIn":  null
     },
     {
@@ -796,7 +796,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  11,
-        "SpotifyStreams":  865183,
+        "SpotifyStreams":  866407,
         "MediaTieIn":  null
     },
     {
@@ -936,7 +936,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  13,
-        "SpotifyStreams":  756432,
+        "SpotifyStreams":  757439,
         "MediaTieIn":  null
     },
     {
@@ -956,7 +956,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  737988,
+        "SpotifyStreams":  738588,
         "MediaTieIn":  null
     },
     {
@@ -1016,7 +1016,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  15,
-        "SpotifyStreams":  701483,
+        "SpotifyStreams":  702221,
         "MediaTieIn":  null
     },
     {
@@ -1116,7 +1116,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  47,
-        "SpotifyStreams":  586717,
+        "SpotifyStreams":  591880,
         "MediaTieIn":  null
     },
     {
@@ -1196,7 +1196,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  12,
-        "SpotifyStreams":  362660,
+        "SpotifyStreams":  365124,
         "MediaTieIn":  null
     },
     {
@@ -1226,7 +1226,7 @@
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
         "PlayedLiveCount":  21,
-        "SpotifyStreams":  306016,
+        "SpotifyStreams":  310537,
         "MediaTieIn":  "Featured in a series of 2026 commercials “Make Life Interesting.” by Takahashi Shuzo Co., Ltd. for Hakutake Shiro."
     },
     {
