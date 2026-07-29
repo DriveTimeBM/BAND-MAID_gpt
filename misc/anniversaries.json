@@ -1,6 +1,20 @@
-﻿{
-    "Category":  "Okyuji",
-    "Item":  "① 10 years ago 🗾",
-    "Detail":  "  🇯🇵 CLUB 251 - Tokyo,JP [8 songs]",
-    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
-}
+﻿[
+    {
+        "Category":  "YouTube Release",
+        "Item":  "① BAND-MAID with The Warning / SHOW THEM (Official Teaser Video)  MISA vs Ale",
+        "Detail":  "  ▶️ was released 2 years ago. https://youtu.be/enNgR1c9ZEo",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "① 11 years ago 🗾",
+        "Detail":  "  🇯🇵 Otodama Seacret Box - Kamakura,JP [7 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "② 10 years ago 🗾",
+        "Detail":  "  🇯🇵 Zirco Tokyo - Tokyo,JP [6 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    }
+]
