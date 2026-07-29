@@ -67,7 +67,7 @@
         "Summary":  "New York - The Paramount",
         "Location":  "Paramount, 370 New York Ave, Huntington, NY 11743, USA",
         "URL":  "https://www.paramountny.com/",
-        "Image":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/839530/content_260410_bm_worldtour_2026_X.jpg",
+        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/paramount.jpg",
         "Start_Local":  "2026-10-05 20:00:00",
         "Start_Japan":  "2026-10-06 09:00:00"
     },
@@ -75,7 +75,7 @@
         "Summary":  "Atlanta - Buckhead Theatre",
         "Location":  "Buckhead Theatre, 3110 Roswell Rd NE, Atlanta, GA 30305, USA",
         "URL":  "https://www.thebuckheadtheatre.com/",
-        "Image":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/839530/content_260410_bm_worldtour_2026_X.jpg",
+        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/buckhead.jpg",
         "Start_Local":  "2026-10-07 20:00:00",
         "Start_Japan":  "2026-10-08 09:00:00"
     },
@@ -83,7 +83,7 @@
         "Summary":  "Dallas - House of Blues",
         "Location":  "House of Blues, 2200 N Lamar St, Dallas, TX 75202, USA",
         "URL":  "https://dallas.houseofblues.com/",
-        "Image":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/839530/content_260410_bm_worldtour_2026_X.jpg",
+        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/dallas.jpg",
         "Start_Local":  "2026-10-09 20:00:00",
         "Start_Japan":  "2026-10-10 09:00:00"
     },
@@ -91,7 +91,7 @@
         "Summary":  "Los Angeles - The Wiltern",
         "Location":  "The Wiltern, 3790 Wilshire Blvd, Los Angeles, CA 90010, USA",
         "URL":  "https://www.wiltern.com/",
-        "Image":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/839530/content_260410_bm_worldtour_2026_X.jpg",
+        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/wiltern.jpg",
         "Start_Local":  "2026-10-12 22:00:00",
         "Start_Japan":  "2026-10-13 11:00:00"
     },
@@ -99,7 +99,7 @@
         "Summary":  "Phoenix - The Van Buren",
         "Location":  "The Van Buren, 401 W Van Buren St, Phoenix, AZ 85003, USA",
         "URL":  "https://www.thevanburenphx.com/",
-        "Image":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/839530/content_260410_bm_worldtour_2026_X.jpg",
+        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/vanburen.jpg",
         "Start_Local":  "2026-10-14 22:00:00",
         "Start_Japan":  "2026-10-15 11:00:00"
     },
