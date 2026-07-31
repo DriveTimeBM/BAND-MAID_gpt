@@ -1,14 +1,26 @@
 ﻿[
     {
-        "Category":  "Live Debut",
-        "Item":  "① Rinne ",
-        "Detail":  " ♻️ was first played live 7 years ago at Shouwa Joshi Daigaku, Hitomi Kinen Koudou, Tokyo, Japan",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
+        "Category":  "YouTube Release",
+        "Item":  "① BAND-MAID / What is justice? (Official Live Video #shorts )  TVアニメ「桃源暗鬼」エンディング主題歌",
+        "Detail":  "  ▶️ was released 1 year ago. https://youtu.be/rG8cfEJeNMw",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube Release",
+        "Item":  "② BAND-MAID with The Warning / SHOW THEM (Official Teaser Video)  AKANE vs Pau",
+        "Detail":  "  ▶️ was released 2 years ago. https://youtu.be/N5uWg7wPvZA",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
         "Category":  "Okyuji",
-        "Item":  "① 7 years ago 🗾",
-        "Detail":  "  🇯🇵 Shouwa Joshi Daigaku, Hitomi Kinen Koudou - Tokyo,JP [25 songs]",
+        "Item":  "① 12 years ago 🗾",
+        "Detail":  "  🇯🇵 THE GAME - Tokyo,JP [2 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "② 10 years ago 🗾",
+        "Detail":  "  🇯🇵 HEAVEN\u0027S ROCK SAITAMA-SHINTOSHIN VJ-3 - Saitama,JP [6 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     }
 ]

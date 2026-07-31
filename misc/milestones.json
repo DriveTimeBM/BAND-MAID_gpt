@@ -1,6 +1,20 @@
-﻿{
-    "Category":  "YouTube",
-    "Item":  "① BAND-MAID with The Warning / SHOW THEM (Official Music Video) https://youtu.be/LVl0mcEu1r8",
-    "Milestone":  "  👀 Surpassed **2,600,000** views!",
-    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-}
+﻿[
+    {
+        "Category":  "YouTube AGGREGATE AUDIO stream Milestones",
+        "Item":  "① Rock in me ",
+        "Milestone":  "🪨  aggregate AUDIO streams surpassed **600,000**!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube",
+        "Item":  "① BAND-MAID / Don\u0027t you tell ME (Official Live Video) https://youtu.be/SOj3qXBhiP4",
+        "Milestone":  "  👀 Surpassed **800,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "Total Streams",
+        "Item":  "YouTube Total Streams",
+        "Milestone":  "  👀 Surpassed **300** MILLION views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    }
+]
