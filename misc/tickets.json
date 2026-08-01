@@ -1,5 +1,11 @@
 [
   {
+    "Event": "2026-10-05 Huntington",
+    "Venue": "The Paramount in concert with Northwell",
+    "URL": "https://www.ticketmaster.com/bandmaid-world-tour-2026-huntington-new-york-10-05-2026/event/000064F802456BD5",
+    "Image": "https://drivetimebm.github.io/BAND-MAID_gpt/misc/KovZpZAEAEtA.png"
+  },
+  {
     "Event": "2026-10-07 Atlanta",
     "Venue": "Buckhead Theatre",
     "URL": "https://www.ticketmaster.com/bandmaid-world-tour-2026-atlanta-georgia-10-07-2026/event/0E0064F833E2D1AC",
@@ -10,5 +16,23 @@
     "Venue": "House of Blues Dallas ",
     "URL": "https://www.ticketmaster.com/bandmaid-world-tour-2026-dallas-texas-10-09-2026/event/0C0064FCE446EC8A",
     "Image": "https://drivetimebm.github.io/BAND-MAID_gpt/misc/KovZpZAEAF7A.png"
+  },
+  {
+    "Event": "2026-10-12 Los Angeles",
+    "Venue": "The Wiltern",
+    "URL": "https://www.ticketmaster.com/bandmaid-world-tour-2026-los-angeles-california-10-12-2026/event/090064FBECB9CC71",
+    "Image": "https://drivetimebm.github.io/BAND-MAID_gpt/misc/KovZpZAEAl6A.png"
+  },
+  {
+    "Event": "2026-10-14 Phoenix",
+    "Venue": "The Van Buren",
+    "URL": "https://www.ticketmaster.com/bandmaid-world-tour-2026-phoenix-arizona-10-14-2026/event/190064FBB7C77259",
+    "Image": "https://drivetimebm.github.io/BAND-MAID_gpt/misc/KovZ917A887.png"
+  },
+  {
+    "Event": "2026-10-17 México",
+    "Venue": "Pabellón del Palacio de los Deportes",
+    "URL": "https://www.ticketmaster.com.mx/bandmaid-world-tour-2026-mexico-17-10-2026/event/140064F69A193DBF",
+    "Image": "https://drivetimebm.github.io/BAND-MAID_gpt/misc/KovZpZAJtkJA.png"
   }
 ]

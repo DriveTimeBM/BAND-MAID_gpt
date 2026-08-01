@@ -1,13 +1,5 @@
 [
     {
-        "Summary":  "FUKUOKA - NUMBER SHOT",
-        "Location":  "Momochi Seaside Park, 2-chōme-902-1 Momochihama, Sawara Ward, Fukuoka, 814-0001, Japan",
-        "URL":  "https://numbershot.jp/2026",
-        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/NUMBERSHOT-2026.jpg",
-        "Start_Local":  "2026-08-01 02:00:00",
-        "Start_Japan":  "2026-08-01 15:00:00"
-    },
-    {
         "Summary":  "OSAKA - GIGANTIC FES",
         "Location":  "Maishima Sports Island, 2-chōme-1-128 Hokkōryokuchi, Konohana Ward, Osaka, 554-0042, Japan",
         "URL":  "https://giga-osaka.com/",
@@ -22,6 +14,22 @@
         "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/summersonic.jpg",
         "Start_Local":  "2026-08-16 03:40:00",
         "Start_Japan":  "2026-08-16 16:40:00"
+    },
+    {
+        "Summary":  "BAND-MAID Anniversary",
+        "Location":  "",
+        "URL":  null,
+        "Image":  "https://bandmaid.tokyo/s3/skiyaki/uploads/artist_photo/image/26493/2026BANDMAID-VISUAL_S.jpg",
+        "Start_Local":  "2026-08-21 11:00:00",
+        "Start_Japan":  "2026-08-22 00:00:00"
+    },
+    {
+        "Summary":  "BAND-MAID Anniversary",
+        "Location":  "",
+        "Description":  "",
+        "Image":  "https://bandmaid.tokyo/s3/skiyaki/uploads/artist_photo/image/26493/2026BANDMAID-VISUAL_S.jpg",
+        "Start_Local":  "2026-08-21 11:00:00",
+        "Start_Japan":  "2026-08-22 00:00:00"
     },
     {
         "Summary":  "Yamaguchi - WILD BUNCH FEST.",
@@ -64,6 +72,22 @@
         "Start_Japan":  "2026-09-20 19:00:00"
     },
     {
+        "Summary":  "Kanami Birthday",
+        "Location":  "",
+        "URL":  null,
+        "Image":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/849358/content_kanami-2.jpg",
+        "Start_Local":  "2026-09-27 11:00:00",
+        "Start_Japan":  "2026-09-28 00:00:00"
+    },
+    {
+        "Summary":  "Kanami Birthday",
+        "Location":  "",
+        "Description":  "",
+        "Image":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/849358/content_kanami-2.jpg",
+        "Start_Local":  "2026-09-27 11:00:00",
+        "Start_Japan":  "2026-09-28 00:00:00"
+    },
+    {
         "Summary":  "Chicago - The Vic",
         "Location":  "The Vic Theatre, 3145 N Sheffield Ave, Chicago, IL 60657, USA",
         "URL":  "https://www.jamusa.com/venues/the-vic",
@@ -104,6 +128,22 @@
         "Start_Japan":  "2026-10-13 11:00:00"
     },
     {
+        "Summary":  "Misa Birthday",
+        "Location":  "",
+        "Description":  "",
+        "Image":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/849359/content_misa-2.jpg",
+        "Start_Local":  "2026-10-14 11:00:00",
+        "Start_Japan":  "2026-10-15 00:00:00"
+    },
+    {
+        "Summary":  "Misa Birthday",
+        "Location":  "",
+        "URL":  null,
+        "Image":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/849359/content_misa-2.jpg",
+        "Start_Local":  "2026-10-14 11:00:00",
+        "Start_Japan":  "2026-10-15 00:00:00"
+    },
+    {
         "Summary":  "Phoenix - The Van Buren",
         "Location":  "The Van Buren, 401 W Van Buren St, Phoenix, AZ 85003, USA",
         "URL":  "https://www.thevanburenphx.com/",
@@ -118,6 +158,22 @@
         "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/mx.png",
         "Start_Local":  "2026-10-17 22:30:00",
         "Start_Japan":  "2026-10-18 11:30:00"
+    },
+    {
+        "Summary":  "Miku Birthday",
+        "Location":  "",
+        "URL":  null,
+        "Image":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/849357/content_kobato-2.jpg",
+        "Start_Local":  "2026-10-20 11:00:00",
+        "Start_Japan":  "2026-10-21 00:00:00"
+    },
+    {
+        "Summary":  "Miku Birthday",
+        "Location":  "",
+        "Description":  "",
+        "Image":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/849357/content_kobato-2.jpg",
+        "Start_Local":  "2026-10-20 11:00:00",
+        "Start_Japan":  "2026-10-21 00:00:00"
     },
     {
         "Summary":  "AICHI - COMTEC PORTBASE",
@@ -150,5 +206,21 @@
         "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/BUDOKAN.jpg",
         "Start_Local":  "2026-11-14 03:00:00",
         "Start_Japan":  "2026-11-14 17:00:00"
+    },
+    {
+        "Summary":  "Akane Birthday",
+        "Location":  "",
+        "Description":  "",
+        "Image":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/849356/content_akane-2.jpg",
+        "Start_Local":  "2026-12-13 10:00:00",
+        "Start_Japan":  "2026-12-14 00:00:00"
+    },
+    {
+        "Summary":  "Akane Birthday",
+        "Location":  "",
+        "URL":  null,
+        "Image":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/849356/content_akane-2.jpg",
+        "Start_Local":  "2026-12-13 10:00:00",
+        "Start_Japan":  "2026-12-14 00:00:00"
     }
 ]
