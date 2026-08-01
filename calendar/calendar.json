@@ -16,166 +16,6 @@
         "Start_Japan":  "2026-08-16 16:40:00"
     },
     {
-        "Summary":  "BAND-MAID Anniversary",
-        "Location":  "",
-        "URL":  null,
-        "Image":  "https://bandmaid.tokyo/s3/skiyaki/uploads/artist_photo/image/26493/2026BANDMAID-VISUAL_S.jpg",
-        "Start_Local":  "2026-08-21 11:00:00",
-        "Start_Japan":  "2026-08-22 00:00:00"
-    },
-    {
-        "Summary":  "BAND-MAID Anniversary",
-        "Location":  "",
-        "Description":  "",
-        "Image":  "https://bandmaid.tokyo/s3/skiyaki/uploads/artist_photo/image/26493/2026BANDMAID-VISUAL_S.jpg",
-        "Start_Local":  "2026-08-21 11:00:00",
-        "Start_Japan":  "2026-08-22 00:00:00"
-    },
-    {
-        "Summary":  "Yamaguchi - WILD BUNCH FEST.",
-        "Location":  "Yamaguchi Kirara Expo Memorial Park management office, Japan, 〒754-1277 Yamaguchi, Ajisu, ５０９−５０ きらら元気ドーム",
-        "URL":  "https://www.wildbunchfest.jp/",
-        "Image":  "https://www.wildbunchfest.jp/wp/wp-content/uploads/2026/04/slider_01-1-0x0.png",
-        "Start_Local":  "2026-08-22 03:10:00",
-        "Start_Japan":  "2026-08-22 16:10:00"
-    },
-    {
-        "Summary":  "FUKUOKA - w/ Journey and Night Ranger",
-        "Location":  "Mizuho PayPay Dome FUKUOKA, 2-chōme-2-2 Jigyōhama, Chuo Ward, Fukuoka, 810-8660, Japan",
-        "URL":  "https://fukurock.com/",
-        "Image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Fukuoka_dome_-_alt_-_2024_Sep_25_various_16_59_00_751000.jpeg/1280px-Fukuoka_dome_-_alt_-_2024_Sep_25_various_16_59_00_751000.jpeg",
-        "Start_Local":  "2026-08-28 22:30:00",
-        "Start_Japan":  "2026-08-29 11:30:00"
-    },
-    {
-        "Summary":  "Aichi - TREASURE05X",
-        "Location":  "Otsuka Kaihin Ryokuchi Laguna Beach, 2-chōme-39 Kaiyōchō, Gamagori, Aichi 443-0014, Japan",
-        "URL":  "https://www.treasure05x.jp/",
-        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/TREASURE05X.png",
-        "Start_Local":  "2026-09-05 02:00:00",
-        "Start_Japan":  "2026-09-05 15:00:00"
-    },
-    {
-        "Summary":  "OBOROCK - Tsuruga",
-        "Location":  "Tsuruga City Culture Center, 7-1 Sakuramachi, Tsuruga, Fukui 914-0078, Japan",
-        "URL":  "https://bandmaid.tokyo/contents/1092944",
-        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/Tsuruga.png",
-        "Start_Local":  "2026-09-12 02:00:00",
-        "Start_Japan":  "2026-09-12 15:00:00"
-    },
-    {
-        "Summary":  "TAIPEI - Legacy TERA",
-        "Location":  "Legacy TERA, No. 99號, Section 8, Civic Blvd, Nangang District, Taipei City, Taiwan 115",
-        "URL":  "https://bandmaid.tokyo/contents/1041130",
-        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/taipei.png",
-        "Start_Local":  "2026-09-20 06:00:00",
-        "Start_Japan":  "2026-09-20 19:00:00"
-    },
-    {
-        "Summary":  "Kanami Birthday",
-        "Location":  "",
-        "URL":  null,
-        "Image":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/849358/content_kanami-2.jpg",
-        "Start_Local":  "2026-09-27 11:00:00",
-        "Start_Japan":  "2026-09-28 00:00:00"
-    },
-    {
-        "Summary":  "Kanami Birthday",
-        "Location":  "",
-        "Description":  "",
-        "Image":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/849358/content_kanami-2.jpg",
-        "Start_Local":  "2026-09-27 11:00:00",
-        "Start_Japan":  "2026-09-28 00:00:00"
-    },
-    {
-        "Summary":  "Chicago - The Vic",
-        "Location":  "The Vic Theatre, 3145 N Sheffield Ave, Chicago, IL 60657, USA",
-        "URL":  "https://www.jamusa.com/venues/the-vic",
-        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/vic.webp",
-        "Start_Local":  "2026-10-03 21:00:00",
-        "Start_Japan":  "2026-10-04 10:00:00"
-    },
-    {
-        "Summary":  "New York - The Paramount",
-        "Location":  "Paramount, 370 New York Ave, Huntington, NY 11743, USA",
-        "URL":  "https://www.paramountny.com/",
-        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/paramount.jpg",
-        "Start_Local":  "2026-10-05 20:00:00",
-        "Start_Japan":  "2026-10-06 09:00:00"
-    },
-    {
-        "Summary":  "Atlanta - Buckhead Theatre",
-        "Location":  "Buckhead Theatre, 3110 Roswell Rd NE, Atlanta, GA 30305, USA",
-        "URL":  "https://www.thebuckheadtheatre.com/",
-        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/buckhead.jpg",
-        "Start_Local":  "2026-10-07 20:00:00",
-        "Start_Japan":  "2026-10-08 09:00:00"
-    },
-    {
-        "Summary":  "Dallas - House of Blues",
-        "Location":  "House of Blues, 2200 N Lamar St, Dallas, TX 75202, USA",
-        "URL":  "https://dallas.houseofblues.com/",
-        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/dallas.jpg",
-        "Start_Local":  "2026-10-09 20:00:00",
-        "Start_Japan":  "2026-10-10 09:00:00"
-    },
-    {
-        "Summary":  "Los Angeles - The Wiltern",
-        "Location":  "The Wiltern, 3790 Wilshire Blvd, Los Angeles, CA 90010, USA",
-        "URL":  "https://www.wiltern.com/",
-        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/wiltern.jpg",
-        "Start_Local":  "2026-10-12 22:00:00",
-        "Start_Japan":  "2026-10-13 11:00:00"
-    },
-    {
-        "Summary":  "Misa Birthday",
-        "Location":  "",
-        "Description":  "",
-        "Image":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/849359/content_misa-2.jpg",
-        "Start_Local":  "2026-10-14 11:00:00",
-        "Start_Japan":  "2026-10-15 00:00:00"
-    },
-    {
-        "Summary":  "Misa Birthday",
-        "Location":  "",
-        "URL":  null,
-        "Image":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/849359/content_misa-2.jpg",
-        "Start_Local":  "2026-10-14 11:00:00",
-        "Start_Japan":  "2026-10-15 00:00:00"
-    },
-    {
-        "Summary":  "Phoenix - The Van Buren",
-        "Location":  "The Van Buren, 401 W Van Buren St, Phoenix, AZ 85003, USA",
-        "URL":  "https://www.thevanburenphx.com/",
-        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/vanburen.jpg",
-        "Start_Local":  "2026-10-14 22:00:00",
-        "Start_Japan":  "2026-10-15 11:00:00"
-    },
-    {
-        "Summary":  "Mexico City - Palacio de los Deportes",
-        "Location":  "Palacio de los Deportes, Añil 667, Granjas México, Iztacalco, 08400 Ciudad de México, CDMX, Mexico",
-        "URL":  "https://www.palaciodelosdeportes.mx/",
-        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/mx.png",
-        "Start_Local":  "2026-10-17 22:30:00",
-        "Start_Japan":  "2026-10-18 11:30:00"
-    },
-    {
-        "Summary":  "Miku Birthday",
-        "Location":  "",
-        "URL":  null,
-        "Image":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/849357/content_kobato-2.jpg",
-        "Start_Local":  "2026-10-20 11:00:00",
-        "Start_Japan":  "2026-10-21 00:00:00"
-    },
-    {
-        "Summary":  "Miku Birthday",
-        "Location":  "",
-        "Description":  "",
-        "Image":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/849357/content_kobato-2.jpg",
-        "Start_Local":  "2026-10-20 11:00:00",
-        "Start_Japan":  "2026-10-21 00:00:00"
-    },
-    {
         "Summary":  "AICHI - COMTEC PORTBASE",
         "Location":  "Comtec Portbase, 3-3-5 Kanekawachō, Minato Ward, Nagoya, Aichi 455-0017, Japan",
         "URL":  "https://bandmaid.tokyo/contents/1041130",
@@ -208,12 +48,132 @@
         "Start_Japan":  "2026-11-14 17:00:00"
     },
     {
-        "Summary":  "Akane Birthday",
+        "Summary":  "TAIPEI - Legacy TERA",
+        "Location":  "Legacy TERA, No. 99號, Section 8, Civic Blvd, Nangang District, Taipei City, Taiwan 115",
+        "URL":  "https://bandmaid.tokyo/contents/1041130",
+        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/taipei.png",
+        "Start_Local":  "2026-09-20 06:00:00",
+        "Start_Japan":  "2026-09-20 19:00:00"
+    },
+    {
+        "Summary":  "FUKUOKA - w/ Journey and Night Ranger",
+        "Location":  "Mizuho PayPay Dome FUKUOKA, 2-chōme-2-2 Jigyōhama, Chuo Ward, Fukuoka, 810-8660, Japan",
+        "URL":  "https://fukurock.com/",
+        "Image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Fukuoka_dome_-_alt_-_2024_Sep_25_various_16_59_00_751000.jpeg/1280px-Fukuoka_dome_-_alt_-_2024_Sep_25_various_16_59_00_751000.jpeg",
+        "Start_Local":  "2026-08-28 22:30:00",
+        "Start_Japan":  "2026-08-29 11:30:00"
+    },
+    {
+        "Summary":  "Yamaguchi - WILD BUNCH FEST.",
+        "Location":  "Yamaguchi Kirara Expo Memorial Park management office, Japan, 〒754-1277 Yamaguchi, Ajisu, ５０９−５０ きらら元気ドーム",
+        "URL":  "https://www.wildbunchfest.jp/",
+        "Image":  "https://www.wildbunchfest.jp/wp/wp-content/uploads/2026/04/slider_01-1-0x0.png",
+        "Start_Local":  "2026-08-22 03:10:00",
+        "Start_Japan":  "2026-08-22 16:10:00"
+    },
+    {
+        "Summary":  "Aichi - TREASURE05X",
+        "Location":  "Otsuka Kaihin Ryokuchi Laguna Beach, 2-chōme-39 Kaiyōchō, Gamagori, Aichi 443-0014, Japan",
+        "URL":  "https://www.treasure05x.jp/",
+        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/TREASURE05X.png",
+        "Start_Local":  "2026-09-05 02:00:00",
+        "Start_Japan":  "2026-09-05 15:00:00"
+    },
+    {
+        "Summary":  "OBOROCK - Tsuruga",
+        "Location":  "Tsuruga City Culture Center, 7-1 Sakuramachi, Tsuruga, Fukui 914-0078, Japan",
+        "URL":  "https://bandmaid.tokyo/contents/1092944",
+        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/Tsuruga.png",
+        "Start_Local":  "2026-09-12 02:00:00",
+        "Start_Japan":  "2026-09-12 15:00:00"
+    },
+    {
+        "Summary":  "New York - The Paramount",
+        "Location":  "Paramount, 370 New York Ave, Huntington, NY 11743, USA",
+        "URL":  "https://www.paramountny.com/",
+        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/paramount.jpg",
+        "Start_Local":  "2026-10-05 20:00:00",
+        "Start_Japan":  "2026-10-06 09:00:00"
+    },
+    {
+        "Summary":  "BAND-MAID Anniversary",
         "Location":  "",
-        "Description":  "",
-        "Image":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/849356/content_akane-2.jpg",
-        "Start_Local":  "2026-12-13 10:00:00",
-        "Start_Japan":  "2026-12-14 00:00:00"
+        "URL":  null,
+        "Image":  "https://bandmaid.tokyo/s3/skiyaki/uploads/artist_photo/image/26493/2026BANDMAID-VISUAL_S.jpg",
+        "Start_Local":  "2026-08-21 11:00:00",
+        "Start_Japan":  "2026-08-22 00:00:00"
+    },
+    {
+        "Summary":  "Kanami Birthday",
+        "Location":  "",
+        "URL":  null,
+        "Image":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/849358/content_kanami-2.jpg",
+        "Start_Local":  "2026-09-27 11:00:00",
+        "Start_Japan":  "2026-09-28 00:00:00"
+    },
+    {
+        "Summary":  "Atlanta - Buckhead Theatre",
+        "Location":  "Buckhead Theatre, 3110 Roswell Rd NE, Atlanta, GA 30305, USA",
+        "URL":  "https://www.thebuckheadtheatre.com/",
+        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/buckhead.jpg",
+        "Start_Local":  "2026-10-07 20:00:00",
+        "Start_Japan":  "2026-10-08 09:00:00"
+    },
+    {
+        "Summary":  "Dallas - House of Blues",
+        "Location":  "House of Blues, 2200 N Lamar St, Dallas, TX 75202, USA",
+        "URL":  "https://dallas.houseofblues.com/",
+        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/dallas.jpg",
+        "Start_Local":  "2026-10-09 20:00:00",
+        "Start_Japan":  "2026-10-10 09:00:00"
+    },
+    {
+        "Summary":  "Los Angeles - The Wiltern",
+        "Location":  "The Wiltern, 3790 Wilshire Blvd, Los Angeles, CA 90010, USA",
+        "URL":  "https://www.wiltern.com/",
+        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/wiltern.jpg",
+        "Start_Local":  "2026-10-12 22:00:00",
+        "Start_Japan":  "2026-10-13 11:00:00"
+    },
+    {
+        "Summary":  "Phoenix - The Van Buren",
+        "Location":  "The Van Buren, 401 W Van Buren St, Phoenix, AZ 85003, USA",
+        "URL":  "https://www.thevanburenphx.com/",
+        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/vanburen.jpg",
+        "Start_Local":  "2026-10-14 22:00:00",
+        "Start_Japan":  "2026-10-15 11:00:00"
+    },
+    {
+        "Summary":  "Mexico City - Palacio de los Deportes",
+        "Location":  "Palacio de los Deportes, Añil 667, Granjas México, Iztacalco, 08400 Ciudad de México, CDMX, Mexico",
+        "URL":  "https://www.palaciodelosdeportes.mx/",
+        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/mx.png",
+        "Start_Local":  "2026-10-17 22:30:00",
+        "Start_Japan":  "2026-10-18 11:30:00"
+    },
+    {
+        "Summary":  "Chicago - The Vic",
+        "Location":  "The Vic Theatre, 3145 N Sheffield Ave, Chicago, IL 60657, USA",
+        "URL":  "https://www.jamusa.com/venues/the-vic",
+        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/vic.webp",
+        "Start_Local":  "2026-10-03 21:00:00",
+        "Start_Japan":  "2026-10-04 10:00:00"
+    },
+    {
+        "Summary":  "Misa Birthday",
+        "Location":  "",
+        "URL":  null,
+        "Image":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/849359/content_misa-2.jpg",
+        "Start_Local":  "2026-10-14 11:00:00",
+        "Start_Japan":  "2026-10-15 00:00:00"
+    },
+    {
+        "Summary":  "Miku Birthday",
+        "Location":  "",
+        "URL":  null,
+        "Image":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/849357/content_kobato-2.jpg",
+        "Start_Local":  "2026-10-20 11:00:00",
+        "Start_Japan":  "2026-10-21 00:00:00"
     },
     {
         "Summary":  "Akane Birthday",
