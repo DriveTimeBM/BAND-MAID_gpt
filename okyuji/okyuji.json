@@ -1,5 +1,21 @@
 ﻿[
     {
+        "SetDate":  "2026-08-01",
+        "Country":  "JP",
+        "City":  "Fukuoka",
+        "Venue":  "Seaside Momochi Kaihin Kouen, Jigyouhama",
+        "Tour":  "",
+        "URL":  "https://www.setlist.fm/setlist/bandmaid/2026/seaside-momochi-kaihin-kouen-jigyouhama-fukuoka-japan-2b48e8a2.html",
+        "NumberOfSongs":  7,
+        "SetlistDelimited":  "Ready to Rock/SUPER SUNSHINE/Choose me/DOMINATION/Dilly-Dally/ENERGETIC/Present Perfect",
+        "Opener":  "Ready to Rock",
+        "Closer":  "Present Perfect",
+        "LatLon":  "0,130.4",
+        "Latitude":  0,
+        "Longitude":  130.4,
+        "Map":  "https://www.google.com/maps/search/?api=1\u0026query=0,130.4"
+    },
+    {
         "SetDate":  "2026-07-18",
         "Country":  "JP",
         "City":  "Fukuoka",
