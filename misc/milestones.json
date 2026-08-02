@@ -1,6 +1,26 @@
-﻿{
-    "Category":  "Spotify",
-    "Item":  "① azure ",
-    "Milestone":  "🔵 Surpassed **800,000** streams!",
-    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
-}
+﻿[
+    {
+        "Category":  "YouTube AGGREGATE AUDIO stream Milestones",
+        "Item":  "① Corallium ",
+        "Milestone":  "🪸  aggregate AUDIO streams surpassed **900,000**!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube",
+        "Item":  "① BAND-MAID / Forbidden tale (Official Music Video) https://youtu.be/EiknA3mWivA",
+        "Milestone":  "  👀 Surpassed **1,300,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube",
+        "Item":  "② anemone https://youtu.be/7RDR_gMAZok",
+        "Milestone":  "  👀 Surpassed **300,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube",
+        "Item":  "③ What is justice? https://youtu.be/vu2D3lzH7Y0",
+        "Milestone":  "  👀 Surpassed **1,300,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    }
+]
