@@ -5,7 +5,7 @@
         "ReleaseDate":  "2017-07-19T00:00:00",
         "Album":  "Daydreaming / Choose me",
         "KobatoLead":  "no",
-        "PlayedLiveCount":  252,
+        "PlayedLiveCount":  253,
         "SpotifyStreams":  15828293,
         "MediaTieIn":  "Used in Netflix movie Kate. Used in S01E03 of TV show Peacemaker."
     },
@@ -25,7 +25,7 @@
         "ReleaseDate":  "2018-02-08T00:00:00",
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
-        "PlayedLiveCount":  228,
+        "PlayedLiveCount":  229,
         "SpotifyStreams":  8532843,
         "MediaTieIn":  null
     },
@@ -105,7 +105,7 @@
         "ReleaseDate":  "2025-04-04T00:00:00",
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
-        "PlayedLiveCount":  45,
+        "PlayedLiveCount":  46,
         "SpotifyStreams":  3845001,
         "MediaTieIn":  "Opening theme for anime series Rock Is a Lady\u0027s Modesty"
     },
@@ -126,7 +126,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  33,
-        "SpotifyStreams":  3409739,
+        "SpotifyStreams":  3413544,
         "MediaTieIn":  null
     },
     {
@@ -136,7 +136,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  39,
-        "SpotifyStreams":  3371390,
+        "SpotifyStreams":  3376865,
         "MediaTieIn":  "Used in TV show World Pro-Wrestling (TV Asahi)"
     },
     {
@@ -166,7 +166,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  39,
-        "SpotifyStreams":  2696993,
+        "SpotifyStreams":  2699401,
         "MediaTieIn":  "Theme song for TV show Perfect Crime"
     },
     {
@@ -275,7 +275,7 @@
         "ReleaseDate":  "2021-01-20T00:00:00",
         "Album":  "Unseen World",
         "KobatoLead":  "no",
-        "PlayedLiveCount":  129,
+        "PlayedLiveCount":  130,
         "SpotifyStreams":  2146460,
         "MediaTieIn":  null
     },
@@ -296,7 +296,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  82,
-        "SpotifyStreams":  2001802,
+        "SpotifyStreams":  2008284,
         "MediaTieIn":  null
     },
     {
@@ -350,23 +350,23 @@
         "MediaTieIn":  null
     },
     {
-        "Name":  "secret My lips",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2017-01-11T00:00:00",
-        "Album":  "Just Bring It",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  85,
-        "SpotifyStreams":  1836527,
-        "MediaTieIn":  null
-    },
-    {
         "Name":  "Don\u0027t let me down",
         "AlternativeName":  "",
         "ReleaseDate":  "2015-11-18T00:00:00",
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  122,
-        "SpotifyStreams":  1836026,
+        "SpotifyStreams":  1840062,
+        "MediaTieIn":  null
+    },
+    {
+        "Name":  "secret My lips",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2017-01-11T00:00:00",
+        "Album":  "Just Bring It",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  85,
+        "SpotifyStreams":  1838528,
         "MediaTieIn":  null
     },
     {
@@ -375,7 +375,7 @@
         "ReleaseDate":  "2016-05-18T00:00:00",
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
-        "PlayedLiveCount":  260,
+        "PlayedLiveCount":  261,
         "SpotifyStreams":  1819729,
         "MediaTieIn":  null
     },
@@ -466,7 +466,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  2,
-        "SpotifyStreams":  1526210,
+        "SpotifyStreams":  1528148,
         "MediaTieIn":  null
     },
     {
@@ -496,7 +496,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  62,
-        "SpotifyStreams":  1438916,
+        "SpotifyStreams":  1440476,
         "MediaTieIn":  null
     },
     {
@@ -516,7 +516,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  73,
-        "SpotifyStreams":  1363343,
+        "SpotifyStreams":  1364259,
         "MediaTieIn":  null
     },
     {
@@ -526,7 +526,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  36,
-        "SpotifyStreams":  1353241,
+        "SpotifyStreams":  1357311,
         "MediaTieIn":  "Ending theme for anime series Grendizer U"
     },
     {
@@ -630,6 +630,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Wonderland",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2019-12-11T00:00:00",
+        "Album":  "CONQUEROR",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  37,
+        "SpotifyStreams":  1124145,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Take me higher!!",
         "AlternativeName":  "",
         "ReleaseDate":  "2017-01-11T00:00:00",
@@ -637,16 +647,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  59,
         "SpotifyStreams":  1124006,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Wonderland",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2019-12-11T00:00:00",
-        "Album":  "CONQUEROR",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  37,
-        "SpotifyStreams":  1122791,
         "MediaTieIn":  null
     },
     {
@@ -746,7 +746,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  125,
-        "SpotifyStreams":  908908,
+        "SpotifyStreams":  910403,
         "MediaTieIn":  null
     },
     {
@@ -786,7 +786,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  2,
-        "SpotifyStreams":  874598,
+        "SpotifyStreams":  875599,
         "MediaTieIn":  null
     },
     {
@@ -806,7 +806,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  40,
-        "SpotifyStreams":  854100,
+        "SpotifyStreams":  854611,
         "MediaTieIn":  null
     },
     {
@@ -820,6 +820,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "ORDER",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2016-05-18T00:00:00",
+        "Album":  "Brand New MAID",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  35,
+        "SpotifyStreams":  838656,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "KEY",
         "AlternativeName":  "",
         "ReleaseDate":  "2014-01-08T00:00:00",
@@ -827,16 +837,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  8,
         "SpotifyStreams":  838255,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "ORDER",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2016-05-18T00:00:00",
-        "Album":  "Brand New MAID",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  35,
-        "SpotifyStreams":  837711,
         "MediaTieIn":  null
     },
     {
@@ -930,6 +930,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Dilemma",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2019-12-11T00:00:00",
+        "Album":  "CONQUEROR",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  13,
+        "SpotifyStreams":  758992,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Memorable",
         "AlternativeName":  "",
         "ReleaseDate":  "2023-02-22T00:00:00",
@@ -937,16 +947,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  52,
         "SpotifyStreams":  758333,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Dilemma",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2019-12-11T00:00:00",
-        "Album":  "CONQUEROR",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  13,
-        "SpotifyStreams":  757439,
         "MediaTieIn":  null
     },
     {
@@ -1116,7 +1116,7 @@
         "Album":  "YOLO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  50,
-        "SpotifyStreams":  593639,
+        "SpotifyStreams":  594132,
         "MediaTieIn":  null
     },
     {
@@ -1225,8 +1225,8 @@
         "ReleaseDate":  "2025-10-22T00:00:00",
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
-        "PlayedLiveCount":  22,
-        "SpotifyStreams":  310537,
+        "PlayedLiveCount":  23,
+        "SpotifyStreams":  317199,
         "MediaTieIn":  "Featured in a series of 2026 commercials “Make Life Interesting.” by Takahashi Shuzo Co., Ltd. for Hakutake Shiro."
     },
     {
@@ -1235,7 +1235,7 @@
         "ReleaseDate":  "2025-10-22T00:00:00",
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
-        "PlayedLiveCount":  25,
+        "PlayedLiveCount":  26,
         "SpotifyStreams":  272396,
         "MediaTieIn":  null
     },
@@ -1266,7 +1266,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  25,
-        "SpotifyStreams":  220449,
+        "SpotifyStreams":  221886,
         "MediaTieIn":  null
     },
     {
@@ -1315,7 +1315,7 @@
         "ReleaseDate":  "2026-06-24T00:00:00",
         "Album":  "ENERGETIC",
         "KobatoLead":  "no",
-        "PlayedLiveCount":  11,
+        "PlayedLiveCount":  12,
         "SpotifyStreams":  143065,
         "MediaTieIn":  null
     },
@@ -1326,7 +1326,7 @@
         "Album":  "ENERGETIC",
         "KobatoLead":  "no",
         "PlayedLiveCount":  13,
-        "SpotifyStreams":  66620,
+        "SpotifyStreams":  75140,
         "MediaTieIn":  null
     },
     {
