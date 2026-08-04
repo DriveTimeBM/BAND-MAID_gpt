@@ -1,38 +1,32 @@
 ﻿[
     {
         "Category":  "YouTube Release",
-        "Item":  "① Shambles",
-        "Detail":  "  ▶️ was released 3 years ago. https://youtu.be/_UgN3Tb8Chc",
+        "Item":  "① BAND-MAID with The Warning / SHOW THEM (Official Teaser Video)  SAIKI vs Dany",
+        "Detail":  "  ▶️ was released 2 years ago. https://youtu.be/_wA3a3op4I4",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
-        "Category":  "YouTube Release",
-        "Item":  "② BAND-MAID / Shambles (Official Music Video)",
-        "Detail":  "  ▶️ was released 3 years ago. https://youtu.be/lf0mQOiu8J8",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+        "Category":  "Song Release",
+        "Item":  "① Shambles ",
+        "Detail":  "🏚 was released 3 years ago.",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/UW_quilt.png"
     },
     {
         "Category":  "Okyuji",
-        "Item":  "① 12 years ago 🗾",
-        "Detail":  "  🇯🇵 shibuya eggman - Tokyo,JP [5 songs]",
+        "Item":  "① 10 years ago 🗾",
+        "Detail":  "  🇯🇵 music zoo KOBE Taiyou to Tora - Kobe,JP [7 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     },
     {
         "Category":  "Okyuji",
-        "Item":  "② 10 years ago 🗾",
-        "Detail":  "  🇯🇵 club GRINDHOUSE - Tokushima,JP [0 songs]",
+        "Item":  "② 8 years ago 🗾",
+        "Detail":  "  🇯🇵 Maishima - Osaka,JP [5 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     },
     {
         "Category":  "Okyuji",
         "Item":  "③ 3 years ago 🌎",
-        "Detail":  "  🇺🇸 Park West - Chicago,US [18 songs]",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
-    },
-    {
-        "Category":  "Okyuji",
-        "Item":  "④ 1 year ago 🗾",
-        "Detail":  "  🇯🇵 DRUM LOGOS - Fukuoka,JP [18 songs]",
+        "Detail":  "  🇺🇸 Grant Park - Chicago,US [13 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     }
 ]
