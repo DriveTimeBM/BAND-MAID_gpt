@@ -16,7 +16,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  60,
-        "SpotifyStreams":  10872190,
+        "SpotifyStreams":  10890323,
         "MediaTieIn":  "Opening theme for anime series Platinum End"
     },
     {
@@ -46,7 +46,7 @@
         "Album":  "Different",
         "KobatoLead":  "no",
         "PlayedLiveCount":  38,
-        "SpotifyStreams":  7385363,
+        "SpotifyStreams":  7395901,
         "MediaTieIn":  "Opening theme for S3 of anime series Log Horizon"
     },
     {
@@ -156,7 +156,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  11,
-        "SpotifyStreams":  2867181,
+        "SpotifyStreams":  2882128,
         "MediaTieIn":  null
     },
     {
@@ -236,7 +236,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  143,
-        "SpotifyStreams":  2379144,
+        "SpotifyStreams":  2382417,
         "MediaTieIn":  null
     },
     {
@@ -306,7 +306,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  13,
-        "SpotifyStreams":  2000040,
+        "SpotifyStreams":  2003287,
         "MediaTieIn":  null
     },
     {
@@ -406,7 +406,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  125,
-        "SpotifyStreams":  1639757,
+        "SpotifyStreams":  1642108,
         "MediaTieIn":  null
     },
     {
@@ -630,6 +630,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Take me higher!!",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2017-01-11T00:00:00",
+        "Album":  "Just Bring It",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  59,
+        "SpotifyStreams":  1125259,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Wonderland",
         "AlternativeName":  "",
         "ReleaseDate":  "2019-12-11T00:00:00",
@@ -640,23 +650,13 @@
         "MediaTieIn":  null
     },
     {
-        "Name":  "Take me higher!!",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2017-01-11T00:00:00",
-        "Album":  "Just Bring It",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  59,
-        "SpotifyStreams":  1124006,
-        "MediaTieIn":  null
-    },
-    {
         "Name":  "hide-and-seek",
         "AlternativeName":  "",
         "ReleaseDate":  "2019-01-16T00:00:00",
         "Album":  "glory",
         "KobatoLead":  "no",
         "PlayedLiveCount":  22,
-        "SpotifyStreams":  1088664,
+        "SpotifyStreams":  1089510,
         "MediaTieIn":  null
     },
     {
@@ -696,7 +696,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  9,
-        "SpotifyStreams":  1028653,
+        "SpotifyStreams":  1029726,
         "MediaTieIn":  null
     },
     {
@@ -716,7 +716,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  38,
-        "SpotifyStreams":  976477,
+        "SpotifyStreams":  977465,
         "MediaTieIn":  null
     },
     {
@@ -726,7 +726,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  13,
-        "SpotifyStreams":  949629,
+        "SpotifyStreams":  951185,
         "MediaTieIn":  null
     },
     {
@@ -776,7 +776,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  12,
-        "SpotifyStreams":  890078,
+        "SpotifyStreams":  891755,
         "MediaTieIn":  null
     },
     {
@@ -906,7 +906,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  796201,
+        "SpotifyStreams":  797819,
         "MediaTieIn":  null
     },
     {
@@ -956,7 +956,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  738588,
+        "SpotifyStreams":  739558,
         "MediaTieIn":  null
     },
     {
@@ -1056,7 +1056,7 @@
         "Album":  "Love, Passion, Matador (愛と情熱のマタドール)",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  40,
-        "SpotifyStreams":  663840,
+        "SpotifyStreams":  664340,
         "MediaTieIn":  null
     },
     {
@@ -1156,7 +1156,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  31,
-        "SpotifyStreams":  498052,
+        "SpotifyStreams":  498591,
         "MediaTieIn":  null
     },
     {
@@ -1176,7 +1176,7 @@
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
         "PlayedLiveCount":  28,
-        "SpotifyStreams":  447443,
+        "SpotifyStreams":  452915,
         "MediaTieIn":  null
     },
     {
@@ -1276,7 +1276,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  9,
-        "SpotifyStreams":  207162,
+        "SpotifyStreams":  208178,
         "MediaTieIn":  null
     },
     {
@@ -1296,7 +1296,7 @@
         "Album":  "YOLO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
-        "SpotifyStreams":  185642,
+        "SpotifyStreams":  185891,
         "MediaTieIn":  null
     },
     {

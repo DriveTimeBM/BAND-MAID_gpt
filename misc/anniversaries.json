@@ -1,32 +1,20 @@
 ﻿[
     {
         "Category":  "YouTube Release",
-        "Item":  "① BAND-MAID with The Warning / SHOW THEM (Official Teaser Video)  SAIKI vs Dany",
-        "Detail":  "  ▶️ was released 2 years ago. https://youtu.be/_wA3a3op4I4",
+        "Item":  "① BAND-MAID with The Warning / SHOW THEM (Official Teaser Video)  MIKU KOBATO",
+        "Detail":  "  ▶️ was released 2 years ago. https://youtu.be/L1prF8ArZb8",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
-        "Category":  "Song Release",
-        "Item":  "① Shambles ",
-        "Detail":  "🏚 was released 3 years ago.",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/UW_quilt.png"
+        "Category":  "YouTube Release",
+        "Item":  "② BAND-MAID with The Warning / SHOW THEM (Official Teaser Video)",
+        "Detail":  "  ▶️ was released 2 years ago. https://youtu.be/e3Q0GuBX3rk",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
         "Category":  "Okyuji",
-        "Item":  "① 10 years ago 🗾",
-        "Detail":  "  🇯🇵 music zoo KOBE Taiyou to Tora - Kobe,JP [7 songs]",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
-    },
-    {
-        "Category":  "Okyuji",
-        "Item":  "② 8 years ago 🗾",
-        "Detail":  "  🇯🇵 Maishima - Osaka,JP [5 songs]",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
-    },
-    {
-        "Category":  "Okyuji",
-        "Item":  "③ 3 years ago 🌎",
-        "Detail":  "  🇺🇸 Grant Park - Chicago,US [13 songs]",
+        "Item":  "① 8 years ago 🗾",
+        "Detail":  "  🇯🇵 Hitachi Kaihin Kouen - Hitachinaka,JP [7 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     }
 ]
