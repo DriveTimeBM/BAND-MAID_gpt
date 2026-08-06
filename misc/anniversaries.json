@@ -1,20 +1,26 @@
 ﻿[
     {
         "Category":  "YouTube Release",
-        "Item":  "① BAND-MAID with The Warning / SHOW THEM (Official Teaser Video)  MIKU KOBATO",
-        "Detail":  "  ▶️ was released 2 years ago. https://youtu.be/L1prF8ArZb8",
+        "Item":  "① SHOW THEM",
+        "Detail":  "  ▶️ was released 2 years ago. https://youtu.be/OPNcauboxkg",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
         "Category":  "YouTube Release",
-        "Item":  "② BAND-MAID with The Warning / SHOW THEM (Official Teaser Video)",
-        "Detail":  "  ▶️ was released 2 years ago. https://youtu.be/e3Q0GuBX3rk",
+        "Item":  "② BAND-MAID with The Warning / SHOW THEM (Official Music Video)",
+        "Detail":  "  ▶️ was released 2 years ago. https://youtu.be/LVl0mcEu1r8",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
         "Category":  "Okyuji",
-        "Item":  "① 8 years ago 🗾",
-        "Detail":  "  🇯🇵 Hitachi Kaihin Kouen - Hitachinaka,JP [7 songs]",
+        "Item":  "① 10 years ago 🗾",
+        "Detail":  "  🇯🇵 LIVE rise SHUNAN - Shuunan,JP [0 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "② 3 years ago 🌎",
+        "Detail":  "  🇺🇸 Varsity Theater - Minneapolis,US [19 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     }
 ]

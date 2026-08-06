@@ -1,6 +1,20 @@
-﻿{
-    "Category":  "YouTube AGGREGATE AUDIO stream Milestones",
-    "Item":  "① glory ",
-    "Milestone":  "🏅  aggregate AUDIO streams surpassed **600,000**!",
-    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-}
+﻿[
+    {
+        "Category":  "YouTube AGGREGATE AUDIO stream Milestones",
+        "Item":  "① Dilly-Dally ",
+        "Milestone":  "🐌  aggregate AUDIO streams surpassed **200,000**!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube",
+        "Item":  "① Dilly-Dally https://youtu.be/7gE2cJFw_xg",
+        "Milestone":  "  👀 Surpassed **200,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "Spotify",
+        "Item":  "① Hibana ",
+        "Milestone":  "💥 Surpassed **1,200,000** streams!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
+    }
+]
