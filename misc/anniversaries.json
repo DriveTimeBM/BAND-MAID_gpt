@@ -1,26 +1,56 @@
 ﻿[
     {
         "Category":  "YouTube Release",
-        "Item":  "① SHOW THEM",
-        "Detail":  "  ▶️ was released 2 years ago. https://youtu.be/OPNcauboxkg",
+        "Item":  "① BAND-MAID / What is justice? (Official Live Video 2 #shorts )  TVアニメ「桃源暗鬼」エンディング主題歌",
+        "Detail":  "  ▶️ was released 1 year ago. https://youtu.be/UHZDVE5Ea6c",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
         "Category":  "YouTube Release",
-        "Item":  "② BAND-MAID with The Warning / SHOW THEM (Official Music Video)",
-        "Detail":  "  ▶️ was released 2 years ago. https://youtu.be/LVl0mcEu1r8",
+        "Item":  "② BAND-MAID / endless Story (Official Music Video)",
+        "Detail":  "  ▶️ was released 7 years ago. https://youtu.be/5_S4s8jZQ-A",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube Release",
+        "Item":  "③ BAND-MAID with The Warning / SHOW THEM (Official Teaser Video) KANAMI",
+        "Detail":  "  ▶️ was released 2 years ago. https://youtu.be/2uVT3sr8QAs",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube Release",
+        "Item":  "④ BAND-MAID with The Warning / SHOW THEM (Official Teaser Video) SAIKI",
+        "Detail":  "  ▶️ was released 2 years ago. https://youtu.be/ccfzCEO2RC8",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "Song Release",
+        "Item":  "① endless Story ",
+        "Detail":  "♾️ was released 7 years ago.",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/UW_quilt.png"
+    },
+    {
+        "Category":  "Song Release",
+        "Item":  "② Show Them ",
+        "Detail":  "⚠️ was released 2 years ago.",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/UW_quilt.png"
     },
     {
         "Category":  "Okyuji",
         "Item":  "① 10 years ago 🗾",
-        "Detail":  "  🇯🇵 LIVE rise SHUNAN - Shuunan,JP [0 songs]",
+        "Detail":  "  🇯🇵 CAVE-BE - Hiroshima,JP [6 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     },
     {
-        "Category":  "Okyuji",
-        "Item":  "② 3 years ago 🌎",
-        "Detail":  "  🇺🇸 Varsity Theater - Minneapolis,US [19 songs]",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+        "Category":  "Other",
+        "Item":  "① 1 year ago",
+        "Detail":  "What is justice? OMV surpassed 1 million views",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Band-Maid%20color%20pop%204.png"
+    },
+    {
+        "Category":  "Other",
+        "Item":  "② 2 years ago",
+        "Detail":  "Choose Me (Audio track) surpassed 1 million views",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Band-Maid%20color%20pop%204.png"
     }
 ]
