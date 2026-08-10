@@ -1,20 +1,20 @@
 ﻿[
     {
-        "Category":  "YouTube AGGREGATE AUDIO stream Milestones",
-        "Item":  "① Gion-Cho ",
-        "Milestone":  "👘  aggregate AUDIO streams surpassed **200,000**!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-    },
-    {
-        "Category":  "YouTube",
-        "Item":  "① 祇園町 https://youtu.be/aJmR2e_RtWQ",
-        "Milestone":  "  👀 Surpassed **200,000** views!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-    },
-    {
         "Category":  "Spotify",
-        "Item":  "① Giovanni ",
-        "Milestone":  "🚂 Surpassed **800,000** streams!",
+        "Item":  "① Bubble ",
+        "Milestone":  "🫧 Surpassed **2,700,000** streams!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
+    },
+    {
+        "Category":  "Instagram Followers",
+        "Item":  "① Instagram milestone",
+        "Milestone":  "📸BAND-MAID followers surpassed **170,000**!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/instagram.svg"
+    },
+    {
+        "Category":  "Instagram Followers",
+        "Item":  "② Instagram milestone",
+        "Milestone":  "📸Kanami followers surpassed **82,000**!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/instagram.svg"
     }
 ]
