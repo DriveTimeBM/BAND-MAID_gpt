@@ -1,6 +1,14 @@
-﻿{
-    "Category":  "Okyuji",
-    "Item":  "① 7 years ago 🗾",
-    "Detail":  "  🇯🇵 Hitachi Kaihin Kouen - Hitachinaka,JP [6 songs]",
-    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
-}
+﻿[
+    {
+        "Category":  "YouTube Release",
+        "Item":  "① BAND-MAID with The Warning / SHOW THEM (Official Teaser Video) SAIKI vs Dany  part 2",
+        "Detail":  "  ▶️ was released 2 years ago. https://youtu.be/Cc30aTM0DVo",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "① 3 years ago 🌎",
+        "Detail":  "  🇺🇸 Crystal Ballroom - Portland,US [20 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    }
+]
