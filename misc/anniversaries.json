@@ -1,14 +1,50 @@
 ﻿[
     {
+        "Category":  "Live Debut",
+        "Item":  "① Play ",
+        "Detail":  " 🛝 was first played live 9 years ago at Tarukawa Dock Open-Air Special Stages, Hokkaido, Japan",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
+    },
+    {
         "Category":  "YouTube Release",
-        "Item":  "① BAND-MAID with The Warning / SHOW THEM (Official Teaser Video) SAIKI vs Dany  part 2",
-        "Detail":  "  ▶️ was released 2 years ago. https://youtu.be/Cc30aTM0DVo",
+        "Item":  "① BAND-MAID / Play (Official Live Video)",
+        "Detail":  "  ▶️ was released 6 years ago. https://youtu.be/3LxX_t4vg7U",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube Release",
+        "Item":  "② BAND-MAID with The Warning / SHOW THEM (Official Teaser Video) KANAMI vs Dany  part 2",
+        "Detail":  "  ▶️ was released 2 years ago. https://youtu.be/QtdLS9CLkj8",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
         "Category":  "Okyuji",
-        "Item":  "① 3 years ago 🌎",
-        "Detail":  "  🇺🇸 Crystal Ballroom - Portland,US [20 songs]",
+        "Item":  "① 10 years ago 🗾",
+        "Detail":  "  🇯🇵 B.9 V1 - Kumamoto,JP [6 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "② 9 years ago 🗾",
+        "Detail":  "  🇯🇵 Tarukawa Dock Open-Air Special Stages - Ishikari,JP [7 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "③ 3 years ago 🌎",
+        "Detail":  "  🇺🇸 Bing Crosby Theater - Spokane,US [20 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Other",
+        "Item":  "① 2 years ago",
+        "Detail":  " Protect You OMV surpassed 1 million views",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Band-Maid%20color%20pop%204.png"
+    },
+    {
+        "Category":  "Other",
+        "Item":  "② 2 years ago",
+        "Detail":  "Protect You OMV surpassed 1 million views",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Band-Maid%20color%20pop%204.png"
     }
 ]
