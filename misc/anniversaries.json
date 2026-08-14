@@ -1,44 +1,62 @@
 ﻿[
     {
+        "Category":  "Live Debut",
+        "Item":  "① Corallium ",
+        "Detail":  " 🪸 was first played live 4 years ago at Makuhari Messe, Chiba, Japan",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
+    },
+    {
+        "Category":  "Live Debut",
+        "Item":  "② from now on ",
+        "Detail":  " 🔛 was first played live 4 years ago at Makuhari Messe, Chiba, Japan",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
+    },
+    {
+        "Category":  "Live Debut",
+        "Item":  "③ Sense ",
+        "Detail":  " 👁️ was first played live 4 years ago at Makuhari Messe, Chiba, Japan",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
+    },
+    {
+        "Category":  "Live Debut",
+        "Item":  "④ Shambles ",
+        "Detail":  " 🏚 was first played live 3 years ago at Ace of Spades, Sacramento, CA, USA",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
+    },
+    {
         "Category":  "YouTube Release",
-        "Item":  "① BAND-MAID with The Warning / SHOW THEM (Official Teaser Video) AKANE vs Pau part 2",
-        "Detail":  "  ▶️ was released 2 years ago. https://youtu.be/XDu4B75zz18",
+        "Item":  "① BAND-MAID with The Warning / SHOW THEM (Official Teaser Video) MISA vs Ale part 2",
+        "Detail":  "  ▶️ was released 2 years ago. https://youtu.be/-NsV_51FYVE",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
-        "Category":  "Song Release",
-        "Item":  "① Summer Drive ",
-        "Detail":  "🛣️ was released 12 years ago.",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/UW_quilt.png"
-    },
-    {
-        "Category":  "Song Release",
-        "Item":  "② Thrill ",
-        "Detail":  "🤩 was released 12 years ago.",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/UW_quilt.png"
-    },
-    {
-        "Category":  "Song Release",
-        "Item":  "③ Ai to Jonetsu no Matador ",
-        "Detail":  "❤️🐮 was released 12 years ago.",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/UW_quilt.png"
-    },
-    {
         "Category":  "Okyuji",
-        "Item":  "① 13 years ago 🗾",
-        "Detail":  "  🇯🇵 Shibuya Milkyway - Tokyo,JP [0 songs]",
+        "Item":  "① 12 years ago 🗾",
+        "Detail":  "  🇯🇵 Tower Records Shibuya - Tokyo,JP [3 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     },
     {
         "Category":  "Okyuji",
-        "Item":  "② 10 years ago 🗾",
-        "Detail":  "  🇯🇵 WOW! - Kita-Kyuushuu,JP [7 songs]",
+        "Item":  "② 11 years ago 🗾",
+        "Detail":  "  🇯🇵 THE GAME - Tokyo,JP [5 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     },
     {
-        "Category":  "Other",
-        "Item":  "① 1 year ago",
-        "Detail":  "Ready to Rock (Special AMV) surpassed 1 million views",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Band-Maid%20color%20pop%204.png"
+        "Category":  "Okyuji",
+        "Item":  "③ 10 years ago 🗾",
+        "Detail":  "  🇯🇵 Queblick - Fukuoka,JP [7 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "④ 4 years ago 🗾",
+        "Detail":  "  🇯🇵 Makuhari Messe Kokusai Tenjijou Hall 1-2-3 - Chiba,JP [7 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "⑤ 3 years ago 🌎",
+        "Detail":  "  🇺🇸 Ace of Spades - Sacramento,US [20 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     }
 ]
