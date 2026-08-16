@@ -1,14 +1,32 @@
 ﻿[
     {
         "Category":  "Okyuji",
-        "Item":  "① 12 years ago 🗾",
-        "Detail":  "  🇯🇵 Aoyama Tsuki Miru Kimi Omofu - Tokyo,JP [7 songs]",
+        "Item":  "① 13 years ago 🗾",
+        "Detail":  "  🇯🇵 VUENOS - Tokyo,JP [0 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     },
     {
         "Category":  "Okyuji",
-        "Item":  "② 3 years ago 🌎",
-        "Detail":  "  🇺🇸 House of Blues - Anaheim,US [20 songs]",
+        "Item":  "② 6 years ago 🗾",
+        "Detail":  "  🇯🇵 harevutai - Tokyo,JP [13 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "③ 2 years ago 🗾",
+        "Detail":  "  🇯🇵 Tarukawa Dock Open-Air Special Stages - Ishikari,JP [11 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "④ 1 year ago 🗾",
+        "Detail":  "  🇯🇵 Makuhari Messe Kokusai Tenjijou Hall 9 - Chiba,JP [11 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Other",
+        "Item":  "① 9 years ago",
+        "Detail":  " Before Yesterday OMV surpassed 1 million views",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Band-Maid%20color%20pop%204.png"
     }
 ]
