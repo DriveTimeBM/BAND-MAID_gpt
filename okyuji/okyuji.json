@@ -1,5 +1,21 @@
 ﻿[
     {
+        "SetDate":  "2026-08-16",
+        "Country":  "JP",
+        "City":  "Chiba",
+        "Venue":  "Hall 8",
+        "Tour":  "",
+        "URL":  "https://www.setlist.fm/setlist/bandmaid/2026/hall-8-chiba-japan-33743481.html",
+        "NumberOfSongs":  10,
+        "SetlistDelimited":  "SUPER SUNSHINE/Choose me/DOMINATION/Ready to Rock/HATE?/ENERGETIC/NO GOD/endless Story/Dilly-Dally/SHOW THEM",
+        "Opener":  "SUPER SUNSHINE",
+        "Closer":  "SHOW THEM",
+        "LatLon":  "35.6470765,140.0341911",
+        "Latitude":  35.6470765,
+        "Longitude":  140.0341911,
+        "Map":  "https://www.google.com/maps/search/?api=1\u0026query=35.6470765,140.0341911"
+    },
+    {
         "SetDate":  "2026-08-02",
         "Country":  "JP",
         "City":  "Osaka",
