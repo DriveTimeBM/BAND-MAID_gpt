@@ -1,32 +1,38 @@
 ﻿[
     {
+        "Category":  "Live Debut",
+        "Item":  "① Hibana ",
+        "Detail":  " 💥 was first played live 4 years ago at Namba Hatch, Osaka, Japan",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
+    },
+    {
+        "Category":  "Live Debut",
+        "Item":  "② Unleash!!!!! ",
+        "Detail":  " ‼️‼️❗ was first played live 4 years ago at Namba Hatch, Osaka, Japan",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
+    },
+    {
         "Category":  "Okyuji",
-        "Item":  "① 13 years ago 🗾",
-        "Detail":  "  🇯🇵 VUENOS - Tokyo,JP [0 songs]",
+        "Item":  "① 12 years ago 🗾",
+        "Detail":  "  🇯🇵 ASOBITCITY - Tokyo,JP [0 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     },
     {
         "Category":  "Okyuji",
-        "Item":  "② 6 years ago 🗾",
-        "Detail":  "  🇯🇵 harevutai - Tokyo,JP [13 songs]",
+        "Item":  "② 7 years ago 🗾",
+        "Detail":  "  🇯🇵 Makuhari Messe Kokusai Tenjijou Hall 4-5-6 - Chiba,JP [9 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     },
     {
         "Category":  "Okyuji",
-        "Item":  "③ 2 years ago 🗾",
-        "Detail":  "  🇯🇵 Tarukawa Dock Open-Air Special Stages - Ishikari,JP [11 songs]",
+        "Item":  "③ 4 years ago 🗾",
+        "Detail":  "  🇯🇵 Nanba Hatch - Osaka,JP [19 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     },
     {
         "Category":  "Okyuji",
-        "Item":  "④ 1 year ago 🗾",
-        "Detail":  "  🇯🇵 Makuhari Messe Kokusai Tenjijou Hall 9 - Chiba,JP [11 songs]",
+        "Item":  "④ 2 years ago 🗾",
+        "Detail":  "  🇯🇵 Makuhari Messe Kokusai Tenjijou Hall 8 - Chiba,JP [8 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
-    },
-    {
-        "Category":  "Other",
-        "Item":  "① 9 years ago",
-        "Detail":  " Before Yesterday OMV surpassed 1 million views",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Band-Maid%20color%20pop%204.png"
     }
 ]
