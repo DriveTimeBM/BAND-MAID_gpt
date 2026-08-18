@@ -6,7 +6,7 @@
         "Album":  "Daydreaming / Choose me",
         "KobatoLead":  "no",
         "PlayedLiveCount":  254,
-        "SpotifyStreams":  15907039,
+        "SpotifyStreams":  15937002,
         "MediaTieIn":  "Used in Netflix movie Kate. Used in S01E03 of TV show Peacemaker."
     },
     {
@@ -36,7 +36,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  133,
-        "SpotifyStreams":  7607950,
+        "SpotifyStreams":  7617278,
         "MediaTieIn":  null
     },
     {
@@ -56,7 +56,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  157,
-        "SpotifyStreams":  6302677,
+        "SpotifyStreams":  6314103,
         "MediaTieIn":  null
     },
     {
@@ -216,7 +216,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  95,
-        "SpotifyStreams":  2456825,
+        "SpotifyStreams":  2460549,
         "MediaTieIn":  "Used in mobile game Valiant Knights"
     },
     {
@@ -276,7 +276,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  131,
-        "SpotifyStreams":  2156856,
+        "SpotifyStreams":  2161991,
         "MediaTieIn":  null
     },
     {
@@ -436,7 +436,7 @@
         "Album":  "about Us",
         "KobatoLead":  "no",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  1592894,
+        "SpotifyStreams":  1594111,
         "MediaTieIn":  null
     },
     {
@@ -476,7 +476,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  27,
-        "SpotifyStreams":  1526578,
+        "SpotifyStreams":  1529564,
         "MediaTieIn":  "Theme song for movie 狂い華 (Kuruibana)"
     },
     {
@@ -506,7 +506,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  72,
-        "SpotifyStreams":  1431611,
+        "SpotifyStreams":  1434932,
         "MediaTieIn":  null
     },
     {
@@ -660,6 +660,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Smile",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2019-01-16T00:00:00",
+        "Album":  "Bubble",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  7,
+        "SpotifyStreams":  1076402,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Before Yesterday",
         "AlternativeName":  "",
         "ReleaseDate":  "2016-05-18T00:00:00",
@@ -670,23 +680,13 @@
         "MediaTieIn":  null
     },
     {
-        "Name":  "Smile",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2019-01-16T00:00:00",
-        "Album":  "Bubble",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  7,
-        "SpotifyStreams":  1075588,
-        "MediaTieIn":  null
-    },
-    {
         "Name":  "Beauty and the beast",
         "AlternativeName":  "",
         "ReleaseDate":  "2015-11-18T00:00:00",
         "Album":  "New Beginning",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  36,
-        "SpotifyStreams":  1049280,
+        "SpotifyStreams":  1050234,
         "MediaTieIn":  null
     },
     {
@@ -766,7 +766,7 @@
         "Album":  "Different",
         "KobatoLead":  "no",
         "PlayedLiveCount":  17,
-        "SpotifyStreams":  897273,
+        "SpotifyStreams":  898005,
         "MediaTieIn":  null
     },
     {
@@ -856,7 +856,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  12,
-        "SpotifyStreams":  825681,
+        "SpotifyStreams":  826493,
         "MediaTieIn":  null
     },
     {
@@ -876,7 +876,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  63,
-        "SpotifyStreams":  814160,
+        "SpotifyStreams":  814810,
         "MediaTieIn":  null
     },
     {
@@ -976,7 +976,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  27,
-        "SpotifyStreams":  723071,
+        "SpotifyStreams":  723966,
         "MediaTieIn":  null
     },
     {
@@ -1076,7 +1076,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  49,
-        "SpotifyStreams":  641592,
+        "SpotifyStreams":  642279,
         "MediaTieIn":  null
     },
     {
@@ -1136,7 +1136,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
-        "SpotifyStreams":  560532,
+        "SpotifyStreams":  561610,
         "MediaTieIn":  null
     },
     {
@@ -1206,7 +1206,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  29,
-        "SpotifyStreams":  355818,
+        "SpotifyStreams":  358156,
         "MediaTieIn":  null
     },
     {
@@ -1236,7 +1236,7 @@
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
         "PlayedLiveCount":  27,
-        "SpotifyStreams":  280172,
+        "SpotifyStreams":  284227,
         "MediaTieIn":  null
     },
     {
@@ -1256,7 +1256,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  37,
-        "SpotifyStreams":  234341,
+        "SpotifyStreams":  235541,
         "MediaTieIn":  null
     },
     {

@@ -1,38 +1,6 @@
-﻿[
-    {
-        "Category":  "Live Debut",
-        "Item":  "① Hibana ",
-        "Detail":  " 💥 was first played live 4 years ago at Namba Hatch, Osaka, Japan",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
-    },
-    {
-        "Category":  "Live Debut",
-        "Item":  "② Unleash!!!!! ",
-        "Detail":  " ‼️‼️❗ was first played live 4 years ago at Namba Hatch, Osaka, Japan",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
-    },
-    {
-        "Category":  "Okyuji",
-        "Item":  "① 12 years ago 🗾",
-        "Detail":  "  🇯🇵 ASOBITCITY - Tokyo,JP [0 songs]",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
-    },
-    {
-        "Category":  "Okyuji",
-        "Item":  "② 7 years ago 🗾",
-        "Detail":  "  🇯🇵 Makuhari Messe Kokusai Tenjijou Hall 4-5-6 - Chiba,JP [9 songs]",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
-    },
-    {
-        "Category":  "Okyuji",
-        "Item":  "③ 4 years ago 🗾",
-        "Detail":  "  🇯🇵 Nanba Hatch - Osaka,JP [19 songs]",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
-    },
-    {
-        "Category":  "Okyuji",
-        "Item":  "④ 2 years ago 🗾",
-        "Detail":  "  🇯🇵 Makuhari Messe Kokusai Tenjijou Hall 8 - Chiba,JP [8 songs]",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
-    }
-]
+﻿{
+    "Category":  "Okyuji",
+    "Item":  "① 3 years ago 🌎",
+    "Detail":  "  🇲🇽 PabellÃ³n Oeste del Palacio de los Deportes - Mexico City,MX [20 songs]",
+    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+}
