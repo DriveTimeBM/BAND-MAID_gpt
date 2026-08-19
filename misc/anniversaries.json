@@ -1,6 +1,32 @@
-﻿{
-    "Category":  "Okyuji",
-    "Item":  "① 3 years ago 🌎",
-    "Detail":  "  🇲🇽 PabellÃ³n Oeste del Palacio de los Deportes - Mexico City,MX [20 songs]",
-    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
-}
+﻿[
+    {
+        "Category":  "YouTube Release",
+        "Item":  "① BAND-MAID / Ready to Rock (Official Live Video) TVアニメ「ロックは淑女の嗜みでして」オープニングテーマソング",
+        "Detail":  "  ▶️ was released 1 year ago. https://youtu.be/5I6VV4HYnW8",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "① 12 years ago 🗾",
+        "Detail":  "  🇯🇵 Akasaka BLITZ - Tokyo,JP [3 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "② 11 years ago 🗾",
+        "Detail":  "  🇯🇵 Shibuya Milkyway - Tokyo,JP [6 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "③ 9 years ago 🗾",
+        "Detail":  "  🇯🇵 Maishima - Osaka,JP [7 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "④ 8 years ago 🗾",
+        "Detail":  "  🇯🇵 Makuhari Messe Kokusai Tenjijou Hall 8 - Chiba,JP [7 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    }
+]
