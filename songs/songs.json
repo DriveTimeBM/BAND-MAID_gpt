@@ -76,7 +76,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  174,
-        "SpotifyStreams":  4037691,
+        "SpotifyStreams":  4043071,
         "MediaTieIn":  null
     },
     {
@@ -86,7 +86,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  164,
-        "SpotifyStreams":  3959819,
+        "SpotifyStreams":  3965850,
         "MediaTieIn":  null
     },
     {
@@ -146,7 +146,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  56,
-        "SpotifyStreams":  3246867,
+        "SpotifyStreams":  3250720,
         "MediaTieIn":  null
     },
     {
@@ -176,7 +176,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  242,
-        "SpotifyStreams":  2676774,
+        "SpotifyStreams":  2679870,
         "MediaTieIn":  null
     },
     {
@@ -186,7 +186,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  40,
-        "SpotifyStreams":  2666107,
+        "SpotifyStreams":  2670091,
         "MediaTieIn":  null
     },
     {
@@ -196,7 +196,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  48,
-        "SpotifyStreams":  2592824,
+        "SpotifyStreams":  2596259,
         "MediaTieIn":  null
     },
     {
@@ -266,7 +266,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  2,
-        "SpotifyStreams":  2200207,
+        "SpotifyStreams":  2202938,
         "MediaTieIn":  null
     },
     {
@@ -310,6 +310,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "influencer",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2022-09-21T00:00:00",
+        "Album":  "Unleash",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  49,
+        "SpotifyStreams":  1948904,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "CROSS",
         "AlternativeName":  "",
         "ReleaseDate":  "2017-01-11T00:00:00",
@@ -317,16 +327,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  55,
         "SpotifyStreams":  1946362,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "influencer",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2022-09-21T00:00:00",
-        "Album":  "Unleash",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  49,
-        "SpotifyStreams":  1944233,
         "MediaTieIn":  null
     },
     {
@@ -446,7 +446,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  43,
-        "SpotifyStreams":  1550175,
+        "SpotifyStreams":  1553773,
         "MediaTieIn":  null
     },
     {
@@ -556,7 +556,7 @@
         "Album":  "Love, Passion, Matador (愛と情熱のマタドール)",
         "KobatoLead":  "no",
         "PlayedLiveCount":  36,
-        "SpotifyStreams":  1245961,
+        "SpotifyStreams":  1246767,
         "MediaTieIn":  null
     },
     {
@@ -566,7 +566,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  17,
-        "SpotifyStreams":  1245565,
+        "SpotifyStreams":  1246640,
         "MediaTieIn":  null
     },
     {
@@ -616,7 +616,7 @@
         "Album":  "Sense",
         "KobatoLead":  "no",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  1201884,
+        "SpotifyStreams":  1203150,
         "MediaTieIn":  "Battle theme for e-sports All-Japan University e-Sports Competition"
     },
     {
@@ -866,7 +866,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  12,
-        "SpotifyStreams":  820873,
+        "SpotifyStreams":  821865,
         "MediaTieIn":  null
     },
     {
@@ -1006,7 +1006,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  55,
-        "SpotifyStreams":  706646,
+        "SpotifyStreams":  707295,
         "MediaTieIn":  null
     },
     {
@@ -1126,7 +1126,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  583249,
+        "SpotifyStreams":  583984,
         "MediaTieIn":  null
     },
     {
@@ -1166,7 +1166,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
-        "SpotifyStreams":  483014,
+        "SpotifyStreams":  483725,
         "MediaTieIn":  null
     },
     {
@@ -1196,7 +1196,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  12,
-        "SpotifyStreams":  372351,
+        "SpotifyStreams":  374925,
         "MediaTieIn":  null
     },
     {
@@ -1216,7 +1216,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  8,
-        "SpotifyStreams":  349495,
+        "SpotifyStreams":  350652,
         "MediaTieIn":  null
     },
     {
@@ -1246,7 +1246,7 @@
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
         "PlayedLiveCount":  5,
-        "SpotifyStreams":  254840,
+        "SpotifyStreams":  257870,
         "MediaTieIn":  null
     },
     {
