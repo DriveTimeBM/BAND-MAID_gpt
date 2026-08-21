@@ -80,22 +80,6 @@
         "Start_Japan":  "2026-10-06 09:00:00"
     },
     {
-        "Summary":  "BAND-MAID Anniversary",
-        "Location":  "",
-        "URL":  null,
-        "Image":  "https://bandmaid.tokyo/s3/skiyaki/uploads/artist_photo/image/26493/2026BANDMAID-VISUAL_S.jpg",
-        "Start_Local":  "2026-08-21 11:00:00",
-        "Start_Japan":  "2026-08-22 00:00:00"
-    },
-    {
-        "Summary":  "Kanami Birthday",
-        "Location":  "",
-        "URL":  null,
-        "Image":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/849358/content_kanami-2.jpg",
-        "Start_Local":  "2026-09-27 11:00:00",
-        "Start_Japan":  "2026-09-28 00:00:00"
-    },
-    {
         "Summary":  "Atlanta - Buckhead Theatre",
         "Location":  "Buckhead Theatre, 3110 Roswell Rd NE, Atlanta, GA 30305, USA",
         "URL":  "https://www.thebuckheadtheatre.com/",
@@ -142,6 +126,22 @@
         "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/vic.webp",
         "Start_Local":  "2026-10-03 21:00:00",
         "Start_Japan":  "2026-10-04 10:00:00"
+    },
+    {
+        "Summary":  "BAND-MAID Anniversary",
+        "Location":  "",
+        "URL":  null,
+        "Image":  "https://bandmaid.tokyo/s3/skiyaki/uploads/artist_photo/image/26493/2026BANDMAID-VISUAL_S.jpg",
+        "Start_Local":  "2026-08-21 11:00:00",
+        "Start_Japan":  "2026-08-22 00:00:00"
+    },
+    {
+        "Summary":  "Kanami Birthday",
+        "Location":  "",
+        "URL":  null,
+        "Image":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/849358/content_kanami-2.jpg",
+        "Start_Local":  "2026-09-27 11:00:00",
+        "Start_Japan":  "2026-09-28 00:00:00"
     },
     {
         "Summary":  "Misa Birthday",

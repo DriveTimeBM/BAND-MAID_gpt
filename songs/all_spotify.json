@@ -6,17 +6,17 @@
         "URL":  "https://open.spotify.com/track/7CqQ1kpfX8F97qvIFndjzc",
         "SpotifyRank":  53,
         "ReleaseDate":  "2018-07-25",
-        "YTViews":  2576379,
+        "YTViews":  2576602,
         "YTRank":  38
     },
     {
         "Name":  "Screaming",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/album_covers/08%20start%20over.png",
-        "Streams":  1905422,
+        "Streams":  1906974,
         "URL":  "https://open.spotify.com/track/4SkIrSPNnHYaxJwmD3B3gz",
         "SpotifyRank":  33,
         "ReleaseDate":  "2018-07-25",
-        "YTViews":  292953,
+        "YTViews":  293193,
         "YTRank":  83
     },
     {
@@ -26,38 +26,8 @@
         "URL":  "https://open.spotify.com/track/62EErWjCzzsNKiwQVJBiTW",
         "SpotifyRank":  77,
         "ReleaseDate":  "2022-09-21",
-        "YTViews":  430817,
+        "YTViews":  431098,
         "YTRank":  71
-    },
-    {
-        "Name":  "I can\u0027t live without you.",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/album_covers/07%20world_domination.png",
-        "Streams":  3424022,
-        "URL":  "https://open.spotify.com/track/1oFx08aFKXWlxv0hkzb1Ok",
-        "SpotifyRank":  12,
-        "ReleaseDate":  "2018-02-14",
-        "YTViews":  773345,
-        "YTRank":  57
-    },
-    {
-        "Name":  "One and only",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/album_covers/07%20world_domination.png",
-        "Streams":  1529564,
-        "URL":  "https://open.spotify.com/track/0EzwSADbv37ola3YRRMhTc",
-        "SpotifyRank":  48,
-        "ReleaseDate":  "2018-02-14",
-        "YTViews":  438911,
-        "YTRank":  69
-    },
-    {
-        "Name":  "DOMINATION",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/album_covers/07%20world_domination.png",
-        "Streams":  8566193,
-        "URL":  "https://open.spotify.com/track/2VxoDPnyxNF976DK9rlVU6",
-        "SpotifyRank":  3,
-        "ReleaseDate":  "2018-02-08",
-        "YTViews":  11128608,
-        "YTRank":  6
     },
     {
         "Name":  "Daydreaming",
@@ -66,7 +36,7 @@
         "URL":  "https://open.spotify.com/track/7tH4wNb0jxpLCMxjQ4NOrX",
         "SpotifyRank":  23,
         "ReleaseDate":  "2017-07-19",
-        "YTViews":  6103761,
+        "YTViews":  6104705,
         "YTRank":  13
     },
     {
@@ -76,7 +46,7 @@
         "URL":  "https://open.spotify.com/track/130dsYbbXp9jQnETiJ7axI",
         "SpotifyRank":  1,
         "ReleaseDate":  "2017-07-19",
-        "YTViews":  20191747,
+        "YTViews":  20195507,
         "YTRank":  2
     },
     {
@@ -86,8 +56,38 @@
         "URL":  "https://open.spotify.com/track/5NCBGyWQXC74CFHLOE8SXu",
         "SpotifyRank":  8,
         "ReleaseDate":  "2017-07-19",
-        "YTViews":  3135831,
+        "YTViews":  3136510,
         "YTRank":  34
+    },
+    {
+        "Name":  "I can\u0027t live without you.",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/album_covers/07%20world_domination.png",
+        "Streams":  3424022,
+        "URL":  "https://open.spotify.com/track/1oFx08aFKXWlxv0hkzb1Ok",
+        "SpotifyRank":  12,
+        "ReleaseDate":  "2018-02-14",
+        "YTViews":  773799,
+        "YTRank":  57
+    },
+    {
+        "Name":  "One and only",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/album_covers/07%20world_domination.png",
+        "Streams":  1529564,
+        "URL":  "https://open.spotify.com/track/0EzwSADbv37ola3YRRMhTc",
+        "SpotifyRank":  48,
+        "ReleaseDate":  "2018-02-14",
+        "YTViews":  439084,
+        "YTRank":  69
+    },
+    {
+        "Name":  "DOMINATION",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/album_covers/07%20world_domination.png",
+        "Streams":  8566193,
+        "URL":  "https://open.spotify.com/track/2VxoDPnyxNF976DK9rlVU6",
+        "SpotifyRank":  3,
+        "ReleaseDate":  "2018-02-08",
+        "YTViews":  11130323,
+        "YTRank":  6
     },
     {
         "Name":  "FATE",
@@ -96,7 +96,7 @@
         "URL":  "https://open.spotify.com/track/0j193Qp4SusgguMBmsDWLF",
         "SpotifyRank":  38,
         "ReleaseDate":  "2018-02-14",
-        "YTViews":  464094,
+        "YTViews":  464365,
         "YTRank":  66
     },
     {
@@ -106,7 +106,7 @@
         "URL":  "https://open.spotify.com/track/6RqbFrSqnAFbnBAe6zRfuo",
         "SpotifyRank":  55,
         "ReleaseDate":  "2018-02-14",
-        "YTViews":  358172,
+        "YTViews":  358345,
         "YTRank":  75
     },
     {
@@ -116,7 +116,7 @@
         "URL":  "https://open.spotify.com/track/34rLeFEq8rPrLjRXE0vySe",
         "SpotifyRank":  50,
         "ReleaseDate":  "2018-02-14",
-        "YTViews":  604913,
+        "YTViews":  605170,
         "YTRank":  59
     },
     {
@@ -126,7 +126,7 @@
         "URL":  "https://open.spotify.com/track/5W0TmFbf99HsjItflpvu2y",
         "SpotifyRank":  59,
         "ReleaseDate":  "2018-02-14",
-        "YTViews":  466126,
+        "YTViews":  466314,
         "YTRank":  65
     },
     {
@@ -136,17 +136,17 @@
         "URL":  "https://open.spotify.com/track/0hGTThyoYWRDRFyol7DtWO",
         "SpotifyRank":  29,
         "ReleaseDate":  "2018-02-14",
-        "YTViews":  450734,
+        "YTViews":  450936,
         "YTRank":  68
     },
     {
         "Name":  "Carry on living",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/album_covers/07%20world_domination.png",
-        "Streams":  1210935,
+        "Streams":  1211811,
         "URL":  "https://open.spotify.com/track/6W1ldyQrd6hQVW0DL3W1Xb",
         "SpotifyRank":  61,
         "ReleaseDate":  "2018-02-14",
-        "YTViews":  347595,
+        "YTViews":  347736,
         "YTRank":  76
     },
     {
@@ -156,7 +156,7 @@
         "URL":  "https://open.spotify.com/track/4f3EXChqyGkqWNwGEeBKIL",
         "SpotifyRank":  46,
         "ReleaseDate":  "2018-02-14",
-        "YTViews":  481651,
+        "YTViews":  481810,
         "YTRank":  64
     },
     {
@@ -166,7 +166,7 @@
         "URL":  "https://open.spotify.com/track/4vjnMw710G5ST5XtGfmoaA",
         "SpotifyRank":  73,
         "ReleaseDate":  "2018-02-14",
-        "YTViews":  433076,
+        "YTViews":  433744,
         "YTRank":  70
     },
     {
@@ -176,17 +176,17 @@
         "URL":  "https://open.spotify.com/track/26P0PvxuRYcgzxeHZ4rjD0",
         "SpotifyRank":  6,
         "ReleaseDate":  "2018-02-14",
-        "YTViews":  13295623,
+        "YTViews":  13297918,
         "YTRank":  5
     },
     {
         "Name":  "Honey",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/album_covers/07%20world_domination.png",
-        "Streams":  1023451,
+        "Streams":  1024602,
         "URL":  "https://open.spotify.com/track/6W16DrkVuf0DDPhTqOjAf7",
         "SpotifyRank":  71,
         "ReleaseDate":  "2017-11-22",
-        "YTViews":  269750,
+        "YTViews":  269885,
         "YTRank":  85
     },
     {
@@ -196,7 +196,7 @@
         "URL":  "https://open.spotify.com/track/1bgpOs3FeHhbpFSZkApGkZ",
         "SpotifyRank":  34,
         "ReleaseDate":  "2022-09-21",
-        "YTViews":  3352615,
+        "YTViews":  3353446,
         "YTRank":  32
     },
     {
@@ -206,7 +206,7 @@
         "URL":  "https://open.spotify.com/track/1gTErh8Un4YQFfeaIS2KNi",
         "SpotifyRank":  30,
         "ReleaseDate":  "2022-09-21",
-        "YTViews":  2112984,
+        "YTViews":  2114426,
         "YTRank":  42
     },
     {
@@ -216,7 +216,7 @@
         "URL":  "https://open.spotify.com/track/43TrzIBj0B1mq4Z6z7zxeN",
         "SpotifyRank":  26,
         "ReleaseDate":  "2018-04-01",
-        "YTViews":  5034665,
+        "YTViews":  5035225,
         "YTRank":  17
     },
     {
@@ -226,7 +226,7 @@
         "URL":  "https://open.spotify.com/track/6QeWRDA4hBnMy3zZA0mQUj",
         "SpotifyRank":  47,
         "ReleaseDate":  "2019-04-01",
-        "YTViews":  2410022,
+        "YTViews":  2410320,
         "YTRank":  40
     },
     {
@@ -236,17 +236,17 @@
         "URL":  "https://open.spotify.com/track/45J1wiCeGG61mfxtANxOrW",
         "SpotifyRank":  75,
         "ReleaseDate":  "2019-04-01",
-        "YTViews":  116890,
+        "YTViews":  116997,
         "YTRank":  116
     },
     {
         "Name":  "YOLOSIOSU",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/album_covers/11%20BAND-MAIKO.png",
-        "Streams":  561610,
+        "Streams":  562078,
         "URL":  "https://open.spotify.com/track/5S4ggMEDhYqiYsynFZdviT",
         "SpotifyRank":  113,
         "ReleaseDate":  "2019-04-01",
-        "YTViews":  88156,
+        "YTViews":  88203,
         "YTRank":  121
     },
     {
@@ -256,7 +256,7 @@
         "URL":  "https://open.spotify.com/track/1UnkmRjUwraXtKHcXkMT8A",
         "SpotifyRank":  117,
         "ReleaseDate":  "2019-04-01",
-        "YTViews":  72249,
+        "YTViews":  72292,
         "YTRank":  124
     },
     {
@@ -266,7 +266,7 @@
         "URL":  "https://open.spotify.com/track/38BiuZplQ3RQUVBkqTTMJm",
         "SpotifyRank":  118,
         "ReleaseDate":  "2019-04-01",
-        "YTViews":  63217,
+        "YTViews":  63280,
         "YTRank":  125
     },
     {
@@ -276,17 +276,17 @@
         "URL":  "https://open.spotify.com/track/4AOUNHPHTRqViypBP3lss9",
         "SpotifyRank":  60,
         "ReleaseDate":  "2019-04-01",
-        "YTViews":  86435,
+        "YTViews":  86503,
         "YTRank":  122
     },
     {
         "Name":  "Memorable",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/album_covers/MEMORABLE_S.jpg",
-        "Streams":  760885,
+        "Streams":  762191,
         "URL":  "https://open.spotify.com/track/5RjEJEBvz2WmO7vmfk07aR",
         "SpotifyRank":  95,
         "ReleaseDate":  "2023-02-22",
-        "YTViews":  1236234,
+        "YTViews":  1236522,
         "YTRank":  50
     },
     {
@@ -296,7 +296,7 @@
         "URL":  "https://open.spotify.com/track/590KvwnYag62VRzmXM7dOk",
         "SpotifyRank":  22,
         "ReleaseDate":  "2023-08-04",
-        "YTViews":  3822028,
+        "YTViews":  3823672,
         "YTRank":  26
     },
     {
@@ -306,7 +306,7 @@
         "URL":  "https://open.spotify.com/track/40TLhCcFCk1rkAYm6byist",
         "SpotifyRank":  104,
         "ReleaseDate":  "2024-04-17",
-        "YTViews":  1678441,
+        "YTViews":  1678880,
         "YTRank":  46
     },
     {
@@ -316,7 +316,7 @@
         "URL":  "https://open.spotify.com/track/5iwUZKQYzX743WQr3MgnjG",
         "SpotifyRank":  19,
         "ReleaseDate":  "2024-08-07",
-        "YTViews":  3740585,
+        "YTViews":  3742853,
         "YTRank":  29
     },
     {
@@ -326,17 +326,17 @@
         "URL":  "https://open.spotify.com/track/6ww9DfnKo53Bk7NuM382LY",
         "SpotifyRank":  122,
         "ReleaseDate":  "2024-07-21",
-        "YTViews":  672677,
+        "YTViews":  673007,
         "YTRank":  58
     },
     {
         "Name":  "Forbidden tale",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/album_covers/21%20Epic%20Narratives.png",
-        "Streams":  538311,
+        "Streams":  540436,
         "URL":  "https://open.spotify.com/track/2yRRbMy2Qw4IXrfrZ5sedm",
         "SpotifyRank":  116,
         "ReleaseDate":  "2024-09-25",
-        "YTViews":  1860836,
+        "YTViews":  1861482,
         "YTRank":  43
     },
     {
@@ -346,7 +346,7 @@
         "URL":  "https://open.spotify.com/track/5emGoWQuA8oOEbbUpZv0xX",
         "SpotifyRank":  115,
         "ReleaseDate":  "2024-09-25",
-        "YTViews":  207400,
+        "YTViews":  207583,
         "YTRank":  94
     },
     {
@@ -356,7 +356,7 @@
         "URL":  "https://open.spotify.com/track/05r6e2c6w3owvRMgQO6Z00",
         "SpotifyRank":  121,
         "ReleaseDate":  "2024-09-25",
-        "YTViews":  242098,
+        "YTViews":  242289,
         "YTRank":  88
     },
     {
@@ -392,7 +392,7 @@
     {
         "Name":  "Bye My Tears",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/album_covers/01%20maid_in_japan.png",
-        "Streams":  1233228,
+        "Streams":  1234044,
         "URL":  "https://open.spotify.com/track/3Az63baQW6oYonqA53Ik3U",
         "SpotifyRank":  58,
         "ReleaseDate":  "2014-01-08",
@@ -450,73 +450,13 @@
         "YTRank":  null
     },
     {
-        "Name":  "you.",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/album_covers/05%20just_bring_lt.png",
-        "Streams":  912711,
-        "URL":  "https://open.spotify.com/track/3mNkWdHJK1pi1SIi8k8lQc",
-        "SpotifyRank":  74,
-        "ReleaseDate":  "2017-01-11",
-        "YTViews":  345577,
-        "YTRank":  79
-    },
-    {
-        "Name":  "Awkward",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/album_covers/05%20just_bring_lt.png",
-        "Streams":  828422,
-        "URL":  "https://open.spotify.com/track/6nJYYZu1qIwmmdtNxb5J0S",
-        "SpotifyRank":  86,
-        "ReleaseDate":  "2017-01-11",
-        "YTViews":  199240,
-        "YTRank":  96
-    },
-    {
-        "Name":  "decided by myself",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/album_covers/05%20just_bring_lt.png",
-        "Streams":  723966,
-        "URL":  "https://open.spotify.com/track/0bpK8ljibcnkAeSZtjqzZu",
-        "SpotifyRank":  98,
-        "ReleaseDate":  "2017-01-11",
-        "YTViews":  199879,
-        "YTRank":  95
-    },
-    {
-        "Name":  "Ready to Rock",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/album_covers/ReadyToRock.jpg",
-        "Streams":  3901643,
-        "URL":  "https://open.spotify.com/track/6RmznWIj65w4YPTcfVfmpt",
-        "SpotifyRank":  15,
-        "ReleaseDate":  "2025-04-04",
-        "YTViews":  14808294,
-        "YTRank":  4
-    },
-    {
-        "Name":  "What is justice?",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/album_covers/What%20is%20justice.jpg",
-        "Streams":  2118572,
-        "URL":  "#https://open.spotify.com/track/21pcwg3zl1i2Gc7k1VhoH9#",
-        "SpotifyRank":  45,
-        "ReleaseDate":  "2025-07-18",
-        "YTViews":  6232689,
-        "YTRank":  12
-    },
-    {
-        "Name":  "Present Perfect",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/album_covers/SCOOOOOP.png",
-        "Streams":  461560,
-        "URL":  "#https://open.spotify.com/track/6O1zyBjfMe4PU7ie48rgqX#",
-        "SpotifyRank":  119,
-        "ReleaseDate":  "2025-10-22",
-        "YTViews":  3764840,
-        "YTRank":  28
-    },
-    {
         "Name":  "Thrill",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/album_covers/02%20new_beginning.png",
         "Streams":  7617278,
         "URL":  "https://open.spotify.com/track/1yDsdnMkRLLV8RNpiPwlkU",
         "SpotifyRank":  4,
         "ReleaseDate":  "2014-08-13",
-        "YTViews":  26134203,
+        "YTViews":  26138241,
         "YTRank":  1
     },
     {
@@ -536,7 +476,7 @@
         "URL":  "https://open.spotify.com/track/2NVYDGSFmnvJwKzX2qNtTM",
         "SpotifyRank":  110,
         "ReleaseDate":  "2019-12-11",
-        "YTViews":  160422,
+        "YTViews":  160485,
         "YTRank":  107
     },
     {
@@ -546,7 +486,7 @@
         "URL":  "https://open.spotify.com/track/3vzKGHG8L0avvtkUzFSp6w",
         "SpotifyRank":  65,
         "ReleaseDate":  "2019-12-11",
-        "YTViews":  1192660,
+        "YTViews":  1193279,
         "YTRank":  52
     },
     {
@@ -556,7 +496,7 @@
         "URL":  "https://open.spotify.com/track/1CPLXhE8X7t9Oqijmnrcu9",
         "SpotifyRank":  91,
         "ReleaseDate":  "2019-12-11",
-        "YTViews":  254650,
+        "YTViews":  255008,
         "YTRank":  87
     },
     {
@@ -566,17 +506,17 @@
         "URL":  "https://open.spotify.com/track/33QkSbkPe0DZ5PEewNYWEv",
         "SpotifyRank":  44,
         "ReleaseDate":  "2015-11-18",
-        "YTViews":  299607,
+        "YTViews":  299901,
         "YTRank":  82
     },
     {
         "Name":  "REAL EXISTENCE",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/album_covers/02%20new_beginning.png",
-        "Streams":  2679870,
+        "Streams":  2680350,
         "URL":  "https://open.spotify.com/track/0S6wuDXHdmsKetgEXEMgUh",
         "SpotifyRank":  17,
         "ReleaseDate":  "2015-11-18",
-        "YTViews":  19141156,
+        "YTViews":  19142812,
         "YTRank":  3
     },
     {
@@ -586,7 +526,7 @@
         "URL":  "https://open.spotify.com/track/7f7EEV9szlk0uogNNEcWSJ",
         "SpotifyRank":  101,
         "ReleaseDate":  "2015-11-18",
-        "YTViews":  165560,
+        "YTViews":  165670,
         "YTRank":  105
     },
     {
@@ -596,7 +536,7 @@
         "URL":  "https://open.spotify.com/track/763NEBHq57Ta06tdTovFIh",
         "SpotifyRank":  72,
         "ReleaseDate":  "2015-11-18",
-        "YTViews":  153999,
+        "YTViews":  154097,
         "YTRank":  108
     },
     {
@@ -606,7 +546,7 @@
         "URL":  "https://open.spotify.com/track/5dGUxBhCkDVi02iiMtt9J4",
         "SpotifyRank":  106,
         "ReleaseDate":  "2015-11-18",
-        "YTViews":  178372,
+        "YTViews":  178576,
         "YTRank":  103
     },
     {
@@ -616,17 +556,17 @@
         "URL":  "https://open.spotify.com/track/6Sj1Wr4W2YEotcTYVx4ma7",
         "SpotifyRank":  69,
         "ReleaseDate":  "2015-11-18",
-        "YTViews":  116989,
+        "YTViews":  117071,
         "YTRank":  115
     },
     {
         "Name":  "Don\u0027t let me down",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/album_covers/02%20new_beginning.png",
-        "Streams":  1845789,
+        "Streams":  1847453,
         "URL":  "https://open.spotify.com/track/13R2yrlxdRvsbtDrlHv3ZO",
         "SpotifyRank":  36,
         "ReleaseDate":  "2015-11-18",
-        "YTViews":  5715878,
+        "YTViews":  5716599,
         "YTRank":  15
     },
     {
@@ -636,7 +576,7 @@
         "URL":  "https://open.spotify.com/track/4UlybsnjfVNPtn6rdliNUB",
         "SpotifyRank":  93,
         "ReleaseDate":  "2015-11-18",
-        "YTViews":  345940,
+        "YTViews":  346133,
         "YTRank":  78
     },
     {
@@ -646,17 +586,17 @@
         "URL":  "https://open.spotify.com/track/2Ch7F5qC1NS5gNLEmPiRao",
         "SpotifyRank":  25,
         "ReleaseDate":  "2016-04-07",
-        "YTViews":  8338136,
+        "YTViews":  8338988,
         "YTRank":  8
     },
     {
         "Name":  "LOOK AT ME",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/album_covers/03%20brand_new_maid.png",
-        "Streams":  642279,
+        "Streams":  642574,
         "URL":  "https://open.spotify.com/track/0lbFU91svPj6O7NKKqQj6d",
         "SpotifyRank":  107,
         "ReleaseDate":  "2016-05-18",
-        "YTViews":  103790,
+        "YTViews":  103869,
         "YTRank":  119
     },
     {
@@ -666,7 +606,7 @@
         "URL":  "https://open.spotify.com/track/5RHgxz1fYZDD2POMxBZmh3",
         "SpotifyRank":  84,
         "ReleaseDate":  "2016-05-18",
-        "YTViews":  141360,
+        "YTViews":  141531,
         "YTRank":  111
     },
     {
@@ -676,7 +616,7 @@
         "URL":  "https://open.spotify.com/track/4AUzKVmET6xYBmxcmov4Zu",
         "SpotifyRank":  16,
         "ReleaseDate":  "2019-01-16",
-        "YTViews":  3507435,
+        "YTViews":  3507819,
         "YTRank":  31
     },
     {
@@ -686,7 +626,7 @@
         "URL":  "https://open.spotify.com/track/6T453iUKBiSkLFaNr1zQvQ",
         "SpotifyRank":  67,
         "ReleaseDate":  "2019-01-16",
-        "YTViews":  191510,
+        "YTViews":  191664,
         "YTRank":  100
     },
     {
@@ -696,7 +636,7 @@
         "URL":  "https://open.spotify.com/track/6I4pECm2Pks71VFFZBf1tm",
         "SpotifyRank":  10,
         "ReleaseDate":  "2018-11-02",
-        "YTViews":  4809134,
+        "YTViews":  4810074,
         "YTRank":  18
     },
     {
@@ -706,7 +646,7 @@
         "URL":  "https://open.spotify.com/track/6Dy3E31O7zPYGR16v0ujVq",
         "SpotifyRank":  66,
         "ReleaseDate":  "2019-01-16",
-        "YTViews":  118012,
+        "YTViews":  118170,
         "YTRank":  114
     },
     {
@@ -716,17 +656,17 @@
         "URL":  "https://open.spotify.com/track/6M6P8P8vcjPLiCpGnQRLwt",
         "SpotifyRank":  70,
         "ReleaseDate":  "2019-12-11",
-        "YTViews":  198860,
+        "YTViews":  198957,
         "YTRank":  98
     },
     {
         "Name":  "Liberal",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/album_covers/12%20CONQUEROR.png",
-        "Streams":  1246640,
+        "Streams":  1246783,
         "URL":  "https://open.spotify.com/track/01RUYS50ZQzgFyOpxxBWSZ",
         "SpotifyRank":  57,
         "ReleaseDate":  "2019-12-11",
-        "YTViews":  227854,
+        "YTViews":  228038,
         "YTRank":  91
     },
     {
@@ -736,7 +676,7 @@
         "URL":  "https://open.spotify.com/track/65brJ9y3iba4UzKvdUtFjY",
         "SpotifyRank":  40,
         "ReleaseDate":  "2019-08-07",
-        "YTViews":  3194811,
+        "YTViews":  3195395,
         "YTRank":  33
     },
     {
@@ -746,7 +686,7 @@
         "URL":  "https://open.spotify.com/track/1EHjwJ9CXrCfsudSnuJxvF",
         "SpotifyRank":  99,
         "ReleaseDate":  "2019-12-11",
-        "YTViews":  212058,
+        "YTViews":  212201,
         "YTRank":  93
     },
     {
@@ -756,7 +696,7 @@
         "URL":  "https://open.spotify.com/track/0UkGRZQqZrOIevvdslZJ1p",
         "SpotifyRank":  94,
         "ReleaseDate":  "2019-12-11",
-        "YTViews":  240092,
+        "YTViews":  240304,
         "YTRank":  89
     },
     {
@@ -766,7 +706,7 @@
         "URL":  "https://open.spotify.com/track/0VLPrI6v6fIxcuxdAl20c1",
         "SpotifyRank":  120,
         "ReleaseDate":  "2024-09-25",
-        "YTViews":  258859,
+        "YTViews":  259006,
         "YTRank":  86
     },
     {
@@ -776,8 +716,8 @@
         "URL":  "https://open.spotify.com/track/4k1NrrlfgL2kCYqCgsG8tw",
         "SpotifyRank":  126,
         "ReleaseDate":  "2024-09-25",
-        "YTViews":  199222,
-        "YTRank":  97
+        "YTViews":  199417,
+        "YTRank":  96
     },
     {
         "Name":  "Toi et moi",
@@ -786,7 +726,7 @@
         "URL":  "https://open.spotify.com/track/2jlIA1LAmh3RS1W106mmTU",
         "SpotifyRank":  123,
         "ReleaseDate":  "2024-09-25",
-        "YTViews":  1026089,
+        "YTViews":  1026645,
         "YTRank":  53
     },
     {
@@ -796,7 +736,7 @@
         "URL":  "https://open.spotify.com/track/6dQVwIAhfHm0X0Btl9W4VR",
         "SpotifyRank":  125,
         "ReleaseDate":  "2024-09-25",
-        "YTViews":  228233,
+        "YTViews":  228385,
         "YTRank":  90
     },
     {
@@ -806,7 +746,7 @@
         "URL":  "https://open.spotify.com/track/08NrK7NxAWsSZ6lhHqwQC5",
         "SpotifyRank":  130,
         "ReleaseDate":  "2024-09-25",
-        "YTViews":  143480,
+        "YTViews":  143584,
         "YTRank":  109
     },
     {
@@ -816,17 +756,17 @@
         "URL":  "https://open.spotify.com/track/5DjQYA6RdIxQ3bEIckwfx9",
         "SpotifyRank":  54,
         "ReleaseDate":  "2024-07-05",
-        "YTViews":  2622743,
+        "YTViews":  2623947,
         "YTRank":  37
     },
     {
         "Name":  "Zen",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/album_covers/Zen.jpg",
-        "Streams":  2357809,
+        "Streams":  2369522,
         "URL":  "https://open.spotify.com/track/060MftY3uM3R3r1miNh9ys",
         "SpotifyRank":  28,
         "ReleaseDate":  "2025-01-13",
-        "YTViews":  4197341,
+        "YTViews":  4199325,
         "YTRank":  22
     },
     {
@@ -836,7 +776,7 @@
         "URL":  "https://open.spotify.com/track/12DUb8A8xBvjLhuvT3pBvn",
         "SpotifyRank":  114,
         "ReleaseDate":  "2016-05-18",
-        "YTViews":  86235,
+        "YTViews":  86310,
         "YTRank":  123
     },
     {
@@ -846,7 +786,7 @@
         "URL":  "https://open.spotify.com/track/75xmWwWHmRhlT4nTxMosoT",
         "SpotifyRank":  112,
         "ReleaseDate":  "2016-05-18",
-        "YTViews":  116073,
+        "YTViews":  116167,
         "YTRank":  117
     },
     {
@@ -856,7 +796,7 @@
         "URL":  "https://open.spotify.com/track/6njKavlKlkntFIvHC1oz63",
         "SpotifyRank":  37,
         "ReleaseDate":  "2016-05-18",
-        "YTViews":  4479964,
+        "YTViews":  4480994,
         "YTRank":  19
     },
     {
@@ -866,7 +806,7 @@
         "URL":  "https://open.spotify.com/track/2JWONpgq6EQHDc2rWxECyo",
         "SpotifyRank":  68,
         "ReleaseDate":  "2016-05-18",
-        "YTViews":  3686251,
+        "YTViews":  3686591,
         "YTRank":  30
     },
     {
@@ -876,7 +816,7 @@
         "URL":  "https://open.spotify.com/track/75ZDZsEIfJa8iS67V6Q8yc",
         "SpotifyRank":  24,
         "ReleaseDate":  "2016-02-14",
-        "YTViews":  8466883,
+        "YTViews":  8467960,
         "YTRank":  7
     },
     {
@@ -886,7 +826,7 @@
         "URL":  "https://open.spotify.com/track/7yb0f788JRrvzEcmq5O0Cu",
         "SpotifyRank":  21,
         "ReleaseDate":  "2016-11-16",
-        "YTViews":  6484104,
+        "YTViews":  6484914,
         "YTRank":  11
     },
     {
@@ -896,7 +836,7 @@
         "URL":  "https://open.spotify.com/track/1KaVwmwG7RbWjrtwu1gltm",
         "SpotifyRank":  111,
         "ReleaseDate":  "2016-11-16",
-        "YTViews":  106589,
+        "YTViews":  106698,
         "YTRank":  118
     },
     {
@@ -906,7 +846,7 @@
         "URL":  "https://open.spotify.com/track/7KVzM8gaCK8Y3NHK8KMVNB",
         "SpotifyRank":  109,
         "ReleaseDate":  "2016-11-16",
-        "YTViews":  134083,
+        "YTViews":  134197,
         "YTRank":  113
     },
     {
@@ -926,7 +866,7 @@
         "URL":  "https://open.spotify.com/track/7pnJ7ud4Ggd4zWxLaqJ2R3",
         "SpotifyRank":  9,
         "ReleaseDate":  "2017-01-10",
-        "YTViews":  7313384,
+        "YTViews":  7314556,
         "YTRank":  10
     },
     {
@@ -936,7 +876,7 @@
         "URL":  "https://open.spotify.com/track/4AeLObGpkdKSsEiX4Jjs2T",
         "SpotifyRank":  85,
         "ReleaseDate":  "2019-12-11",
-        "YTViews":  996103,
+        "YTViews":  996206,
         "YTRank":  55
     },
     {
@@ -946,7 +886,7 @@
         "URL":  "https://open.spotify.com/track/5PT1nttOtZDZ2uSfV1IpNJ",
         "SpotifyRank":  108,
         "ReleaseDate":  "2019-12-11",
-        "YTViews":  187544,
+        "YTViews":  187650,
         "YTRank":  102
     },
     {
@@ -956,17 +896,17 @@
         "URL":  "https://open.spotify.com/track/6VKBqQovvgnWBBF0EjreDl",
         "SpotifyRank":  90,
         "ReleaseDate":  "2019-12-11",
-        "YTViews":  1000760,
+        "YTViews":  1001032,
         "YTRank":  54
     },
     {
         "Name":  "Blooming",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/album_covers/12%20CONQUEROR.png",
-        "Streams":  4243458,
+        "Streams":  4248775,
         "URL":  "https://open.spotify.com/track/2sI0Geda1N0cAjKnbzujHs",
         "SpotifyRank":  7,
         "ReleaseDate":  "2019-12-09",
-        "YTViews":  4467022,
+        "YTViews":  4468307,
         "YTRank":  20
     },
     {
@@ -976,7 +916,7 @@
         "URL":  "https://open.spotify.com/track/0GW3AhsfYnpHw2QO9B8m4r",
         "SpotifyRank":  20,
         "ReleaseDate":  "2019-11-05",
-        "YTViews":  2700424,
+        "YTViews":  2700917,
         "YTRank":  36
     },
     {
@@ -986,7 +926,7 @@
         "URL":  "https://open.spotify.com/track/23taGXZI9sFYIxdBrqeVaz",
         "SpotifyRank":  5,
         "ReleaseDate":  "2020-12-02",
-        "YTViews":  5650363,
+        "YTViews":  5651602,
         "YTRank":  16
     },
     {
@@ -996,7 +936,7 @@
         "URL":  "https://open.spotify.com/track/7yKit73HABg7GsiRVxKJ9t",
         "SpotifyRank":  76,
         "ReleaseDate":  "2020-12-02",
-        "YTViews":  89573,
+        "YTViews":  89638,
         "YTRank":  120
     },
     {
@@ -1006,7 +946,7 @@
         "URL":  "https://open.spotify.com/track/5U1S4syKs86N7ot1nL1OuM",
         "SpotifyRank":  13,
         "ReleaseDate":  "2021-01-20",
-        "YTViews":  4279574,
+        "YTViews":  4280401,
         "YTRank":  21
     },
     {
@@ -1016,7 +956,7 @@
         "URL":  "https://open.spotify.com/track/69JuxDasPqta67uINvwnku",
         "SpotifyRank":  27,
         "ReleaseDate":  "2021-01-20",
-        "YTViews":  2160837,
+        "YTViews":  2161332,
         "YTRank":  41
     },
     {
@@ -1026,17 +966,17 @@
         "URL":  "https://open.spotify.com/track/1vbI2aDtejlrUJOVXGmM98",
         "SpotifyRank":  18,
         "ReleaseDate":  "2017-01-11",
-        "YTViews":  1838440,
+        "YTViews":  1839156,
         "YTRank":  44
     },
     {
         "Name":  "Moratorium",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/album_covers/05%20just_bring_lt.png",
-        "Streams":  1942718,
+        "Streams":  1945578,
         "URL":  "https://open.spotify.com/track/6mpI27MYRbWYFiwew7oXzR",
         "SpotifyRank":  31,
         "ReleaseDate":  "2017-01-11",
-        "YTViews":  287054,
+        "YTViews":  287266,
         "YTRank":  84
     },
     {
@@ -1046,7 +986,7 @@
         "URL":  "https://open.spotify.com/track/5cpnywSGzX1Puth3ppa2rN",
         "SpotifyRank":  32,
         "ReleaseDate":  "2017-01-11",
-        "YTViews":  1403922,
+        "YTViews":  1404417,
         "YTRank":  49
     },
     {
@@ -1056,7 +996,7 @@
         "URL":  "https://open.spotify.com/track/57KeACFXpYtyunmjhiLYD3",
         "SpotifyRank":  103,
         "ReleaseDate":  "2017-01-11",
-        "YTViews":  142940,
+        "YTViews":  143035,
         "YTRank":  110
     },
     {
@@ -1066,7 +1006,7 @@
         "URL":  "https://open.spotify.com/track/6BQMvthFi4kmiTUkYDcPQH",
         "SpotifyRank":  64,
         "ReleaseDate":  "2017-01-11",
-        "YTViews":  224537,
+        "YTViews":  224716,
         "YTRank":  92
     },
     {
@@ -1076,7 +1016,7 @@
         "URL":  "https://open.spotify.com/track/5XUnkYa4Fxor040HlXZsMm",
         "SpotifyRank":  102,
         "ReleaseDate":  "2017-01-11",
-        "YTViews":  192264,
+        "YTViews":  192405,
         "YTRank":  99
     },
     {
@@ -1086,8 +1026,38 @@
         "URL":  "https://open.spotify.com/track/00SUwMx3FN98r5goKOrcF9",
         "SpotifyRank":  97,
         "ReleaseDate":  "2017-01-11",
-        "YTViews":  163969,
+        "YTViews":  164121,
         "YTRank":  106
+    },
+    {
+        "Name":  "you.",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/album_covers/05%20just_bring_lt.png",
+        "Streams":  912711,
+        "URL":  "https://open.spotify.com/track/3mNkWdHJK1pi1SIi8k8lQc",
+        "SpotifyRank":  74,
+        "ReleaseDate":  "2017-01-11",
+        "YTViews":  345893,
+        "YTRank":  79
+    },
+    {
+        "Name":  "Awkward",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/album_covers/05%20just_bring_lt.png",
+        "Streams":  829421,
+        "URL":  "https://open.spotify.com/track/6nJYYZu1qIwmmdtNxb5J0S",
+        "SpotifyRank":  86,
+        "ReleaseDate":  "2017-01-11",
+        "YTViews":  199402,
+        "YTRank":  97
+    },
+    {
+        "Name":  "decided by myself",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/album_covers/05%20just_bring_lt.png",
+        "Streams":  723966,
+        "URL":  "https://open.spotify.com/track/0bpK8ljibcnkAeSZtjqzZu",
+        "SpotifyRank":  98,
+        "ReleaseDate":  "2017-01-11",
+        "YTViews":  200159,
+        "YTRank":  95
     },
     {
         "Name":  "secret My lips",
@@ -1096,7 +1066,7 @@
         "URL":  "https://open.spotify.com/track/2zGdfGj2Xr7OMXk696JZeV",
         "SpotifyRank":  35,
         "ReleaseDate":  "2017-01-11",
-        "YTViews":  3926759,
+        "YTViews":  3927325,
         "YTRank":  25
     },
     {
@@ -1106,17 +1076,17 @@
         "URL":  "https://open.spotify.com/track/1aFJJrP1R0xIoypSRaA8dQ",
         "SpotifyRank":  14,
         "ReleaseDate":  "2020-12-14",
-        "YTViews":  3926834,
+        "YTViews":  3927408,
         "YTRank":  24
     },
     {
         "Name":  "Manners",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/album_covers/15%20unseen_world.png",
-        "Streams":  1725644,
+        "Streams":  1728671,
         "URL":  "https://open.spotify.com/track/5Pkm3bquCF1uRFSXXlyLde",
         "SpotifyRank":  39,
         "ReleaseDate":  "2021-01-12",
-        "YTViews":  3784548,
+        "YTViews":  3785084,
         "YTRank":  27
     },
     {
@@ -1126,7 +1096,7 @@
         "URL":  "https://open.spotify.com/track/7tbj3JFxYmRH0jbeJ4Zh1j",
         "SpotifyRank":  78,
         "ReleaseDate":  "2021-01-20",
-        "YTViews":  455466,
+        "YTViews":  455669,
         "YTRank":  67
     },
     {
@@ -1136,7 +1106,7 @@
         "URL":  "https://open.spotify.com/track/45N6bBZ7DdDSGBsuiEAvqD",
         "SpotifyRank":  42,
         "ReleaseDate":  "2021-01-20",
-        "YTViews":  488983,
+        "YTViews":  489220,
         "YTRank":  63
     },
     {
@@ -1146,7 +1116,7 @@
         "URL":  "https://open.spotify.com/track/3tZRykqJTASRfa5gGf9Cpp",
         "SpotifyRank":  49,
         "ReleaseDate":  "2021-01-20",
-        "YTViews":  1591876,
+        "YTViews":  1592458,
         "YTRank":  47
     },
     {
@@ -1156,7 +1126,7 @@
         "URL":  "https://open.spotify.com/track/0ejxc9awogjeOcW7diw64R",
         "SpotifyRank":  88,
         "ReleaseDate":  "2021-01-20",
-        "YTViews":  346054,
+        "YTViews":  346158,
         "YTRank":  77
     },
     {
@@ -1166,7 +1136,7 @@
         "URL":  "https://open.spotify.com/track/2AYtj47TZQ2L8qQyL8CimG",
         "SpotifyRank":  79,
         "ReleaseDate":  "2021-01-20",
-        "YTViews":  317646,
+        "YTViews":  317788,
         "YTRank":  81
     },
     {
@@ -1176,7 +1146,7 @@
         "URL":  "https://open.spotify.com/track/1SSLJQS5lS61mZ2Y6T6mqL",
         "SpotifyRank":  89,
         "ReleaseDate":  "2021-01-20",
-        "YTViews":  382964,
+        "YTViews":  383084,
         "YTRank":  73
     },
     {
@@ -1186,17 +1156,17 @@
         "URL":  "https://open.spotify.com/track/4bCHpstXiD0lJQLmNmYySk",
         "SpotifyRank":  81,
         "ReleaseDate":  "2021-01-20",
-        "YTViews":  507996,
+        "YTViews":  508378,
         "YTRank":  62
     },
     {
         "Name":  "BLACK HOLE",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/album_covers/15%20unseen_world.png",
-        "Streams":  1187085,
+        "Streams":  1188866,
         "URL":  "https://open.spotify.com/track/6jLSMISjhuNnDIkDAjWlq5",
         "SpotifyRank":  63,
         "ReleaseDate":  "2021-01-20",
-        "YTViews":  548112,
+        "YTViews":  548354,
         "YTRank":  60
     },
     {
@@ -1206,17 +1176,17 @@
         "URL":  "https://open.spotify.com/track/2jnCDRKe4IfoIN2teGn308",
         "SpotifyRank":  2,
         "ReleaseDate":  "2021-10-27",
-        "YTViews":  7853535,
+        "YTViews":  7855499,
         "YTRank":  9
     },
     {
         "Name":  "Hibana",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/album_covers/18%20sense.png",
-        "Streams":  1203150,
+        "Streams":  1203342,
         "URL":  "https://open.spotify.com/track/31W28cJlXSVXpdiAnSQ0gS",
         "SpotifyRank":  62,
         "ReleaseDate":  "2021-10-27",
-        "YTViews":  528476,
+        "YTViews":  528837,
         "YTRank":  61
     },
     {
@@ -1226,7 +1196,7 @@
         "URL":  "https://open.spotify.com/track/0Gc8ndMsx7uWAN8Rgkf8HF",
         "SpotifyRank":  43,
         "ReleaseDate":  "2021-10-27",
-        "YTViews":  905125,
+        "YTViews":  905480,
         "YTRank":  56
     },
     {
@@ -1236,7 +1206,7 @@
         "URL":  "https://open.spotify.com/track/7JKs9cSTofhiZp693gzUlV",
         "SpotifyRank":  41,
         "ReleaseDate":  "2021-02-03",
-        "YTViews":  1541957,
+        "YTViews":  1542178,
         "YTRank":  48
     },
     {
@@ -1246,7 +1216,7 @@
         "URL":  "https://open.spotify.com/track/5mwQQNsrZI0wstcZfFaNOW",
         "SpotifyRank":  51,
         "ReleaseDate":  "2022-09-21",
-        "YTViews":  2881076,
+        "YTViews":  2882066,
         "YTRank":  35
     },
     {
@@ -1256,7 +1226,7 @@
         "URL":  "https://open.spotify.com/track/1oUAdxeXzLjXuBqm8GBq0K",
         "SpotifyRank":  92,
         "ReleaseDate":  "2022-09-21",
-        "YTViews":  377072,
+        "YTViews":  377309,
         "YTRank":  74
     },
     {
@@ -1266,8 +1236,38 @@
         "URL":  "https://open.spotify.com/track/5Ti8I2TZIE0CM625nT9e0H",
         "SpotifyRank":  11,
         "ReleaseDate":  "2022-08-09",
-        "YTViews":  5724374,
+        "YTViews":  5725927,
         "YTRank":  14
+    },
+    {
+        "Name":  "Ready to Rock",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/album_covers/ReadyToRock.jpg",
+        "Streams":  3901643,
+        "URL":  "https://open.spotify.com/track/6RmznWIj65w4YPTcfVfmpt",
+        "SpotifyRank":  15,
+        "ReleaseDate":  "2025-04-04",
+        "YTViews":  14816753,
+        "YTRank":  4
+    },
+    {
+        "Name":  "What is justice?",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/album_covers/What%20is%20justice.jpg",
+        "Streams":  2118572,
+        "URL":  "#https://open.spotify.com/track/21pcwg3zl1i2Gc7k1VhoH9#",
+        "SpotifyRank":  45,
+        "ReleaseDate":  "2025-07-18",
+        "YTViews":  6236802,
+        "YTRank":  12
+    },
+    {
+        "Name":  "Present Perfect",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/album_covers/SCOOOOOP.png",
+        "Streams":  461560,
+        "URL":  "#https://open.spotify.com/track/6O1zyBjfMe4PU7ie48rgqX#",
+        "SpotifyRank":  119,
+        "ReleaseDate":  "2025-10-22",
+        "YTViews":  3766611,
+        "YTRank":  28
     },
     {
         "Name":  "SUPER SUNSHINE",
@@ -1276,17 +1276,17 @@
         "URL":  "#https://open.spotify.com/track/22qfV45rsOv99E9K571Y6V#",
         "SpotifyRank":  124,
         "ReleaseDate":  "2025-10-22",
-        "YTViews":  1199680,
+        "YTViews":  1201305,
         "YTRank":  51
     },
     {
         "Name":  "SION",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/album_covers/SCOOOOOP.png",
-        "Streams":  257870,
+        "Streams":  258343,
         "URL":  "#https://open.spotify.com/track/0G88m1BynTSHMFtLkTVxgm#",
         "SpotifyRank":  129,
         "ReleaseDate":  "2025-10-22",
-        "YTViews":  327318,
+        "YTViews":  327532,
         "YTRank":  80
     },
     {
@@ -1296,7 +1296,7 @@
         "URL":  "#https://open.spotify.com/track/2pmoVnJStZcRP1Krc2jyIY#",
         "SpotifyRank":  128,
         "ReleaseDate":  "2025-10-22",
-        "YTViews":  1738371,
+        "YTViews":  1739333,
         "YTRank":  45
     },
     {
@@ -1306,7 +1306,7 @@
         "URL":  "#https://open.spotify.com/track/5L3gFBompVf9XgctOOGdnY#",
         "SpotifyRank":  131,
         "ReleaseDate":  "2025-10-22",
-        "YTViews":  174344,
+        "YTViews":  174518,
         "YTRank":  104
     },
     {
@@ -1316,7 +1316,7 @@
         "URL":  "#https://open.spotify.com/track/4bT2SJZpWtvzaXRR4edHN1#",
         "SpotifyRank":  0,
         "ReleaseDate":  "2026-06-24",
-        "YTViews":  190201,
+        "YTViews":  190858,
         "YTRank":  101
     },
     {
@@ -1326,7 +1326,7 @@
         "URL":  "#https://open.spotify.com/track/4tNgjhG1aNUXFC144kTAyH#",
         "SpotifyRank":  0,
         "ReleaseDate":  "2026-06-24",
-        "YTViews":  2445550,
+        "YTViews":  2450460,
         "YTRank":  39
     },
     {
@@ -1336,7 +1336,7 @@
         "URL":  "#https://open.spotify.com/track/1GxXpBehsAn42HrJLp59Df#",
         "SpotifyRank":  0,
         "ReleaseDate":  "2026-06-24",
-        "YTViews":  139572,
+        "YTViews":  140261,
         "YTRank":  112
     }
 ]
