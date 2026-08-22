@@ -48,14 +48,6 @@
         "Start_Japan":  "2026-08-29 11:30:00"
     },
     {
-        "Summary":  "Yamaguchi - WILD BUNCH FEST.",
-        "Location":  "Yamaguchi Kirara Expo Memorial Park management office, Japan, 〒754-1277 Yamaguchi, Ajisu, ５０９−５０ きらら元気ドーム",
-        "URL":  "https://www.wildbunchfest.jp/",
-        "Image":  "https://www.wildbunchfest.jp/wp/wp-content/uploads/2026/04/slider_01-1-0x0.png",
-        "Start_Local":  "2026-08-22 03:10:00",
-        "Start_Japan":  "2026-08-22 16:10:00"
-    },
-    {
         "Summary":  "Aichi - TREASURE05X",
         "Location":  "Otsuka Kaihin Ryokuchi Laguna Beach, 2-chōme-39 Kaiyōchō, Gamagori, Aichi 443-0014, Japan",
         "URL":  "https://www.treasure05x.jp/",
@@ -126,14 +118,6 @@
         "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/vic.webp",
         "Start_Local":  "2026-10-03 21:00:00",
         "Start_Japan":  "2026-10-04 10:00:00"
-    },
-    {
-        "Summary":  "BAND-MAID Anniversary",
-        "Location":  "",
-        "URL":  null,
-        "Image":  "https://bandmaid.tokyo/s3/skiyaki/uploads/artist_photo/image/26493/2026BANDMAID-VISUAL_S.jpg",
-        "Start_Local":  "2026-08-21 11:00:00",
-        "Start_Japan":  "2026-08-22 00:00:00"
     },
     {
         "Summary":  "Kanami Birthday",
