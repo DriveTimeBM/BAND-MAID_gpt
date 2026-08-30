@@ -1,20 +1,26 @@
 ﻿[
     {
-        "Category":  "YouTube Release",
-        "Item":  "① BAND-MAID / Ready to Rock (Official Live #Shorts 2) TVアニメ「ロックは淑女の嗜みでして」オープニングテーマソング",
-        "Detail":  "  ▶️ was released 1 year ago. https://youtu.be/QWKfL5C7oRg",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-    },
-    {
         "Category":  "Okyuji",
-        "Item":  "① 11 years ago 🗾",
-        "Detail":  "  🇯🇵 ROCKTOWN - Osaka,JP [6 songs]",
+        "Item":  "① 12 years ago 🗾",
+        "Detail":  "  🇯🇵 BAYSIS - Yokohama,JP [7 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     },
     {
         "Category":  "Okyuji",
         "Item":  "② 10 years ago 🗾",
-        "Detail":  "  🇯🇵 DROP - Osaka,JP [1 songs]",
+        "Detail":  "  🇯🇵 GARRET udagawa - Tokyo,JP [6 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "③ 9 years ago 🗾",
+        "Detail":  "  🇯🇵 SHIBUYA CYCLONE - Tokyo,JP [7 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "④ 2 years ago 🗾",
+        "Detail":  "  🇯🇵 Spotify O-EAST - Tokyo,JP [22 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     }
 ]
