@@ -21,6 +21,27 @@
         "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/00000.png"
     },
     {
+        "Tour":  "Band-Maid",
+        "City":  "Chicago",
+        "Country":  "United States Of America",
+        "CountryCode":  "US",
+        "Flag":  "🇺🇸",
+        "EventUrl":  "https://www.ticketmaster.com/event/Z7r9jZ1AAZ9vp",
+        "LocalDate":  "2026-10-03",
+        "LocalTime":  "19:30",
+        "DateTime":  "\/Date(1791073800000)\/",
+        "Venue":  "Vic Theatre",
+        "VenueId":  null,
+        "TMUrl":  null,
+        "Address":  "3145 N Sheffield Ave, Chicago, United States Of America",
+        "Longitude":  "-87.656799000",
+        "Latitude":  "41.939602000",
+        "Promoters":  "",
+        "SeatMapUrl":  "https://content.resale.ticketmaster.com/maps/1820-1-2-main.gif",
+        "MapUrl":  "https://www.google.com/maps/search/?api=1\u0026query=41.939602000,-87.656799000",
+        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/.png"
+    },
+    {
         "Tour":  "Band-Maid World Tour 2026",
         "City":  "Huntington",
         "Country":  "United States Of America",
