@@ -88,6 +88,14 @@
         "Start_Japan":  "2026-10-13 11:00:00"
     },
     {
+        "Summary":  "SPIN - release",
+        "Location":  "",
+        "URL":  "https://bandmaid.tokyo/contents/1104790",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/album_covers/SPIN.jpg",
+        "Start_Local":  "2026-10-27 11:00:00",
+        "Start_Japan":  "2026-10-28 00:00:00"
+    },
+    {
         "Summary":  "Phoenix - The Van Buren",
         "Location":  "The Van Buren, 401 W Van Buren St, Phoenix, AZ 85003, USA",
         "URL":  "https://www.thevanburenphx.com/",
