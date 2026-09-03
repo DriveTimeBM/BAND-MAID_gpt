@@ -6,7 +6,7 @@
         "Album":  "Daydreaming / Choose me",
         "KobatoLead":  "no",
         "PlayedLiveCount":  255,
-        "SpotifyStreams":  15977705,
+        "SpotifyStreams":  16008303,
         "MediaTieIn":  "Used in Netflix movie Kate. Used in S01E03 of TV show Peacemaker."
     },
     {
@@ -36,7 +36,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  133,
-        "SpotifyStreams":  7630292,
+        "SpotifyStreams":  7639542,
         "MediaTieIn":  null
     },
     {
@@ -86,7 +86,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  164,
-        "SpotifyStreams":  3971651,
+        "SpotifyStreams":  3977473,
         "MediaTieIn":  null
     },
     {
@@ -146,7 +146,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  56,
-        "SpotifyStreams":  3254552,
+        "SpotifyStreams":  3258698,
         "MediaTieIn":  null
     },
     {
@@ -196,7 +196,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  48,
-        "SpotifyStreams":  2599809,
+        "SpotifyStreams":  2603463,
         "MediaTieIn":  null
     },
     {
@@ -266,7 +266,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  2,
-        "SpotifyStreams":  2205723,
+        "SpotifyStreams":  2208638,
         "MediaTieIn":  null
     },
     {
@@ -296,7 +296,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  84,
-        "SpotifyStreams":  2023941,
+        "SpotifyStreams":  2028678,
         "MediaTieIn":  null
     },
     {
@@ -306,7 +306,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  13,
-        "SpotifyStreams":  2008709,
+        "SpotifyStreams":  2010335,
         "MediaTieIn":  null
     },
     {
@@ -326,7 +326,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  55,
-        "SpotifyStreams":  1951831,
+        "SpotifyStreams":  1955158,
         "MediaTieIn":  null
     },
     {
@@ -376,7 +376,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  261,
-        "SpotifyStreams":  1828942,
+        "SpotifyStreams":  1831231,
         "MediaTieIn":  null
     },
     {
@@ -426,7 +426,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  18,
-        "SpotifyStreams":  1640992,
+        "SpotifyStreams":  1645200,
         "MediaTieIn":  null
     },
     {
@@ -736,7 +736,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  1,
-        "SpotifyStreams":  918047,
+        "SpotifyStreams":  919461,
         "MediaTieIn":  null
     },
     {
@@ -796,7 +796,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  11,
-        "SpotifyStreams":  873059,
+        "SpotifyStreams":  874477,
         "MediaTieIn":  null
     },
     {
@@ -930,6 +930,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Dilemma",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2019-12-11T00:00:00",
+        "Album":  "CONQUEROR",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  13,
+        "SpotifyStreams":  763496,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Memorable",
         "AlternativeName":  "",
         "ReleaseDate":  "2023-02-22T00:00:00",
@@ -940,13 +950,13 @@
         "MediaTieIn":  null
     },
     {
-        "Name":  "Dilemma",
+        "Name":  "Big Dad",
         "AlternativeName":  "",
-        "ReleaseDate":  "2019-12-11T00:00:00",
-        "Album":  "CONQUEROR",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  13,
-        "SpotifyStreams":  762473,
+        "ReleaseDate":  "2014-01-08T00:00:00",
+        "Album":  "MAID IN JAPAN",
+        "KobatoLead":  "yes",
+        "PlayedLiveCount":  10,
+        "SpotifyStreams":  741914,
         "MediaTieIn":  null
     },
     {
@@ -957,16 +967,6 @@
         "KobatoLead":  "yes",
         "PlayedLiveCount":  50,
         "SpotifyStreams":  741748,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Big Dad",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2014-01-08T00:00:00",
-        "Album":  "MAID IN JAPAN",
-        "KobatoLead":  "yes",
-        "PlayedLiveCount":  10,
-        "SpotifyStreams":  741360,
         "MediaTieIn":  null
     },
     {
@@ -1016,7 +1016,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  15,
-        "SpotifyStreams":  705852,
+        "SpotifyStreams":  706542,
         "MediaTieIn":  null
     },
     {
@@ -1086,7 +1086,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  47,
-        "SpotifyStreams":  618401,
+        "SpotifyStreams":  623806,
         "MediaTieIn":  null
     },
     {
@@ -1196,7 +1196,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  12,
-        "SpotifyStreams":  377445,
+        "SpotifyStreams":  379921,
         "MediaTieIn":  null
     },
     {
@@ -1226,7 +1226,7 @@
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
         "PlayedLiveCount":  25,
-        "SpotifyStreams":  333185,
+        "SpotifyStreams":  337733,
         "MediaTieIn":  "Featured in a series of 2026 commercials “Make Life Interesting.” by Takahashi Shuzo Co., Ltd. for Hakutake Shiro."
     },
     {
