@@ -16,7 +16,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  60,
-        "SpotifyStreams":  10971344,
+        "SpotifyStreams":  10988820,
         "MediaTieIn":  "Opening theme for anime series Platinum End"
     },
     {
@@ -46,7 +46,7 @@
         "Album":  "Different",
         "KobatoLead":  "no",
         "PlayedLiveCount":  38,
-        "SpotifyStreams":  7437873,
+        "SpotifyStreams":  7448213,
         "MediaTieIn":  "Opening theme for S3 of anime series Log Horizon"
     },
     {
@@ -76,7 +76,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  174,
-        "SpotifyStreams":  4053435,
+        "SpotifyStreams":  4059190,
         "MediaTieIn":  null
     },
     {
@@ -156,7 +156,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  12,
-        "SpotifyStreams":  2946175,
+        "SpotifyStreams":  2962265,
         "MediaTieIn":  null
     },
     {
@@ -316,7 +316,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  49,
-        "SpotifyStreams":  1957560,
+        "SpotifyStreams":  1961728,
         "MediaTieIn":  null
     },
     {
@@ -416,7 +416,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  126,
-        "SpotifyStreams":  1651290,
+        "SpotifyStreams":  1653513,
         "MediaTieIn":  null
     },
     {
@@ -546,7 +546,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  36,
-        "SpotifyStreams":  1286082,
+        "SpotifyStreams":  1286460,
         "MediaTieIn":  null
     },
     {
@@ -566,7 +566,7 @@
         "Album":  "Love, Passion, Matador (愛と情熱のマタドール)",
         "KobatoLead":  "no",
         "PlayedLiveCount":  36,
-        "SpotifyStreams":  1248086,
+        "SpotifyStreams":  1248748,
         "MediaTieIn":  null
     },
     {
@@ -576,7 +576,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  43,
-        "SpotifyStreams":  1244245,
+        "SpotifyStreams":  1245756,
         "MediaTieIn":  null
     },
     {
@@ -676,7 +676,7 @@
         "Album":  "Bubble",
         "KobatoLead":  "no",
         "PlayedLiveCount":  7,
-        "SpotifyStreams":  1078072,
+        "SpotifyStreams":  1078834,
         "MediaTieIn":  null
     },
     {
@@ -716,7 +716,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  38,
-        "SpotifyStreams":  981332,
+        "SpotifyStreams":  982183,
         "MediaTieIn":  null
     },
     {
@@ -806,7 +806,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  40,
-        "SpotifyStreams":  857365,
+        "SpotifyStreams":  857919,
         "MediaTieIn":  null
     },
     {
@@ -896,7 +896,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  6,
-        "SpotifyStreams":  804401,
+        "SpotifyStreams":  805307,
         "MediaTieIn":  null
     },
     {
@@ -986,7 +986,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  31,
-        "SpotifyStreams":  721149,
+        "SpotifyStreams":  721956,
         "MediaTieIn":  null
     },
     {
@@ -1036,7 +1036,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
-        "SpotifyStreams":  702200,
+        "SpotifyStreams":  702925,
         "MediaTieIn":  null
     },
     {
@@ -1090,6 +1090,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "matchless GUM",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2016-11-16T00:00:00",
+        "Album":  "YOLO",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  53,
+        "SpotifyStreams":  607453,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "At the drop of a hat",
         "AlternativeName":  "",
         "ReleaseDate":  "2019-12-11T00:00:00",
@@ -1097,16 +1107,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  3,
         "SpotifyStreams":  607311,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "matchless GUM",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2016-11-16T00:00:00",
-        "Album":  "YOLO",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  53,
-        "SpotifyStreams":  606917,
         "MediaTieIn":  null
     },
     {
@@ -1156,7 +1156,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  31,
-        "SpotifyStreams":  500764,
+        "SpotifyStreams":  501281,
         "MediaTieIn":  null
     },
     {
@@ -1236,7 +1236,7 @@
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
         "PlayedLiveCount":  29,
-        "SpotifyStreams":  292776,
+        "SpotifyStreams":  296674,
         "MediaTieIn":  null
     },
     {
@@ -1256,7 +1256,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  38,
-        "SpotifyStreams":  238582,
+        "SpotifyStreams":  240053,
         "MediaTieIn":  null
     },
     {
