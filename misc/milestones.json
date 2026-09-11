@@ -1,6 +1,14 @@
-﻿{
-    "Category":  "YouTube AGGREGATE Views",
-    "Item":  "① Ready to Rock ",
-    "Milestone":  "🪨 aggregate views surpassed **15** million!",
-    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-}
+﻿[
+    {
+        "Category":  "YouTube",
+        "Item":  "① BAND-MAID / Manners, BLACK HOLE (Official Live Video) for J-LOD LIVE2 https://youtu.be/iaf94nNSRGE",
+        "Milestone":  "  👀 Surpassed **1,600,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "Spotify",
+        "Item":  "① Zen ",
+        "Milestone":  "🧘‍♀️ Surpassed **2,400,000** streams!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
+    }
+]
