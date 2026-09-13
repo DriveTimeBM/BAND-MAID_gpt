@@ -5,7 +5,7 @@
         "ReleaseDate":  "2017-07-19T00:00:00",
         "Album":  "Daydreaming / Choose me",
         "KobatoLead":  "no",
-        "PlayedLiveCount":  255,
+        "PlayedLiveCount":  256,
         "SpotifyStreams":  16039080,
         "MediaTieIn":  "Used in Netflix movie Kate. Used in S01E03 of TV show Peacemaker."
     },
@@ -55,7 +55,7 @@
         "ReleaseDate":  "2018-02-14T00:00:00",
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
-        "PlayedLiveCount":  157,
+        "PlayedLiveCount":  158,
         "SpotifyStreams":  6347325,
         "MediaTieIn":  null
     },
@@ -85,7 +85,7 @@
         "ReleaseDate":  "2025-04-04T00:00:00",
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
-        "PlayedLiveCount":  50,
+        "PlayedLiveCount":  51,
         "SpotifyStreams":  4010888,
         "MediaTieIn":  "Opening theme for anime series Rock Is a Lady\u0027s Modesty"
     },
@@ -106,7 +106,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  117,
-        "SpotifyStreams":  3933470,
+        "SpotifyStreams":  3937173,
         "MediaTieIn":  "Ending theme for anime series Yu-Gi-Oh! VRAINS (ep 71-95)"
     },
     {
@@ -126,7 +126,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  33,
-        "SpotifyStreams":  3435099,
+        "SpotifyStreams":  3442936,
         "MediaTieIn":  null
     },
     {
@@ -136,7 +136,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  39,
-        "SpotifyStreams":  3405893,
+        "SpotifyStreams":  3411133,
         "MediaTieIn":  "Used in TV show World Pro-Wrestling (TV Asahi)"
     },
     {
@@ -216,7 +216,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  95,
-        "SpotifyStreams":  2470715,
+        "SpotifyStreams":  2474153,
         "MediaTieIn":  "Used in mobile game Valiant Knights"
     },
     {
@@ -256,7 +256,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  166,
-        "SpotifyStreams":  2344973,
+        "SpotifyStreams":  2348533,
         "MediaTieIn":  null
     },
     {
@@ -275,8 +275,8 @@
         "ReleaseDate":  "2025-07-18T00:00:00",
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
-        "PlayedLiveCount":  27,
-        "SpotifyStreams":  2183188,
+        "PlayedLiveCount":  28,
+        "SpotifyStreams":  2204188,
         "MediaTieIn":  "Ending theme for anime series Tougen Anki. Included in video game Forza Horizon 6 on the Horizon XS in-game radio station."
     },
     {
@@ -285,7 +285,7 @@
         "ReleaseDate":  "2021-01-20T00:00:00",
         "Album":  "Unseen World",
         "KobatoLead":  "no",
-        "PlayedLiveCount":  133,
+        "PlayedLiveCount":  134,
         "SpotifyStreams":  2177358,
         "MediaTieIn":  null
     },
@@ -526,7 +526,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  73,
-        "SpotifyStreams":  1368529,
+        "SpotifyStreams":  1369319,
         "MediaTieIn":  null
     },
     {
@@ -606,7 +606,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  69,
-        "SpotifyStreams":  1214355,
+        "SpotifyStreams":  1216112,
         "MediaTieIn":  "Ending theme for anime series Quiz Tokiko-san"
     },
     {
@@ -630,6 +630,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Wonderland",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2019-12-11T00:00:00",
+        "Album":  "CONQUEROR",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  37,
+        "SpotifyStreams":  1131251,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Take me higher!!",
         "AlternativeName":  "",
         "ReleaseDate":  "2017-01-11T00:00:00",
@@ -637,16 +647,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  59,
         "SpotifyStreams":  1130512,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Wonderland",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2019-12-11T00:00:00",
-        "Album":  "CONQUEROR",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  37,
-        "SpotifyStreams":  1130069,
         "MediaTieIn":  null
     },
     {
@@ -686,7 +686,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  36,
-        "SpotifyStreams":  1052626,
+        "SpotifyStreams":  1053481,
         "MediaTieIn":  null
     },
     {
@@ -756,7 +756,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  4,
-        "SpotifyStreams":  909911,
+        "SpotifyStreams":  911434,
         "MediaTieIn":  null
     },
     {
@@ -776,7 +776,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  12,
-        "SpotifyStreams":  897949,
+        "SpotifyStreams":  899074,
         "MediaTieIn":  null
     },
     {
@@ -956,7 +956,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  50,
-        "SpotifyStreams":  742533,
+        "SpotifyStreams":  743245,
         "MediaTieIn":  null
     },
     {
@@ -976,7 +976,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  27,
-        "SpotifyStreams":  726283,
+        "SpotifyStreams":  727108,
         "MediaTieIn":  null
     },
     {
@@ -996,7 +996,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  17,
-        "SpotifyStreams":  715853,
+        "SpotifyStreams":  717422,
         "MediaTieIn":  null
     },
     {
@@ -1066,7 +1066,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  1,
-        "SpotifyStreams":  646034,
+        "SpotifyStreams":  646774,
         "MediaTieIn":  null
     },
     {
@@ -1175,7 +1175,7 @@
         "ReleaseDate":  "2025-10-22T00:00:00",
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
-        "PlayedLiveCount":  30,
+        "PlayedLiveCount":  31,
         "SpotifyStreams":  473731,
         "MediaTieIn":  null
     },
@@ -1186,7 +1186,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  1,
-        "SpotifyStreams":  420512,
+        "SpotifyStreams":  421117,
         "MediaTieIn":  null
     },
     {
@@ -1225,7 +1225,7 @@
         "ReleaseDate":  "2025-10-22T00:00:00",
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
-        "PlayedLiveCount":  26,
+        "PlayedLiveCount":  27,
         "SpotifyStreams":  342149,
         "MediaTieIn":  "Featured in a series of 2026 commercials “Make Life Interesting.” by Takahashi Shuzo Co., Ltd. for Hakutake Shiro."
     },
@@ -1235,7 +1235,7 @@
         "ReleaseDate":  "2025-10-22T00:00:00",
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
-        "PlayedLiveCount":  29,
+        "PlayedLiveCount":  30,
         "SpotifyStreams":  296674,
         "MediaTieIn":  null
     },
@@ -1285,7 +1285,7 @@
         "ReleaseDate":  "2026-06-24T00:00:00",
         "Album":  "ENERGETIC",
         "KobatoLead":  "no",
-        "PlayedLiveCount":  16,
+        "PlayedLiveCount":  17,
         "SpotifyStreams":  202961,
         "MediaTieIn":  null
     },
@@ -1300,6 +1300,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Get to the top",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2024-09-25T00:00:00",
+        "Album":  "Epic Narratives",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  18,
+        "SpotifyStreams":  187245,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "YOLO (instrumental)",
         "AlternativeName":  "",
         "ReleaseDate":  "2016-11-16T00:00:00",
@@ -1307,16 +1317,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
         "SpotifyStreams":  186740,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Get to the top",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2024-09-25T00:00:00",
-        "Album":  "Epic Narratives",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  18,
-        "SpotifyStreams":  186498,
         "MediaTieIn":  null
     },
     {
@@ -1336,7 +1336,7 @@
         "Album":  "ENERGETIC",
         "KobatoLead":  "no",
         "PlayedLiveCount":  6,
-        "SpotifyStreams":  92514,
+        "SpotifyStreams":  97280,
         "MediaTieIn":  null
     },
     {
