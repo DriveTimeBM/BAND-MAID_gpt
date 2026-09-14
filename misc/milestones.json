@@ -1,14 +1,20 @@
 ﻿[
     {
         "Category":  "YouTube",
-        "Item":  "① Choose me https://youtu.be/Imq5n_Cmd4o",
-        "Milestone":  "  👍 Surpassed **20,000** likes!",
+        "Item":  "① Zen https://youtu.be/XHuBR4nAjrE",
+        "Milestone":  "  👍 Surpassed **10,000** likes!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
-        "Category":  "Spotify",
-        "Item":  "① What is justice? ",
-        "Milestone":  "⚖️❓ Surpassed **2,200,000** streams!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
+        "Category":  "Instagram Followers",
+        "Item":  "① Instagram milestone",
+        "Milestone":  "📸BAND-MAID followers surpassed **172,000**!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/instagram.svg"
+    },
+    {
+        "Category":  "Facebook Followers",
+        "Item":  "② Facebook milestone",
+        "Milestone":  "ⒻBAND-MAID followers surpassed **128,000**!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/facebook.svg"
     }
 ]
