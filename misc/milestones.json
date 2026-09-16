@@ -1,20 +1,14 @@
 ﻿[
     {
-        "Category":  "YouTube",
-        "Item":  "① glory https://youtu.be/9TwXsbGFYnU",
-        "Milestone":  "  👀 Surpassed **500,000** views!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-    },
-    {
         "Category":  "Spotify",
-        "Item":  "① FATE ",
-        "Milestone":  "🅵❽ Surpassed **1,800,000** streams!",
+        "Item":  "① Sense ",
+        "Milestone":  "👁️ Surpassed **11,000,000** streams!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
     },
     {
         "Category":  "Spotify",
-        "Item":  "② Lock and Load ",
-        "Milestone":  "🔒 Surpassed **200,000** streams!",
+        "Item":  "② Dilly-Dally ",
+        "Milestone":  "🐌 Surpassed **300,000** streams!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
     }
 ]
