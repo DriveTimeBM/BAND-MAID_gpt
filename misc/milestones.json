@@ -1,14 +1,6 @@
-﻿[
-    {
-        "Category":  "Spotify",
-        "Item":  "① Sense ",
-        "Milestone":  "👁️ Surpassed **11,000,000** streams!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
-    },
-    {
-        "Category":  "Spotify",
-        "Item":  "② Dilly-Dally ",
-        "Milestone":  "🐌 Surpassed **300,000** streams!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
-    }
-]
+﻿{
+    "Category":  "YouTube AGGREGATE Views",
+    "Item":  "① The Dragon Cries ",
+    "Milestone":  "🐉🐦‍🔥 aggregate views surpassed **1** million!",
+    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+}
