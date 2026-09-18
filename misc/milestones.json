@@ -1,6 +1,20 @@
-﻿{
-    "Category":  "YouTube AGGREGATE Views",
-    "Item":  "① The Dragon Cries ",
-    "Milestone":  "🐉🐦‍🔥 aggregate views surpassed **1** million!",
-    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-}
+﻿[
+    {
+        "Category":  "YouTube AGGREGATE AUDIO stream Milestones",
+        "Item":  "① HATE? ",
+        "Milestone":  "🤬  aggregate AUDIO streams surpassed **500,000**!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube",
+        "Item":  "① HATE? https://youtu.be/OJnKhVPDe4Q",
+        "Milestone":  "  👀 Surpassed **500,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube",
+        "Item":  "② BAND-MAID / ENERGETIC (Official Music Video) https://youtu.be/NpZjslVGhbE",
+        "Milestone":  "  👀 Surpassed **2,000,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    }
+]
