@@ -1,6 +1,56 @@
-﻿{
-    "Category":  "Okyuji",
-    "Item":  "① 10 years ago 🗾",
-    "Detail":  "  🇯🇵 DROP - Osaka,JP [12 songs]",
-    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
-}
+﻿[
+    {
+        "Category":  "YouTube Release",
+        "Item":  "① HATE?",
+        "Detail":  "  ▶️ was released 4 years ago. https://youtu.be/OJnKhVPDe4Q",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube Release",
+        "Item":  "② Balance",
+        "Detail":  "  ▶️ was released 4 years ago. https://youtu.be/TwrvDCcYuRE",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube Release",
+        "Item":  "③ I\u0027ll",
+        "Detail":  "  ▶️ was released 4 years ago. https://youtu.be/S2kocC6yMik",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube Release",
+        "Item":  "④ Sense",
+        "Detail":  "  ▶️ was released 4 years ago. https://youtu.be/eAX5_kypXp4",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube Release",
+        "Item":  "⑤ Corallium",
+        "Detail":  "  ▶️ was released 4 years ago. https://youtu.be/FywmRdKKSjg",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube Release",
+        "Item":  "⑥ from now on",
+        "Detail":  "  ▶️ was released 4 years ago. https://youtu.be/MK0auns521Q",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube Release",
+        "Item":  "⑦ Unleash!!!!!",
+        "Detail":  "  ▶️ was released 4 years ago. https://youtu.be/uLTBtjZEGv0",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube Release",
+        "Item":  "⑧ influencer",
+        "Detail":  "  ▶️ was released 4 years ago. https://youtu.be/Ly62PczTrZM",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube Release",
+        "Item":  "⑨ BAND-MAID / influencer (Official Music Video)",
+        "Detail":  "  ▶️ was released 4 years ago. https://youtu.be/e_bEf1C0spY",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    }
+]
