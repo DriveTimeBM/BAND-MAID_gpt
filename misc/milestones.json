@@ -1,20 +1,6 @@
-﻿[
-    {
-        "Category":  "YouTube",
-        "Item":  "① BAND-MAID / Choose me  (Official Music Video) https://youtu.be/MZIJ2vFxu9Y",
-        "Milestone":  "  👀 Surpassed **16,300,000** views!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-    },
-    {
-        "Category":  "YouTube",
-        "Item":  "① Zen https://youtu.be/XHuBR4nAjrE",
-        "Milestone":  "  👍 Surpassed **10,000** likes!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-    },
-    {
-        "Category":  "Twitter/X Followers",
-        "Item":  "① X/Twitter milestone.",
-        "Milestone":  "ⓍMiku followers surpassed **62,000**!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/x-twitter.svg"
-    }
-]
+﻿{
+    "Category":  "Spotify",
+    "Item":  "① Daydreaming ",
+    "Milestone":  "😴 Surpassed **2,400,000** streams!",
+    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
+}
