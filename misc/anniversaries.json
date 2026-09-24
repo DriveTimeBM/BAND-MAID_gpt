@@ -1,14 +1,110 @@
 ﻿[
     {
         "Category":  "Live Debut",
-        "Item":  "① Brightest Star ",
-        "Detail":  " 🌟 was first played live 3 years ago at Hiroshima CLUB QUATTRO, Hiroshima, Japan",
+        "Item":  "① One and only ",
+        "Detail":  " 1️⃣ was first played live 9 years ago at Sapporo cubu garden, Hokkaido, Japan",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
     },
     {
+        "Category":  "YouTube Release",
+        "Item":  "① SHOW THEM",
+        "Detail":  "  ▶️ was released 2 years ago. https://youtu.be/42AfEN1SGZ4",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube Release",
+        "Item":  "② Shambles",
+        "Detail":  "  ▶️ was released 2 years ago. https://youtu.be/8eu3BQgB9OQ",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube Release",
+        "Item":  "③ Brightest star",
+        "Detail":  "  ▶️ was released 2 years ago. https://youtu.be/70uZ87dY2z0",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube Release",
+        "Item":  "④ The one",
+        "Detail":  "  ▶️ was released 2 years ago. https://youtu.be/FORNyqfjSmM",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube Release",
+        "Item":  "⑤ Toi et moi",
+        "Detail":  "  ▶️ was released 2 years ago. https://youtu.be/V9VDAoYf0A0",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube Release",
+        "Item":  "⑥ Letters to you",
+        "Detail":  "  ▶️ was released 2 years ago. https://youtu.be/T7lS8NkIapQ",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube Release",
+        "Item":  "⑦ Protect You",
+        "Detail":  "  ▶️ was released 2 years ago. https://youtu.be/PDaRbNVVdCE",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube Release",
+        "Item":  "⑧ Go easy",
+        "Detail":  "  ▶️ was released 2 years ago. https://youtu.be/ZBbvy6Qx4wE",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube Release",
+        "Item":  "⑨ Bestie",
+        "Detail":  "  ▶️ was released 2 years ago. https://youtu.be/eLQCEiBUthE",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube Release",
+        "Item":  "⑩ Magie",
+        "Detail":  "  ▶️ was released 2 years ago. https://youtu.be/p0OxjDTf_2A",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube Release",
+        "Item":  "⑪ Forbidden tale",
+        "Detail":  "  ▶️ was released 2 years ago. https://youtu.be/l29qDqsgORA",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube Release",
+        "Item":  "⑫ TAMAYA!",
+        "Detail":  "  ▶️ was released 2 years ago. https://youtu.be/vvpswsFRawM",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube Release",
+        "Item":  "⑬ Memorable",
+        "Detail":  "  ▶️ was released 2 years ago. https://youtu.be/o8p3rYAKFys",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube Release",
+        "Item":  "⑭ Get to the top",
+        "Detail":  "  ▶️ was released 2 years ago. https://youtu.be/z0KTMEXJ1RE",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube Release",
+        "Item":  "⑮ BAND-MAID / New Album \"Epic Narratives\" (Official Teaser Video)",
+        "Detail":  "  ▶️ was released 2 years ago. https://youtu.be/8dawxG_v7Fc",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
         "Category":  "Okyuji",
-        "Item":  "① 3 years ago 🗾",
-        "Detail":  "  🇯🇵 Hiroshima CLUB QUATTRO - Hiroshima,JP [23 songs]",
+        "Item":  "① 9 years ago 🗾",
+        "Detail":  "  🇯🇵 cube garden - Sapporo,JP [22 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "② 8 years ago 🗾",
+        "Detail":  "  🇯🇵 CRAZYMAMA KINGDOM - Okayama,JP [23 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     }
 ]
