@@ -1,14 +1,6 @@
-﻿[
-    {
-        "Category":  "YouTube",
-        "Item":  "① What is justice? https://youtu.be/vu2D3lzH7Y0",
-        "Milestone":  "  👀 Surpassed **1,400,000** views!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-    },
-    {
-        "Category":  "Spotify",
-        "Item":  "① Choose me ",
-        "Milestone":  "🗳️ Surpassed **16,100,000** streams!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
-    }
-]
+﻿{
+    "Category":  "YouTube",
+    "Item":  "① Ready to Rock https://youtu.be/5uOdE0j4h1E",
+    "Milestone":  "  👀 Surpassed **3,000,000** views!",
+    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+}
