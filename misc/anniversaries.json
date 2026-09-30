@@ -1,14 +1,32 @@
 ﻿[
     {
         "Category":  "Okyuji",
-        "Item":  "① 11 years ago 🗾",
-        "Detail":  "  🇯🇵 Shibuya Milkyway - Tokyo,JP [5 songs]",
+        "Item":  "① 12 years ago 🗾",
+        "Detail":  "  🇯🇵 gee-ge. - Tokyo,JP [6 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     },
     {
         "Category":  "Okyuji",
-        "Item":  "② 9 years ago 🗾",
-        "Detail":  "  🇯🇵 B.9 V2 - Kumamoto,JP [23 songs]",
+        "Item":  "② 11 years ago 🗾",
+        "Detail":  "  🇯🇵 morph - Tokyo,JP [5 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "③ 8 years ago 🗾",
+        "Detail":  "  🇯🇵 Rensa - Sendai,JP [23 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "④ 7 years ago 🌎",
+        "Detail":  "  🇺🇸 Echoplex - Los Angeles,US [23 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "⑤ 3 years ago 🗾",
+        "Detail":  "  🇯🇵 MONSTER - Takamatsu,JP [23 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     }
 ]

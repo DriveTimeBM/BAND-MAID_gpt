@@ -1,6 +1,14 @@
-﻿{
-    "Category":  "Spotify",
-    "Item":  "① about Us ",
-    "Milestone":  "👨‍👩‍👧‍👧 Surpassed **1,600,000** streams!",
-    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
-}
+﻿[
+    {
+        "Category":  "YouTube",
+        "Item":  "① BAND-MAID / Sense (Official Music Video) https://youtu.be/BWN6iOFjm9U",
+        "Milestone":  "  👀 Surpassed **5,200,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube",
+        "Item":  "① BAND-MAID / Choose me  (Official Music Video) https://youtu.be/MZIJ2vFxu9Y",
+        "Milestone":  "  👍 Surpassed **180,000** likes!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    }
+]
