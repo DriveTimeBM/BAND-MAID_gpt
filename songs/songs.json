@@ -6,7 +6,7 @@
         "Album":  "Daydreaming / Choose me",
         "KobatoLead":  "no",
         "PlayedLiveCount":  257,
-        "SpotifyStreams":  16100845,
+        "SpotifyStreams":  16131534,
         "MediaTieIn":  "Used in Netflix movie Kate. Used in S01E03 of TV show Peacemaker."
     },
     {
@@ -36,7 +36,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  133,
-        "SpotifyStreams":  7667118,
+        "SpotifyStreams":  7676107,
         "MediaTieIn":  null
     },
     {
@@ -96,7 +96,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  164,
-        "SpotifyStreams":  3995734,
+        "SpotifyStreams":  4001670,
         "MediaTieIn":  null
     },
     {
@@ -146,7 +146,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  56,
-        "SpotifyStreams":  3270023,
+        "SpotifyStreams":  3273861,
         "MediaTieIn":  null
     },
     {
@@ -196,7 +196,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  48,
-        "SpotifyStreams":  2614163,
+        "SpotifyStreams":  2617817,
         "MediaTieIn":  null
     },
     {
@@ -276,7 +276,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  2,
-        "SpotifyStreams":  2217944,
+        "SpotifyStreams":  2220649,
         "MediaTieIn":  null
     },
     {
@@ -296,7 +296,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  84,
-        "SpotifyStreams":  2042235,
+        "SpotifyStreams":  2046790,
         "MediaTieIn":  null
     },
     {
@@ -306,7 +306,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  13,
-        "SpotifyStreams":  2015422,
+        "SpotifyStreams":  2017443,
         "MediaTieIn":  null
     },
     {
@@ -326,7 +326,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  55,
-        "SpotifyStreams":  1964667,
+        "SpotifyStreams":  1967805,
         "MediaTieIn":  null
     },
     {
@@ -376,7 +376,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  261,
-        "SpotifyStreams":  1837863,
+        "SpotifyStreams":  1840119,
         "MediaTieIn":  null
     },
     {
@@ -426,7 +426,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  18,
-        "SpotifyStreams":  1657163,
+        "SpotifyStreams":  1661074,
         "MediaTieIn":  null
     },
     {
@@ -736,7 +736,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  1,
-        "SpotifyStreams":  923808,
+        "SpotifyStreams":  925146,
         "MediaTieIn":  null
     },
     {
@@ -796,7 +796,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  11,
-        "SpotifyStreams":  877940,
+        "SpotifyStreams":  879341,
         "MediaTieIn":  null
     },
     {
@@ -946,7 +946,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  13,
-        "SpotifyStreams":  766354,
+        "SpotifyStreams":  767371,
         "MediaTieIn":  null
     },
     {
@@ -966,7 +966,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  743484,
+        "SpotifyStreams":  744046,
         "MediaTieIn":  null
     },
     {
@@ -1016,7 +1016,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  15,
-        "SpotifyStreams":  708439,
+        "SpotifyStreams":  709150,
         "MediaTieIn":  null
     },
     {
@@ -1070,6 +1070,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Brightest Star",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2024-09-25T00:00:00",
+        "Album":  "Epic Narratives",
+        "KobatoLead":  "yes",
+        "PlayedLiveCount":  47,
+        "SpotifyStreams":  646612,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "LOOK AT ME",
         "AlternativeName":  "",
         "ReleaseDate":  "2016-05-18T00:00:00",
@@ -1077,16 +1087,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  49,
         "SpotifyStreams":  645703,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Brightest Star",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2024-09-25T00:00:00",
-        "Album":  "Epic Narratives",
-        "KobatoLead":  "yes",
-        "PlayedLiveCount":  47,
-        "SpotifyStreams":  641164,
         "MediaTieIn":  null
     },
     {
@@ -1196,7 +1196,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  12,
-        "SpotifyStreams":  387534,
+        "SpotifyStreams":  389936,
         "MediaTieIn":  null
     },
     {
@@ -1210,6 +1210,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "SUPER SUNSHINE",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2025-10-22T00:00:00",
+        "Album":  "SCOOOOOP",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  28,
+        "SpotifyStreams":  357224,
+        "MediaTieIn":  "Featured in a series of 2026 commercials “Make Life Interesting.” by Takahashi Shuzo Co., Ltd. for Hakutake Shiro."
+    },
+    {
         "Name":  "The one",
         "AlternativeName":  "",
         "ReleaseDate":  "2024-09-25T00:00:00",
@@ -1218,16 +1228,6 @@
         "PlayedLiveCount":  8,
         "SpotifyStreams":  356864,
         "MediaTieIn":  null
-    },
-    {
-        "Name":  "SUPER SUNSHINE",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2025-10-22T00:00:00",
-        "Album":  "SCOOOOOP",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  28,
-        "SpotifyStreams":  352420,
-        "MediaTieIn":  "Featured in a series of 2026 commercials “Make Life Interesting.” by Takahashi Shuzo Co., Ltd. for Hakutake Shiro."
     },
     {
         "Name":  "Dilly-Dally",

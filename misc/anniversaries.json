@@ -1,20 +1,44 @@
 ﻿[
     {
+        "Category":  "Live Debut",
+        "Item":  "① alone ",
+        "Detail":  " 🙎‍♀️ was first played live 10 years ago at TSUTAYA O-West, Tokyo, Japan",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
+    },
+    {
+        "Category":  "Live Debut",
+        "Item":  "② YOLO ",
+        "Detail":  " 😎🎢 was first played live 10 years ago at TSUTAYA O-West, Tokyo, Japan",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
+    },
+    {
+        "Category":  "YouTube Release",
+        "Item":  "① BAND-MAID / What is justice? ×『桃源暗鬼』  Special Music Video #shorts (Anime Music Video Shorts)",
+        "Detail":  "  ▶️ was released 1 year ago. https://youtu.be/sts6c_ZTwUM",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube Release",
+        "Item":  "② BAND-MAID / YOLO (Official Music Video)",
+        "Detail":  "  ▶️ was released 10 years ago. https://youtu.be/wKZbzcUdY1g",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
         "Category":  "Okyuji",
         "Item":  "① 12 years ago 🗾",
-        "Detail":  "  🇯🇵 gee-ge. - Tokyo,JP [6 songs]",
+        "Detail":  "  🇯🇵 morph - Tokyo,JP [6 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     },
     {
         "Category":  "Okyuji",
-        "Item":  "② 11 years ago 🗾",
-        "Detail":  "  🇯🇵 morph - Tokyo,JP [5 songs]",
+        "Item":  "② 10 years ago 🗾",
+        "Detail":  "  🇯🇵 TSUTAYA O-WEST - Tokyo,JP [18 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     },
     {
         "Category":  "Okyuji",
-        "Item":  "③ 8 years ago 🗾",
-        "Detail":  "  🇯🇵 Rensa - Sendai,JP [23 songs]",
+        "Item":  "③ 9 years ago 🗾",
+        "Detail":  "  🇯🇵 DRUM LOGOS - Fukuoka,JP [23 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     },
     {
@@ -26,7 +50,7 @@
     {
         "Category":  "Okyuji",
         "Item":  "⑤ 3 years ago 🗾",
-        "Detail":  "  🇯🇵 MONSTER - Takamatsu,JP [23 songs]",
+        "Detail":  "  🇯🇵 SALON KITTY - Matsuyama,JP [23 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     }
 ]
