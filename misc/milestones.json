@@ -1,14 +1,6 @@
-﻿[
-    {
-        "Category":  "YouTube AGGREGATE AUDIO stream Milestones",
-        "Item":  "① Don\u0027t you tell ME ",
-        "Milestone":  "🙊  aggregate AUDIO streams surpassed **600,000**!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-    },
-    {
-        "Category":  "YouTube AGGREGATE AUDIO stream Milestones",
-        "Item":  "② Rinne ",
-        "Milestone":  "♻️  aggregate AUDIO streams surpassed **400,000**!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-    }
-]
+﻿{
+    "Category":  "Total Streams",
+    "Item":  "YouTube Total Streams",
+    "Milestone":  "  👀 Surpassed **306** MILLION views!",
+    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+}
