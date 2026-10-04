@@ -1,5 +1,21 @@
 ﻿[
     {
+        "SetDate":  "2026-10-03",
+        "Country":  "US",
+        "City":  "Chicago",
+        "Venue":  "Vic Theatre",
+        "Tour":  "WORLD TOUR 2026",
+        "URL":  "https://www.setlist.fm/setlist/bandmaid/2026/vic-theatre-chicago-il-370c5a3.html",
+        "NumberOfSongs":  19,
+        "SetlistDelimited":  "ENERGETIC/DOMINATION/Shambles/HATE?/Choose me/Brightest Star/Toi et moi/CAGE/Lock and Load/Present Perfect/Days/endless Story/Memorable/SPIN/SUPER SUNSHINE/Dilly-Dally/Ready to Rock/NO GOD/Unleash!!!!!",
+        "Opener":  "ENERGETIC",
+        "Closer":  "Unleash!!!!!",
+        "LatLon":  "41.9395487,-87.6537946",
+        "Latitude":  41.9395487,
+        "Longitude":  -87.6537946,
+        "Map":  "https://www.google.com/maps/search/?api=1\u0026query=41.9395487,-87.6537946"
+    },
+    {
         "SetDate":  "2026-09-20",
         "Country":  "TW",
         "City":  "Taipei",
