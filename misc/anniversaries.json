@@ -1,14 +1,26 @@
 ﻿[
     {
-        "Category":  "YouTube Release",
-        "Item":  "① BAND-MAID / Forbidden tale (Official Music Video)",
-        "Detail":  "  ▶️ was released 2 years ago. https://youtu.be/EiknA3mWivA",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+        "Category":  "Live Debut",
+        "Item":  "① Forbidden tale ",
+        "Detail":  " 🚫 was first played live 2 years ago at BEAT STATION, Fukuoka, Japan",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
+    },
+    {
+        "Category":  "Live Debut",
+        "Item":  "② Get to the top ",
+        "Detail":  " 🔝 was first played live 2 years ago at BEAT STATION, Fukuoka, Japan",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
     },
     {
         "Category":  "Okyuji",
-        "Item":  "① 13 years ago 🗾",
-        "Detail":  "  🇯🇵 Shibuya Milkyway - Tokyo,JP [0 songs]",
+        "Item":  "① 7 years ago 🗾",
+        "Detail":  "  🇯🇵 Sakurajima Tamokuteki Hiroba - Kagoshima,JP [6 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "② 2 years ago 🗾",
+        "Detail":  "  🇯🇵 BEAT STATION - Fukuoka,JP [22 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     }
 ]

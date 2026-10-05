@@ -1,6 +1,20 @@
-﻿{
-    "Category":  "YouTube",
-    "Item":  "① BAND-MAID / What is justice? (Official Music Video) TVアニメ「桃源暗鬼」エンディング主題歌 https://youtu.be/3kMIh0_Wkpk",
-    "Milestone":  "  👀 Surpassed **3,500,000** views!",
-    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-}
+﻿[
+    {
+        "Category":  "YouTube AGGREGATE AUDIO stream Milestones",
+        "Item":  "① H-G-K ",
+        "Milestone":  "💣  aggregate AUDIO streams surpassed **500,000**!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube",
+        "Item":  "① H-G-K https://youtu.be/VAFq8-Xnf_8",
+        "Milestone":  "  👀 Surpassed **500,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "Instagram Followers",
+        "Item":  "① Instagram milestone",
+        "Milestone":  "📸Saiki followers surpassed **83,000**!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/instagram.svg"
+    }
+]
