@@ -1,26 +1,14 @@
 ﻿[
     {
-        "Category":  "Live Debut",
-        "Item":  "① Forbidden tale ",
-        "Detail":  " 🚫 was first played live 2 years ago at BEAT STATION, Fukuoka, Japan",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
-    },
-    {
-        "Category":  "Live Debut",
-        "Item":  "② Get to the top ",
-        "Detail":  " 🔝 was first played live 2 years ago at BEAT STATION, Fukuoka, Japan",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
+        "Category":  "YouTube Release",
+        "Item":  "① BAND-MAID / Don’t let me down (Official Music Video)",
+        "Detail":  "  ▶️ was released 11 years ago. https://youtu.be/0YGwUhg2XNk",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
         "Category":  "Okyuji",
-        "Item":  "① 7 years ago 🗾",
-        "Detail":  "  🇯🇵 Sakurajima Tamokuteki Hiroba - Kagoshima,JP [6 songs]",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
-    },
-    {
-        "Category":  "Okyuji",
-        "Item":  "② 2 years ago 🗾",
-        "Detail":  "  🇯🇵 BEAT STATION - Fukuoka,JP [22 songs]",
+        "Item":  "① 9 years ago 🗾",
+        "Detail":  "  🇯🇵 darwin - Sendai,JP [23 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     }
 ]
