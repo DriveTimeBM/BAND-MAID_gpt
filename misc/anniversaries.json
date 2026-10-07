@@ -1,14 +1,20 @@
 ﻿[
     {
-        "Category":  "YouTube Release",
-        "Item":  "① BAND-MAID / Don’t let me down (Official Music Video)",
-        "Detail":  "  ▶️ was released 11 years ago. https://youtu.be/0YGwUhg2XNk",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+        "Category":  "Okyuji",
+        "Item":  "① 8 years ago 🗾",
+        "Detail":  "  🇯🇵 MONSTER - Takamatsu,JP [23 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     },
     {
         "Category":  "Okyuji",
-        "Item":  "① 9 years ago 🗾",
-        "Detail":  "  🇯🇵 darwin - Sendai,JP [23 songs]",
+        "Item":  "② 3 years ago 🗾",
+        "Detail":  "  🇯🇵 Akita Club SWINDLE - Akita,JP [23 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Other",
+        "Item":  "① 9 years ago",
+        "Detail":  "Choose Me OMV surpassed 1 million views",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Band-Maid%20color%20pop%204.png"
     }
 ]
