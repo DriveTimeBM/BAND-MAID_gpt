@@ -94,5 +94,21 @@
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/album_covers/SPIN.jpg",
         "Start_Local":  "2026-10-27 11:00:00",
         "Start_Japan":  "2026-10-28 00:00:00"
+    },
+    {
+        "Summary":  "Budokan Merch Start",
+        "Location":  "",
+        "URL":  "https://bandmaid.store/",
+        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/Merch.png",
+        "Start_Local":  "2026-10-09 09:00:00",
+        "Start_Japan":  "2026-10-09 22:00:00"
+    },
+    {
+        "Summary":  "Budokan Merch End",
+        "Location":  "",
+        "URL":  "https://bandmaid.store/",
+        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/Merch.png",
+        "Start_Local":  "2026-10-14 10:30:00",
+        "Start_Japan":  "2026-10-14 23:30:00"
     }
 ]
