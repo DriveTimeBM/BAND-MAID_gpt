@@ -1,5 +1,21 @@
 ﻿[
     {
+        "SetDate":  "2026-10-07",
+        "Country":  "US",
+        "City":  "Atlanta",
+        "Venue":  "Buckhead Theatre",
+        "Tour":  "WORLD TOUR 2026",
+        "URL":  "https://www.setlist.fm/setlist/bandmaid/2026/buckhead-theatre-atlanta-ga-1370c9e9.html",
+        "NumberOfSongs":  19,
+        "SetlistDelimited":  "SUPER SUNSHINE/DOMINATION/HATE?/Choose me/Zen/Brightest Star/Toi et moi/CAGE/Lock and Load/Present Perfect/Days/endless Story/Memorable/SPIN/ENERGETIC/Dilly-Dally/Ready to Rock/NO GOD/Unleash!!!!!",
+        "Opener":  "SUPER SUNSHINE",
+        "Closer":  "Unleash!!!!!",
+        "LatLon":  "33.8403169,-84.3797918",
+        "Latitude":  33.8403169,
+        "Longitude":  -84.3797918,
+        "Map":  "https://www.google.com/maps/search/?api=1\u0026query=33.8403169,-84.3797918"
+    },
+    {
         "SetDate":  "2026-10-05",
         "Country":  "US",
         "City":  "Huntington",
