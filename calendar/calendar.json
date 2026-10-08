@@ -32,14 +32,6 @@
         "Start_Japan":  "2026-11-14 17:00:00"
     },
     {
-        "Summary":  "Atlanta - Buckhead Theatre",
-        "Location":  "Buckhead Theatre, 3110 Roswell Rd NE, Atlanta, GA 30305, USA",
-        "URL":  "https://www.thebuckheadtheatre.com/",
-        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/buckhead.jpg",
-        "Start_Local":  "2026-10-07 20:00:00",
-        "Start_Japan":  "2026-10-08 09:00:00"
-    },
-    {
         "Summary":  "Dallas - House of Blues",
         "Location":  "House of Blues, 2200 N Lamar St, Dallas, TX 75202, USA",
         "URL":  "https://dallas.houseofblues.com/",

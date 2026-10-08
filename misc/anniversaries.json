@@ -1,20 +1,26 @@
 ﻿[
     {
+        "Category":  "Live Debut",
+        "Item":  "① Screaming ",
+        "Detail":  " 😱 was first played live 8 years ago at Namba Hatch, Osaka, Japan",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
+    },
+    {
+        "Category":  "YouTube Release",
+        "Item":  "① Protect You (TVサイズ)",
+        "Detail":  "  ▶️ was released 2 years ago. https://youtu.be/JQTMWroS3So",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
         "Category":  "Okyuji",
-        "Item":  "① 8 years ago 🗾",
-        "Detail":  "  🇯🇵 MONSTER - Takamatsu,JP [23 songs]",
+        "Item":  "① 9 years ago 🗾",
+        "Detail":  "  🇯🇵 EIGHT HALL - Kanazawa,JP [23 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     },
     {
         "Category":  "Okyuji",
-        "Item":  "② 3 years ago 🗾",
-        "Detail":  "  🇯🇵 Akita Club SWINDLE - Akita,JP [23 songs]",
+        "Item":  "② 8 years ago 🗾",
+        "Detail":  "  🇯🇵 Nanba Hatch - Osaka,JP [24 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
-    },
-    {
-        "Category":  "Other",
-        "Item":  "① 9 years ago",
-        "Detail":  "Choose Me OMV surpassed 1 million views",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Band-Maid%20color%20pop%204.png"
     }
 ]
