@@ -1,6 +1,20 @@
-﻿{
-    "Category":  "YouTube AGGREGATE AUDIO stream Milestones",
-    "Item":  "① Ready to Rock ",
-    "Milestone":  "🪨  aggregate AUDIO streams surpassed **3,100,000**!",
-    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-}
+﻿[
+    {
+        "Category":  "YouTube",
+        "Item":  "① BAND-MAID / Ready to Rock ×「ロックは淑女の嗜みでして」 Special Music Video (Anime Music Video) https://youtu.be/JegJ6cSsUgg",
+        "Milestone":  "  👀 Surpassed **2,900,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "Spotify",
+        "Item":  "① REAL EXISTENCE ",
+        "Milestone":  "🧍🌍 Surpassed **2,700,000** streams!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
+    },
+    {
+        "Category":  "Spotify",
+        "Item":  "② BLACK HOLE ",
+        "Milestone":  "🌀 Surpassed **1,200,000** streams!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
+    }
+]
