@@ -32,14 +32,6 @@
         "Start_Japan":  "2026-11-14 17:00:00"
     },
     {
-        "Summary":  "Dallas - House of Blues",
-        "Location":  "House of Blues, 2200 N Lamar St, Dallas, TX 75202, USA",
-        "URL":  "https://dallas.houseofblues.com/",
-        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/dallas.jpg",
-        "Start_Local":  "2026-10-09 20:00:00",
-        "Start_Japan":  "2026-10-10 09:00:00"
-    },
-    {
         "Summary":  "Los Angeles - The Wiltern",
         "Location":  "The Wiltern, 3790 Wilshire Blvd, Los Angeles, CA 90010, USA",
         "URL":  "https://www.wiltern.com/",
@@ -94,14 +86,6 @@
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/album_covers/SPIN.jpg",
         "Start_Local":  "2026-10-27 11:00:00",
         "Start_Japan":  "2026-10-28 00:00:00"
-    },
-    {
-        "Summary":  "Budokan Merch Start",
-        "Location":  "",
-        "URL":  "https://bandmaid.store/",
-        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/Merch.png",
-        "Start_Local":  "2026-10-09 09:00:00",
-        "Start_Japan":  "2026-10-09 22:00:00"
     },
     {
         "Summary":  "Budokan Merch End",
