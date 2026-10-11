@@ -1,27 +1,6 @@
 ﻿[
     {
         "Tour":  "Band-Maid World Tour 2026",
-        "City":  "Dallas",
-        "Country":  "United States Of America",
-        "CountryCode":  "US",
-        "Flag":  "🇺🇸",
-        "EventUrl":  "https://www.ticketmaster.com/bandmaid-world-tour-2026-dallas-texas-10-09-2026/event/0C0064FCE446EC8A",
-        "LocalDate":  "2026-10-09",
-        "LocalTime":  "19:00",
-        "DateTime":  "\/Date(1791590400000)\/",
-        "Venue":  "House of Blues Dallas ",
-        "VenueId":  null,
-        "TMUrl":  "https://www.ticketmaster.com/house-of-blues-dallas-tickets-dallas/venue/99029",
-        "Address":  "2200 N Lamar St, Dallas, United States Of America",
-        "Longitude":  "-96.80851279",
-        "Latitude":  "32.78521325",
-        "Promoters":  "HOUSE OF BLUES CONCERTS (HOB)",
-        "SeatMapUrl":  "https://mapsapi.tmol.io/maps/geometry/3/event/0C0064FCE446EC8A/staticImage?type=png\u0026systemId=HOST",
-        "MapUrl":  "https://www.google.com/maps/search/?api=1\u0026query=32.78521325,-96.80851279",
-        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/.png"
-    },
-    {
-        "Tour":  "Band-Maid World Tour 2026",
         "City":  "Los Angeles",
         "Country":  "United States Of America",
         "CountryCode":  "US",

@@ -1,20 +1,6 @@
-﻿[
-    {
-        "Category":  "YouTube AGGREGATE Views",
-        "Item":  "① onset ",
-        "Milestone":  "🌱 aggregate views surpassed **4** million!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-    },
-    {
-        "Category":  "YouTube",
-        "Item":  "① BAND-MAID / onset (Official Live Video) https://youtu.be/mVrN-j_Uc0U",
-        "Milestone":  "  👀 Surpassed **4,000,000** views!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-    },
-    {
-        "Category":  "Spotify",
-        "Item":  "① Ready to Rock ",
-        "Milestone":  "🪨 Surpassed **4,100,000** streams!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
-    }
-]
+﻿{
+    "Category":  "YouTube",
+    "Item":  "① DICE https://youtu.be/HsvWNhIt6RY",
+    "Milestone":  "  👀 Surpassed **1,200,000** views!",
+    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+}
