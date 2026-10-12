@@ -1,20 +1,32 @@
 ﻿[
     {
         "Category":  "YouTube Release",
-        "Item":  "① BAND-MAID / Forbidden tale (Official Teaser Video) MIKU KOBATO",
-        "Detail":  "  ▶️ was released 2 years ago. https://youtu.be/08dX4S0DWfg",
+        "Item":  "① BAND-MAID / Forbidden tale (Official Teaser Video) MISA",
+        "Detail":  "  ▶️ was released 2 years ago. https://youtu.be/PDhRae9X-w4",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
         "Category":  "Okyuji",
-        "Item":  "① 13 years ago 🗾",
-        "Detail":  "  🇯🇵 morph - Tokyo,JP [0 songs]",
+        "Item":  "① 11 years ago 🗾",
+        "Detail":  "  🇯🇵 RAD HALL - Nagoya,JP [6 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "② 10 years ago 🌍",
+        "Detail":  "  🇬🇧 The Underworld - London,GB [18 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "③ 4 years ago 🌎",
+        "Detail":  "  🇺🇸 Neptune Theatre - Seattle,US [18 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     },
     {
         "Category":  "Other",
         "Item":  "① 3 years ago",
-        "Detail":  " Shambles OMV surpassed 1 million views",
+        "Detail":  "Shambles OMV surpassed 1 million views",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Band-Maid%20color%20pop%204.png"
     }
 ]
