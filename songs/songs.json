@@ -246,7 +246,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  144,
-        "SpotifyStreams":  2409610,
+        "SpotifyStreams":  2413057,
         "MediaTieIn":  null
     },
     {
@@ -436,7 +436,7 @@
         "Album":  "about Us",
         "KobatoLead":  "no",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  1602169,
+        "SpotifyStreams":  1603359,
         "MediaTieIn":  null
     },
     {
@@ -460,6 +460,26 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "One and only",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2018-02-14T00:00:00",
+        "Album":  "WORLD DOMINATION",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  27,
+        "SpotifyStreams":  1553982,
+        "MediaTieIn":  "Theme song for movie 狂い華 (Kuruibana)"
+    },
+    {
+        "Name":  "Gion-Cho",
+        "AlternativeName":  "祇園町",
+        "ReleaseDate":  "2019-04-01T00:00:00",
+        "Album":  "BAND-MAIKO",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  2,
+        "SpotifyStreams":  1551740,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "SAYONAKIDORI",
         "AlternativeName":  "サヨナキドリ",
         "ReleaseDate":  "2021-01-20T00:00:00",
@@ -470,23 +490,13 @@
         "MediaTieIn":  null
     },
     {
-        "Name":  "One and only",
+        "Name":  "from now on",
         "AlternativeName":  "",
-        "ReleaseDate":  "2018-02-14T00:00:00",
-        "Album":  "WORLD DOMINATION",
+        "ReleaseDate":  "2022-09-21T00:00:00",
+        "Album":  "Unleash",
         "KobatoLead":  "no",
-        "PlayedLiveCount":  27,
-        "SpotifyStreams":  1550593,
-        "MediaTieIn":  "Theme song for movie 狂い華 (Kuruibana)"
-    },
-    {
-        "Name":  "Gion-Cho",
-        "AlternativeName":  "祇園町",
-        "ReleaseDate":  "2019-04-01T00:00:00",
-        "Album":  "BAND-MAIKO",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  2,
-        "SpotifyStreams":  1549525,
+        "PlayedLiveCount":  73,
+        "SpotifyStreams":  1462478,
         "MediaTieIn":  null
     },
     {
@@ -496,17 +506,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  62,
-        "SpotifyStreams":  1458954,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "from now on",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2022-09-21T00:00:00",
-        "Album":  "Unleash",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  73,
-        "SpotifyStreams":  1458838,
+        "SpotifyStreams":  1461288,
         "MediaTieIn":  null
     },
     {
@@ -646,7 +646,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  59,
-        "SpotifyStreams":  1134625,
+        "SpotifyStreams":  1135773,
         "MediaTieIn":  null
     },
     {
@@ -656,7 +656,7 @@
         "Album":  "glory",
         "KobatoLead":  "no",
         "PlayedLiveCount":  22,
-        "SpotifyStreams":  1095867,
+        "SpotifyStreams":  1096660,
         "MediaTieIn":  null
     },
     {
@@ -666,7 +666,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  38,
-        "SpotifyStreams":  1082716,
+        "SpotifyStreams":  1083709,
         "MediaTieIn":  null
     },
     {
@@ -696,7 +696,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  9,
-        "SpotifyStreams":  1037629,
+        "SpotifyStreams":  1038660,
         "MediaTieIn":  null
     },
     {
@@ -776,7 +776,7 @@
         "Album":  "Different",
         "KobatoLead":  "no",
         "PlayedLiveCount":  17,
-        "SpotifyStreams":  903034,
+        "SpotifyStreams":  903756,
         "MediaTieIn":  null
     },
     {
@@ -786,7 +786,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  2,
-        "SpotifyStreams":  887235,
+        "SpotifyStreams":  888565,
         "MediaTieIn":  null
     },
     {
@@ -886,7 +886,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  63,
-        "SpotifyStreams":  819115,
+        "SpotifyStreams":  819786,
         "MediaTieIn":  null
     },
     {
@@ -926,7 +926,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  58,
-        "SpotifyStreams":  785573,
+        "SpotifyStreams":  786926,
         "MediaTieIn":  null
     },
     {
@@ -1056,7 +1056,7 @@
         "Album":  "Love, Passion, Matador (愛と情熱のマタドール)",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  40,
-        "SpotifyStreams":  667736,
+        "SpotifyStreams":  668162,
         "MediaTieIn":  null
     },
     {
@@ -1116,7 +1116,7 @@
         "Album":  "YOLO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  50,
-        "SpotifyStreams":  598901,
+        "SpotifyStreams":  599556,
         "MediaTieIn":  null
     },
     {
@@ -1206,7 +1206,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  29,
-        "SpotifyStreams":  375148,
+        "SpotifyStreams":  377686,
         "MediaTieIn":  null
     },
     {
@@ -1286,7 +1286,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  9,
-        "SpotifyStreams":  216478,
+        "SpotifyStreams":  217556,
         "MediaTieIn":  null
     },
     {
@@ -1296,7 +1296,7 @@
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
         "PlayedLiveCount":  24,
-        "SpotifyStreams":  207070,
+        "SpotifyStreams":  209613,
         "MediaTieIn":  null
     },
     {

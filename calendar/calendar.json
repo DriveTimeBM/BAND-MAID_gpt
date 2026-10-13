@@ -32,14 +32,6 @@
         "Start_Japan":  "2026-11-14 17:00:00"
     },
     {
-        "Summary":  "Los Angeles - The Wiltern",
-        "Location":  "The Wiltern, 3790 Wilshire Blvd, Los Angeles, CA 90010, USA",
-        "URL":  "https://www.wiltern.com/",
-        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/wiltern.jpg",
-        "Start_Local":  "2026-10-12 22:00:00",
-        "Start_Japan":  "2026-10-13 11:00:00"
-    },
-    {
         "Summary":  "Phoenix - The Van Buren",
         "Location":  "The Van Buren, 401 W Van Buren St, Phoenix, AZ 85003, USA",
         "URL":  "https://www.thevanburenphx.com/",
