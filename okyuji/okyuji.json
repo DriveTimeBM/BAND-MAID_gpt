@@ -1,5 +1,21 @@
 ﻿[
     {
+        "SetDate":  "2026-10-12",
+        "Country":  "US",
+        "City":  "Los Angeles",
+        "Venue":  "Wiltern Theatre",
+        "Tour":  "WORLD TOUR 2026",
+        "URL":  "https://www.setlist.fm/setlist/bandmaid/2026/wiltern-theatre-los-angeles-ca-b70c58e.html",
+        "NumberOfSongs":  19,
+        "SetlistDelimited":  "SUPER SUNSHINE/DOMINATION/HATE?/Choose me/Toi et moi/Brightest Star/Toi et moi/CAGE/Lock and Load/Present Perfect/endless Story/Memorable/Bestie/SPIN/What is justice?/ENERGETIC/Dilly-Dally/Ready to Rock/NO GOD",
+        "Opener":  "SUPER SUNSHINE",
+        "Closer":  "NO GOD",
+        "LatLon":  "34.0612676,-118.3086465",
+        "Latitude":  34.0612676,
+        "Longitude":  -118.3086465,
+        "Map":  "https://www.google.com/maps/search/?api=1\u0026query=34.0612676,-118.3086465"
+    },
+    {
         "SetDate":  "2026-10-09",
         "Country":  "US",
         "City":  "Dallas",
