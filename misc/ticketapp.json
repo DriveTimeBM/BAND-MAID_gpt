@@ -1,27 +1,6 @@
 ﻿[
     {
         "Tour":  "Band-Maid World Tour 2026",
-        "City":  "Los Angeles",
-        "Country":  "United States Of America",
-        "CountryCode":  "US",
-        "Flag":  "🇺🇸",
-        "EventUrl":  "https://www.ticketmaster.com/bandmaid-world-tour-2026-los-angeles-california-10-12-2026/event/090064FBECB9CC71",
-        "LocalDate":  "2026-10-12",
-        "LocalTime":  "19:00",
-        "DateTime":  "\/Date(1791856800000)\/",
-        "Venue":  "The Wiltern",
-        "VenueId":  null,
-        "TMUrl":  "https://www.ticketmaster.com/the-wiltern-tickets-los-angeles/venue/73790",
-        "Address":  "3790 Wilshire Blvd., Los Angeles, United States Of America",
-        "Longitude":  "-118.30879207",
-        "Latitude":  "34.06141494",
-        "Promoters":  "LIVE NATION MUSIC",
-        "SeatMapUrl":  "https://mapsapi.tmol.io/maps/geometry/3/event/090064FBECB9CC71/staticImage?type=png\u0026systemId=HOST",
-        "MapUrl":  "https://www.google.com/maps/search/?api=1\u0026query=34.06141494,-118.30879207",
-        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/.png"
-    },
-    {
-        "Tour":  "Band-Maid World Tour 2026",
         "City":  "Phoenix",
         "Country":  "United States Of America",
         "CountryCode":  "US",
