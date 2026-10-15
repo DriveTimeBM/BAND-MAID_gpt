@@ -32,28 +32,12 @@
         "Start_Japan":  "2026-11-14 17:00:00"
     },
     {
-        "Summary":  "Phoenix - The Van Buren",
-        "Location":  "The Van Buren, 401 W Van Buren St, Phoenix, AZ 85003, USA",
-        "URL":  "https://www.thevanburenphx.com/",
-        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/vanburen.jpg",
-        "Start_Local":  "2026-10-14 22:00:00",
-        "Start_Japan":  "2026-10-15 11:00:00"
-    },
-    {
         "Summary":  "Mexico City - Palacio de los Deportes",
         "Location":  "Palacio de los Deportes, Añil 667, Granjas México, Iztacalco, 08400 Ciudad de México, CDMX, Mexico",
         "URL":  "https://www.palaciodelosdeportes.mx/",
         "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/mx.png",
         "Start_Local":  "2026-10-17 22:30:00",
         "Start_Japan":  "2026-10-18 11:30:00"
-    },
-    {
-        "Summary":  "Misa Birthday",
-        "Location":  "",
-        "URL":  null,
-        "Image":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/849359/content_misa-2.jpg",
-        "Start_Local":  "2026-10-14 11:00:00",
-        "Start_Japan":  "2026-10-15 00:00:00"
     },
     {
         "Summary":  "Miku Birthday",
@@ -78,13 +62,5 @@
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/album_covers/SPIN.jpg",
         "Start_Local":  "2026-10-27 11:00:00",
         "Start_Japan":  "2026-10-28 00:00:00"
-    },
-    {
-        "Summary":  "Budokan Merch End",
-        "Location":  "",
-        "URL":  "https://bandmaid.store/",
-        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/Merch.png",
-        "Start_Local":  "2026-10-14 10:30:00",
-        "Start_Japan":  "2026-10-14 23:30:00"
     }
 ]
