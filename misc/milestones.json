@@ -1,6 +1,32 @@
-﻿{
-    "Category":  "YouTube AGGREGATE AUDIO stream Milestones",
-    "Item":  "① What is justice? ",
-    "Milestone":  "⚖️❓  aggregate AUDIO streams surpassed **1,500,000**!",
-    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-}
+﻿[
+    {
+        "Category":  "YouTube AGGREGATE AUDIO stream Milestones",
+        "Item":  "① influencer ",
+        "Milestone":  "📣✨  aggregate AUDIO streams surpassed **800,000**!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube",
+        "Item":  "① BAND-MAID / HATE? (Official Live Video) https://youtu.be/yfORoQIqB3E",
+        "Milestone":  "  👀 Surpassed **1,700,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube",
+        "Item":  "② BAND-MAID / influencer (Official Music Video) https://youtu.be/e_bEf1C0spY",
+        "Milestone":  "  👀 Surpassed **2,600,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube",
+        "Item":  "③ BAND-MAID / Thrill (スリル)  (Official Music Video) https://youtu.be/Uds7g3M-4lQ",
+        "Milestone":  "  👀 Surpassed **23,900,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube",
+        "Item":  "④ influencer https://youtu.be/Ly62PczTrZM",
+        "Milestone":  "  👀 Surpassed **800,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    }
+]
