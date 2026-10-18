@@ -1,5 +1,21 @@
 ﻿[
     {
+        "SetDate":  "2026-10-17",
+        "Country":  "MX",
+        "City":  "Mexico City",
+        "Venue":  "PabellÃ³n Oeste del Palacio de los Deportes",
+        "Tour":  "WORLD TOUR 2026",
+        "URL":  "https://www.setlist.fm/setlist/bandmaid/2026/pabellon-oeste-del-palacio-de-los-deportes-mexico-city-mexico-2370c463.html",
+        "NumberOfSongs":  19,
+        "SetlistDelimited":  "SUPER SUNSHINE/DOMINATION/HATE?/Choose me/Shambles/Brightest Star/Toi et moi/CAGE/Lock and Load/Present Perfect/Days/endless Story/Memorable/SPIN/ENERGETIC/Dilly-Dally/Ready to Rock/NO GOD/SHOW THEM",
+        "Opener":  "SUPER SUNSHINE",
+        "Closer":  "SHOW THEM",
+        "LatLon":  "19.4040515,-99.0992103",
+        "Latitude":  19.4040515,
+        "Longitude":  -99.0992103,
+        "Map":  "https://www.google.com/maps/search/?api=1\u0026query=19.4040515,-99.0992103"
+    },
+    {
         "SetDate":  "2026-10-14",
         "Country":  "US",
         "City":  "Phoenix",
