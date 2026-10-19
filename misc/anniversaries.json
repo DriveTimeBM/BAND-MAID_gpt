@@ -1,6 +1,14 @@
-﻿{
-    "Category":  "Okyuji",
-    "Item":  "① 1 year ago 🗾",
-    "Detail":  "  🇯🇵 Azuma Kyuujou - Fukushima,JP [10 songs]",
-    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
-}
+﻿[
+    {
+        "Category":  "Okyuji",
+        "Item":  "① 10 years ago 🌍",
+        "Detail":  "  🇵🇱 Klub Hydrozagadka - Warsaw,PL [18 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "② 4 years ago 🌎",
+        "Detail":  "  🇺🇸 Crescent Ballroom - Phoenix,US [18 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    }
+]

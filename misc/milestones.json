@@ -1,20 +1,50 @@
 ﻿[
     {
-        "Category":  "YouTube",
-        "Item":  "① BAND-MAID with The Warning / SHOW THEM (Official Music Video) https://youtu.be/LVl0mcEu1r8",
-        "Milestone":  "  👀 Surpassed **2,700,000** views!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-    },
-    {
-        "Category":  "YouTube",
-        "Item":  "② BAND-MAID / Unleash!!!!! (Official Music Video) https://youtu.be/7LB_EPS48HE",
-        "Milestone":  "  👀 Surpassed **4,200,000** views!",
+        "Category":  "YouTube AGGREGATE AUDIO stream Milestones",
+        "Item":  "① FREEDOM ",
+        "Milestone":  "🗽  aggregate AUDIO streams surpassed **400,000**!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
         "Category":  "Spotify",
-        "Item":  "① What is justice? ",
-        "Milestone":  "⚖️❓ Surpassed **2,300,000** streams!",
+        "Item":  "① Protect You ",
+        "Milestone":  "🛡️ Surpassed **1,400,000** streams!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
+    },
+    {
+        "Category":  "Spotify",
+        "Item":  "② Present Perfect ",
+        "Milestone":  "💯 Surpassed **500,000** streams!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
+    },
+    {
+        "Category":  "Instagram Followers",
+        "Item":  "① Instagram milestone",
+        "Milestone":  "📸BAND-MAID followers surpassed **173,000**!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/instagram.svg"
+    },
+    {
+        "Category":  "Facebook Followers",
+        "Item":  "② Facebook milestone",
+        "Milestone":  "ⒻBAND-MAID followers surpassed **129,000**!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/facebook.svg"
+    },
+    {
+        "Category":  "Instagram Followers",
+        "Item":  "③ Instagram milestone",
+        "Milestone":  "📸Akane followers surpassed **76,000**!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/instagram.svg"
+    },
+    {
+        "Category":  "Instagram Followers",
+        "Item":  "④ Instagram milestone",
+        "Milestone":  "📸Miku followers surpassed **100,000**!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/instagram.svg"
+    },
+    {
+        "Category":  "Instagram Followers",
+        "Item":  "⑤ Instagram milestone",
+        "Milestone":  "📸MISA followers surpassed **88,000**!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/instagram.svg"
     }
 ]
