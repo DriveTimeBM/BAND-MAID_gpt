@@ -1,14 +1,32 @@
 ﻿[
     {
+        "Category":  "Live Debut",
+        "Item":  "① Magie ",
+        "Detail":  " 🪄 was first played live 3 years ago at Namba Hatch, Osaka, Japan",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
+    },
+    {
         "Category":  "Okyuji",
-        "Item":  "① 10 years ago 🌍",
-        "Detail":  "  🇵🇱 Klub Hydrozagadka - Warsaw,PL [18 songs]",
+        "Item":  "① 7 years ago 🗾",
+        "Detail":  "  🇯🇵 Nanba Hatch - Osaka,JP [23 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     },
     {
         "Category":  "Okyuji",
-        "Item":  "② 4 years ago 🌎",
-        "Detail":  "  🇺🇸 Crescent Ballroom - Phoenix,US [18 songs]",
+        "Item":  "② 3 years ago 🗾",
+        "Detail":  "  🇯🇵 Nanba Hatch - Osaka,JP [23 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "③ 2 years ago 🗾",
+        "Detail":  "  🇯🇵 PENNY LANE 24 - Sapporo,JP [22 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Birthday",
+        "Item":  "Miku\u0027s birthday is October 21",
+        "Detail":  "🎂🎉🎈🕊🏇♠♣🎸",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Miku/miku_memorable_colorpop_crop.png.png"
     }
 ]
