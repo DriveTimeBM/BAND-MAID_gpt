@@ -1,26 +1,68 @@
 ﻿[
     {
-        "Category":  "Live Debut",
-        "Item":  "① Magie ",
-        "Detail":  " 🪄 was first played live 3 years ago at Namba Hatch, Osaka, Japan",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
+        "Category":  "YouTube Release",
+        "Item":  "① Ready to Rock",
+        "Detail":  "  ▶️ was released 1 year ago. https://youtu.be/sYuZanAQ2Os",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube Release",
+        "Item":  "② SION",
+        "Detail":  "  ▶️ was released 1 year ago. https://youtu.be/u9TrM7r9yOc",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube Release",
+        "Item":  "③ Lock and Load",
+        "Detail":  "  ▶️ was released 1 year ago. https://youtu.be/yBx52tnrqZw",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube Release",
+        "Item":  "④ BAND-MAID / Present Perfect (Official Teaser Video 2)",
+        "Detail":  "  ▶️ was released 1 year ago. https://youtu.be/KYqudoBNACU",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube Release",
+        "Item":  "⑤ Zen",
+        "Detail":  "  ▶️ was released 1 year ago. https://youtu.be/azlZWEGgLQc",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube Release",
+        "Item":  "⑥ What is justice?",
+        "Detail":  "  ▶️ was released 1 year ago. https://youtu.be/2gKVQrp1IB4",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube Release",
+        "Item":  "⑦ Dilly-Dally",
+        "Detail":  "  ▶️ was released 1 year ago. https://youtu.be/7gE2cJFw_xg",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube Release",
+        "Item":  "⑧ Present Perfect",
+        "Detail":  "  ▶️ was released 1 year ago. https://youtu.be/IvDzDMJ5cL4",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube Release",
+        "Item":  "⑨ SUPER SUNSHINE",
+        "Detail":  "  ▶️ was released 1 year ago. https://youtu.be/J_dd47xa31E",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube Release",
+        "Item":  "⑩ BAND-MAID / Present Perfect (Official Music Video)",
+        "Detail":  "  ▶️ was released 1 year ago. https://youtu.be/yzSdgw-tdr0",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
         "Category":  "Okyuji",
-        "Item":  "① 7 years ago 🗾",
-        "Detail":  "  🇯🇵 Nanba Hatch - Osaka,JP [23 songs]",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
-    },
-    {
-        "Category":  "Okyuji",
-        "Item":  "② 3 years ago 🗾",
-        "Detail":  "  🇯🇵 Nanba Hatch - Osaka,JP [23 songs]",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
-    },
-    {
-        "Category":  "Okyuji",
-        "Item":  "③ 2 years ago 🗾",
-        "Detail":  "  🇯🇵 PENNY LANE 24 - Sapporo,JP [22 songs]",
+        "Item":  "① 4 years ago 🌎",
+        "Detail":  "  🇺🇸 House of Blues - Dallas,US [18 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     },
     {
