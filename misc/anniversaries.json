@@ -1,56 +1,20 @@
 ﻿[
     {
-        "Category":  "Song Release",
-        "Item":  "① Searing ",
-        "Detail":  "🔥 was released 1 year ago.",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/UW_quilt.png"
+        "Category":  "Live Debut",
+        "Item":  "① matchless GUM ",
+        "Detail":  " 🍬 was first played live 10 years ago at Shimokitazawa GARDEN, Tokyo, Japan",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
     },
     {
-        "Category":  "Song Release",
-        "Item":  "② Lock and Load ",
-        "Detail":  "🔒 was released 1 year ago.",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/UW_quilt.png"
-    },
-    {
-        "Category":  "Song Release",
-        "Item":  "③ Dilly-Dally ",
-        "Detail":  "🐌 was released 1 year ago.",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/UW_quilt.png"
-    },
-    {
-        "Category":  "Song Release",
-        "Item":  "④ SION ",
-        "Detail":  "🌺 was released 1 year ago.",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/UW_quilt.png"
-    },
-    {
-        "Category":  "Song Release",
-        "Item":  "⑤ SUPER SUNSHINE ",
-        "Detail":  "🌞 was released 1 year ago.",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/UW_quilt.png"
-    },
-    {
-        "Category":  "Song Release",
-        "Item":  "⑥ Present Perfect ",
-        "Detail":  "💯 was released 1 year ago.",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/UW_quilt.png"
+        "Category":  "YouTube Release",
+        "Item":  "① BAND-MAID / DICE, Different (Official Live Video) for J-LOD LIVE2",
+        "Detail":  "  ▶️ was released 5 years ago. https://youtu.be/h_RZwRbI1QI",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
         "Category":  "Okyuji",
-        "Item":  "① 13 years ago 🗾",
-        "Detail":  "  🇯🇵 SHIBUYA BURROW - Tokyo,JP [0 songs]",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
-    },
-    {
-        "Category":  "Okyuji",
-        "Item":  "② 9 years ago 🌏",
-        "Detail":  "  🇹🇼 Jack\u0027s Studio Concert Venue - Taipei,TW [20 songs]",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
-    },
-    {
-        "Category":  "Okyuji",
-        "Item":  "③ 4 years ago 🌎",
-        "Detail":  "  🇺🇸 House of Blues - Houston,US [18 songs]",
+        "Item":  "① 10 years ago 🗾",
+        "Detail":  "  🇯🇵 Shimokitazawa GARDEN - Tokyo,JP [19 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     }
 ]
