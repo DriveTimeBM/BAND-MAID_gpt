@@ -1,20 +1,44 @@
 ﻿[
     {
         "Category":  "Live Debut",
-        "Item":  "① matchless GUM ",
-        "Detail":  " 🍬 was first played live 10 years ago at Shimokitazawa GARDEN, Tokyo, Japan",
+        "Item":  "① Dilly-Dally ",
+        "Detail":  " 🐌 was first played live 1 year ago at Namba Hatch, Osaka, Japan",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
     },
     {
-        "Category":  "YouTube Release",
-        "Item":  "① BAND-MAID / DICE, Different (Official Live Video) for J-LOD LIVE2",
-        "Detail":  "  ▶️ was released 5 years ago. https://youtu.be/h_RZwRbI1QI",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+        "Category":  "Live Debut",
+        "Item":  "② Lock and Load ",
+        "Detail":  " 🔒 was first played live 1 year ago at Namba Hatch, Osaka, Japan",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
+    },
+    {
+        "Category":  "Live Debut",
+        "Item":  "③ Present Perfect ",
+        "Detail":  " 💯 was first played live 1 year ago at Namba Hatch, Osaka, Japan",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
+    },
+    {
+        "Category":  "Live Debut",
+        "Item":  "④ SION ",
+        "Detail":  " 🌺 was first played live 1 year ago at Namba Hatch, Osaka, Japan",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
+    },
+    {
+        "Category":  "Live Debut",
+        "Item":  "⑤ SUPER SUNSHINE ",
+        "Detail":  " 🌞 was first played live 1 year ago at Namba Hatch, Osaka, Japan",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
     },
     {
         "Category":  "Okyuji",
-        "Item":  "① 10 years ago 🗾",
-        "Detail":  "  🇯🇵 Shimokitazawa GARDEN - Tokyo,JP [19 songs]",
+        "Item":  "① 12 years ago 🗾",
+        "Detail":  "  🇯🇵 Music Club JANUS - Osaka,JP [5 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "② 1 year ago 🗾",
+        "Detail":  "  🇯🇵 Nanba Hatch - Osaka,JP [20 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     }
 ]

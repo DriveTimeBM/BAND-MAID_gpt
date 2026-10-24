@@ -26,7 +26,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  241,
-        "SpotifyStreams":  8713945,
+        "SpotifyStreams":  8730330,
         "MediaTieIn":  null
     },
     {
@@ -76,7 +76,7 @@
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
         "PlayedLiveCount":  60,
-        "SpotifyStreams":  4143798,
+        "SpotifyStreams":  4169806,
         "MediaTieIn":  "Opening theme for anime series Rock Is a Lady\u0027s Modesty"
     },
     {
@@ -116,7 +116,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  113,
-        "SpotifyStreams":  3673836,
+        "SpotifyStreams":  3680842,
         "MediaTieIn":  null
     },
     {
@@ -170,6 +170,16 @@
         "MediaTieIn":  "Theme song for TV show Perfect Crime"
     },
     {
+        "Name":  "Puzzle",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2017-01-11T00:00:00",
+        "Album":  "Just Bring It",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  40,
+        "SpotifyStreams":  2708175,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "REAL EXISTENCE",
         "AlternativeName":  "",
         "ReleaseDate":  "2015-11-18T00:00:00",
@@ -177,16 +187,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  242,
         "SpotifyStreams":  2707728,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Puzzle",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2017-01-11T00:00:00",
-        "Album":  "Just Bring It",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  40,
-        "SpotifyStreams":  2704110,
         "MediaTieIn":  null
     },
     {
@@ -206,7 +206,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  68,
-        "SpotifyStreams":  2560792,
+        "SpotifyStreams":  2568179,
         "MediaTieIn":  "Ending theme for season 2 of anime series Kengan Ashura"
     },
     {
@@ -236,7 +236,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  233,
-        "SpotifyStreams":  2431107,
+        "SpotifyStreams":  2435208,
         "MediaTieIn":  null
     },
     {
@@ -406,7 +406,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  14,
-        "SpotifyStreams":  1678757,
+        "SpotifyStreams":  1684314,
         "MediaTieIn":  null
     },
     {
@@ -446,7 +446,27 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  43,
-        "SpotifyStreams":  1585892,
+        "SpotifyStreams":  1590324,
+        "MediaTieIn":  null
+    },
+    {
+        "Name":  "SAYONAKIDORI",
+        "AlternativeName":  "サヨナキドリ",
+        "ReleaseDate":  "2021-01-20T00:00:00",
+        "Album":  "Unseen World",
+        "KobatoLead":  "yes",
+        "PlayedLiveCount":  49,
+        "SpotifyStreams":  1559293,
+        "MediaTieIn":  null
+    },
+    {
+        "Name":  "FREEZER",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2015-11-18T00:00:00",
+        "Album":  "New Beginning",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  39,
+        "SpotifyStreams":  1557193,
         "MediaTieIn":  null
     },
     {
@@ -458,26 +478,6 @@
         "PlayedLiveCount":  27,
         "SpotifyStreams":  1557124,
         "MediaTieIn":  "Theme song for movie 狂い華 (Kuruibana)"
-    },
-    {
-        "Name":  "FREEZER",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2015-11-18T00:00:00",
-        "Album":  "New Beginning",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  39,
-        "SpotifyStreams":  1555778,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "SAYONAKIDORI",
-        "AlternativeName":  "サヨナキドリ",
-        "ReleaseDate":  "2021-01-20T00:00:00",
-        "Album":  "Unseen World",
-        "KobatoLead":  "yes",
-        "PlayedLiveCount":  49,
-        "SpotifyStreams":  1555221,
-        "MediaTieIn":  null
     },
     {
         "Name":  "Gion-Cho",
@@ -526,7 +526,7 @@
         "Album":  "start over",
         "KobatoLead":  "no",
         "PlayedLiveCount":  32,
-        "SpotifyStreams":  1373825,
+        "SpotifyStreams":  1376171,
         "MediaTieIn":  null
     },
     {
@@ -746,7 +746,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  125,
-        "SpotifyStreams":  922324,
+        "SpotifyStreams":  923525,
         "MediaTieIn":  null
     },
     {
@@ -816,7 +816,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  17,
-        "SpotifyStreams":  854608,
+        "SpotifyStreams":  855333,
         "MediaTieIn":  null
     },
     {
@@ -826,7 +826,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  35,
-        "SpotifyStreams":  846845,
+        "SpotifyStreams":  847619,
         "MediaTieIn":  null
     },
     {
@@ -876,7 +876,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  9,
-        "SpotifyStreams":  824412,
+        "SpotifyStreams":  826693,
         "MediaTieIn":  null
     },
     {
@@ -916,7 +916,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  18,
-        "SpotifyStreams":  807055,
+        "SpotifyStreams":  808208,
         "MediaTieIn":  null
     },
     {
@@ -1176,7 +1176,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
-        "SpotifyStreams":  489793,
+        "SpotifyStreams":  490577,
         "MediaTieIn":  null
     },
     {
@@ -1276,7 +1276,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  25,
-        "SpotifyStreams":  234823,
+        "SpotifyStreams":  236049,
         "MediaTieIn":  null
     },
     {
@@ -1326,7 +1326,7 @@
         "Album":  "ENERGETIC",
         "KobatoLead":  "no",
         "PlayedLiveCount":  22,
-        "SpotifyStreams":  137296,
+        "SpotifyStreams":  142697,
         "MediaTieIn":  null
     },
     {
