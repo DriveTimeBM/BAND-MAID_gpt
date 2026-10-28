@@ -1,0 +1,76 @@
+﻿[
+    {
+        "Member":  "BAND-MAID",
+        "TwitterHandle":  "bandmaid",
+        "TwitterUrl":  "https://x.com/bandmaid",
+        "TwitterFollowers":  91680,
+        "InstagramHandle":  "bandmaid.jp",
+        "InstagramUrl":  "https://www.instagram.com/bandmaid.jp",
+        "InstagramFollowers":  174138,
+        "ImageUrl":  "https://drivetimebm.github.io/BAND-MAID_creations/ribbon/band-maid-bow-logo.svg",
+        "TikTokHandle":  "bandmaid_int",
+        "TikTokUrl":  "https://www.tiktok.com/@bandmaid_int",
+        "FacebookHandle":  "bandmaid",
+        "FacebookFollowers":  129740,
+        "FacebookUrl":  "https://www.facebook.com/bandmaid",
+        "YouTubeFollowers":  805000,
+        "SpotifyFollowers":  386302,
+        "redditFollowers":  15814,
+        "BilliBilliFollowers":  38763,
+        "DeezerFollowers":  13179,
+        "TikTokFollowers":  21300
+    },
+    {
+        "Member":  "Akane",
+        "TwitterHandle":  "achi_bandmaid",
+        "TwitterUrl":  "https://x.com/achi_bandmaid",
+        "TwitterFollowers":  51843,
+        "InstagramHandle":  "akane_bandmaid",
+        "InstagramUrl":  "https://www.instagram.com/akane_bandmaid",
+        "InstagramFollowers":  76783,
+        "ImageUrl":  "https://drivetimebm.github.io/BAND-MAID_creations/8-bit/akane_white-on-black.svg"
+    },
+    {
+        "Member":  "Kanami",
+        "TwitterHandle":  "kanami_bandmaid",
+        "TwitterUrl":  "https://x.com/kanami_bandmaid",
+        "TwitterFollowers":  53895,
+        "InstagramHandle":  "kanami_bandmaid",
+        "InstagramUrl":  "https://www.instagram.com/kanami_bandmaid",
+        "InstagramFollowers":  83894,
+        "ImageUrl":  "https://drivetimebm.github.io/BAND-MAID_creations/8-bit/kanami_white-on-black.svg"
+    },
+    {
+        "Member":  "Miku",
+        "TwitterHandle":  "miku_bandmaid",
+        "TwitterUrl":  "https://x.com/miku_bandmaid",
+        "TwitterFollowers":  62092,
+        "InstagramHandle":  "kobatomiku",
+        "InstagramUrl":  "https://www.instagram.com/kobatomiku",
+        "InstagramFollowers":  100108,
+        "ImageUrl":  "https://drivetimebm.github.io/BAND-MAID_creations/8-bit/miku_white-on-black_red-rose.svg",
+        "TikTokHandle":  "kobatomikucluppo",
+        "TikTokFollowers":  113410,
+        "TikTokUrl":  "https://www.tiktok.com/@kobatomikucluppo"
+    },
+    {
+        "Member":  "MISA",
+        "TwitterHandle":  "misa_bandmaid",
+        "TwitterUrl":  "https://x.com/misa_bandmaid",
+        "TwitterFollowers":  37644,
+        "InstagramHandle":  "misa_bandmaid",
+        "InstagramUrl":  "https://www.instagram.com/misa_bandmaid",
+        "InstagramFollowers":  89056,
+        "ImageUrl":  "https://drivetimebm.github.io/BAND-MAID_creations/8-bit/misa_white-on-black.svg"
+    },
+    {
+        "Member":  "Saiki",
+        "TwitterHandle":  "saiki_bandmaid",
+        "TwitterUrl":  "https://x.com/saiki_bandmaid",
+        "TwitterFollowers":  54774,
+        "InstagramHandle":  "saiki_bandmaid",
+        "InstagramUrl":  "https://www.instagram.com/saiki_bandmaid",
+        "InstagramFollowers":  83818,
+        "ImageUrl":  "https://drivetimebm.github.io/BAND-MAID_creations/8-bit/saiki_white-on-black_blue-rose.svg"
+    }
+]

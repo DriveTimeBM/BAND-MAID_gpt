@@ -1,0 +1,42 @@
+[
+    {
+        "Summary":  "AICHI - COMTEC PORTBASE",
+        "Location":  "Comtec Portbase, 3-3-5 Kanekawachō, Minato Ward, Nagoya, Aichi 455-0017, Japan",
+        "URL":  "https://bandmaid.tokyo/contents/1041130",
+        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/AICHI.jpg",
+        "Start_Local":  "2026-11-01 03:30:00",
+        "Start_Japan":  "2026-11-01 17:30:00"
+    },
+    {
+        "Summary":  "Osaka - NAMBA HATCH ",
+        "Location":  "Namba Hatch, 1-chōme-3-1 Minatomachi, Naniwa Ward, Osaka, 556-0017, Japan",
+        "URL":  "https://bandmaid.tokyo/contents/1041130",
+        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/nambahatch.jpg",
+        "Start_Local":  "2026-11-03 03:30:00",
+        "Start_Japan":  "2026-11-03 17:30:00"
+    },
+    {
+        "Summary":  "BUDOKAN - 1",
+        "Location":  "Nippon Budokan, 2-3 Kitanomarukōen, Chiyoda City, Tokyo 102-8321, Japan",
+        "URL":  "https://bandmaid.tokyo/contents/1041130",
+        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/500px-Nippon_Budokan_2010.jpg",
+        "Start_Local":  "2026-11-13 04:00:00",
+        "Start_Japan":  "2026-11-13 18:00:00"
+    },
+    {
+        "Summary":  "BUDOKAN - 2",
+        "Location":  "Nippon Budokan, 2-3 Kitanomarukōen, Chiyoda City, Tokyo 102-8321, Japan",
+        "URL":  "https://bandmaid.tokyo/contents/1041130",
+        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/BUDOKAN.jpg",
+        "Start_Local":  "2026-11-14 03:00:00",
+        "Start_Japan":  "2026-11-14 17:00:00"
+    },
+    {
+        "Summary":  "Akane Birthday",
+        "Location":  "",
+        "URL":  null,
+        "Image":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/849356/content_akane-2.jpg",
+        "Start_Local":  "2026-12-13 10:00:00",
+        "Start_Japan":  "2026-12-14 00:00:00"
+    }
+]
