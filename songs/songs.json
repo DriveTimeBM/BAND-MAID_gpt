@@ -6,7 +6,7 @@
         "Album":  "Daydreaming / Choose me",
         "KobatoLead":  "no",
         "PlayedLiveCount":  265,
-        "SpotifyStreams":  16225773,
+        "SpotifyStreams":  16255439,
         "MediaTieIn":  "Used in Netflix movie Kate. Used in S01E03 of TV show Peacemaker."
     },
     {
@@ -36,7 +36,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  133,
-        "SpotifyStreams":  7704238,
+        "SpotifyStreams":  7713089,
         "MediaTieIn":  null
     },
     {
@@ -96,7 +96,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  164,
-        "SpotifyStreams":  4022057,
+        "SpotifyStreams":  4027671,
         "MediaTieIn":  null
     },
     {
@@ -146,7 +146,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  56,
-        "SpotifyStreams":  3286220,
+        "SpotifyStreams":  3289893,
         "MediaTieIn":  null
     },
     {
@@ -196,7 +196,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  48,
-        "SpotifyStreams":  2628942,
+        "SpotifyStreams":  2632335,
         "MediaTieIn":  null
     },
     {
@@ -276,7 +276,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  2,
-        "SpotifyStreams":  2229097,
+        "SpotifyStreams":  2231812,
         "MediaTieIn":  null
     },
     {
@@ -296,7 +296,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  92,
-        "SpotifyStreams":  2061597,
+        "SpotifyStreams":  2066546,
         "MediaTieIn":  null
     },
     {
@@ -306,7 +306,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  13,
-        "SpotifyStreams":  2022953,
+        "SpotifyStreams":  2024726,
         "MediaTieIn":  null
     },
     {
@@ -326,7 +326,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  55,
-        "SpotifyStreams":  1977970,
+        "SpotifyStreams":  1981000,
         "MediaTieIn":  null
     },
     {
@@ -376,7 +376,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  261,
-        "SpotifyStreams":  1847116,
+        "SpotifyStreams":  1849413,
         "MediaTieIn":  null
     },
     {
@@ -410,6 +410,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Corallium",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2021-10-27T00:00:00",
+        "Album":  "Unleash",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  18,
+        "SpotifyStreams":  1678508,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "endless Story",
         "AlternativeName":  "",
         "ReleaseDate":  "2019-08-07T00:00:00",
@@ -417,16 +427,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  135,
         "SpotifyStreams":  1674753,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Corallium",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2021-10-27T00:00:00",
-        "Album":  "Unleash",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  18,
-        "SpotifyStreams":  1674322,
         "MediaTieIn":  null
     },
     {
@@ -736,7 +736,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  1,
-        "SpotifyStreams":  929270,
+        "SpotifyStreams":  930570,
         "MediaTieIn":  null
     },
     {
@@ -796,7 +796,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  11,
-        "SpotifyStreams":  883654,
+        "SpotifyStreams":  884976,
         "MediaTieIn":  null
     },
     {
@@ -946,7 +946,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  13,
-        "SpotifyStreams":  771153,
+        "SpotifyStreams":  772328,
         "MediaTieIn":  null
     },
     {
@@ -966,7 +966,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  745802,
+        "SpotifyStreams":  746331,
         "MediaTieIn":  null
     },
     {
@@ -1016,7 +1016,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  15,
-        "SpotifyStreams":  711581,
+        "SpotifyStreams":  712304,
         "MediaTieIn":  null
     },
     {
@@ -1050,6 +1050,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Brightest Star",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2024-09-25T00:00:00",
+        "Album":  "Epic Narratives",
+        "KobatoLead":  "yes",
+        "PlayedLiveCount":  55,
+        "SpotifyStreams":  670790,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Summer Drive",
         "AlternativeName":  "",
         "ReleaseDate":  "2014-08-13T00:00:00",
@@ -1057,16 +1067,6 @@
         "KobatoLead":  "yes",
         "PlayedLiveCount":  40,
         "SpotifyStreams":  668979,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Brightest Star",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2024-09-25T00:00:00",
-        "Album":  "Epic Narratives",
-        "KobatoLead":  "yes",
-        "PlayedLiveCount":  55,
-        "SpotifyStreams":  665734,
         "MediaTieIn":  null
     },
     {
@@ -1196,7 +1196,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  12,
-        "SpotifyStreams":  398089,
+        "SpotifyStreams":  400467,
         "MediaTieIn":  null
     },
     {
@@ -1216,7 +1216,7 @@
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
         "PlayedLiveCount":  36,
-        "SpotifyStreams":  374034,
+        "SpotifyStreams":  378744,
         "MediaTieIn":  "Featured in a series of 2026 commercials “Make Life Interesting.” by Takahashi Shuzo Co., Ltd. for Hakutake Shiro."
     },
     {

@@ -1,44 +1,38 @@
 ﻿[
     {
-        "Category":  "YouTube AGGREGATE AUDIO stream Milestones",
-        "Item":  "① I can\u0027t live without you. ",
-        "Milestone":  "❤️🔗  aggregate AUDIO streams surpassed **800,000**!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-    },
-    {
-        "Category":  "YouTube AGGREGATE AUDIO stream Milestones",
-        "Item":  "② Puzzle ",
-        "Milestone":  "🧩  aggregate AUDIO streams surpassed **600,000**!",
+        "Category":  "YouTube",
+        "Item":  "① BAND-MAID / DICE (Official Music Video) https://youtu.be/ZpAYnVJX9CY",
+        "Milestone":  "  👀 Surpassed **10,300,000** views!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
         "Category":  "YouTube",
-        "Item":  "① BAND-MAID / SPIN (Official Music Video)  Anime \"BEYBLADE X\" Ending Theme Song https://youtu.be/Z7I13kDOoQk",
-        "Milestone":  "  👀 Surpassed **100,000** views!",
+        "Item":  "② BAND-MAID / SPIN (Official Music Video)  Anime \"BEYBLADE X\" Ending Theme Song https://youtu.be/Z7I13kDOoQk",
+        "Milestone":  "  👀 Surpassed **200,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube",
+        "Item":  "① Sense https://youtu.be/ss11rU97V2I",
+        "Milestone":  "  👍 Surpassed **20,000** likes!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube",
+        "Item":  "② BAND-MAID / SPIN (Official Music Video)  Anime \"BEYBLADE X\" Ending Theme Song https://youtu.be/Z7I13kDOoQk",
+        "Milestone":  "  👍 Surpassed **10,000** likes!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
         "Category":  "Spotify",
-        "Item":  "① Play ",
-        "Milestone":  "🛝 Surpassed **4,100,000** streams!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
-    },
-    {
-        "Category":  "Spotify",
-        "Item":  "② Sense ",
-        "Milestone":  "👁️ Surpassed **11,100,000** streams!",
+        "Item":  "① Letters to you ",
+        "Milestone":  "📨 Surpassed **400,000** streams!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
     },
     {
         "Category":  "Total Streams",
-        "Item":  "Spotify Total Streams",
-        "Milestone":  "  🎧 Surpassed **230** MILLION streams!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
-    },
-    {
-        "Category":  "Total Streams",
-        "Item":  "Combined Total Streams [YT+Spotify+Billi]",
-        "Milestone":  "  📺 Surpassed **540** MILLION streams!",
-        "Image":  ""
+        "Item":  "YouTube Total Streams",
+        "Milestone":  "  👀 Surpassed **309** MILLION views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     }
 ]

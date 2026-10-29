@@ -1,26 +1,26 @@
 ﻿[
     {
-        "Category":  "Live Debut",
-        "Item":  "① HATE? ",
-        "Detail":  " 🤬 was first played live 4 years ago at Irving Plaza, NY, USA",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
-    },
-    {
         "Category":  "YouTube Release",
-        "Item":  "① BAND-MAID / Present Perfect (Official Teaser Video AKANE)",
-        "Detail":  "  ▶️ was released 1 year ago. https://youtu.be/y_P3bYEjsbE",
+        "Item":  "① BAND-MAID / Present Perfect (Official Teaser Video MISA)",
+        "Detail":  "  ▶️ was released 1 year ago. https://youtu.be/3ZvAceQG1Zw",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
         "Category":  "Okyuji",
-        "Item":  "① 4 years ago 🌎",
-        "Detail":  "  🇺🇸 Irving Plaza - New York,US [17 songs]",
+        "Item":  "① 12 years ago 🗾",
+        "Detail":  "  🇯🇵 CHELSEA HOTEL - Tokyo,JP [5 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     },
     {
         "Category":  "Okyuji",
-        "Item":  "② 3 years ago 🗾",
-        "Detail":  "  🇯🇵 NHK Hall - Tokyo,JP [1 songs]",
+        "Item":  "② 9 years ago 🌏",
+        "Detail":  "  🇭🇰 1563 at The East - Wan Chai,HK [15 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "③ 4 years ago 🌎",
+        "Detail":  "  🇺🇸 Paradise Rock Club - Boston,US [16 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     }
 ]
