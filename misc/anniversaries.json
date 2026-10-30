@@ -1,26 +1,20 @@
 ﻿[
     {
-        "Category":  "YouTube Release",
-        "Item":  "① BAND-MAID / Present Perfect (Official Teaser Video MISA)",
-        "Detail":  "  ▶️ was released 1 year ago. https://youtu.be/3ZvAceQG1Zw",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-    },
-    {
         "Category":  "Okyuji",
         "Item":  "① 12 years ago 🗾",
-        "Detail":  "  🇯🇵 CHELSEA HOTEL - Tokyo,JP [5 songs]",
+        "Detail":  "  🇯🇵 morph - Tokyo,JP [5 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     },
     {
         "Category":  "Okyuji",
-        "Item":  "② 9 years ago 🌏",
-        "Detail":  "  🇭🇰 1563 at The East - Wan Chai,HK [15 songs]",
+        "Item":  "② 10 years ago 🌍",
+        "Detail":  "  🇮🇹 Baluardo San Donato - Lucca,IT [12 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     },
     {
         "Category":  "Okyuji",
         "Item":  "③ 4 years ago 🌎",
-        "Detail":  "  🇺🇸 Paradise Rock Club - Boston,US [16 songs]",
+        "Detail":  "  🇺🇸 American Dream - East Rutherford,US [16 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     }
 ]
