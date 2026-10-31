@@ -1,26 +1,20 @@
 ﻿[
     {
-        "Category":  "YouTube AGGREGATE AUDIO stream Milestones",
-        "Item":  "① Moratorium ",
-        "Milestone":  "⏸  aggregate AUDIO streams surpassed **300,000**!",
+        "Category":  "CDJapan Weekly Rank",
+        "Item":  "✨ CD Maxi SPIN [w/ Blu ray, Limited Edition] BAND-MAID 7000yen October 28, 2026 In stock Limited Edition Bonus",
+        "Milestone":  "① Weekly Rank: 10 🎗️",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/CDJapan.jpg"
+    },
+    {
+        "Category":  "YouTube",
+        "Item":  "① BAND-MAID / Different (Official Music Video) https://youtu.be/edlLhh8qVxM",
+        "Milestone":  "  👀 Surpassed **4,800,000** views!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
         "Category":  "YouTube",
-        "Item":  "① モラトリアム https://youtu.be/WFrVI2eXlko",
-        "Milestone":  "  👀 Surpassed **300,000** views!",
+        "Item":  "① BAND-MAID / Before Yesterday  (Official Music Video) https://youtu.be/Zuj_-z5-06w",
+        "Milestone":  "  👍 Surpassed **30,000** likes!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-    },
-    {
-        "Category":  "YouTube",
-        "Item":  "② BAND-MAID / SPIN (Official Music Video)  Anime \"BEYBLADE X\" Ending Theme Song https://youtu.be/Z7I13kDOoQk",
-        "Milestone":  "  👀 Surpassed **300,000** views!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-    },
-    {
-        "Category":  "Spotify",
-        "Item":  "① Blooming ",
-        "Milestone":  "🌸 Surpassed **4,300,000** streams!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
     }
 ]
