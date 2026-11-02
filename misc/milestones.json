@@ -1,6 +1,14 @@
-﻿{
-    "Category":  "YouTube",
-    "Item":  "① Different https://youtu.be/yJIQKRywEY8",
-    "Milestone":  "  👀 Surpassed **900,000** views!",
-    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-}
+﻿[
+    {
+        "Category":  "CDJapan Weekly Rank",
+        "Item":  "✨ CD Maxi SPIN [w/ Blu ray, Limited Edition] BAND-MAID 7000yen October 28, 2026 In stock Limited Edition Bonus",
+        "Milestone":  "① Weekly Rank: 6 🎗️",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/CDJapan.jpg"
+    },
+    {
+        "Category":  "YouTube",
+        "Item":  "① Different https://youtu.be/yJIQKRywEY8",
+        "Milestone":  "  👀 Surpassed **900,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    }
+]
