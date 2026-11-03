@@ -1,62 +1,50 @@
 ﻿[
     {
-        "Category":  "Live Debut",
-        "Item":  "① Letters to you ",
-        "Detail":  " 📨 was first played live 2 years ago at Zepp Nagoya, Nagoya, Japan",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
-    },
-    {
-        "Category":  "Live Debut",
-        "Item":  "② TAMAYA! ",
-        "Detail":  " 🎆 was first played live 2 years ago at Zepp Nagoya, Nagoya, Japan",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
-    },
-    {
-        "Category":  "Live Debut",
-        "Item":  "③ The one ",
-        "Detail":  " ☝️ was first played live 2 years ago at Zepp Nagoya, Nagoya, Japan",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
-    },
-    {
-        "Category":  "Live Debut",
-        "Item":  "④ Toi et moi ",
-        "Detail":  " 👫 was first played live 2 years ago at Zepp Nagoya, Nagoya, Japan",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
-    },
-    {
-        "Category":  "YouTube Release",
-        "Item":  "① BAND-MAID / glory (Official Music Video)",
-        "Detail":  "  ▶️ was released 8 years ago. https://youtu.be/TAMiLTiXPpU",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-    },
-    {
-        "Category":  "Song Release",
-        "Item":  "① glory ",
-        "Detail":  "🏅 was released 8 years ago.",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/UW_quilt.png"
+        "Category":  "Okyuji",
+        "Item":  "① 9 years ago 🌍",
+        "Detail":  "  🇬🇧 O2 Academy Islington - London,GB [20 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     },
     {
         "Category":  "Okyuji",
-        "Item":  "① 2 years ago 🗾",
-        "Detail":  "  🇯🇵 Zepp Nagoya - Nagoya,JP [22 songs]",
+        "Item":  "② 2 years ago 🗾",
+        "Detail":  "  🇯🇵 Zepp Osaka Bayside - Osaka,JP [22 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     },
     {
         "Category":  "Other",
-        "Item":  "① 1 year ago",
-        "Detail":  "Unseen World vinyl released",
+        "Item":  "① 5 years ago",
+        "Detail":  " Brand New MAID vinyl released",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Band-Maid%20color%20pop%204.png"
     },
     {
         "Category":  "Other",
-        "Item":  "② 1 year ago",
-        "Detail":  "Unleash vinyl released",
+        "Item":  "② 5 years ago",
+        "Detail":  " CONQUEROR vinyl released",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Band-Maid%20color%20pop%204.png"
     },
     {
         "Category":  "Other",
-        "Item":  "③ 1 year ago",
-        "Detail":  " Epic Narratives vinyl released",
+        "Item":  "③ 5 years ago",
+        "Detail":  " Just Bring It vinyl released",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Band-Maid%20color%20pop%204.png"
+    },
+    {
+        "Category":  "Other",
+        "Item":  "④ 5 years ago",
+        "Detail":  " New Beginning vinyl released",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Band-Maid%20color%20pop%204.png"
+    },
+    {
+        "Category":  "Other",
+        "Item":  "⑤ 5 years ago",
+        "Detail":  "WORLD DOMINATION vinyl released",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Band-Maid%20color%20pop%204.png"
+    },
+    {
+        "Category":  "Other",
+        "Item":  "⑥ 1 year ago",
+        "Detail":  " Present Perfect OMV surpassed 1 million views",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Band-Maid%20color%20pop%204.png"
     }
 ]
