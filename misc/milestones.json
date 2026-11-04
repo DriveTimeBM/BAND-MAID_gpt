@@ -2,25 +2,19 @@
     {
         "Category":  "CDJapan Weekly Rank",
         "Item":  "✨ CD Maxi SPIN [w/ Blu ray, Limited Edition] BAND-MAID 7000yen October 28, 2026 In stock Limited Edition Bonus",
-        "Milestone":  "① Weekly Rank: 5 🎗️",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/CDJapan.jpg"
-    },
-    {
-        "Category":  "CDJapan Weekly Rank",
-        "Item":  "✨ CD Maxi SPIN [Regular Edition] BAND-MAID 1500yen October 28, 2026 In stock Bonus",
-        "Milestone":  "② Weekly Rank: 9 🎗️",
+        "Milestone":  "① Weekly Rank: 8 🎗️",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/CDJapan.jpg"
     },
     {
         "Category":  "YouTube",
         "Item":  "① BAND-MAID / SPIN (Official Music Video)  Anime \"BEYBLADE X\" Ending Theme Song https://youtu.be/Z7I13kDOoQk",
-        "Milestone":  "  💬 Surpassed **1,000** comments!",
+        "Milestone":  "  👀 Surpassed **500,000** views!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
-        "Category":  "Spotify",
-        "Item":  "① YOLO ",
-        "Milestone":  "😎🎢 Surpassed **2,500,000** streams!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
+        "Category":  "Total Streams",
+        "Item":  "YouTube Total Streams",
+        "Milestone":  "  👀 Surpassed **310** MILLION views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     }
 ]
