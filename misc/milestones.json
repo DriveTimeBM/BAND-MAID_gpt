@@ -1,20 +1,38 @@
 ﻿[
     {
-        "Category":  "CDJapan Weekly Rank",
-        "Item":  "✨ CD Maxi SPIN [w/ Blu ray, Limited Edition] BAND-MAID 7000yen October 28, 2026 In stock Limited Edition Bonus",
-        "Milestone":  "① Weekly Rank: 8 🎗️",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/CDJapan.jpg"
-    },
-    {
-        "Category":  "YouTube",
-        "Item":  "① BAND-MAID / SPIN (Official Music Video)  Anime \"BEYBLADE X\" Ending Theme Song https://youtu.be/Z7I13kDOoQk",
-        "Milestone":  "  👀 Surpassed **500,000** views!",
+        "Category":  "YouTube AGGREGATE AUDIO stream Milestones",
+        "Item":  "① ENERGETIC ",
+        "Milestone":  "⚡  aggregate AUDIO streams surpassed **200,000**!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
-        "Category":  "Total Streams",
-        "Item":  "YouTube Total Streams",
-        "Milestone":  "  👀 Surpassed **310** MILLION views!",
+        "Category":  "YouTube AGGREGATE AUDIO stream Milestones",
+        "Item":  "② Spring ephemeral ",
+        "Milestone":  "❀  aggregate AUDIO streams surpassed **100,000**!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube AGGREGATE AUDIO stream Milestones",
+        "Item":  "③ ENTROPY ",
+        "Milestone":  "⚛  aggregate AUDIO streams surpassed **100,000**!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube",
+        "Item":  "① ENERGETIC https://youtu.be/VhVA-w1y694",
+        "Milestone":  "  👀 Surpassed **200,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube",
+        "Item":  "② Spring ephemeral https://youtu.be/dN-5oswJTz8",
+        "Milestone":  "  👀 Surpassed **100,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube",
+        "Item":  "③ ENTROPY https://youtu.be/Uxp99QDwgK0",
+        "Milestone":  "  👀 Surpassed **100,000** views!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     }
 ]

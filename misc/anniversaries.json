@@ -1,26 +1,26 @@
 ﻿[
     {
+        "Category":  "YouTube Release",
+        "Item":  "① BAND-MAID / 輪廻  \"RINNE\" (Official Music Video)",
+        "Detail":  "  ▶️ was released 7 years ago. https://youtu.be/CQ9dbEVgZcA",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "Song Release",
+        "Item":  "① Rinne ",
+        "Detail":  "♻️ was released 7 years ago.",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/UW_quilt.png"
+    },
+    {
         "Category":  "Okyuji",
-        "Item":  "① 9 years ago 🌍",
-        "Detail":  "  🇫🇷 La Boule Noire - Paris,FR [20 songs]",
+        "Item":  "① 10 years ago 🌏",
+        "Detail":  "  🇭🇰 Music Zone @ E-Max - Kowloon,HK [12 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     },
     {
         "Category":  "Okyuji",
-        "Item":  "② 8 years ago 🗾",
-        "Detail":  "  🇯🇵 PENNY LANE 24 - Sapporo,JP [24 songs]",
+        "Item":  "② 9 years ago 🌍",
+        "Detail":  "  🇩🇪 Zeche - Bochum,DE [20 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
-    },
-    {
-        "Category":  "Okyuji",
-        "Item":  "③ 7 years ago 🗾",
-        "Detail":  "  🇯🇵 STUDIO COAST - Tokyo,JP [6 songs]",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
-    },
-    {
-        "Category":  "Other",
-        "Item":  "① 11 years ago",
-        "Detail":  "Thrill OMV surpassed 1 million views",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Band-Maid%20color%20pop%204.png"
     }
 ]
