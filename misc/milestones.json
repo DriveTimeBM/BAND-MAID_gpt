@@ -1,6 +1,38 @@
-﻿{
-    "Category":  "YouTube",
-    "Item":  "① CLANG https://youtu.be/RNJxKL5Ylf4",
-    "Milestone":  "  👀 Surpassed **300,000** views!",
-    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-}
+﻿[
+    {
+        "Category":  "YouTube AGGREGATE AUDIO stream Milestones",
+        "Item":  "① Blooming ",
+        "Milestone":  "🌸  aggregate AUDIO streams surpassed **700,000**!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube AGGREGATE AUDIO stream Milestones",
+        "Item":  "② NO GOD ",
+        "Milestone":  "⛩️  aggregate AUDIO streams surpassed **600,000**!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube AGGREGATE AUDIO stream Milestones",
+        "Item":  "③ CROSS ",
+        "Milestone":  "✝️  aggregate AUDIO streams surpassed **400,000**!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube",
+        "Item":  "① NO GOD https://youtu.be/-ZEF3shvlsU",
+        "Milestone":  "  👀 Surpassed **600,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube",
+        "Item":  "② CROSS https://youtu.be/W6odZxUQ84s",
+        "Milestone":  "  👀 Surpassed **400,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "Spotify",
+        "Item":  "① Ready to Rock ",
+        "Milestone":  "🪨 Surpassed **4,200,000** streams!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
+    }
+]
