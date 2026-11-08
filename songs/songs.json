@@ -106,7 +106,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  117,
-        "SpotifyStreams":  3964528,
+        "SpotifyStreams":  3968385,
         "MediaTieIn":  "Ending theme for anime series Yu-Gi-Oh! VRAINS (ep 71-95)"
     },
     {
@@ -136,7 +136,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  39,
-        "SpotifyStreams":  3448110,
+        "SpotifyStreams":  3453169,
         "MediaTieIn":  "Used in TV show World Pro-Wrestling (TV Asahi)"
     },
     {
@@ -250,24 +250,24 @@
         "MediaTieIn":  null
     },
     {
-        "Name":  "the non-fiction days",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2016-04-07T00:00:00",
-        "Album":  "Brand New MAID",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  166,
-        "SpotifyStreams":  2374608,
-        "MediaTieIn":  null
-    },
-    {
         "Name":  "What is justice?",
         "AlternativeName":  "",
         "ReleaseDate":  "2025-07-18T00:00:00",
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
         "PlayedLiveCount":  29,
-        "SpotifyStreams":  2366424,
+        "SpotifyStreams":  2390317,
         "MediaTieIn":  "Ending theme for anime series Tougen Anki. Included in video game Forza Horizon 6 on the Horizon XS in-game radio station."
+    },
+    {
+        "Name":  "the non-fiction days",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2016-04-07T00:00:00",
+        "Album":  "Brand New MAID",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  166,
+        "SpotifyStreams":  2378208,
+        "MediaTieIn":  null
     },
     {
         "Name":  "secret MAIKO lips",
@@ -296,7 +296,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  94,
-        "SpotifyStreams":  2068926,
+        "SpotifyStreams":  2073326,
         "MediaTieIn":  null
     },
     {
@@ -336,7 +336,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  115,
-        "SpotifyStreams":  1975774,
+        "SpotifyStreams":  1978542,
         "MediaTieIn":  null
     },
     {
@@ -450,6 +450,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "One and only",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2018-02-14T00:00:00",
+        "Album":  "WORLD DOMINATION",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  27,
+        "SpotifyStreams":  1565156,
+        "MediaTieIn":  "Theme song for movie 狂い華 (Kuruibana)"
+    },
+    {
         "Name":  "SAYONAKIDORI",
         "AlternativeName":  "サヨナキドリ",
         "ReleaseDate":  "2021-01-20T00:00:00",
@@ -458,16 +468,6 @@
         "PlayedLiveCount":  49,
         "SpotifyStreams":  1563859,
         "MediaTieIn":  null
-    },
-    {
-        "Name":  "One and only",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2018-02-14T00:00:00",
-        "Album":  "WORLD DOMINATION",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  27,
-        "SpotifyStreams":  1562155,
-        "MediaTieIn":  "Theme song for movie 狂い華 (Kuruibana)"
     },
     {
         "Name":  "FREEZER",
@@ -606,7 +606,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  69,
-        "SpotifyStreams":  1225642,
+        "SpotifyStreams":  1226933,
         "MediaTieIn":  "Ending theme for anime series Quiz Tokiko-san"
     },
     {
@@ -716,7 +716,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  38,
-        "SpotifyStreams":  989195,
+        "SpotifyStreams":  990062,
         "MediaTieIn":  null
     },
     {
@@ -736,7 +736,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  1,
-        "SpotifyStreams":  931180,
+        "SpotifyStreams":  932597,
         "MediaTieIn":  null
     },
     {
@@ -766,7 +766,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  12,
-        "SpotifyStreams":  907855,
+        "SpotifyStreams":  909031,
         "MediaTieIn":  null
     },
     {
@@ -856,7 +856,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  12,
-        "SpotifyStreams":  835371,
+        "SpotifyStreams":  836120,
         "MediaTieIn":  null
     },
     {
@@ -876,7 +876,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  9,
-        "SpotifyStreams":  828962,
+        "SpotifyStreams":  831049,
         "MediaTieIn":  null
     },
     {
@@ -886,7 +886,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  63,
-        "SpotifyStreams":  821646,
+        "SpotifyStreams":  822366,
         "MediaTieIn":  null
     },
     {
@@ -986,7 +986,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  18,
-        "SpotifyStreams":  730402,
+        "SpotifyStreams":  732373,
         "MediaTieIn":  null
     },
     {
@@ -1026,7 +1026,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
-        "SpotifyStreams":  711456,
+        "SpotifyStreams":  712179,
         "MediaTieIn":  null
     },
     {
@@ -1116,7 +1116,7 @@
         "Album":  "YOLO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  50,
-        "SpotifyStreams":  601144,
+        "SpotifyStreams":  601730,
         "MediaTieIn":  null
     },
     {
@@ -1196,7 +1196,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  12,
-        "SpotifyStreams":  401657,
+        "SpotifyStreams":  404310,
         "MediaTieIn":  null
     },
     {
@@ -1256,7 +1256,7 @@
         "Album":  "ENERGETIC",
         "KobatoLead":  "no",
         "PlayedLiveCount":  28,
-        "SpotifyStreams":  277370,
+        "SpotifyStreams":  285351,
         "MediaTieIn":  null
     },
     {
