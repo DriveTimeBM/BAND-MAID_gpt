@@ -56,7 +56,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  159,
-        "SpotifyStreams":  6443760,
+        "SpotifyStreams":  6455852,
         "MediaTieIn":  null
     },
     {
@@ -170,6 +170,16 @@
         "MediaTieIn":  "Theme song for TV show Perfect Crime"
     },
     {
+        "Name":  "Puzzle",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2017-01-11T00:00:00",
+        "Album":  "Just Bring It",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  40,
+        "SpotifyStreams":  2717150,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "REAL EXISTENCE",
         "AlternativeName":  "",
         "ReleaseDate":  "2015-11-18T00:00:00",
@@ -177,16 +187,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  242,
         "SpotifyStreams":  2713781,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Puzzle",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2017-01-11T00:00:00",
-        "Album":  "Just Bring It",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  40,
-        "SpotifyStreams":  2713115,
         "MediaTieIn":  null
     },
     {
@@ -286,7 +286,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  145,
-        "SpotifyStreams":  2220707,
+        "SpotifyStreams":  2226322,
         "MediaTieIn":  null
     },
     {
@@ -316,7 +316,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  49,
-        "SpotifyStreams":  1996455,
+        "SpotifyStreams":  2000493,
         "MediaTieIn":  null
     },
     {
@@ -450,6 +450,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "SAYONAKIDORI",
+        "AlternativeName":  "サヨナキドリ",
+        "ReleaseDate":  "2021-01-20T00:00:00",
+        "Album":  "Unseen World",
+        "KobatoLead":  "yes",
+        "PlayedLiveCount":  49,
+        "SpotifyStreams":  1567574,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "One and only",
         "AlternativeName":  "",
         "ReleaseDate":  "2018-02-14T00:00:00",
@@ -460,13 +470,13 @@
         "MediaTieIn":  "Theme song for movie 狂い華 (Kuruibana)"
     },
     {
-        "Name":  "SAYONAKIDORI",
-        "AlternativeName":  "サヨナキドリ",
-        "ReleaseDate":  "2021-01-20T00:00:00",
-        "Album":  "Unseen World",
-        "KobatoLead":  "yes",
-        "PlayedLiveCount":  49,
-        "SpotifyStreams":  1563859,
+        "Name":  "Gion-Cho",
+        "AlternativeName":  "祇園町",
+        "ReleaseDate":  "2019-04-01T00:00:00",
+        "Album":  "BAND-MAIKO",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  2,
+        "SpotifyStreams":  1559864,
         "MediaTieIn":  null
     },
     {
@@ -477,16 +487,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  39,
         "SpotifyStreams":  1559653,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Gion-Cho",
-        "AlternativeName":  "祇園町",
-        "ReleaseDate":  "2019-04-01T00:00:00",
-        "Album":  "BAND-MAIKO",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  2,
-        "SpotifyStreams":  1557721,
         "MediaTieIn":  null
     },
     {
@@ -516,7 +516,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  38,
-        "SpotifyStreams":  1411840,
+        "SpotifyStreams":  1416065,
         "MediaTieIn":  "Ending theme for anime series Grendizer U"
     },
     {
@@ -536,7 +536,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  73,
-        "SpotifyStreams":  1375757,
+        "SpotifyStreams":  1376686,
         "MediaTieIn":  null
     },
     {
@@ -556,7 +556,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  43,
-        "SpotifyStreams":  1258346,
+        "SpotifyStreams":  1259842,
         "MediaTieIn":  null
     },
     {
@@ -586,7 +586,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  21,
-        "SpotifyStreams":  1243198,
+        "SpotifyStreams":  1244119,
         "MediaTieIn":  null
     },
     {
@@ -636,7 +636,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  37,
-        "SpotifyStreams":  1140758,
+        "SpotifyStreams":  1141970,
         "MediaTieIn":  null
     },
     {
@@ -676,7 +676,7 @@
         "Album":  "Bubble",
         "KobatoLead":  "no",
         "PlayedLiveCount":  7,
-        "SpotifyStreams":  1085062,
+        "SpotifyStreams":  1085868,
         "MediaTieIn":  null
     },
     {
@@ -1036,7 +1036,17 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
-        "SpotifyStreams":  708693,
+        "SpotifyStreams":  709501,
+        "MediaTieIn":  null
+    },
+    {
+        "Name":  "Don\u0027t apply the brake",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2015-11-18T00:00:00",
+        "Album":  "New Beginning",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  61,
+        "SpotifyStreams":  678505,
         "MediaTieIn":  null
     },
     {
@@ -1047,16 +1057,6 @@
         "KobatoLead":  "yes",
         "PlayedLiveCount":  57,
         "SpotifyStreams":  678295,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Don\u0027t apply the brake",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2015-11-18T00:00:00",
-        "Album":  "New Beginning",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  61,
-        "SpotifyStreams":  677798,
         "MediaTieIn":  null
     },
     {
@@ -1076,7 +1076,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  1,
-        "SpotifyStreams":  652589,
+        "SpotifyStreams":  653371,
         "MediaTieIn":  null
     },
     {
@@ -1086,7 +1086,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  49,
-        "SpotifyStreams":  649585,
+        "SpotifyStreams":  650267,
         "MediaTieIn":  null
     },
     {
@@ -1106,7 +1106,7 @@
         "Album":  "YOLO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  53,
-        "SpotifyStreams":  612146,
+        "SpotifyStreams":  612745,
         "MediaTieIn":  null
     },
     {
@@ -1156,7 +1156,7 @@
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
         "PlayedLiveCount":  42,
-        "SpotifyStreams":  512478,
+        "SpotifyStreams":  517390,
         "MediaTieIn":  null
     },
     {
@@ -1306,7 +1306,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  18,
-        "SpotifyStreams":  193016,
+        "SpotifyStreams":  193819,
         "MediaTieIn":  null
     },
     {
@@ -1336,7 +1336,7 @@
         "Album":  "ENERGETIC",
         "KobatoLead":  "no",
         "PlayedLiveCount":  17,
-        "SpotifyStreams":  132581,
+        "SpotifyStreams":  137047,
         "MediaTieIn":  null
     },
     {
