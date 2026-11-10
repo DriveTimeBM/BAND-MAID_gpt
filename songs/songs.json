@@ -46,7 +46,7 @@
         "Album":  "Different",
         "KobatoLead":  "no",
         "PlayedLiveCount":  38,
-        "SpotifyStreams":  7529339,
+        "SpotifyStreams":  7539127,
         "MediaTieIn":  "Opening theme for S3 of anime series Log Horizon"
     },
     {
@@ -166,7 +166,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  39,
-        "SpotifyStreams":  2730007,
+        "SpotifyStreams":  2732370,
         "MediaTieIn":  "Theme song for TV show Perfect Crime"
     },
     {
@@ -216,7 +216,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  95,
-        "SpotifyStreams":  2502794,
+        "SpotifyStreams":  2506669,
         "MediaTieIn":  "Used in mobile game Valiant Knights"
     },
     {
@@ -246,7 +246,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  144,
-        "SpotifyStreams":  2422183,
+        "SpotifyStreams":  2425334,
         "MediaTieIn":  null
     },
     {
@@ -306,7 +306,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  13,
-        "SpotifyStreams":  2025840,
+        "SpotifyStreams":  2027552,
         "MediaTieIn":  null
     },
     {
@@ -376,7 +376,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  261,
-        "SpotifyStreams":  1850960,
+        "SpotifyStreams":  1853189,
         "MediaTieIn":  null
     },
     {
@@ -436,7 +436,7 @@
         "Album":  "about Us",
         "KobatoLead":  "no",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  1607053,
+        "SpotifyStreams":  1608255,
         "MediaTieIn":  null
     },
     {
@@ -496,7 +496,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  73,
-        "SpotifyStreams":  1472165,
+        "SpotifyStreams":  1474543,
         "MediaTieIn":  null
     },
     {
@@ -506,7 +506,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  62,
-        "SpotifyStreams":  1467470,
+        "SpotifyStreams":  1469381,
         "MediaTieIn":  null
     },
     {
@@ -566,7 +566,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  17,
-        "SpotifyStreams":  1258100,
+        "SpotifyStreams":  1259120,
         "MediaTieIn":  null
     },
     {
@@ -686,7 +686,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  36,
-        "SpotifyStreams":  1060320,
+        "SpotifyStreams":  1061191,
         "MediaTieIn":  null
     },
     {
@@ -796,7 +796,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  11,
-        "SpotifyStreams":  885922,
+        "SpotifyStreams":  887187,
         "MediaTieIn":  null
     },
     {
@@ -816,7 +816,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  17,
-        "SpotifyStreams":  856187,
+        "SpotifyStreams":  856857,
         "MediaTieIn":  null
     },
     {
@@ -956,7 +956,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  50,
-        "SpotifyStreams":  749427,
+        "SpotifyStreams":  750238,
         "MediaTieIn":  null
     },
     {
@@ -1066,7 +1066,7 @@
         "Album":  "Love, Passion, Matador (愛と情熱のマタドール)",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  40,
-        "SpotifyStreams":  669404,
+        "SpotifyStreams":  669811,
         "MediaTieIn":  null
     },
     {
@@ -1176,7 +1176,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
-        "SpotifyStreams":  491670,
+        "SpotifyStreams":  492484,
         "MediaTieIn":  null
     },
     {
@@ -1200,24 +1200,24 @@
         "MediaTieIn":  null
     },
     {
-        "Name":  "Magie",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2024-07-21T00:00:00",
-        "Album":  "Epic Narratives",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  29,
-        "SpotifyStreams":  382437,
-        "MediaTieIn":  null
-    },
-    {
         "Name":  "SUPER SUNSHINE",
         "AlternativeName":  "",
         "ReleaseDate":  "2025-10-22T00:00:00",
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
         "PlayedLiveCount":  38,
-        "SpotifyStreams":  382296,
+        "SpotifyStreams":  387168,
         "MediaTieIn":  "Featured in a series of 2026 commercials “Make Life Interesting.” by Takahashi Shuzo Co., Ltd. for Hakutake Shiro."
+    },
+    {
+        "Name":  "Magie",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2024-07-21T00:00:00",
+        "Album":  "Epic Narratives",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  29,
+        "SpotifyStreams":  383883,
+        "MediaTieIn":  null
     },
     {
         "Name":  "The one",
@@ -1276,7 +1276,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  25,
-        "SpotifyStreams":  237528,
+        "SpotifyStreams":  238563,
         "MediaTieIn":  null
     },
     {
@@ -1346,7 +1346,7 @@
         "Album":  "SPIN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  38120,
+        "SpotifyStreams":  77397,
         "MediaTieIn":  "Ending theme for anime BEYBLADE X"
     },
     {
