@@ -1,20 +1,6 @@
-﻿[
-    {
-        "Category":  "Okyuji",
-        "Item":  "① 11 years ago 🗾",
-        "Detail":  "  🇯🇵 shibuya eggman - Tokyo,JP [9 songs]",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
-    },
-    {
-        "Category":  "Okyuji",
-        "Item":  "② 8 years ago 🌎",
-        "Detail":  "  🇺🇸 The Chapel - San Francisco,US [20 songs]",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
-    },
-    {
-        "Category":  "Okyuji",
-        "Item":  "③ 7 years ago 🗾",
-        "Detail":  "  🇯🇵 HEAVEN\u0027S ROCK UTSUNOMIYA VJ-2 - Utsunomiya,JP [23 songs]",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
-    }
-]
+﻿{
+    "Category":  "Okyuji",
+    "Item":  "① 10 years ago 🗾",
+    "Detail":  "  🇯🇵 Ryougoku Kokugikan - Tokyo,JP [1 songs]",
+    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+}
