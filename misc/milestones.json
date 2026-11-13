@@ -1,20 +1,38 @@
 ﻿[
     {
-        "Category":  "YouTube",
-        "Item":  "① スリル https://youtu.be/46A5e-KzDOc",
-        "Milestone":  "  👀 Surpassed **1,500,000** views!",
+        "Category":  "YouTube AGGREGATE Views",
+        "Item":  "① secret My lips ",
+        "Milestone":  "💋 aggregate views surpassed **4** million!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
         "Category":  "YouTube",
-        "Item":  "② BAND-MAID / SPIN (Official Music Video)  Anime \"BEYBLADE X\" Ending Theme Song https://youtu.be/Z7I13kDOoQk",
+        "Item":  "① BAND-MAID / カタルシス \"Catharsis\"  Acoustic Ver.  (Official Live Video) https://youtu.be/tx9h41gaNo0",
         "Milestone":  "  👀 Surpassed **800,000** views!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
-        "Category":  "Total Streams",
-        "Item":  "Spotify Total Streams",
-        "Milestone":  "  🎧 Surpassed **231** MILLION streams!",
+        "Category":  "YouTube",
+        "Item":  "② BAND-MAID / Thrill (スリル)  (Official Music Video) https://youtu.be/Uds7g3M-4lQ",
+        "Milestone":  "  👀 Surpassed **24,000,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube",
+        "Item":  "③ BAND-MAID / Dilly-Dally (Official Live Video) https://youtu.be/yTAQ5dCpuiM",
+        "Milestone":  "  👀 Surpassed **1,400,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube",
+        "Item":  "④ BAND-MAID / SPIN (Official Music Video)  Anime \"BEYBLADE X\" Ending Theme Song https://youtu.be/Z7I13kDOoQk",
+        "Milestone":  "  👀 Surpassed **900,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "Spotify",
+        "Item":  "① Zen ",
+        "Milestone":  "🧘‍♀️ Surpassed **2,500,000** streams!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
     }
 ]

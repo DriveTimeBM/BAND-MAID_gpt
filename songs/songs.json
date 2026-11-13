@@ -66,7 +66,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  44,
-        "SpotifyStreams":  4306178,
+        "SpotifyStreams":  4311330,
         "MediaTieIn":  "Used in Netflix movie Kate"
     },
     {
@@ -126,7 +126,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  33,
-        "SpotifyStreams":  3481555,
+        "SpotifyStreams":  3486545,
         "MediaTieIn":  null
     },
     {
@@ -186,7 +186,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  242,
-        "SpotifyStreams":  2713781,
+        "SpotifyStreams":  2716827,
         "MediaTieIn":  null
     },
     {
@@ -210,6 +210,16 @@
         "MediaTieIn":  "Ending theme for season 2 of anime series Kengan Ashura"
     },
     {
+        "Name":  "Zen",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2025-01-13T00:00:00",
+        "Album":  "SCOOOOOP",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  32,
+        "SpotifyStreams":  2510070,
+        "MediaTieIn":  "Opening theme for anime series Zenshu"
+    },
+    {
         "Name":  "YOLO",
         "AlternativeName":  "",
         "ReleaseDate":  "2016-11-16T00:00:00",
@@ -218,16 +228,6 @@
         "PlayedLiveCount":  95,
         "SpotifyStreams":  2506669,
         "MediaTieIn":  "Used in mobile game Valiant Knights"
-    },
-    {
-        "Name":  "Zen",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2025-01-13T00:00:00",
-        "Album":  "SCOOOOOP",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  32,
-        "SpotifyStreams":  2499232,
-        "MediaTieIn":  "Opening theme for anime series Zenshu"
     },
     {
         "Name":  "alone",
@@ -346,7 +346,7 @@
         "Album":  "start over",
         "KobatoLead":  "no",
         "PlayedLiveCount":  92,
-        "SpotifyStreams":  1925799,
+        "SpotifyStreams":  1927553,
         "MediaTieIn":  null
     },
     {
@@ -396,7 +396,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  44,
-        "SpotifyStreams":  1763450,
+        "SpotifyStreams":  1766327,
         "MediaTieIn":  null
     },
     {
@@ -406,7 +406,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  14,
-        "SpotifyStreams":  1689513,
+        "SpotifyStreams":  1692763,
         "MediaTieIn":  null
     },
     {
@@ -416,7 +416,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  18,
-        "SpotifyStreams":  1683247,
+        "SpotifyStreams":  1687025,
         "MediaTieIn":  null
     },
     {
@@ -470,6 +470,16 @@
         "MediaTieIn":  "Theme song for movie 狂い華 (Kuruibana)"
     },
     {
+        "Name":  "FREEZER",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2015-11-18T00:00:00",
+        "Album":  "New Beginning",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  39,
+        "SpotifyStreams":  1561009,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Gion-Cho",
         "AlternativeName":  "祇園町",
         "ReleaseDate":  "2019-04-01T00:00:00",
@@ -477,16 +487,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  2,
         "SpotifyStreams":  1559864,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "FREEZER",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2015-11-18T00:00:00",
-        "Album":  "New Beginning",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  39,
-        "SpotifyStreams":  1559653,
         "MediaTieIn":  null
     },
     {
@@ -646,7 +646,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  59,
-        "SpotifyStreams":  1139419,
+        "SpotifyStreams":  1140425,
         "MediaTieIn":  null
     },
     {
@@ -696,7 +696,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  9,
-        "SpotifyStreams":  1041707,
+        "SpotifyStreams":  1042632,
         "MediaTieIn":  null
     },
     {
@@ -706,7 +706,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  1,
-        "SpotifyStreams":  1036608,
+        "SpotifyStreams":  1037615,
         "MediaTieIn":  null
     },
     {
@@ -826,7 +826,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  35,
-        "SpotifyStreams":  848969,
+        "SpotifyStreams":  849727,
         "MediaTieIn":  null
     },
     {
@@ -936,7 +936,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  60,
-        "SpotifyStreams":  777209,
+        "SpotifyStreams":  778677,
         "MediaTieIn":  null
     },
     {
@@ -966,7 +966,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  747021,
+        "SpotifyStreams":  747556,
         "MediaTieIn":  null
     },
     {
@@ -976,7 +976,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  27,
-        "SpotifyStreams":  734303,
+        "SpotifyStreams":  735324,
         "MediaTieIn":  null
     },
     {
@@ -1130,23 +1130,23 @@
         "MediaTieIn":  null
     },
     {
-        "Name":  "YOLOSIOSU",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2019-04-01T00:00:00",
-        "Album":  "BAND-MAIKO",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  null,
-        "SpotifyStreams":  573460,
-        "MediaTieIn":  null
-    },
-    {
         "Name":  "Forbidden tale",
         "AlternativeName":  "",
         "ReleaseDate":  "2024-09-25T00:00:00",
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  34,
-        "SpotifyStreams":  571608,
+        "SpotifyStreams":  574522,
+        "MediaTieIn":  null
+    },
+    {
+        "Name":  "YOLOSIOSU",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2019-04-01T00:00:00",
+        "Album":  "BAND-MAIKO",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  null,
+        "SpotifyStreams":  574466,
         "MediaTieIn":  null
     },
     {
@@ -1296,7 +1296,7 @@
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
         "PlayedLiveCount":  29,
-        "SpotifyStreams":  216917,
+        "SpotifyStreams":  218715,
         "MediaTieIn":  null
     },
     {
