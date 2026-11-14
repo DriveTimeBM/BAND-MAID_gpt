@@ -1,18 +1,8 @@
-[
-    {
-        "Summary":  "BUDOKAN - 2",
-        "Location":  "Nippon Budokan, 2-3 Kitanomarukōen, Chiyoda City, Tokyo 102-8321, Japan",
-        "URL":  "https://bandmaid.tokyo/contents/1041130",
-        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/BUDOKAN.jpg",
-        "Start_Local":  "2026-11-14 03:00:00",
-        "Start_Japan":  "2026-11-14 17:00:00"
-    },
-    {
-        "Summary":  "Akane Birthday",
-        "Location":  "",
-        "URL":  null,
-        "Image":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/849356/content_akane-2.jpg",
-        "Start_Local":  "2026-12-13 10:00:00",
-        "Start_Japan":  "2026-12-14 00:00:00"
-    }
-]
+{
+    "Summary":  "Akane Birthday",
+    "Location":  "",
+    "URL":  null,
+    "Image":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/849356/content_akane-2.jpg",
+    "Start_Local":  "2026-12-13 10:00:00",
+    "Start_Japan":  "2026-12-14 00:00:00"
+}
