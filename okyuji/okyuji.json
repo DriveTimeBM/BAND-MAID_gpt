@@ -1,5 +1,21 @@
 ﻿[
     {
+        "SetDate":  "2026-11-14",
+        "Country":  "JP",
+        "City":  "Tokyo",
+        "Venue":  "Nippon Budokan",
+        "Tour":  "WORLD TOUR 2026",
+        "URL":  "https://www.setlist.fm/setlist/bandmaid/2026/nippon-budokan-tokyo-japan-634bb66f.html",
+        "NumberOfSongs":  27,
+        "SetlistDelimited":  "Present Perfect/DOMINATION/SUPER SUNSHINE/ENERGETIC/What is justice?/glory/Toi et moi/CAGE/Manners/ENTROPY/HATE?/Protect You/Lock and Load/BONDS/Brightest Star/Unleash!!!!!/Spring ephemeral/Awkward/SION/Daydreaming/Days/endless Story/Dilly-Dally/Ready to Rock/SPIN/NO GOD/Choose me",
+        "Opener":  "Present Perfect",
+        "Closer":  "Choose me",
+        "LatLon":  "35.6934408,139.7498607",
+        "Latitude":  35.6934408,
+        "Longitude":  139.7498607,
+        "Map":  "https://www.google.com/maps/search/?api=1\u0026query=35.6934408,139.7498607"
+    },
+    {
         "SetDate":  "2026-11-13",
         "Country":  "JP",
         "City":  "Tokyo",
