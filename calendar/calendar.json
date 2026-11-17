@@ -1,8 +1,26 @@
-{
-    "Summary":  "Akane Birthday",
-    "Location":  "",
-    "URL":  null,
-    "Image":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/849356/content_akane-2.jpg",
-    "Start_Local":  "2026-12-13 10:00:00",
-    "Start_Japan":  "2026-12-14 00:00:00"
-}
+[
+    {
+        "Summary":  "Akane Birthday",
+        "Location":  "",
+        "URL":  null,
+        "Image":  "https://bandmaid.tokyo/s3/skiyaki/uploads/ckeditor/pictures/849356/content_akane-2.jpg",
+        "Start_Local":  "2026-12-13 10:00:00",
+        "Start_Japan":  "2026-12-14 00:00:00"
+    },
+    {
+        "Summary":  "Release of GOLD (NEK!)",
+        "Location":  "",
+        "URL":  "https://bandmaid.tokyo/contents/1128068",
+        "Image":  "https://drivetimebm.github.io/BAND-MAID_gpt/misc/gold.jpg",
+        "Start_Local":  "2026-12-15 10:00:00",
+        "Start_Japan":  "2026-12-16 00:00:00"
+    },
+    {
+        "Summary":  "Release of BONDS (Date uncertain)",
+        "Location":  "",
+        "URL":  "https://bandmaid.tokyo/contents/1124542",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/ribbon/band-maid-bow-logo-256x256.png",
+        "Start_Local":  "2027-01-03 10:00:00",
+        "Start_Japan":  "2027-01-04 00:00:00"
+    }
+]

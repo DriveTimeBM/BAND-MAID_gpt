@@ -36,7 +36,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  134,
-        "SpotifyStreams":  7728892,
+        "SpotifyStreams":  7737128,
         "MediaTieIn":  null
     },
     {
@@ -46,7 +46,7 @@
         "Album":  "Different",
         "KobatoLead":  "no",
         "PlayedLiveCount":  38,
-        "SpotifyStreams":  7539127,
+        "SpotifyStreams":  7549321,
         "MediaTieIn":  "Opening theme for S3 of anime series Log Horizon"
     },
     {
@@ -56,7 +56,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  159,
-        "SpotifyStreams":  6468184,
+        "SpotifyStreams":  6469742,
         "MediaTieIn":  null
     },
     {
@@ -186,7 +186,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  242,
-        "SpotifyStreams":  2716827,
+        "SpotifyStreams":  2718582,
         "MediaTieIn":  null
     },
     {
@@ -246,7 +246,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  145,
-        "SpotifyStreams":  2425334,
+        "SpotifyStreams":  2428723,
         "MediaTieIn":  null
     },
     {
@@ -386,7 +386,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  3,
-        "SpotifyStreams":  1814877,
+        "SpotifyStreams":  1816159,
         "MediaTieIn":  null
     },
     {
@@ -436,7 +436,7 @@
         "Album":  "about Us",
         "KobatoLead":  "no",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  1608255,
+        "SpotifyStreams":  1609465,
         "MediaTieIn":  null
     },
     {
@@ -456,7 +456,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  50,
-        "SpotifyStreams":  1571277,
+        "SpotifyStreams":  1571783,
         "MediaTieIn":  null
     },
     {
@@ -586,7 +586,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  21,
-        "SpotifyStreams":  1245054,
+        "SpotifyStreams":  1245172,
         "MediaTieIn":  null
     },
     {
@@ -596,7 +596,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
-        "SpotifyStreams":  1242756,
+        "SpotifyStreams":  1243748,
         "MediaTieIn":  null
     },
     {
@@ -646,7 +646,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  59,
-        "SpotifyStreams":  1140425,
+        "SpotifyStreams":  1140987,
         "MediaTieIn":  null
     },
     {
@@ -656,7 +656,7 @@
         "Album":  "glory",
         "KobatoLead":  "no",
         "PlayedLiveCount":  22,
-        "SpotifyStreams":  1099789,
+        "SpotifyStreams":  1100412,
         "MediaTieIn":  null
     },
     {
@@ -896,7 +896,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  815992,
+        "SpotifyStreams":  817008,
         "MediaTieIn":  null
     },
     {
@@ -916,7 +916,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  18,
-        "SpotifyStreams":  811354,
+        "SpotifyStreams":  811820,
         "MediaTieIn":  null
     },
     {
@@ -1116,7 +1116,7 @@
         "Album":  "YOLO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  50,
-        "SpotifyStreams":  602322,
+        "SpotifyStreams":  602460,
         "MediaTieIn":  null
     },
     {
@@ -1126,7 +1126,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  592519,
+        "SpotifyStreams":  593339,
         "MediaTieIn":  null
     },
     {
@@ -1216,7 +1216,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  29,
-        "SpotifyStreams":  383883,
+        "SpotifyStreams":  385624,
         "MediaTieIn":  null
     },
     {
@@ -1226,7 +1226,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  8,
-        "SpotifyStreams":  363877,
+        "SpotifyStreams":  364750,
         "MediaTieIn":  null
     },
     {
@@ -1296,7 +1296,7 @@
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
         "PlayedLiveCount":  31,
-        "SpotifyStreams":  218715,
+        "SpotifyStreams":  220106,
         "MediaTieIn":  null
     },
     {
@@ -1350,6 +1350,16 @@
         "MediaTieIn":  "Ending theme for anime BEYBLADE X"
     },
     {
+        "Name":  "Spring ephemeral",
+        "AlternativeName":  null,
+        "ReleaseDate":  "2026-10-28T00:00:00",
+        "Album":  "SPIN",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  4,
+        "SpotifyStreams":  37843,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "ENTROPY",
         "AlternativeName":  null,
         "ReleaseDate":  "2026-10-28T00:00:00",
@@ -1357,16 +1367,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  4,
         "SpotifyStreams":  31907,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Spring ephemeral",
-        "AlternativeName":  null,
-        "ReleaseDate":  "2026-10-28T00:00:00",
-        "Album":  "SPIN",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  4,
-        "SpotifyStreams":  27459,
         "MediaTieIn":  null
     },
     {
@@ -1388,6 +1388,16 @@
         "PlayedLiveCount":  null,
         "SpotifyStreams":  0,
         "MediaTieIn":  null
+    },
+    {
+        "Name":  "Dawn Winery Theme",
+        "AlternativeName":  null,
+        "ReleaseDate":  "2022-10-02T00:00:00",
+        "Album":  "",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  null,
+        "SpotifyStreams":  null,
+        "MediaTieIn":  "Created for (game) Genshin Impact Concert 2022"
     },
     {
         "Name":  "without holding back",
@@ -1428,15 +1438,5 @@
         "PlayedLiveCount":  null,
         "SpotifyStreams":  null,
         "MediaTieIn":  null
-    },
-    {
-        "Name":  "Dawn Winery Theme",
-        "AlternativeName":  null,
-        "ReleaseDate":  "2022-10-02T00:00:00",
-        "Album":  "",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  null,
-        "SpotifyStreams":  null,
-        "MediaTieIn":  "Created for (game) Genshin Impact Concert 2022"
     }
 ]
