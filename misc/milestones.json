@@ -1,14 +1,26 @@
 ﻿[
     {
         "Category":  "YouTube",
-        "Item":  "① BAND-MAID / Present Perfect (Official Music Video) https://youtu.be/yzSdgw-tdr0",
-        "Milestone":  "  👀 Surpassed **2,000,000** views!",
+        "Item":  "① BAND-MAID / Puzzle (Official Live Video) https://youtu.be/zvuqmSQEnaA",
+        "Milestone":  "  👀 Surpassed **1,300,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube",
+        "Item":  "② What is justice? https://youtu.be/vu2D3lzH7Y0",
+        "Milestone":  "  👀 Surpassed **1,500,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube",
+        "Item":  "③ BAND-MAID / SPIN (Official Music Video)  Anime \"BEYBLADE X\" Ending Theme Song https://youtu.be/Z7I13kDOoQk",
+        "Milestone":  "  👀 Surpassed **1,300,000** views!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
         "Category":  "Spotify",
-        "Item":  "① hide-and-seek ",
-        "Milestone":  "🙈 Surpassed **1,100,000** streams!",
+        "Item":  "① SPIN ",
+        "Milestone":  "🌀 Surpassed **100,000** streams!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
     }
 ]

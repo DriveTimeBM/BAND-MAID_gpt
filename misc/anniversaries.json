@@ -1,26 +1,68 @@
 ﻿[
     {
+        "Category":  "Song Release",
+        "Item":  "① Shake That!! ",
+        "Detail":  "📳 was released 11 years ago.",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/UW_quilt.png"
+    },
+    {
+        "Category":  "Song Release",
+        "Item":  "② Don\u0027t let me down ",
+        "Detail":  "🚫⬇️ was released 11 years ago.",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/UW_quilt.png"
+    },
+    {
+        "Category":  "Song Release",
+        "Item":  "③ Beauty and the beast ",
+        "Detail":  "👹 was released 11 years ago.",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/UW_quilt.png"
+    },
+    {
+        "Category":  "Song Release",
+        "Item":  "④ Don\u0027t apply the brake ",
+        "Detail":  "🚫🛑 was released 11 years ago.",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/UW_quilt.png"
+    },
+    {
+        "Category":  "Song Release",
+        "Item":  "⑤ Arcadia Girl ",
+        "Detail":  "👩‍🦰 was released 11 years ago.",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/UW_quilt.png"
+    },
+    {
+        "Category":  "Song Release",
+        "Item":  "⑥ Price of Pride ",
+        "Detail":  "💰 was released 11 years ago.",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/UW_quilt.png"
+    },
+    {
+        "Category":  "Song Release",
+        "Item":  "⑦ REAL EXISTENCE ",
+        "Detail":  "🧍🌍 was released 11 years ago.",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/UW_quilt.png"
+    },
+    {
+        "Category":  "Song Release",
+        "Item":  "⑧ FREEZER ",
+        "Detail":  "🥶 was released 11 years ago.",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/UW_quilt.png"
+    },
+    {
         "Category":  "Okyuji",
-        "Item":  "① 9 years ago 🗾",
-        "Detail":  "  🇯🇵 CRAZYMAMA KINGDOM - Okayama,JP [23 songs]",
+        "Item":  "① 11 years ago 🗾",
+        "Detail":  "  🇯🇵 Shinjuku ANTIKNOCK - Tokyo,JP [5 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     },
     {
         "Category":  "Okyuji",
-        "Item":  "② 8 years ago 🌍",
-        "Detail":  "  🇬🇧 The Dome - London,GB [20 songs]",
+        "Item":  "② 9 years ago 🗾",
+        "Detail":  "  🇯🇵 Hiroshima CLUB QUATTRO - Hiroshima,JP [23 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     },
     {
         "Category":  "Okyuji",
-        "Item":  "③ 7 years ago 🗾",
-        "Detail":  "  🇯🇵 NEXS - Niigata,JP [23 songs]",
+        "Item":  "③ 8 years ago 🌍",
+        "Detail":  "  🇫🇷 Backstage By The Mill - Paris,FR [20 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
-    },
-    {
-        "Category":  "Other",
-        "Item":  "① 2 years ago",
-        "Detail":  " Kanami presented with her signature guitar PRS GUITARS \u0026 AMERICAN VINTAGE GUITAR SHOW",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Band-Maid%20color%20pop%204.png"
     }
 ]
