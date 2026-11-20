@@ -1,14 +1,6 @@
-﻿[
-    {
-        "Category":  "YouTube",
-        "Item":  "① BAND-MAID / Ready to Rock ×「ロックは淑女の嗜みでして」 Special Music Video (Anime Music Video) https://youtu.be/JegJ6cSsUgg",
-        "Milestone":  "  👀 Surpassed **3,000,000** views!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-    },
-    {
-        "Category":  "YouTube",
-        "Item":  "② BAND-MAID / SPIN (Official Music Video)  Anime \"BEYBLADE X\" Ending Theme Song https://youtu.be/Z7I13kDOoQk",
-        "Milestone":  "  👀 Surpassed **1,400,000** views!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-    }
-]
+﻿{
+    "Category":  "YouTube AGGREGATE Views",
+    "Item":  "① SPIN ",
+    "Milestone":  "🌀 aggregate views surpassed **2** million!",
+    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+}
