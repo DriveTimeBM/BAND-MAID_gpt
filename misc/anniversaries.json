@@ -1,26 +1,32 @@
 ﻿[
     {
-        "Category":  "YouTube Release",
-        "Item":  "① BAND-MAID / Thrill (スリル)  (Official Music Video)",
-        "Detail":  "  ▶️ was released 12 years ago. https://youtu.be/Uds7g3M-4lQ",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+        "Category":  "Okyuji",
+        "Item":  "① 9 years ago 🗾",
+        "Detail":  "  🇯🇵 TSUTAYA O-EAST - Tokyo,JP [7 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     },
     {
         "Category":  "Okyuji",
-        "Item":  "① 13 years ago 🗾",
-        "Detail":  "  🇯🇵 Shibuya O-WEST - Tokyo,JP [0 songs]",
+        "Item":  "② 8 years ago 🌍",
+        "Detail":  "  🇩🇪 SO36 - Berlin,DE [20 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "③ 7 years ago 🗾",
+        "Detail":  "  🇯🇵 NHK Housou Center - Tokyo,JP [1 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     },
     {
         "Category":  "Other",
-        "Item":  "① 12 years ago",
-        "Detail":  ": Thrill OMV (1st music video) released",
+        "Item":  "① 5 years ago",
+        "Detail":  "🎧Spotify surpassed 300K monthly listeners",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Band-Maid%20color%20pop%204.png"
     },
     {
         "Category":  "Other",
-        "Item":  "② 2 years ago",
-        "Detail":  " Kanami Limited Edition signature guitar announced by PRS",
+        "Item":  "② 3 years ago",
+        "Detail":  " about US OLV surpassed 1 million views",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Band-Maid%20color%20pop%204.png"
     }
 ]

@@ -1,6 +1,20 @@
-﻿{
-    "Category":  "YouTube AGGREGATE Views",
-    "Item":  "① SPIN ",
-    "Milestone":  "🌀 aggregate views surpassed **2** million!",
-    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-}
+﻿[
+    {
+        "Category":  "YouTube AGGREGATE AUDIO stream Milestones",
+        "Item":  "① alone ",
+        "Milestone":  "🙎‍♀️  aggregate AUDIO streams surpassed **700,000**!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube",
+        "Item":  "① BAND-MAID / SPIN (Official Music Video)  Anime \"BEYBLADE X\" Ending Theme Song https://youtu.be/Z7I13kDOoQk",
+        "Milestone":  "  👀 Surpassed **1,500,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "Total Streams",
+        "Item":  "YouTube Total Streams",
+        "Milestone":  "  👀 Surpassed **313** MILLION views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    }
+]
