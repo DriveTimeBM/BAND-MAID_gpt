@@ -106,7 +106,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  118,
-        "SpotifyStreams":  3972262,
+        "SpotifyStreams":  3976917,
         "MediaTieIn":  "Ending theme for anime series Yu-Gi-Oh! VRAINS (ep 71-95)"
     },
     {
@@ -240,6 +240,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "What is justice?",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2025-07-18T00:00:00",
+        "Album":  "SCOOOOOP",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  30,
+        "SpotifyStreams":  2439544,
+        "MediaTieIn":  "Ending theme for anime series Tougen Anki. Included in video game Forza Horizon 6 on the Horizon XS in-game radio station."
+    },
+    {
         "Name":  "Daydreaming",
         "AlternativeName":  "",
         "ReleaseDate":  "2017-07-19T00:00:00",
@@ -250,23 +260,13 @@
         "MediaTieIn":  null
     },
     {
-        "Name":  "What is justice?",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2025-07-18T00:00:00",
-        "Album":  "SCOOOOOP",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  30,
-        "SpotifyStreams":  2414696,
-        "MediaTieIn":  "Ending theme for anime series Tougen Anki. Included in video game Forza Horizon 6 on the Horizon XS in-game radio station."
-    },
-    {
         "Name":  "the non-fiction days",
         "AlternativeName":  "",
         "ReleaseDate":  "2016-04-07T00:00:00",
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  166,
-        "SpotifyStreams":  2382180,
+        "SpotifyStreams":  2385707,
         "MediaTieIn":  null
     },
     {
@@ -316,7 +316,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  49,
-        "SpotifyStreams":  2004753,
+        "SpotifyStreams":  2007942,
         "MediaTieIn":  null
     },
     {
@@ -326,7 +326,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  55,
-        "SpotifyStreams":  1988528,
+        "SpotifyStreams":  1992444,
         "MediaTieIn":  null
     },
     {
@@ -446,7 +446,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  43,
-        "SpotifyStreams":  1601148,
+        "SpotifyStreams":  1604943,
         "MediaTieIn":  null
     },
     {
@@ -470,6 +470,16 @@
         "MediaTieIn":  "Theme song for movie 狂い華 (Kuruibana)"
     },
     {
+        "Name":  "FREEZER",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2015-11-18T00:00:00",
+        "Album":  "New Beginning",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  39,
+        "SpotifyStreams":  1562812,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Gion-Cho",
         "AlternativeName":  "祇園町",
         "ReleaseDate":  "2019-04-01T00:00:00",
@@ -477,16 +487,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  2,
         "SpotifyStreams":  1562669,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "FREEZER",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2015-11-18T00:00:00",
-        "Album":  "New Beginning",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  39,
-        "SpotifyStreams":  1561009,
         "MediaTieIn":  null
     },
     {
@@ -606,7 +606,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  69,
-        "SpotifyStreams":  1228264,
+        "SpotifyStreams":  1229548,
         "MediaTieIn":  "Ending theme for anime series Quiz Tokiko-san"
     },
     {
@@ -636,7 +636,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  37,
-        "SpotifyStreams":  1143279,
+        "SpotifyStreams":  1144403,
         "MediaTieIn":  null
     },
     {
@@ -696,7 +696,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  9,
-        "SpotifyStreams":  1042632,
+        "SpotifyStreams":  1043901,
         "MediaTieIn":  null
     },
     {
@@ -766,7 +766,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  12,
-        "SpotifyStreams":  910308,
+        "SpotifyStreams":  911470,
         "MediaTieIn":  null
     },
     {
@@ -846,7 +846,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  35,
-        "SpotifyStreams":  840971,
+        "SpotifyStreams":  843133,
         "MediaTieIn":  null
     },
     {
@@ -906,7 +906,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  6,
-        "SpotifyStreams":  814434,
+        "SpotifyStreams":  816083,
         "MediaTieIn":  null
     },
     {
@@ -986,7 +986,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  18,
-        "SpotifyStreams":  734275,
+        "SpotifyStreams":  735997,
         "MediaTieIn":  null
     },
     {
@@ -1006,7 +1006,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  55,
-        "SpotifyStreams":  715066,
+        "SpotifyStreams":  716106,
         "MediaTieIn":  null
     },
     {
@@ -1176,7 +1176,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
-        "SpotifyStreams":  492484,
+        "SpotifyStreams":  493681,
         "MediaTieIn":  null
     },
     {
@@ -1240,6 +1240,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "ENERGETIC",
+        "AlternativeName":  null,
+        "ReleaseDate":  "2026-06-24T00:00:00",
+        "Album":  "ENERGETIC",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  30,
+        "SpotifyStreams":  301498,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "SION",
         "AlternativeName":  "",
         "ReleaseDate":  "2025-10-22T00:00:00",
@@ -1250,23 +1260,13 @@
         "MediaTieIn":  null
     },
     {
-        "Name":  "ENERGETIC",
-        "AlternativeName":  null,
-        "ReleaseDate":  "2026-06-24T00:00:00",
-        "Album":  "ENERGETIC",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  30,
-        "SpotifyStreams":  293348,
-        "MediaTieIn":  null
-    },
-    {
         "Name":  "Toi et moi",
         "AlternativeName":  "",
         "ReleaseDate":  "2024-09-25T00:00:00",
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  52,
-        "SpotifyStreams":  261407,
+        "SpotifyStreams":  267169,
         "MediaTieIn":  null
     },
     {
@@ -1316,7 +1316,7 @@
         "Album":  "YOLO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
-        "SpotifyStreams":  188284,
+        "SpotifyStreams":  188543,
         "MediaTieIn":  null
     },
     {

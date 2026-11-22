@@ -1,20 +1,26 @@
 ﻿[
     {
-        "Category":  "YouTube AGGREGATE AUDIO stream Milestones",
-        "Item":  "① alone ",
-        "Milestone":  "🙎‍♀️  aggregate AUDIO streams surpassed **700,000**!",
+        "Category":  "YouTube",
+        "Item":  "① BAND-MAID / without holding back (Official Live Video) https://youtu.be/oWQpbAmfZLE",
+        "Milestone":  "  👀 Surpassed **300,000** views!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
         "Category":  "YouTube",
-        "Item":  "① BAND-MAID / SPIN (Official Music Video)  Anime \"BEYBLADE X\" Ending Theme Song https://youtu.be/Z7I13kDOoQk",
-        "Milestone":  "  👀 Surpassed **1,500,000** views!",
+        "Item":  "② BAND-MAID / Don’t let me down (Official Music Video) https://youtu.be/0YGwUhg2XNk",
+        "Milestone":  "  👀 Surpassed **5,200,000** views!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
-        "Category":  "Total Streams",
-        "Item":  "YouTube Total Streams",
-        "Milestone":  "  👀 Surpassed **313** MILLION views!",
+        "Category":  "YouTube",
+        "Item":  "③ BAND-MAID / SPIN (Official Music Video)  Anime \"BEYBLADE X\" Ending Theme Song https://youtu.be/Z7I13kDOoQk",
+        "Milestone":  "  👀 Surpassed **1,600,000** views!",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "Spotify",
+        "Item":  "① ENERGETIC ",
+        "Milestone":  "⚡ Surpassed **300,000** streams!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
     }
 ]
