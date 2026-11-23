@@ -1,26 +1,20 @@
 ﻿[
     {
-        "Category":  "Song Release",
-        "Item":  "① Honey ",
-        "Detail":  "🐝 was released 9 years ago.",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/UW_quilt.png"
+        "Category":  "Live Debut",
+        "Item":  "① The Dragon Cries ",
+        "Detail":  " 🐉🐦‍🔥 was first played live 7 years ago at CASINO DRIVE, Asahikawa, Japan",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
     },
     {
         "Category":  "Okyuji",
-        "Item":  "① 12 years ago 🗾",
-        "Detail":  "  🇯🇵 VUENOS - Tokyo,JP [13 songs]",
+        "Item":  "① 11 years ago 🗾",
+        "Detail":  "  🇯🇵 Club Crawl - Tokyo,JP [6 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     },
     {
         "Category":  "Okyuji",
-        "Item":  "② 8 years ago 🌍",
-        "Detail":  "  🇩🇪 Feierwerk - Munich,DE [20 songs]",
+        "Item":  "② 7 years ago 🗾",
+        "Detail":  "  🇯🇵 CASINO DRIVE - Asahikawa,JP [23 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
-    },
-    {
-        "Category":  "Other",
-        "Item":  "① 5 years ago",
-        "Detail":  " Sense OMV surpassed 1 million views",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Band-Maid%20color%20pop%204.png"
     }
 ]
