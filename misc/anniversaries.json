@@ -1,20 +1,26 @@
 ﻿[
     {
-        "Category":  "Live Debut",
-        "Item":  "① The Dragon Cries ",
-        "Detail":  " 🐉🐦‍🔥 was first played live 7 years ago at CASINO DRIVE, Asahikawa, Japan",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/Toyosu%20Pit%20colorpop.png"
+        "Category":  "YouTube Release",
+        "Item":  "① BAND-MAID / from now on (Official Music Video)",
+        "Detail":  "  ▶️ was released 4 years ago. https://youtu.be/a6ZSvmnkS00",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
     },
     {
         "Category":  "Okyuji",
-        "Item":  "① 11 years ago 🗾",
-        "Detail":  "  🇯🇵 Club Crawl - Tokyo,JP [6 songs]",
+        "Item":  "① 12 years ago 🗾",
+        "Detail":  "  🇯🇵 3331 Arts Chiyoda - Tokyo,JP [6 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     },
     {
         "Category":  "Okyuji",
-        "Item":  "② 7 years ago 🗾",
-        "Detail":  "  🇯🇵 CASINO DRIVE - Asahikawa,JP [23 songs]",
+        "Item":  "② 9 years ago 🗾",
+        "Detail":  "  🇯🇵 STUDIO COAST - Tokyo,JP [26 songs]",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
+    },
+    {
+        "Category":  "Okyuji",
+        "Item":  "③ 7 years ago 🗾",
+        "Detail":  "  🇯🇵 Sapporo Factory Hall - Sapporo,JP [24 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     }
 ]
