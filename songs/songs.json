@@ -6,7 +6,7 @@
         "Album":  "Daydreaming / Choose me",
         "KobatoLead":  "no",
         "PlayedLiveCount":  269,
-        "SpotifyStreams":  16338380,
+        "SpotifyStreams":  16366059,
         "MediaTieIn":  "Used in Netflix movie Kate. Used in S01E03 of TV show Peacemaker."
     },
     {
@@ -126,7 +126,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  33,
-        "SpotifyStreams":  3490334,
+        "SpotifyStreams":  3494793,
         "MediaTieIn":  null
     },
     {
@@ -156,7 +156,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  13,
-        "SpotifyStreams":  3079638,
+        "SpotifyStreams":  3090330,
         "MediaTieIn":  null
     },
     {
@@ -226,7 +226,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  95,
-        "SpotifyStreams":  2511230,
+        "SpotifyStreams":  2514957,
         "MediaTieIn":  "Used in mobile game Valiant Knights"
     },
     {
@@ -306,7 +306,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  13,
-        "SpotifyStreams":  2029595,
+        "SpotifyStreams":  2031269,
         "MediaTieIn":  null
     },
     {
@@ -336,7 +336,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  115,
-        "SpotifyStreams":  1983019,
+        "SpotifyStreams":  1985746,
         "MediaTieIn":  null
     },
     {
@@ -416,7 +416,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  18,
-        "SpotifyStreams":  1689990,
+        "SpotifyStreams":  1693349,
         "MediaTieIn":  null
     },
     {
@@ -426,7 +426,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  139,
-        "SpotifyStreams":  1687257,
+        "SpotifyStreams":  1691269,
         "MediaTieIn":  null
     },
     {
@@ -666,7 +666,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  38,
-        "SpotifyStreams":  1088614,
+        "SpotifyStreams":  1089504,
         "MediaTieIn":  null
     },
     {
@@ -676,7 +676,7 @@
         "Album":  "Bubble",
         "KobatoLead":  "no",
         "PlayedLiveCount":  7,
-        "SpotifyStreams":  1086876,
+        "SpotifyStreams":  1087782,
         "MediaTieIn":  null
     },
     {
@@ -686,7 +686,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  36,
-        "SpotifyStreams":  1062290,
+        "SpotifyStreams":  1063177,
         "MediaTieIn":  null
     },
     {
@@ -756,7 +756,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  4,
-        "SpotifyStreams":  925805,
+        "SpotifyStreams":  927176,
         "MediaTieIn":  null
     },
     {
@@ -776,7 +776,7 @@
         "Album":  "Different",
         "KobatoLead":  "no",
         "PlayedLiveCount":  17,
-        "SpotifyStreams":  907551,
+        "SpotifyStreams":  908250,
         "MediaTieIn":  null
     },
     {
@@ -836,7 +836,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  8,
-        "SpotifyStreams":  848089,
+        "SpotifyStreams":  848692,
         "MediaTieIn":  null
     },
     {
@@ -860,6 +860,16 @@
         "MediaTieIn":  null
     },
     {
+        "Name":  "Why Why Why",
+        "AlternativeName":  "",
+        "ReleaseDate":  "2021-01-20T00:00:00",
+        "Album":  "Unseen World",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  12,
+        "SpotifyStreams":  836099,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "azure",
         "AlternativeName":  "",
         "ReleaseDate":  "2019-12-11T00:00:00",
@@ -867,16 +877,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  9,
         "SpotifyStreams":  835851,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Why Why Why",
-        "AlternativeName":  "",
-        "ReleaseDate":  "2021-01-20T00:00:00",
-        "Album":  "Unseen World",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  12,
-        "SpotifyStreams":  835082,
         "MediaTieIn":  null
     },
     {
@@ -1066,7 +1066,7 @@
         "Album":  "Love, Passion, Matador (愛と情熱のマタドール)",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  40,
-        "SpotifyStreams":  670294,
+        "SpotifyStreams":  670664,
         "MediaTieIn":  null
     },
     {
@@ -1076,7 +1076,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  1,
-        "SpotifyStreams":  654385,
+        "SpotifyStreams":  655112,
         "MediaTieIn":  null
     },
     {
@@ -1136,7 +1136,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  35,
-        "SpotifyStreams":  577000,
+        "SpotifyStreams":  579838,
         "MediaTieIn":  null
     },
     {
@@ -1236,7 +1236,7 @@
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
         "PlayedLiveCount":  43,
-        "SpotifyStreams":  339259,
+        "SpotifyStreams":  343086,
         "MediaTieIn":  null
     },
     {
@@ -1346,7 +1346,7 @@
         "Album":  "SPIN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  12,
-        "SpotifyStreams":  111125,
+        "SpotifyStreams":  132102,
         "MediaTieIn":  "Ending theme for anime BEYBLADE X"
     },
     {
