@@ -1,14 +1,20 @@
 ﻿[
     {
+        "Category":  "YouTube Release",
+        "Item":  "① BAND-MAID 2025",
+        "Detail":  "  ▶️ was released 2 years ago. https://youtu.be/vwX8-HPivqg",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
         "Category":  "Okyuji",
-        "Item":  "① 13 years ago 🗾",
-        "Detail":  "  🇯🇵 Shibuya Milkyway - Tokyo,JP [0 songs]",
+        "Item":  "① 10 years ago 🗾",
+        "Detail":  "  🇯🇵 Tokyo Taiikukan - Tokyo,JP [4 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     },
     {
         "Category":  "Okyuji",
-        "Item":  "② 12 years ago 🗾",
-        "Detail":  "  🇯🇵 CHELSEA HOTEL - Tokyo,JP [5 songs]",
+        "Item":  "② 3 years ago 🗾",
+        "Detail":  "  🇯🇵 YOKOHAMA ARENA - Yokohama,JP [33 songs]",
         "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/photos/BM_osaka.png"
     },
     {
