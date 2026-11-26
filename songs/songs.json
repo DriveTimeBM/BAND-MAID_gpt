@@ -86,7 +86,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "no",
         "PlayedLiveCount":  174,
-        "SpotifyStreams":  4119992,
+        "SpotifyStreams":  4124977,
         "MediaTieIn":  null
     },
     {
@@ -96,7 +96,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  164,
-        "SpotifyStreams":  4045524,
+        "SpotifyStreams":  4051097,
         "MediaTieIn":  null
     },
     {
@@ -146,7 +146,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  56,
-        "SpotifyStreams":  3299838,
+        "SpotifyStreams":  3302482,
         "MediaTieIn":  null
     },
     {
@@ -196,7 +196,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  48,
-        "SpotifyStreams":  2642271,
+        "SpotifyStreams":  2645643,
         "MediaTieIn":  null
     },
     {
@@ -276,7 +276,7 @@
         "Album":  "BAND-MAIKO",
         "KobatoLead":  "no",
         "PlayedLiveCount":  2,
-        "SpotifyStreams":  2240077,
+        "SpotifyStreams":  2243054,
         "MediaTieIn":  null
     },
     {
@@ -296,7 +296,7 @@
         "Album":  "Unleash",
         "KobatoLead":  "no",
         "PlayedLiveCount":  96,
-        "SpotifyStreams":  2080318,
+        "SpotifyStreams":  2084233,
         "MediaTieIn":  null
     },
     {
@@ -376,7 +376,7 @@
         "Album":  "Brand New MAID",
         "KobatoLead":  "no",
         "PlayedLiveCount":  261,
-        "SpotifyStreams":  1856201,
+        "SpotifyStreams":  1858234,
         "MediaTieIn":  null
     },
     {
@@ -470,6 +470,16 @@
         "MediaTieIn":  "Theme song for movie 狂い華 (Kuruibana)"
     },
     {
+        "Name":  "Gion-Cho",
+        "AlternativeName":  "祇園町",
+        "ReleaseDate":  "2019-04-01T00:00:00",
+        "Album":  "BAND-MAIKO",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  2,
+        "SpotifyStreams":  1564869,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "FREEZER",
         "AlternativeName":  "",
         "ReleaseDate":  "2015-11-18T00:00:00",
@@ -477,16 +487,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  39,
         "SpotifyStreams":  1562812,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "Gion-Cho",
-        "AlternativeName":  "祇園町",
-        "ReleaseDate":  "2019-04-01T00:00:00",
-        "Album":  "BAND-MAIKO",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  2,
-        "SpotifyStreams":  1562669,
         "MediaTieIn":  null
     },
     {
@@ -506,7 +506,7 @@
         "Album":  "WORLD DOMINATION",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  62,
-        "SpotifyStreams":  1471799,
+        "SpotifyStreams":  1473435,
         "MediaTieIn":  null
     },
     {
@@ -566,7 +566,7 @@
         "Album":  "CONQUEROR",
         "KobatoLead":  "no",
         "PlayedLiveCount":  17,
-        "SpotifyStreams":  1260541,
+        "SpotifyStreams":  1261472,
         "MediaTieIn":  null
     },
     {
@@ -576,7 +576,7 @@
         "Album":  "Love, Passion, Matador (愛と情熱のマタドール)",
         "KobatoLead":  "no",
         "PlayedLiveCount":  36,
-        "SpotifyStreams":  1256067,
+        "SpotifyStreams":  1256715,
         "MediaTieIn":  null
     },
     {
@@ -616,7 +616,7 @@
         "Album":  "Sense",
         "KobatoLead":  "no",
         "PlayedLiveCount":  10,
-        "SpotifyStreams":  1219272,
+        "SpotifyStreams":  1220468,
         "MediaTieIn":  "Battle theme for e-sports All-Japan University e-Sports Competition"
     },
     {
@@ -626,7 +626,7 @@
         "Album":  "Unseen World",
         "KobatoLead":  "no",
         "PlayedLiveCount":  28,
-        "SpotifyStreams":  1211504,
+        "SpotifyStreams":  1213168,
         "MediaTieIn":  null
     },
     {
@@ -816,7 +816,7 @@
         "Album":  "MAID IN JAPAN",
         "KobatoLead":  "no",
         "PlayedLiveCount":  17,
-        "SpotifyStreams":  857789,
+        "SpotifyStreams":  858426,
         "MediaTieIn":  null
     },
     {
@@ -1036,7 +1036,7 @@
         "Album":  "Just Bring It",
         "KobatoLead":  "no",
         "PlayedLiveCount":  null,
-        "SpotifyStreams":  710665,
+        "SpotifyStreams":  711344,
         "MediaTieIn":  null
     },
     {
@@ -1046,7 +1046,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "yes",
         "PlayedLiveCount":  58,
-        "SpotifyStreams":  688932,
+        "SpotifyStreams":  694869,
         "MediaTieIn":  null
     },
     {
@@ -1056,7 +1056,7 @@
         "Album":  "New Beginning",
         "KobatoLead":  "no",
         "PlayedLiveCount":  61,
-        "SpotifyStreams":  679644,
+        "SpotifyStreams":  680324,
         "MediaTieIn":  null
     },
     {
@@ -1196,7 +1196,7 @@
         "Album":  "Epic Narratives",
         "KobatoLead":  "no",
         "PlayedLiveCount":  12,
-        "SpotifyStreams":  408581,
+        "SpotifyStreams":  410780,
         "MediaTieIn":  null
     },
     {
@@ -1206,7 +1206,7 @@
         "Album":  "SCOOOOOP",
         "KobatoLead":  "no",
         "PlayedLiveCount":  40,
-        "SpotifyStreams":  394841,
+        "SpotifyStreams":  399406,
         "MediaTieIn":  "Featured in a series of 2026 commercials “Make Life Interesting.” by Takahashi Shuzo Co., Ltd. for Hakutake Shiro."
     },
     {
@@ -1350,6 +1350,16 @@
         "MediaTieIn":  "Ending theme for anime BEYBLADE X"
     },
     {
+        "Name":  "ENTROPY",
+        "AlternativeName":  null,
+        "ReleaseDate":  "2026-10-28T00:00:00",
+        "Album":  "SPIN",
+        "KobatoLead":  "no",
+        "PlayedLiveCount":  4,
+        "SpotifyStreams":  48795,
+        "MediaTieIn":  null
+    },
+    {
         "Name":  "Spring ephemeral",
         "AlternativeName":  null,
         "ReleaseDate":  "2026-10-28T00:00:00",
@@ -1357,16 +1367,6 @@
         "KobatoLead":  "no",
         "PlayedLiveCount":  4,
         "SpotifyStreams":  47197,
-        "MediaTieIn":  null
-    },
-    {
-        "Name":  "ENTROPY",
-        "AlternativeName":  null,
-        "ReleaseDate":  "2026-10-28T00:00:00",
-        "Album":  "SPIN",
-        "KobatoLead":  "no",
-        "PlayedLiveCount":  4,
-        "SpotifyStreams":  42249,
         "MediaTieIn":  null
     },
     {
