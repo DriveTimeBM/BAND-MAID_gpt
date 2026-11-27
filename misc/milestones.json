@@ -1,20 +1,6 @@
-﻿[
-    {
-        "Category":  "YouTube",
-        "Item":  "① BAND-MAID / SPIN (Official Music Video)  Anime \"BEYBLADE X\" Ending Theme Song https://youtu.be/Z7I13kDOoQk",
-        "Milestone":  "  👀 Surpassed **1,800,000** views!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-    },
-    {
-        "Category":  "Spotify",
-        "Item":  "① After Life ",
-        "Milestone":  "💀 Surpassed **3,300,000** streams!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
-    },
-    {
-        "Category":  "Total Streams",
-        "Item":  "Spotify Total Streams",
-        "Milestone":  "  🎧 Surpassed **232** MILLION streams!",
-        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
-    }
-]
+﻿{
+    "Category":  "YouTube",
+    "Item":  "① BAND-MAID / SPIN (Official Music Video)  Anime \"BEYBLADE X\" Ending Theme Song https://youtu.be/Z7I13kDOoQk",
+    "Milestone":  "  👀 Surpassed **1,900,000** views!",
+    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+}
