@@ -1,6 +1,32 @@
-﻿{
-    "Category":  "YouTube",
-    "Item":  "① BAND-MAID / SPIN (Official Music Video)  Anime \"BEYBLADE X\" Ending Theme Song https://youtu.be/Z7I13kDOoQk",
-    "Milestone":  "  👀 Surpassed **1,900,000** views!",
-    "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
-}
+﻿[
+    {
+        "Category":  "YouTube AGGREGATE AUDIO stream Milestones",
+        "Item":  "① Balance ",
+        "Milestone":  "⚖️  aggregate AUDIO streams surpassed **400,000**!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube",
+        "Item":  "① BAND-MAID / DOMINATION  (Official Live Video) https://youtu.be/QbyQCJn6rYg",
+        "Milestone":  "  👀 Surpassed **5,200,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "YouTube",
+        "Item":  "② Balance https://youtu.be/TwrvDCcYuRE",
+        "Milestone":  "  👀 Surpassed **400,000** views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    },
+    {
+        "Category":  "Spotify",
+        "Item":  "① Shambles ",
+        "Milestone":  "🏚 Surpassed **2,600,000** streams!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/spotify.svg"
+    },
+    {
+        "Category":  "Total Streams",
+        "Item":  "YouTube Total Streams",
+        "Milestone":  "  👀 Surpassed **314** MILLION views!",
+        "Image":  "https://raw.githubusercontent.com/DriveTimeBM/BAND-MAID_creations/main/misc/youtube.svg"
+    }
+]

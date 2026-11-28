@@ -1,135 +1,44 @@
 ﻿[
     {
-        "DatePulled":  "2026-11-27T06:18:36",
-        "SongName":  "Screaming",
-        "SpotifyId":  "4SkIrSPNnHYaxJwmD3B3gz",
-        "Streams":  1931176,
-        "StreamsDelta":  1877
+        "DatePulled":  "2026-11-28T06:19:13",
+        "SongName":  "Shambles",
+        "SpotifyId":  "590KvwnYag62VRzmXM7dOk",
+        "Streams":  2602348,
+        "StreamsDelta":  6432
     },
     {
-        "DatePulled":  "2026-11-27T06:18:36",
-        "SongName":  "One and only",
-        "SpotifyId":  "0EzwSADbv37ola3YRRMhTc",
-        "Streams":  1573240,
-        "StreamsDelta":  2626
+        "DatePulled":  "2026-11-28T06:19:13",
+        "SongName":  "Big Dad",
+        "SpotifyId":  "1bdUoOSL60s5mUxoOz5Pk4",
+        "Streams":  748697,
+        "StreamsDelta":  480
     },
     {
-        "DatePulled":  "2026-11-27T06:18:36",
-        "SongName":  "Honey",
-        "SpotifyId":  "6W16DrkVuf0DDPhTqOjAf7",
-        "Streams":  1039677,
-        "StreamsDelta":  982
+        "DatePulled":  "2026-11-28T06:19:13",
+        "SongName":  "Warning!",
+        "SpotifyId":  "5U1S4syKs86N7ot1nL1OuM",
+        "Streams":  3465336,
+        "StreamsDelta":  3530
     },
     {
-        "DatePulled":  "2026-11-27T06:18:36",
-        "SongName":  "Tora and Tora",
-        "SpotifyId":  "45J1wiCeGG61mfxtANxOrW",
-        "Streams":  936459,
-        "StreamsDelta":  1428
+        "DatePulled":  "2026-11-28T06:19:13",
+        "SongName":  "CHEMICAL REACTION",
+        "SpotifyId":  "2AYtj47TZQ2L8qQyL8CimG",
+        "Streams":  896505,
+        "StreamsDelta":  1046
     },
     {
-        "DatePulled":  "2026-11-27T06:18:36",
-        "SongName":  "Memorable",
-        "SpotifyId":  "5RjEJEBvz2WmO7vmfk07aR",
-        "Streams":  781457,
-        "StreamsDelta":  1259
+        "DatePulled":  "2026-11-28T06:19:13",
+        "SongName":  "Unleash!!!!!",
+        "SpotifyId":  "5Ti8I2TZIE0CM625nT9e0H",
+        "Streams":  3713029,
+        "StreamsDelta":  5861
     },
     {
-        "DatePulled":  "2026-11-27T06:18:36",
-        "SongName":  "HONKAI",
-        "SpotifyId":  "4bCHpstXiD0lJQLmNmYySk",
-        "Streams":  890358,
-        "StreamsDelta":  1186
-    },
-    {
-        "DatePulled":  "2026-11-27T06:18:36",
-        "SongName":  "Be OK",
-        "SpotifyId":  "2Q0OEL83plWR3hej9obTcW",
-        "Streams":  1378843,
-        "StreamsDelta":  734
-    },
-    {
-        "DatePulled":  "2026-11-27T06:18:36",
-        "SongName":  "Price of Pride",
-        "SpotifyId":  "7f7EEV9szlk0uogNNEcWSJ",
-        "Streams":  715294,
-        "StreamsDelta":  635
-    },
-    {
-        "DatePulled":  "2026-11-27T06:18:36",
-        "SongName":  "Arcadia Girl",
-        "SpotifyId":  "763NEBHq57Ta06tdTovFIh",
-        "Streams":  992442,
-        "StreamsDelta":  830
-    },
-    {
-        "DatePulled":  "2026-11-27T06:18:36",
-        "SongName":  "LOOK AT ME",
-        "SpotifyId":  "0lbFU91svPj6O7NKKqQj6d",
-        "Streams":  651783,
-        "StreamsDelta":  566
-    },
-    {
-        "DatePulled":  "2026-11-27T06:18:36",
-        "SongName":  "Dilemma",
-        "SpotifyId":  "0UkGRZQqZrOIevvdslZJ1p",
-        "Streams":  776971,
-        "StreamsDelta":  1039
-    },
-    {
-        "DatePulled":  "2026-11-27T06:18:36",
-        "SongName":  "Get to the top",
-        "SpotifyId":  "08NrK7NxAWsSZ6lhHqwQC5",
-        "Streams":  195892,
-        "StreamsDelta":  726
-    },
-    {
-        "DatePulled":  "2026-11-27T06:18:36",
-        "SongName":  "Zen",
-        "SpotifyId":  "060MftY3uM3R3r1miNh9ys",
-        "Streams":  2531832,
-        "StreamsDelta":  10305
-    },
-    {
-        "DatePulled":  "2026-11-27T06:18:36",
-        "SongName":  "Blooming",
-        "SpotifyId":  "2sI0Geda1N0cAjKnbzujHs",
-        "Streams":  4321492,
-        "StreamsDelta":  4784
-    },
-    {
-        "DatePulled":  "2026-11-27T06:18:36",
-        "SongName":  "Puzzle",
-        "SpotifyId":  "1vbI2aDtejlrUJOVXGmM98",
-        "Streams":  2728027,
-        "StreamsDelta":  3729
-    },
-    {
-        "DatePulled":  "2026-11-27T06:18:36",
-        "SongName":  "secret My lips",
-        "SpotifyId":  "2zGdfGj2Xr7OMXk696JZeV",
-        "Streams":  1875411,
-        "StreamsDelta":  2820
-    },
-    {
-        "DatePulled":  "2026-11-27T06:18:36",
-        "SongName":  "Manners",
-        "SpotifyId":  "5Pkm3bquCF1uRFSXXlyLde",
-        "Streams":  1771628,
-        "StreamsDelta":  2342
-    },
-    {
-        "DatePulled":  "2026-11-27T06:18:36",
-        "SongName":  "Sense",
-        "SpotifyId":  "2jnCDRKe4IfoIN2teGn308",
-        "Streams":  11179418,
-        "StreamsDelta":  15284
-    },
-    {
-        "DatePulled":  "2026-11-27T06:18:36",
-        "SongName":  "SION",
-        "SpotifyId":  "0G88m1BynTSHMFtLkTVxgm",
-        "Streams":  295777,
-        "StreamsDelta":  1976
+        "DatePulled":  "2026-11-28T06:19:13",
+        "SongName":  "Ready to Rock",
+        "SpotifyId":  "6RmznWIj65w4YPTcfVfmpt",
+        "Streams":  4294098,
+        "StreamsDelta":  24036
     }
 ]
